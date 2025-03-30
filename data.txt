@@ -1,5 +1,4 @@
 0.0.0.0 1-proof.cyou
-0.0.0.0 test.test
 0.0.0.0 1001clothing.eu
 0.0.0.0 10d20.toplook.cz
 0.0.0.0 10figuredentist.com
