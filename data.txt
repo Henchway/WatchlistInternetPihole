@@ -7802,6 +7802,7 @@
 0.0.0.0 summitray.com # 2025-05-06
 0.0.0.0 brava-berlin.de # 2025-05-08
 0.0.0.0 marlene-wien.at # 2025-05-08
+0.0.0.0 theresa-klein.de # 2025-05-09
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27956,32 +27957,34 @@
 0.0.0.0 shop.gjiidc.top # 2025-05-07
 0.0.0.0 straussgmbh.com # 2025-05-07
 0.0.0.0 abigailholman.shop # 2025-05-08
-0.0.0.0 ariat-megasales.shop # 2025-05-08
-0.0.0.0 bervel-shop.de # 2025-05-08
-0.0.0.0 books88.top # 2025-05-08
 0.0.0.0 cataldoonlinedeeur.shop # 2025-05-08
-0.0.0.0 cmsmanutention.com # 2025-05-08
 0.0.0.0 dackelwelpen.at # 2025-05-08
 0.0.0.0 dentrotecdeeu.shop # 2025-05-08
-0.0.0.0 fmlpr.preis-meister.com # 2025-05-08
-0.0.0.0 gartenplus24.com # 2025-05-08
 0.0.0.0 geschenkfreudeeu.shop # 2025-05-08
 0.0.0.0 handwerkspark.com # 2025-05-08
 0.0.0.0 heizoel-fast.com # 2025-05-08
 0.0.0.0 heizungfachhandel.com # 2025-05-08
 0.0.0.0 kraemer-garten.de # 2025-05-08
 0.0.0.0 landbaeckereijanssenava.shop # 2025-05-08
-0.0.0.0 mediplus-berlin.de # 2025-05-08
 0.0.0.0 micaraaeu.shop # 2025-05-08
 0.0.0.0 myhannaeu.shop # 2025-05-08
 0.0.0.0 onschuhe.shop # 2025-05-08
-0.0.0.0 patagoniasat.at # 2025-05-08
-0.0.0.0 pocstores-eu.com # 2025-05-08
 0.0.0.0 sxiuer.com # 2025-05-08
 0.0.0.0 techvanashop.shop # 2025-05-08
-0.0.0.0 veja-stores.at # 2025-05-08
 0.0.0.0 warenwelt-eu.com # 2025-05-08
 0.0.0.0 windelwissendeava.shop # 2025-05-08
+0.0.0.0 ariat-megasales.shop # 2025-05-09
+0.0.0.0 bervel-shop.de # 2025-05-09
+0.0.0.0 books88.top # 2025-05-09
+0.0.0.0 cmsmanutention.com # 2025-05-09
+0.0.0.0 dbh-shopping.de # 2025-05-09
+0.0.0.0 fmlpr.preis-meister.com # 2025-05-09
+0.0.0.0 gartenplus24.com # 2025-05-09
+0.0.0.0 mediplus-berlin.de # 2025-05-09
+0.0.0.0 patagoniasat.at # 2025-05-09
+0.0.0.0 pocstores-eu.com # 2025-05-09
+0.0.0.0 thngf.shop # 2025-05-09
+0.0.0.0 veja-stores.at # 2025-05-09
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -28329,6 +28332,7 @@
 0.0.0.0 mytheresavip.com # 2025-05-06
 0.0.0.0 talentsxperts.com # 2025-05-07
 0.0.0.0 addictedtohandbagsde.com # 2025-05-08
+0.0.0.0 shopmacher-de.com # 2025-05-09
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
