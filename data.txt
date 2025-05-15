@@ -1342,6 +1342,7 @@
 0.0.0.0 granimator.live # 2025-05-06
 0.0.0.0 blakecompute.com # 2025-05-07
 0.0.0.0 investing242.com # 2025-05-07
+0.0.0.0 axessinvest.de # 2025-05-13
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7804,6 +7805,7 @@
 0.0.0.0 theresa-klein.de # 2025-05-09
 0.0.0.0 marlene-wien.at # 2025-05-12
 0.0.0.0 pelzfreunde.com # 2025-05-12
+0.0.0.0 schutz-mode.de # 2025-05-13
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27985,18 +27987,22 @@
 0.0.0.0 books88.top # 2025-05-10
 0.0.0.0 thngf.shop # 2025-05-10
 0.0.0.0 dbh-shopping.de # 2025-05-11
-0.0.0.0 asphaltgoldde.live # 2025-05-12
-0.0.0.0 ballerns.de # 2025-05-12
-0.0.0.0 flylondonvienna.at # 2025-05-12
 0.0.0.0 heizungfachhandel.com # 2025-05-12
-0.0.0.0 imfixies.de # 2025-05-12
-0.0.0.0 jeansniedrigerpreis.com # 2025-05-12
-0.0.0.0 kaniteo.com # 2025-05-12
-0.0.0.0 mosshammer.shop # 2025-05-12
-0.0.0.0 onitsukatigerstore.com # 2025-05-12
-0.0.0.0 pedalfreunde.de # 2025-05-12
-0.0.0.0 shop.wkffku.top # 2025-05-12
-0.0.0.0 verkehrsbande.com # 2025-05-12
+0.0.0.0 asphaltgoldde.live # 2025-05-13
+0.0.0.0 ballerns.de # 2025-05-13
+0.0.0.0 flylondonvienna.at # 2025-05-13
+0.0.0.0 heizoel-easy.com # 2025-05-13
+0.0.0.0 imfixies.de # 2025-05-13
+0.0.0.0 iqctrf.shop # 2025-05-13
+0.0.0.0 jeansniedrigerpreis.com # 2025-05-13
+0.0.0.0 jmzodb.shop # 2025-05-13
+0.0.0.0 kaniteo.com # 2025-05-13
+0.0.0.0 kglkh.shop # 2025-05-13
+0.0.0.0 mosshammer.shop # 2025-05-13
+0.0.0.0 onitsukatigerstore.com # 2025-05-13
+0.0.0.0 pedalfreunde.de # 2025-05-13
+0.0.0.0 shop.wkffku.top # 2025-05-13
+0.0.0.0 verkehrsbande.com # 2025-05-13
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28225,6 +28231,7 @@
 0.0.0.0 shopmacher-de.com # 2025-05-09
 0.0.0.0 2005vipasosdatendocking.mom # 2025-05-12
 0.0.0.0 ukeprice.com # 2025-05-12
+0.0.0.0 idealonsahlwg.top # 2025-05-13
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -28884,4 +28891,7 @@
 0.0.0.0 kino.tolle-nachrichten.com # 2025-05-12
 0.0.0.0 myiq.com # 2025-05-12
 0.0.0.0 wallpilates.com # 2025-05-12
+
+# Automatisierte Warnungen
+0.0.0.0 comfastwifi.com # 2025-05-13
 
