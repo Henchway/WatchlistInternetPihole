@@ -1342,7 +1342,7 @@
 0.0.0.0 granimator.live # 2025-05-06
 0.0.0.0 blakecompute.com # 2025-05-07
 0.0.0.0 investing242.com # 2025-05-07
-0.0.0.0 axessinvest.de # 2025-05-13
+0.0.0.0 axessinvest.de # 2025-05-14
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7806,6 +7806,8 @@
 0.0.0.0 marlene-wien.at # 2025-05-12
 0.0.0.0 pelzfreunde.com # 2025-05-12
 0.0.0.0 schutz-mode.de # 2025-05-13
+0.0.0.0 kettensage.de # 2025-05-14
+0.0.0.0 rosenfeldgoldschmied.com # 2025-05-14
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27991,18 +27993,25 @@
 0.0.0.0 asphaltgoldde.live # 2025-05-13
 0.0.0.0 ballerns.de # 2025-05-13
 0.0.0.0 flylondonvienna.at # 2025-05-13
-0.0.0.0 heizoel-easy.com # 2025-05-13
 0.0.0.0 imfixies.de # 2025-05-13
-0.0.0.0 iqctrf.shop # 2025-05-13
 0.0.0.0 jeansniedrigerpreis.com # 2025-05-13
-0.0.0.0 jmzodb.shop # 2025-05-13
 0.0.0.0 kaniteo.com # 2025-05-13
-0.0.0.0 kglkh.shop # 2025-05-13
 0.0.0.0 mosshammer.shop # 2025-05-13
 0.0.0.0 onitsukatigerstore.com # 2025-05-13
 0.0.0.0 pedalfreunde.de # 2025-05-13
 0.0.0.0 shop.wkffku.top # 2025-05-13
 0.0.0.0 verkehrsbande.com # 2025-05-13
+0.0.0.0 baxmusic-sale.sa.com # 2025-05-14
+0.0.0.0 de-outdoor.com # 2025-05-14
+0.0.0.0 friwl.mega-preise.com # 2025-05-14
+0.0.0.0 heizoel-easy.com # 2025-05-14
+0.0.0.0 iqctrf.shop # 2025-05-14
+0.0.0.0 jmzodb.shop # 2025-05-14
+0.0.0.0 kglkh.shop # 2025-05-14
+0.0.0.0 kickswelt.de # 2025-05-14
+0.0.0.0 stussy-berlin.de # 2025-05-14
+0.0.0.0 stylearena.store # 2025-05-14
+0.0.0.0 woom-eu.shop # 2025-05-14
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28891,6 +28900,7 @@
 0.0.0.0 kino.tolle-nachrichten.com # 2025-05-12
 0.0.0.0 myiq.com # 2025-05-12
 0.0.0.0 wallpilates.com # 2025-05-12
+0.0.0.0 trysorelle.com # 2025-05-14
 
 # Automatisierte Warnungen
 0.0.0.0 comfastwifi.com # 2025-05-13
