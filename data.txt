@@ -1343,9 +1343,9 @@
 0.0.0.0 blakecompute.com # 2025-05-07
 0.0.0.0 investing242.com # 2025-05-07
 0.0.0.0 axessinvest.de # 2025-05-14
-0.0.0.0 boursoonline.de # 2025-05-15
-0.0.0.0 giovannigruppe.de # 2025-05-15
-0.0.0.0 kreditoptimal.com # 2025-05-15
+0.0.0.0 boursoonline.de # 2025-05-16
+0.0.0.0 giovannigruppe.de # 2025-05-16
+0.0.0.0 kreditoptimal.com # 2025-05-16
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7812,11 +7812,12 @@
 0.0.0.0 kettensage.de # 2025-05-14
 0.0.0.0 rosenfeldgoldschmied.com # 2025-05-14
 0.0.0.0 beiermode.de # 2025-05-15
-0.0.0.0 cleatelite.shop # 2025-05-15
 0.0.0.0 neweary.com # 2025-05-15
 0.0.0.0 schneidervienna.at # 2025-05-15
-0.0.0.0 tischleren.de # 2025-05-15
-0.0.0.0 venuso.shop # 2025-05-15
+0.0.0.0 cleatelite.shop # 2025-05-16
+0.0.0.0 sxjmzw.shop # 2025-05-16
+0.0.0.0 tischleren.de # 2025-05-16
+0.0.0.0 venuso.shop # 2025-05-16
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28000,7 +28001,6 @@
 0.0.0.0 dbh-shopping.de # 2025-05-11
 0.0.0.0 heizungfachhandel.com # 2025-05-12
 0.0.0.0 asphaltgoldde.live # 2025-05-13
-0.0.0.0 ballerns.de # 2025-05-13
 0.0.0.0 flylondonvienna.at # 2025-05-13
 0.0.0.0 imfixies.de # 2025-05-13
 0.0.0.0 jeansniedrigerpreis.com # 2025-05-13
@@ -28016,16 +28016,19 @@
 0.0.0.0 kglkh.shop # 2025-05-14
 0.0.0.0 baxmusic-sale.sa.com # 2025-05-15
 0.0.0.0 de-outdoor.com # 2025-05-15
-0.0.0.0 friwl.mega-preise.com # 2025-05-15
 0.0.0.0 kickswelt.de # 2025-05-15
-0.0.0.0 lidl-de-de.vip # 2025-05-15
-0.0.0.0 lidl-de.app # 2025-05-15
-0.0.0.0 lidl-socce-de.vip # 2025-05-15
-0.0.0.0 lidlmmarketvip.vip # 2025-05-15
-0.0.0.0 owala.co.at # 2025-05-15
 0.0.0.0 stussy-berlin.de # 2025-05-15
 0.0.0.0 stylearena.store # 2025-05-15
 0.0.0.0 woom-eu.shop # 2025-05-15
+0.0.0.0 ballerns.de # 2025-05-16
+0.0.0.0 comfastwifi.com # 2025-05-16
+0.0.0.0 friwl.mega-preise.com # 2025-05-16
+0.0.0.0 lidl-de-de.vip # 2025-05-16
+0.0.0.0 lidl-de.app # 2025-05-16
+0.0.0.0 lidl-socce-de.vip # 2025-05-16
+0.0.0.0 lidlmmarketvip.vip # 2025-05-16
+0.0.0.0 owala.co.at # 2025-05-16
+0.0.0.0 procyclist.de # 2025-05-16
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28549,6 +28552,7 @@
 0.0.0.0 countryparcel.com # 2025-01-21
 0.0.0.0 nte-logistics.com # 2025-01-29
 0.0.0.0 dapperlogistik.com # 2025-02-03
+0.0.0.0 moovem-expert.com # 2025-05-16
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
@@ -28921,5 +28925,5 @@
 0.0.0.0 trysorelle.com # 2025-05-15
 
 # Automatisierte Warnungen
-0.0.0.0 comfastwifi.com # 2025-05-13
+0.0.0.0 gaborschuhe-damen.com # 2025-05-16
 
