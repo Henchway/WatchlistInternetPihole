@@ -1344,8 +1344,8 @@
 0.0.0.0 investing242.com # 2025-05-07
 0.0.0.0 axessinvest.de # 2025-05-14
 0.0.0.0 boursoonline.de # 2025-05-16
-0.0.0.0 giovannigruppe.de # 2025-05-16
 0.0.0.0 kreditoptimal.com # 2025-05-16
+0.0.0.0 giovannigruppe.de # 2025-05-17
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -28024,11 +28024,11 @@
 0.0.0.0 comfastwifi.com # 2025-05-16
 0.0.0.0 friwl.mega-preise.com # 2025-05-16
 0.0.0.0 lidl-de-de.vip # 2025-05-16
-0.0.0.0 lidl-de.app # 2025-05-16
 0.0.0.0 lidl-socce-de.vip # 2025-05-16
 0.0.0.0 lidlmmarketvip.vip # 2025-05-16
 0.0.0.0 owala.co.at # 2025-05-16
-0.0.0.0 procyclist.de # 2025-05-16
+0.0.0.0 lidl-de.app # 2025-05-17
+0.0.0.0 procyclist.de # 2025-05-17
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28382,7 +28382,7 @@
 0.0.0.0 thermenwartungvaillant.at # 2025-04-29
 0.0.0.0 artpro-24.at # 2025-05-15
 0.0.0.0 installateur-hilfe.at # 2025-05-15
-0.0.0.0 installateur.jvb24.at # 2025-05-15
+0.0.0.0 installateur.jvb24.at # 2025-05-17
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
