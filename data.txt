@@ -1348,7 +1348,7 @@
 0.0.0.0 kreditoptimal.com # 2025-05-18
 0.0.0.0 festgeldfinder.de # 2025-05-20
 0.0.0.0 xrl-today.com # 2025-05-20
-0.0.0.0 zinswolf.net # 2025-05-20
+0.0.0.0 zinswolf.net # 2025-05-21
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7816,7 +7816,6 @@
 0.0.0.0 rosenfeldgoldschmied.com # 2025-05-14
 0.0.0.0 beiermode.de # 2025-05-15
 0.0.0.0 neweary.com # 2025-05-15
-0.0.0.0 schneidervienna.at # 2025-05-15
 0.0.0.0 cleatelite.shop # 2025-05-16
 0.0.0.0 tischleren.de # 2025-05-16
 0.0.0.0 venuso.shop # 2025-05-16
@@ -7824,11 +7823,15 @@
 0.0.0.0 duavital.com # 2025-05-19
 0.0.0.0 getwavetune.com # 2025-05-19
 0.0.0.0 kachi-berlin.de # 2025-05-19
-0.0.0.0 maapstore.shop # 2025-05-19
 0.0.0.0 sophiaberlin.de # 2025-05-19
 0.0.0.0 sxjmzw.shop # 2025-05-19
 0.0.0.0 teppichversand24.de # 2025-05-19
 0.0.0.0 tv-smart.co # 2025-05-19
+0.0.0.0 arbon.shop # 2025-05-21
+0.0.0.0 neehy.com # 2025-05-21
+0.0.0.0 schneidervienna.at # 2025-05-21
+0.0.0.0 teylorfashion.de # 2025-05-21
+0.0.0.0 try.tv-smart.co # 2025-05-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28045,17 +28048,30 @@
 0.0.0.0 exptecheur.shop # 2025-05-20
 0.0.0.0 eyewearandframes.com # 2025-05-20
 0.0.0.0 highluxury.sk # 2025-05-20
-0.0.0.0 likes-kopen.nl # 2025-05-20
 0.0.0.0 magicwandshop.de # 2025-05-20
 0.0.0.0 muellervip.shop # 2025-05-20
 0.0.0.0 nobullshop.at # 2025-05-20
-0.0.0.0 on-on.co # 2025-05-20
 0.0.0.0 rawu.ink # 2025-05-20
 0.0.0.0 robinlipari.shop # 2025-05-20
 0.0.0.0 salelanawelpen.de # 2025-05-20
 0.0.0.0 sardinenbarberlinava.shop # 2025-05-20
 0.0.0.0 stealthgamechanger.com # 2025-05-20
 0.0.0.0 thomannmusic.za.com # 2025-05-20
+0.0.0.0 degussa.one # 2025-05-21
+0.0.0.0 elanova.eu # 2025-05-21
+0.0.0.0 eu.revolutienrace.com # 2025-05-21
+0.0.0.0 heizoel-easy.de # 2025-05-21
+0.0.0.0 kittwst.com # 2025-05-21
+0.0.0.0 likes-kopen.nl # 2025-05-21
+0.0.0.0 maapstore.shop # 2025-05-21
+0.0.0.0 mbxcontainer.shop # 2025-05-21
+0.0.0.0 narcsn.shop # 2025-05-21
+0.0.0.0 on-on.co # 2025-05-21
+0.0.0.0 pvanlage24.com # 2025-05-21
+0.0.0.0 tastin.shop # 2025-05-21
+0.0.0.0 teufel.sa.com # 2025-05-21
+0.0.0.0 thewalt-streaming-service.rapidyshop.net # 2025-05-21
+0.0.0.0 unitedcargo-delivery.com # 2025-05-21
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28285,8 +28301,9 @@
 0.0.0.0 idealonsahlwg.top # 2025-05-13
 0.0.0.0 2005vipasosdatendocking.mom # 2025-05-15
 0.0.0.0 ukeprice.com # 2025-05-15
-0.0.0.0 addictedtohandbagsapp.com # 2025-05-20
-0.0.0.0 fusenest-at.works # 2025-05-20
+0.0.0.0 addictedtohandbagsapp.com # 2025-05-21
+0.0.0.0 fusenest-at.works # 2025-05-21
+0.0.0.0 talents-sourcenow.com # 2025-05-21
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -28953,7 +28970,7 @@
 0.0.0.0 giftcard-hub.com # 2025-05-15
 0.0.0.0 trysorelle.com # 2025-05-18
 0.0.0.0 rabatt.tcomplex.de # 2025-05-20
-0.0.0.0 tcomplex.de # 2025-05-20
+0.0.0.0 tcomplex.de # 2025-05-21
 
 # Automatisierte Warnungen
 0.0.0.0 gaborschuhe-damen.com # 2025-05-20
