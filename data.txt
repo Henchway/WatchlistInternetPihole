@@ -1349,10 +1349,10 @@
 0.0.0.0 festgeldfinder.de # 2025-05-20
 0.0.0.0 xrl-today.com # 2025-05-20
 0.0.0.0 zinswolf.net # 2025-05-21
-0.0.0.0 aktiennetwork.co.uk # 2025-05-23
-0.0.0.0 betrise-capital.ltd # 2025-05-23
-0.0.0.0 finaxanlage.de # 2025-05-23
 0.0.0.0 homnifi.com # 2025-05-23
+0.0.0.0 aktiennetwork.co.uk # 2025-05-24
+0.0.0.0 betrise-capital.ltd # 2025-05-24
+0.0.0.0 finaxanlage.de # 2025-05-24
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7831,7 +7831,6 @@
 0.0.0.0 sxjmzw.shop # 2025-05-19
 0.0.0.0 teppichversand24.de # 2025-05-19
 0.0.0.0 tv-smart.co # 2025-05-19
-0.0.0.0 arbon.shop # 2025-05-21
 0.0.0.0 schneidervienna.at # 2025-05-21
 0.0.0.0 teylorfashion.de # 2025-05-21
 0.0.0.0 try.tv-smart.co # 2025-05-21
@@ -7840,6 +7839,7 @@
 0.0.0.0 jordankoenig.de # 2025-05-23
 0.0.0.0 modehaus-dresden.com # 2025-05-23
 0.0.0.0 zenova-shop.de # 2025-05-23
+0.0.0.0 arbon.shop # 2025-05-24
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28072,29 +28072,29 @@
 0.0.0.0 heizoel-easy.de # 2025-05-22
 0.0.0.0 kittwst.com # 2025-05-22
 0.0.0.0 maapstore.shop # 2025-05-22
-0.0.0.0 mbxcontainer.shop # 2025-05-22
 0.0.0.0 narcsn.shop # 2025-05-22
 0.0.0.0 pvanlage24.com # 2025-05-22
 0.0.0.0 tastin.shop # 2025-05-22
 0.0.0.0 thewalt-streaming-service.rapidyshop.net # 2025-05-22
 0.0.0.0 automotives-keim.gmbh # 2025-05-23
-0.0.0.0 bestmaher.com # 2025-05-23
-0.0.0.0 bikeuniversum.com # 2025-05-23
-0.0.0.0 bricoandpool.com # 2025-05-23
 0.0.0.0 containercompany.shop # 2025-05-23
 0.0.0.0 eu.revolutienrace.com # 2025-05-23
 0.0.0.0 gaborschuhe-damen.com # 2025-05-23
-0.0.0.0 gnope.com # 2025-05-23
-0.0.0.0 iroids.nl # 2025-05-23
-0.0.0.0 lidl-online-ro.vip # 2025-05-23
-0.0.0.0 niederlandeshop.de # 2025-05-23
 0.0.0.0 owabs.store # 2025-05-23
-0.0.0.0 polene-paris.at # 2025-05-23
-0.0.0.0 roulettegem.com # 2025-05-23
 0.0.0.0 teufel.sa.com # 2025-05-23
 0.0.0.0 unitedcargo-delivery.com # 2025-05-23
 0.0.0.0 uwrak.live # 2025-05-23
 0.0.0.0 wein-deluxe.eu # 2025-05-23
+0.0.0.0 bestmaher.com # 2025-05-24
+0.0.0.0 bikeuniversum.com # 2025-05-24
+0.0.0.0 bricoandpool.com # 2025-05-24
+0.0.0.0 gnope.com # 2025-05-24
+0.0.0.0 iroids.nl # 2025-05-24
+0.0.0.0 lidl-online-ro.vip # 2025-05-24
+0.0.0.0 mbxcontainer.shop # 2025-05-24
+0.0.0.0 niederlandeshop.de # 2025-05-24
+0.0.0.0 polene-paris.at # 2025-05-24
+0.0.0.0 roulettegem.com # 2025-05-24
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28998,4 +28998,7 @@
 0.0.0.0 tcomplex.de # 2025-05-21
 0.0.0.0 thetoyslane.com # 2025-05-22
 0.0.0.0 softpulse.digital # 2025-05-23
+
+# Automatisierte Warnungen
+0.0.0.0 hammerheartstore.com # 2025-05-24
 
