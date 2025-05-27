@@ -1351,8 +1351,8 @@
 0.0.0.0 zinswolf.net # 2025-05-21
 0.0.0.0 homnifi.com # 2025-05-23
 0.0.0.0 aktiennetwork.co.uk # 2025-05-24
-0.0.0.0 betrise-capital.ltd # 2025-05-24
-0.0.0.0 finaxanlage.de # 2025-05-24
+0.0.0.0 betrise-capital.ltd # 2025-05-25
+0.0.0.0 finaxanlage.de # 2025-05-25
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7832,14 +7832,14 @@
 0.0.0.0 teppichversand24.de # 2025-05-19
 0.0.0.0 tv-smart.co # 2025-05-19
 0.0.0.0 schneidervienna.at # 2025-05-21
-0.0.0.0 teylorfashion.de # 2025-05-21
 0.0.0.0 try.tv-smart.co # 2025-05-21
-0.0.0.0 dresdenmodehaus.de # 2025-05-22
 0.0.0.0 neehy.com # 2025-05-22
 0.0.0.0 jordankoenig.de # 2025-05-23
 0.0.0.0 modehaus-dresden.com # 2025-05-23
 0.0.0.0 zenova-shop.de # 2025-05-23
 0.0.0.0 arbon.shop # 2025-05-24
+0.0.0.0 dresdenmodehaus.de # 2025-05-25
+0.0.0.0 teylorfashion.de # 2025-05-25
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28075,7 +28075,6 @@
 0.0.0.0 narcsn.shop # 2025-05-22
 0.0.0.0 pvanlage24.com # 2025-05-22
 0.0.0.0 tastin.shop # 2025-05-22
-0.0.0.0 thewalt-streaming-service.rapidyshop.net # 2025-05-22
 0.0.0.0 automotives-keim.gmbh # 2025-05-23
 0.0.0.0 containercompany.shop # 2025-05-23
 0.0.0.0 eu.revolutienrace.com # 2025-05-23
@@ -28095,6 +28094,7 @@
 0.0.0.0 niederlandeshop.de # 2025-05-24
 0.0.0.0 polene-paris.at # 2025-05-24
 0.0.0.0 roulettegem.com # 2025-05-24
+0.0.0.0 thewalt-streaming-service.rapidyshop.net # 2025-05-25
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28765,7 +28765,7 @@
 0.0.0.0 easymove-eu.com # 2025-01-21
 0.0.0.0 urban-assests.com # 2025-01-21
 0.0.0.0 immobilien-schaller.at # 2025-04-18
-0.0.0.0 sovimo-assets.com # 2025-05-23
+0.0.0.0 sovimo-assets.com # 2025-05-25
 
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
@@ -29001,4 +29001,5 @@
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-24
+0.0.0.0 oyemas.com # 2025-05-25
 
