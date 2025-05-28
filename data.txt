@@ -1353,6 +1353,8 @@
 0.0.0.0 aktiennetwork.co.uk # 2025-05-24
 0.0.0.0 betrise-capital.ltd # 2025-05-25
 0.0.0.0 finaxanlage.de # 2025-05-25
+0.0.0.0 artihorizonx.com # 2025-05-26
+0.0.0.0 kontomeinelbaraiffeisen.com # 2025-05-26
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7840,6 +7842,14 @@
 0.0.0.0 arbon.shop # 2025-05-24
 0.0.0.0 dresdenmodehaus.de # 2025-05-25
 0.0.0.0 teylorfashion.de # 2025-05-25
+0.0.0.0 dantesavoy.de # 2025-05-26
+0.0.0.0 dickssportdeals.shop # 2025-05-26
+0.0.0.0 fabulaberlin.com # 2025-05-26
+0.0.0.0 gruber-wien.com # 2025-05-26
+0.0.0.0 kingsevenshop.de # 2025-05-26
+0.0.0.0 ledrohren.com # 2025-05-26
+0.0.0.0 qredhaus.de # 2025-05-26
+0.0.0.0 schwabenmode-stuttgart.de # 2025-05-26
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28083,7 +28093,6 @@
 0.0.0.0 teufel.sa.com # 2025-05-23
 0.0.0.0 unitedcargo-delivery.com # 2025-05-23
 0.0.0.0 uwrak.live # 2025-05-23
-0.0.0.0 wein-deluxe.eu # 2025-05-23
 0.0.0.0 bestmaher.com # 2025-05-24
 0.0.0.0 bikeuniversum.com # 2025-05-24
 0.0.0.0 bricoandpool.com # 2025-05-24
@@ -28095,6 +28104,17 @@
 0.0.0.0 polene-paris.at # 2025-05-24
 0.0.0.0 roulettegem.com # 2025-05-24
 0.0.0.0 thewalt-streaming-service.rapidyshop.net # 2025-05-25
+0.0.0.0 geargadgets.sbs # 2025-05-26
+0.0.0.0 grillprove.top # 2025-05-26
+0.0.0.0 humidifierverkauf.de # 2025-05-26
+0.0.0.0 neulanddeeu.shop # 2025-05-26
+0.0.0.0 neumann-mobel.de # 2025-05-26
+0.0.0.0 ozkeas.shop # 2025-05-26
+0.0.0.0 pharmacie-principale.net # 2025-05-26
+0.0.0.0 spazioconcept.com # 2025-05-26
+0.0.0.0 ticketsswap.cz # 2025-05-26
+0.0.0.0 timberrtech.myshopify.com # 2025-05-26
+0.0.0.0 zinniafolkartsdeeu.shop # 2025-05-26
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28998,8 +29018,9 @@
 0.0.0.0 tcomplex.de # 2025-05-21
 0.0.0.0 thetoyslane.com # 2025-05-22
 0.0.0.0 softpulse.digital # 2025-05-23
+0.0.0.0 gruntmuzicz.com # 2025-05-26
 
 # Automatisierte Warnungen
-0.0.0.0 hammerheartstore.com # 2025-05-24
-0.0.0.0 oyemas.com # 2025-05-25
+0.0.0.0 hammerheartstore.com # 2025-05-26
+0.0.0.0 oyemas.com # 2025-05-26
 
