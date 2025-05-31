@@ -1356,10 +1356,10 @@
 0.0.0.0 artihorizonx.com # 2025-05-27
 0.0.0.0 kontomeinelbaraiffeisen.com # 2025-05-27
 0.0.0.0 18.130.4.87 # 2025-05-28
-0.0.0.0 hippo2.eth.limo # 2025-05-28
-0.0.0.0 privaag.com/de # 2025-05-28
 0.0.0.0 vow.foundation # 2025-05-28
-0.0.0.0 xcoingate.com # 2025-05-28
+0.0.0.0 hippo2.eth.limo # 2025-05-29
+0.0.0.0 privaag.com/de # 2025-05-29
+0.0.0.0 xcoingate.com # 2025-05-29
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7856,12 +7856,12 @@
 0.0.0.0 dickssportdeals.shop # 2025-05-27
 0.0.0.0 naturwide.de # 2025-05-27
 0.0.0.0 qredhaus.de # 2025-05-27
-0.0.0.0 flaireberlin.com # 2025-05-28
 0.0.0.0 frankfurtmodehaus.de # 2025-05-28
 0.0.0.0 get-hydrogenwaterbottle.com # 2025-05-28
 0.0.0.0 kimaboutique.de # 2025-05-28
 0.0.0.0 superdealzonenow.shop # 2025-05-28
 0.0.0.0 viennastil.at # 2025-05-28
+0.0.0.0 flaireberlin.com # 2025-05-29
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28125,14 +28125,14 @@
 0.0.0.0 ticketsswap.cz # 2025-05-27
 0.0.0.0 timberrtech.myshopify.com # 2025-05-27
 0.0.0.0 zinniafolkartsdeeu.shop # 2025-05-27
-0.0.0.0 fahrrad-station24.de # 2025-05-28
-0.0.0.0 goodideatrade.com # 2025-05-28
 0.0.0.0 horizonhobbyeu.com # 2025-05-28
-0.0.0.0 maschinen-brennholz.de # 2025-05-28
 0.0.0.0 mercedes-parts-and-more.de # 2025-05-28
 0.0.0.0 neumann-mobel.de # 2025-05-28
 0.0.0.0 pharmacie-principale.net # 2025-05-28
 0.0.0.0 shoedealerdirect.com # 2025-05-28
+0.0.0.0 fahrrad-station24.de # 2025-05-29
+0.0.0.0 goodideatrade.com # 2025-05-29
+0.0.0.0 maschinen-brennholz.de # 2025-05-29
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
