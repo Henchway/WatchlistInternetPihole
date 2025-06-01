@@ -7862,6 +7862,10 @@
 0.0.0.0 superdealzonenow.shop # 2025-05-28
 0.0.0.0 viennastil.at # 2025-05-28
 0.0.0.0 flaireberlin.com # 2025-05-29
+0.0.0.0 laurenwebers.com # 2025-05-30
+0.0.0.0 milea-wien.at # 2025-05-30
+0.0.0.0 pullovercardigan.com # 2025-05-30
+0.0.0.0 smlkje.com # 2025-05-30
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28133,6 +28137,11 @@
 0.0.0.0 fahrrad-station24.de # 2025-05-29
 0.0.0.0 goodideatrade.com # 2025-05-29
 0.0.0.0 maschinen-brennholz.de # 2025-05-29
+0.0.0.0 fahrrado.com # 2025-05-30
+0.0.0.0 gs-eu.com # 2025-05-30
+0.0.0.0 luxlvs.com # 2025-05-30
+0.0.0.0 oxfordall.shop # 2025-05-30
+0.0.0.0 oyemas.com # 2025-05-30
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29040,6 +29049,4 @@
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-26
-0.0.0.0 oyemas.com # 2025-05-26
-0.0.0.0 luxlvs.com # 2025-05-28
 
