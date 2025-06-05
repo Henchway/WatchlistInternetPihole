@@ -1359,6 +1359,7 @@
 0.0.0.0 vow.foundation # 2025-05-28
 0.0.0.0 hippo2.eth.limo # 2025-05-29
 0.0.0.0 xcoingate.com # 2025-05-29
+0.0.0.0 dropstab.com # 2025-06-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7871,9 +7872,11 @@
 0.0.0.0 ema-mold.com # 2025-06-02
 0.0.0.0 evas-schmuck.com # 2025-06-02
 0.0.0.0 lackvomprofi.de # 2025-06-02
-0.0.0.0 littledutch-nl.shop # 2025-06-02
 0.0.0.0 modetrendhaus.de # 2025-06-02
 0.0.0.0 uastudioshop.com # 2025-06-02
+0.0.0.0 bikesattel.at # 2025-06-03
+0.0.0.0 cozeymaison.de # 2025-06-03
+0.0.0.0 littledutch-nl.shop # 2025-06-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28151,19 +28154,23 @@
 0.0.0.0 gs-eu.com # 2025-05-31
 0.0.0.0 oxfordall.shop # 2025-05-31
 0.0.0.0 avvenice.com # 2025-06-02
-0.0.0.0 chordmilk.shop # 2025-06-02
-0.0.0.0 de-bike.com # 2025-06-02
-0.0.0.0 diytools-store.com # 2025-06-02
-0.0.0.0 edlerader.de # 2025-06-02
-0.0.0.0 ffcchh.com # 2025-06-02
-0.0.0.0 fitnessgymtools.com # 2025-06-02
-0.0.0.0 onrunningsoutlet.de # 2025-06-02
-0.0.0.0 schonewelpenzuverkaufen.de # 2025-06-02
-0.0.0.0 sezanesstore.com # 2025-06-02
-0.0.0.0 shopping-seks.de # 2025-06-02
-0.0.0.0 stemecommunity.com # 2025-06-02
-0.0.0.0 thinkcarde.com # 2025-06-02
-0.0.0.0 trumanschuhe.com # 2025-06-02
+0.0.0.0 bikeersatzteile.com # 2025-06-03
+0.0.0.0 chordmilk.shop # 2025-06-03
+0.0.0.0 de-bike.com # 2025-06-03
+0.0.0.0 diytools-store.com # 2025-06-03
+0.0.0.0 edlerader.de # 2025-06-03
+0.0.0.0 ffcchh.com # 2025-06-03
+0.0.0.0 fitnessgymtools.com # 2025-06-03
+0.0.0.0 onrunningsoutlet.de # 2025-06-03
+0.0.0.0 schonewelpenzuverkaufen.de # 2025-06-03
+0.0.0.0 sezanesstore.com # 2025-06-03
+0.0.0.0 shopping-seks.de # 2025-06-03
+0.0.0.0 stemecommunity.com # 2025-06-03
+0.0.0.0 thinkcarde.com # 2025-06-03
+0.0.0.0 thomann.za.com # 2025-06-03
+0.0.0.0 thomannz.shop # 2025-06-03
+0.0.0.0 thomannzz.sa.com # 2025-06-03
+0.0.0.0 trumanschuhe.com # 2025-06-03
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
