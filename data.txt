@@ -1361,6 +1361,12 @@
 0.0.0.0 xcoingate.com # 2025-05-29
 0.0.0.0 dropstab.com # 2025-06-04
 0.0.0.0 app.robex-ai.com # 2025-06-05
+0.0.0.0 artificialisens.com # 2025-06-06
+0.0.0.0 betrisecapitals.ltd # 2025-06-06
+0.0.0.0 bluepeaksfinance.com # 2025-06-06
+0.0.0.0 goldsicher.net # 2025-06-06
+0.0.0.0 intellisynex.com # 2025-06-06
+0.0.0.0 recovery-office.com # 2025-06-06
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7879,6 +7885,9 @@
 0.0.0.0 cozeymaison.de # 2025-06-03
 0.0.0.0 littledutch-nl.shop # 2025-06-03
 0.0.0.0 wagnerzurich.com # 2025-06-04
+0.0.0.0 meierwien.at # 2025-06-06
+0.0.0.0 pedalyst.com # 2025-06-06
+0.0.0.0 wiecel.com.de # 2025-06-06
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28218,6 +28227,11 @@
 0.0.0.0 spotiifyprimesnova.ct.ws # 2025-06-05
 0.0.0.0 wasserflorashop.com # 2025-06-05
 0.0.0.0 weretail.site # 2025-06-05
+0.0.0.0 bestellenmedicament.com # 2025-06-06
+0.0.0.0 brennholz-world.at # 2025-06-06
+0.0.0.0 dirlabass.com # 2025-06-06
+0.0.0.0 fahrradhandel-richter.de # 2025-06-06
+0.0.0.0 klartnzm.glanzrmvh.click # 2025-06-06
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28576,6 +28590,7 @@
 0.0.0.0 artpro-24.at # 2025-05-15
 0.0.0.0 installateur-hilfe.at # 2025-05-15
 0.0.0.0 installateur.jvb24.at # 2025-05-17
+0.0.0.0 schlüsseldienst-team.at # 2025-06-06
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -29126,5 +29141,4 @@
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-26
-0.0.0.0 dirlabass.com # 2025-06-05
 
