@@ -1361,12 +1361,12 @@
 0.0.0.0 xcoingate.com # 2025-05-29
 0.0.0.0 dropstab.com # 2025-06-04
 0.0.0.0 app.robex-ai.com # 2025-06-05
-0.0.0.0 artificialisens.com # 2025-06-06
-0.0.0.0 betrisecapitals.ltd # 2025-06-06
-0.0.0.0 bluepeaksfinance.com # 2025-06-06
-0.0.0.0 goldsicher.net # 2025-06-06
-0.0.0.0 intellisynex.com # 2025-06-06
-0.0.0.0 recovery-office.com # 2025-06-06
+0.0.0.0 artificialisens.com # 2025-06-07
+0.0.0.0 betrisecapitals.ltd # 2025-06-07
+0.0.0.0 bluepeaksfinance.com # 2025-06-07
+0.0.0.0 goldsicher.net # 2025-06-07
+0.0.0.0 intellisynex.com # 2025-06-07
+0.0.0.0 recovery-office.com # 2025-06-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -28227,11 +28227,11 @@
 0.0.0.0 spotiifyprimesnova.ct.ws # 2025-06-05
 0.0.0.0 wasserflorashop.com # 2025-06-05
 0.0.0.0 weretail.site # 2025-06-05
-0.0.0.0 bestellenmedicament.com # 2025-06-06
-0.0.0.0 brennholz-world.at # 2025-06-06
 0.0.0.0 dirlabass.com # 2025-06-06
-0.0.0.0 fahrradhandel-richter.de # 2025-06-06
-0.0.0.0 klartnzm.glanzrmvh.click # 2025-06-06
+0.0.0.0 bestellenmedicament.com # 2025-06-07
+0.0.0.0 brennholz-world.at # 2025-06-07
+0.0.0.0 fahrradhandel-richter.de # 2025-06-07
+0.0.0.0 klartnzm.glanzrmvh.click # 2025-06-07
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
