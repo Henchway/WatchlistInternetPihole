@@ -7175,7 +7175,6 @@
 0.0.0.0 venoswears.de # 2024-08-13
 0.0.0.0 at.mammotion.com # 2024-08-14
 0.0.0.0 au.mammotion.com # 2024-08-14
-0.0.0.0 de.mammotion.com # 2024-08-14
 0.0.0.0 eu.mammotion.com # 2024-08-14
 0.0.0.0 fr.mammotion.com # 2024-08-14
 0.0.0.0 mammotion.com # 2024-08-14
@@ -7888,6 +7887,7 @@
 0.0.0.0 meierwien.at # 2025-06-06
 0.0.0.0 pedalyst.com # 2025-06-06
 0.0.0.0 wiecel.com.de # 2025-06-06
+0.0.0.0 de.mammotion.com # 2025-06-09
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
