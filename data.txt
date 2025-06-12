@@ -7888,6 +7888,15 @@
 0.0.0.0 pedalyst.com # 2025-06-06
 0.0.0.0 wiecel.com.de # 2025-06-06
 0.0.0.0 de.mammotion.com # 2025-06-09
+0.0.0.0 cheapmondo.com # 2025-06-10
+0.0.0.0 domatin.com # 2025-06-10
+0.0.0.0 fjallbris.de # 2025-06-10
+0.0.0.0 imregen.de # 2025-06-10
+0.0.0.0 meierschweiz.ch # 2025-06-10
+0.0.0.0 norsky.de # 2025-06-10
+0.0.0.0 pureglowde.com # 2025-06-10
+0.0.0.0 schneiderundlang.de # 2025-06-10
+0.0.0.0 sohoohair.de # 2025-06-10
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27505,7 +27514,6 @@
 0.0.0.0 huber-schuhes.com # 2025-01-25
 0.0.0.0 huber-schuhes.com # 2025-01-25
 0.0.0.0 shopleo.de # 2025-01-25
-0.0.0.0 stunningboots.shop # 2025-01-25
 0.0.0.0 vdhs.brokertv.shop # 2025-01-25
 0.0.0.0 fahrradhelden.com # 2025-01-27
 0.0.0.0 alltimesupermarket.com # 2025-01-28
@@ -28232,6 +28240,25 @@
 0.0.0.0 brennholz-world.at # 2025-06-07
 0.0.0.0 fahrradhandel-richter.de # 2025-06-07
 0.0.0.0 klartnzm.glanzrmvh.click # 2025-06-07
+0.0.0.0 affenzahne-de.shop # 2025-06-10
+0.0.0.0 al-nassr.shop # 2025-06-10
+0.0.0.0 allekaufhauser.com # 2025-06-10
+0.0.0.0 billydeals24.de # 2025-06-10
+0.0.0.0 blueskycargoes.com # 2025-06-10
+0.0.0.0 brutaka.com # 2025-06-10
+0.0.0.0 cocovado.com # 2025-06-10
+0.0.0.0 douglas-sale.de # 2025-06-10
+0.0.0.0 euoutletsshoesonline.com # 2025-06-10
+0.0.0.0 gartenmotorgerate.com # 2025-06-10
+0.0.0.0 hhb-garten.de # 2025-06-10
+0.0.0.0 maaapsale.shop # 2025-06-10
+0.0.0.0 masterbaushop.de # 2025-06-10
+0.0.0.0 nourishwellnesspro.com # 2025-06-10
+0.0.0.0 robogarten.shop # 2025-06-10
+0.0.0.0 stockerpoints.com # 2025-06-10
+0.0.0.0 thomann2025de.shop # 2025-06-10
+0.0.0.0 vimoraberlin.com # 2025-06-10
+0.0.0.0 werkboxpro.com # 2025-06-10
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28465,6 +28492,7 @@
 0.0.0.0 fusenest-at.works # 2025-05-21
 0.0.0.0 talents-sourcenow.com # 2025-05-22
 0.0.0.0 brighttalentpro.online # 2025-05-23
+0.0.0.0 monparis-work.shop/#/pages/public/login # 2025-06-10
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
