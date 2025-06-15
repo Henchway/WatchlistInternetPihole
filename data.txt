@@ -1368,7 +1368,7 @@
 0.0.0.0 intellisynex.com # 2025-06-07
 0.0.0.0 recovery-office.com # 2025-06-07
 0.0.0.0 globalkeys-sa.com # 2025-06-12
-0.0.0.0 hilfeexpress.com # 2025-06-12
+0.0.0.0 hilfeexpress.com # 2025-06-13
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7826,7 +7826,6 @@
 0.0.0.0 gomez.at # 2025-05-06
 0.0.0.0 shopderzukunft.de # 2025-05-06
 0.0.0.0 summitray.com # 2025-05-06
-0.0.0.0 brava-berlin.de # 2025-05-08
 0.0.0.0 theresa-klein.de # 2025-05-09
 0.0.0.0 marlene-wien.at # 2025-05-12
 0.0.0.0 pelzfreunde.com # 2025-05-12
@@ -7900,8 +7899,12 @@
 0.0.0.0 meierschweiz.ch # 2025-06-11
 0.0.0.0 rovikshop.de # 2025-06-11
 0.0.0.0 sohoohair.de # 2025-06-11
-0.0.0.0 fjallbris.com # 2025-06-12
 0.0.0.0 lovinal.com # 2025-06-12
+0.0.0.0 brava-berlin.de # 2025-06-13
+0.0.0.0 fjallbris.com # 2025-06-13
+0.0.0.0 hofer-wien.com # 2025-06-13
+0.0.0.0 mosmankoch.at # 2025-06-13
+0.0.0.0 mosmankoch.de # 2025-06-13
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28262,18 +28265,19 @@
 0.0.0.0 robogarten.shop # 2025-06-11
 0.0.0.0 stockerpoints.com # 2025-06-11
 0.0.0.0 thomann2025de.shop # 2025-06-11
-0.0.0.0 vimoraberlin.com # 2025-06-11
 0.0.0.0 werkboxpro.com # 2025-06-11
-0.0.0.0 fclubunited.com # 2025-06-12
 0.0.0.0 homoloogie.com # 2025-06-12
 0.0.0.0 ixdoh.shop # 2025-06-12
-0.0.0.0 logixwood.com # 2025-06-12
-0.0.0.0 robowerkstatten.com # 2025-06-12
 0.0.0.0 schneider-radsport.com # 2025-06-12
-0.0.0.0 se-vignette-france.com # 2025-06-12
-0.0.0.0 stylingprodukte24.com # 2025-06-12
-0.0.0.0 the-faze.com # 2025-06-12
-0.0.0.0 topixs.com # 2025-06-12
+0.0.0.0 fclubunited.com # 2025-06-13
+0.0.0.0 logixwood.com # 2025-06-13
+0.0.0.0 robowerkstatten.com # 2025-06-13
+0.0.0.0 se-vignette-france.com # 2025-06-13
+0.0.0.0 stylingprodukte24.com # 2025-06-13
+0.0.0.0 the-faze.com # 2025-06-13
+0.0.0.0 topixs.com # 2025-06-13
+0.0.0.0 vimoraberlin.com # 2025-06-13
+0.0.0.0 xtdqvn.shop # 2025-06-13
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28510,7 +28514,7 @@
 0.0.0.0 monparis-work.shop/#/pages/public/login # 2025-06-10
 0.0.0.0 appcheck24.com # 2025-06-11
 0.0.0.0 jobspressos.com # 2025-06-11
-0.0.0.0 typeline.de # 2025-06-12
+0.0.0.0 typeline.de # 2025-06-13
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
