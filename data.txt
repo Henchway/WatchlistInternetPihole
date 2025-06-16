@@ -7902,9 +7902,9 @@
 0.0.0.0 lovinal.com # 2025-06-12
 0.0.0.0 brava-berlin.de # 2025-06-13
 0.0.0.0 fjallbris.com # 2025-06-13
-0.0.0.0 hofer-wien.com # 2025-06-13
-0.0.0.0 mosmankoch.at # 2025-06-13
 0.0.0.0 mosmankoch.de # 2025-06-13
+0.0.0.0 hofer-wien.com # 2025-06-14
+0.0.0.0 mosmankoch.at # 2025-06-14
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28272,12 +28272,12 @@
 0.0.0.0 fclubunited.com # 2025-06-13
 0.0.0.0 logixwood.com # 2025-06-13
 0.0.0.0 robowerkstatten.com # 2025-06-13
-0.0.0.0 se-vignette-france.com # 2025-06-13
 0.0.0.0 stylingprodukte24.com # 2025-06-13
 0.0.0.0 the-faze.com # 2025-06-13
-0.0.0.0 topixs.com # 2025-06-13
 0.0.0.0 vimoraberlin.com # 2025-06-13
-0.0.0.0 xtdqvn.shop # 2025-06-13
+0.0.0.0 se-vignette-france.com # 2025-06-14
+0.0.0.0 topixs.com # 2025-06-14
+0.0.0.0 xtdqvn.shop # 2025-06-14
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
