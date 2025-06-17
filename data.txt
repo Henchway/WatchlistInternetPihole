@@ -28513,8 +28513,8 @@
 0.0.0.0 brighttalentpro.online # 2025-05-23
 0.0.0.0 monparis-work.shop/#/pages/public/login # 2025-06-10
 0.0.0.0 appcheck24.com # 2025-06-11
-0.0.0.0 jobspressos.com # 2025-06-11
 0.0.0.0 typeline.de # 2025-06-13
+0.0.0.0 jobspressos.com # 2025-06-15
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
