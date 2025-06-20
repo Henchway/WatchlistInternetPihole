@@ -1369,6 +1369,8 @@
 0.0.0.0 recovery-office.com # 2025-06-07
 0.0.0.0 globalkeys-sa.com # 2025-06-12
 0.0.0.0 hilfeexpress.com # 2025-06-13
+0.0.0.0 axlaoz.com # 2025-06-18
+0.0.0.0 downbord.com # 2025-06-18
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7904,7 +7906,6 @@
 0.0.0.0 hofer-wien.com # 2025-06-14
 0.0.0.0 mosmankoch.at # 2025-06-14
 0.0.0.0 acquaintfy.com # 2025-06-16
-0.0.0.0 baby-rostock.com # 2025-06-16
 0.0.0.0 chenjunting01.com # 2025-06-16
 0.0.0.0 deluxepallets.com # 2025-06-16
 0.0.0.0 hochwertigesspielzeug.com # 2025-06-16
@@ -7919,6 +7920,16 @@
 0.0.0.0 prestigue.de # 2025-06-17
 0.0.0.0 schneider-schmuckatelier.de # 2025-06-17
 0.0.0.0 seifenbrause.de # 2025-06-17
+0.0.0.0 baby-rostock.com # 2025-06-18
+0.0.0.0 behnberlin.de # 2025-06-18
+0.0.0.0 bergmann-mode.ch # 2025-06-18
+0.0.0.0 lukamode.de # 2025-06-18
+0.0.0.0 peakful.co # 2025-06-18
+0.0.0.0 shopperwebs.com # 2025-06-18
+0.0.0.0 susansboutique-naples.com # 2025-06-18
+0.0.0.0 tgbslab.com # 2025-06-18
+0.0.0.0 tropical-tides.com # 2025-06-18
+0.0.0.0 vanclnetwork.com # 2025-06-18
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -12109,7 +12120,6 @@
 0.0.0.0 profayansy.com # 2022-04-25
 0.0.0.0 smitdeals.de # 2022-04-25
 0.0.0.0 superblifes.com # 2022-04-25
-0.0.0.0 timental.de # 2022-04-25
 0.0.0.0 twinsbc.de # 2022-04-25
 0.0.0.0 us.ritaipa.com # 2022-04-25
 0.0.0.0 yoolo.shop # 2022-04-25
@@ -28293,21 +28303,23 @@
 0.0.0.0 topixs.com # 2025-06-14
 0.0.0.0 xtdqvn.shop # 2025-06-14
 0.0.0.0 cushygait.com # 2025-06-16
-0.0.0.0 luxusgeschenke24.com # 2025-06-16
 0.0.0.0 autotoolmaster24.com # 2025-06-17
-0.0.0.0 camptool-shop.com # 2025-06-17
 0.0.0.0 degroceriesshop.com # 2025-06-17
 0.0.0.0 deichmannflashsale.live # 2025-06-17
-0.0.0.0 heizoil.com # 2025-06-17
 0.0.0.0 lidl-card.gifts # 2025-06-17
-0.0.0.0 mlbaushopdeeu.shop # 2025-06-17
-0.0.0.0 mottari-trucks.com # 2025-06-17
 0.0.0.0 profi-rasenmaher.com # 2025-06-17
 0.0.0.0 purouw.com # 2025-06-17
-0.0.0.0 repsfuse.com # 2025-06-17
 0.0.0.0 vaztro.shop # 2025-06-17
-0.0.0.0 weissformberlin.com # 2025-06-17
 0.0.0.0 xlthomannmusic.shop # 2025-06-17
+0.0.0.0 camptool-shop.com # 2025-06-18
+0.0.0.0 dresdnererlebniswelteu.shop # 2025-06-18
+0.0.0.0 heizoil.com # 2025-06-18
+0.0.0.0 kamenik-at.de # 2025-06-18
+0.0.0.0 luxusgeschenke24.com # 2025-06-18
+0.0.0.0 mlbaushopdeeu.shop # 2025-06-18
+0.0.0.0 mottari-trucks.com # 2025-06-18
+0.0.0.0 repsfuse.com # 2025-06-18
+0.0.0.0 weissformberlin.com # 2025-06-18
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29076,6 +29088,7 @@
 0.0.0.0 canaryvillavacation.com # 2025-04-10
 0.0.0.0 congresshotelamsguestsportalarriva.com # 2025-04-17
 0.0.0.0 eu-6079461275-property.homes # 2025-04-24
+0.0.0.0 house-book.eu # 2025-06-18
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29222,8 +29235,8 @@
 0.0.0.0 thetoyslane.com # 2025-05-22
 0.0.0.0 softpulse.digital # 2025-05-23
 0.0.0.0 gruntmuzicz.com # 2025-05-27
-0.0.0.0 v3.ketogo.app # 2025-06-02
 0.0.0.0 smartsolve.ai # 2025-06-16
+0.0.0.0 appnebula.co/natal-chart # 2025-06-18
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-26
