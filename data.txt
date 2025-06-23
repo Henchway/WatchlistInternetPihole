@@ -7933,11 +7933,11 @@
 0.0.0.0 filloutlet.com # 2025-06-20
 0.0.0.0 lebens-glanz.com # 2025-06-20
 0.0.0.0 lovaric.co # 2025-06-20
-0.0.0.0 mower-gut.myshopify.com # 2025-06-20
 0.0.0.0 nordoutlets.com # 2025-06-20
 0.0.0.0 thehughaven.com # 2025-06-20
 0.0.0.0 webersalzburg.at # 2025-06-20
 0.0.0.0 wildlingch.com # 2025-06-20
+0.0.0.0 mower-gut.myshopify.com # 2025-06-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28328,15 +28328,15 @@
 0.0.0.0 dresdnererlebniswelteu.shop # 2025-06-19
 0.0.0.0 kamenik-at.de # 2025-06-19
 0.0.0.0 luxusgeschenke24.com # 2025-06-19
-0.0.0.0 at-paylivery.shop # 2025-06-20
-0.0.0.0 atpackage.xyz # 2025-06-20
-0.0.0.0 avregatnx.monster # 2025-06-20
-0.0.0.0 bestkht.com # 2025-06-20
-0.0.0.0 brunoberg.com # 2025-06-20
-0.0.0.0 bu-gruppe.com # 2025-06-20
-0.0.0.0 innohorseeur.shop # 2025-06-20
-0.0.0.0 joanoks.com # 2025-06-20
-0.0.0.0 nyutxe.shop # 2025-06-20
+0.0.0.0 at-paylivery.shop # 2025-06-21
+0.0.0.0 atpackage.xyz # 2025-06-21
+0.0.0.0 avregatnx.monster # 2025-06-21
+0.0.0.0 bestkht.com # 2025-06-21
+0.0.0.0 brunoberg.com # 2025-06-21
+0.0.0.0 bu-gruppe.com # 2025-06-21
+0.0.0.0 innohorseeur.shop # 2025-06-21
+0.0.0.0 joanoks.com # 2025-06-21
+0.0.0.0 nyutxe.shop # 2025-06-21
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
