@@ -6858,7 +6858,6 @@
 0.0.0.0 akerghly.com # 2024-05-31
 0.0.0.0 amelia-munchen.com # 2024-05-31
 0.0.0.0 amora-mode.com # 2024-05-31
-0.0.0.0 bergxperten.de # 2024-05-31
 0.0.0.0 burlingtonretailwholesale.com # 2024-05-31
 0.0.0.0 chapterfinish.com # 2024-05-31
 0.0.0.0 chirpydeals.com # 2024-05-31
@@ -7938,6 +7937,7 @@
 0.0.0.0 webersalzburg.at # 2025-06-20
 0.0.0.0 wildlingch.com # 2025-06-20
 0.0.0.0 mower-gut.myshopify.com # 2025-06-21
+0.0.0.0 bergxperten.de # 2025-06-22
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
