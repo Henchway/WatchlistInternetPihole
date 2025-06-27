@@ -1371,9 +1371,12 @@
 0.0.0.0 hilfeexpress.com # 2025-06-13
 0.0.0.0 axlaoz.com # 2025-06-18
 0.0.0.0 downbord.com # 2025-06-19
-0.0.0.0 dexonirax.com # 2025-06-24
 0.0.0.0 privaag.com # 2025-06-24
 0.0.0.0 privaag.com/de # 2025-06-24
+0.0.0.0 de-gojurist.site # 2025-06-25
+0.0.0.0 dexonirax.com # 2025-06-25
+0.0.0.0 treola-ag.com # 2025-06-25
+0.0.0.0 zesbit.com # 2025-06-25
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7948,12 +7951,13 @@
 0.0.0.0 luzern-mode.ch # 2025-06-23
 0.0.0.0 fatburners.at # 2025-06-24
 0.0.0.0 hausermodehaus.de # 2025-06-24
-0.0.0.0 homeinvasion.de # 2025-06-24
 0.0.0.0 labubu-popmart.de # 2025-06-24
-0.0.0.0 popmartgreece.com # 2025-06-24
-0.0.0.0 schmidtstil.com # 2025-06-24
 0.0.0.0 softwarekaufen24.de # 2025-06-24
 0.0.0.0 urgalaxy.com # 2025-06-24
+0.0.0.0 homeinvasion.de # 2025-06-25
+0.0.0.0 itagprotracker.com # 2025-06-25
+0.0.0.0 popmartgreece.com # 2025-06-25
+0.0.0.0 schmidtstil.com # 2025-06-25
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28352,19 +28356,21 @@
 0.0.0.0 innohorseeur.shop # 2025-06-21
 0.0.0.0 joanoks.com # 2025-06-21
 0.0.0.0 nyutxe.shop # 2025-06-21
-0.0.0.0 alsara-online.de # 2025-06-24
-0.0.0.0 annettasiendeeu.shop # 2025-06-24
-0.0.0.0 espresso-line.com # 2025-06-24
 0.0.0.0 grillmeisterde.com # 2025-06-24
 0.0.0.0 hjc-online.com # 2025-06-24
 0.0.0.0 klarkwvk.stildahh.cyou # 2025-06-24
-0.0.0.0 labububox.store # 2025-06-24
 0.0.0.0 lebenvwd.heimnewb.cyou # 2025-06-24
-0.0.0.0 mediaplus.shop # 2025-06-24
 0.0.0.0 nittogeschaft.com # 2025-06-24
-0.0.0.0 popmarts.pro # 2025-06-24
-0.0.0.0 popmarts.vip # 2025-06-24
-0.0.0.0 seifertundstil.de # 2025-06-24
+0.0.0.0 alsara-online.de # 2025-06-25
+0.0.0.0 annettasiendeeu.shop # 2025-06-25
+0.0.0.0 espresso-line.com # 2025-06-25
+0.0.0.0 fahrradhandel-krause.de # 2025-06-25
+0.0.0.0 labububox.store # 2025-06-25
+0.0.0.0 mediaplus.shop # 2025-06-25
+0.0.0.0 popmarts.pro # 2025-06-25
+0.0.0.0 popmarts.vip # 2025-06-25
+0.0.0.0 rosenberg-boutique.de # 2025-06-25
+0.0.0.0 seifertundstil.de # 2025-06-25
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28736,6 +28742,8 @@
 0.0.0.0 installateur.jvb24.at # 2025-05-17
 0.0.0.0 schlüsseldienst-team.at # 2025-06-06
 0.0.0.0 kundenservice-hotline.at # 2025-06-16
+0.0.0.0 aufsperrdienst.tech # 2025-06-25
+0.0.0.0 installateur.artpro-24.pro # 2025-06-25
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
