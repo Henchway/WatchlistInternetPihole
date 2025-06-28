@@ -1373,10 +1373,10 @@
 0.0.0.0 downbord.com # 2025-06-19
 0.0.0.0 privaag.com # 2025-06-24
 0.0.0.0 privaag.com/de # 2025-06-24
-0.0.0.0 de-gojurist.site # 2025-06-25
 0.0.0.0 dexonirax.com # 2025-06-25
-0.0.0.0 treola-ag.com # 2025-06-25
-0.0.0.0 zesbit.com # 2025-06-25
+0.0.0.0 de-gojurist.site # 2025-06-26
+0.0.0.0 treola-ag.com # 2025-06-26
+0.0.0.0 zesbit.com # 2025-06-26
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7953,11 +7953,15 @@
 0.0.0.0 hausermodehaus.de # 2025-06-24
 0.0.0.0 labubu-popmart.de # 2025-06-24
 0.0.0.0 softwarekaufen24.de # 2025-06-24
-0.0.0.0 urgalaxy.com # 2025-06-24
 0.0.0.0 homeinvasion.de # 2025-06-25
-0.0.0.0 itagprotracker.com # 2025-06-25
 0.0.0.0 popmartgreece.com # 2025-06-25
 0.0.0.0 schmidtstil.com # 2025-06-25
+0.0.0.0 getvirium.com # 2025-06-26
+0.0.0.0 itagprotracker.com # 2025-06-26
+0.0.0.0 on4.myshoplaza.com # 2025-06-26
+0.0.0.0 risora.de # 2025-06-26
+0.0.0.0 ruckgabe.wwmode.de # 2025-06-26
+0.0.0.0 urgalaxy.com # 2025-06-26
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28364,13 +28368,17 @@
 0.0.0.0 alsara-online.de # 2025-06-25
 0.0.0.0 annettasiendeeu.shop # 2025-06-25
 0.0.0.0 espresso-line.com # 2025-06-25
-0.0.0.0 fahrradhandel-krause.de # 2025-06-25
 0.0.0.0 labububox.store # 2025-06-25
 0.0.0.0 mediaplus.shop # 2025-06-25
 0.0.0.0 popmarts.pro # 2025-06-25
 0.0.0.0 popmarts.vip # 2025-06-25
-0.0.0.0 rosenberg-boutique.de # 2025-06-25
 0.0.0.0 seifertundstil.de # 2025-06-25
+0.0.0.0 fahrradhandel-krause.de # 2025-06-26
+0.0.0.0 grillfuerstshop.com # 2025-06-26
+0.0.0.0 labubu.co.at # 2025-06-26
+0.0.0.0 pflanzbedarfsladen.com # 2025-06-26
+0.0.0.0 rosenberg-boutique.de # 2025-06-26
+0.0.0.0 ticketreise.de # 2025-06-26
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28742,8 +28750,8 @@
 0.0.0.0 installateur.jvb24.at # 2025-05-17
 0.0.0.0 schlüsseldienst-team.at # 2025-06-06
 0.0.0.0 kundenservice-hotline.at # 2025-06-16
-0.0.0.0 aufsperrdienst.tech # 2025-06-25
-0.0.0.0 installateur.artpro-24.pro # 2025-06-25
+0.0.0.0 aufsperrdienst.tech # 2025-06-26
+0.0.0.0 installateur.artpro-24.pro # 2025-06-26
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -29302,4 +29310,5 @@
 0.0.0.0 inador.com # 2025-06-19
 0.0.0.0 futbollufo.com # 2025-06-20
 0.0.0.0 broncofish.com # 2025-06-23
+0.0.0.0 copenhagen-schuhe.com # 2025-06-26
 
