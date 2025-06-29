@@ -1377,6 +1377,7 @@
 0.0.0.0 de-gojurist.site # 2025-06-26
 0.0.0.0 treola-ag.com # 2025-06-26
 0.0.0.0 zesbit.com # 2025-06-26
+0.0.0.0 voltbankinternational.com # 2025-06-27
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7958,10 +7959,11 @@
 0.0.0.0 schmidtstil.com # 2025-06-25
 0.0.0.0 getvirium.com # 2025-06-26
 0.0.0.0 itagprotracker.com # 2025-06-26
-0.0.0.0 on4.myshoplaza.com # 2025-06-26
 0.0.0.0 risora.de # 2025-06-26
 0.0.0.0 ruckgabe.wwmode.de # 2025-06-26
 0.0.0.0 urgalaxy.com # 2025-06-26
+0.0.0.0 hermhoffer.de # 2025-06-27
+0.0.0.0 on4.myshoplaza.com # 2025-06-27
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27646,7 +27648,6 @@
 0.0.0.0 feedingbodyandsoul.org # 2025-02-08
 0.0.0.0 fendange.shop # 2025-02-08
 0.0.0.0 radtraum.com # 2025-02-08
-0.0.0.0 nl-fashion.de # 2025-02-09
 0.0.0.0 austriadhl.homes/at # 2025-02-10
 0.0.0.0 glockdeutschland.eu # 2025-02-10
 0.0.0.0 anhaenger-von-thule.de # 2025-02-11
@@ -28374,11 +28375,19 @@
 0.0.0.0 popmarts.vip # 2025-06-25
 0.0.0.0 seifertundstil.de # 2025-06-25
 0.0.0.0 fahrradhandel-krause.de # 2025-06-26
-0.0.0.0 grillfuerstshop.com # 2025-06-26
-0.0.0.0 labubu.co.at # 2025-06-26
-0.0.0.0 pflanzbedarfsladen.com # 2025-06-26
 0.0.0.0 rosenberg-boutique.de # 2025-06-26
-0.0.0.0 ticketreise.de # 2025-06-26
+0.0.0.0 billigdesignerkleidung.de # 2025-06-27
+0.0.0.0 cassidriss.com # 2025-06-27
+0.0.0.0 copenhagen-schuhe.com # 2025-06-27
+0.0.0.0 fischhandeln.de # 2025-06-27
+0.0.0.0 futbollufo.com # 2025-06-27
+0.0.0.0 grillfuerstshop.com # 2025-06-27
+0.0.0.0 inador.com # 2025-06-27
+0.0.0.0 labubu.co.at # 2025-06-27
+0.0.0.0 onshoes-de.shop # 2025-06-27
+0.0.0.0 pflanzbedarfsladen.com # 2025-06-27
+0.0.0.0 ticketreise.de # 2025-06-27
+0.0.0.0 vnxk.net # 2025-06-27
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28623,6 +28632,9 @@
 0.0.0.0 marketdeaboutyou.com # 2025-06-23
 0.0.0.0 nieparis-work.top # 2025-06-23
 0.0.0.0 proskillpath.online # 2025-06-24
+0.0.0.0 googleseriess.com # 2025-06-27
+0.0.0.0 nhconnect.cc # 2025-06-27
+0.0.0.0 yumbrandsnow.com # 2025-06-27
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -28690,7 +28702,6 @@
 0.0.0.0 polster-franz.at # 2023-10-25
 0.0.0.0 polster-franz.de # 2023-10-25
 0.0.0.0 sanierungs-profi.at # 2023-11-16
-0.0.0.0 umzug-365.at # 2023-12-18
 0.0.0.0 thermenwartung-aktion-wien.com # 2024-01-03
 0.0.0.0 reparatur-service24.at # 2024-02-14
 0.0.0.0 umzugsretter.at # 2024-02-27
@@ -28922,8 +28933,8 @@
 0.0.0.0 nte-logistics.com # 2025-01-29
 0.0.0.0 dapperlogistik.com # 2025-02-03
 0.0.0.0 moovem-expert.com # 2025-05-16
-0.0.0.0 cargolooplogistics.com # 2025-06-24
 0.0.0.0 mottari-trucks.com # 2025-06-24
+0.0.0.0 cargolooplogistics.com # 2025-06-27
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
@@ -29306,9 +29317,5 @@
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-26
-0.0.0.0 vnxk.net # 2025-06-12
-0.0.0.0 inador.com # 2025-06-19
-0.0.0.0 futbollufo.com # 2025-06-20
 0.0.0.0 broncofish.com # 2025-06-23
-0.0.0.0 copenhagen-schuhe.com # 2025-06-26
 
