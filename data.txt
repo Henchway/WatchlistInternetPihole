@@ -1377,7 +1377,7 @@
 0.0.0.0 de-gojurist.site # 2025-06-26
 0.0.0.0 treola-ag.com # 2025-06-26
 0.0.0.0 zesbit.com # 2025-06-26
-0.0.0.0 voltbankinternational.com # 2025-06-27
+0.0.0.0 voltbankinternational.com # 2025-06-28
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -28376,18 +28376,18 @@
 0.0.0.0 seifertundstil.de # 2025-06-25
 0.0.0.0 fahrradhandel-krause.de # 2025-06-26
 0.0.0.0 rosenberg-boutique.de # 2025-06-26
-0.0.0.0 billigdesignerkleidung.de # 2025-06-27
-0.0.0.0 cassidriss.com # 2025-06-27
 0.0.0.0 copenhagen-schuhe.com # 2025-06-27
-0.0.0.0 fischhandeln.de # 2025-06-27
 0.0.0.0 futbollufo.com # 2025-06-27
 0.0.0.0 grillfuerstshop.com # 2025-06-27
 0.0.0.0 inador.com # 2025-06-27
 0.0.0.0 labubu.co.at # 2025-06-27
-0.0.0.0 onshoes-de.shop # 2025-06-27
 0.0.0.0 pflanzbedarfsladen.com # 2025-06-27
 0.0.0.0 ticketreise.de # 2025-06-27
 0.0.0.0 vnxk.net # 2025-06-27
+0.0.0.0 billigdesignerkleidung.de # 2025-06-28
+0.0.0.0 cassidriss.com # 2025-06-28
+0.0.0.0 fischhandeln.de # 2025-06-28
+0.0.0.0 onshoes-de.shop # 2025-06-28
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
