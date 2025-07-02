@@ -7964,6 +7964,12 @@
 0.0.0.0 hermhoffer.de # 2025-06-27
 0.0.0.0 on4.myshoplaza.com # 2025-06-27
 0.0.0.0 bergxperten.de # 2025-06-29
+0.0.0.0 brecit.com # 2025-06-30
+0.0.0.0 elektronlinestore.com # 2025-06-30
+0.0.0.0 glowency.de # 2025-06-30
+0.0.0.0 mageshapi.com # 2025-06-30
+0.0.0.0 veloura.at # 2025-06-30
+0.0.0.0 xjcteam.de # 2025-06-30
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28211,7 +28217,6 @@
 0.0.0.0 iroids.nl # 2025-05-24
 0.0.0.0 lidl-online-ro.vip # 2025-05-24
 0.0.0.0 mbxcontainer.shop # 2025-05-24
-0.0.0.0 niederlandeshop.de # 2025-05-24
 0.0.0.0 polene-paris.at # 2025-05-24
 0.0.0.0 roulettegem.com # 2025-05-24
 0.0.0.0 thewalt-streaming-service.rapidyshop.net # 2025-05-25
@@ -28388,6 +28393,35 @@
 0.0.0.0 cassidriss.com # 2025-06-28
 0.0.0.0 fischhandeln.de # 2025-06-28
 0.0.0.0 onshoes-de.shop # 2025-06-28
+0.0.0.0 autoteiledirektde.com # 2025-06-30
+0.0.0.0 bauernhofspiele.com # 2025-06-30
+0.0.0.0 billigwunder.com # 2025-06-30
+0.0.0.0 billigwunder24.de # 2025-06-30
+0.0.0.0 crystinasdreams.cfd # 2025-06-30
+0.0.0.0 dealfundus.de # 2025-06-30
+0.0.0.0 degesunderlebensstil.com # 2025-06-30
+0.0.0.0 dielabubu.store # 2025-06-30
+0.0.0.0 fluffnestly.de # 2025-06-30
+0.0.0.0 gratis-produkttests.info # 2025-06-30
+0.0.0.0 gretasparwelt.de # 2025-06-30
+0.0.0.0 heiz-traum.com # 2025-06-30
+0.0.0.0 hpdcrw.shop # 2025-06-30
+0.0.0.0 kjw-garten.de # 2025-06-30
+0.0.0.0 knallerkiste.de # 2025-06-30
+0.0.0.0 kontoraiffeisenmeinelba.com # 2025-06-30
+0.0.0.0 labubuofficials.de # 2025-06-30
+0.0.0.0 lagerknaller.de # 2025-06-30
+0.0.0.0 lagoma24.com # 2025-06-30
+0.0.0.0 mexicotabs.com # 2025-06-30
+0.0.0.0 pksideshop.com # 2025-06-30
+0.0.0.0 preisrausch24.de # 2025-06-30
+0.0.0.0 probutton-tech.de # 2025-06-30
+0.0.0.0 ragwearaustria.com # 2025-06-30
+0.0.0.0 sparmarie24.de # 2025-06-30
+0.0.0.0 sparwahnsinn24.de # 2025-06-30
+0.0.0.0 trybal.net # 2025-06-30
+0.0.0.0 ugfxrl.shop # 2025-06-30
+0.0.0.0 wearnwatt.de # 2025-06-30
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29314,6 +29348,7 @@
 0.0.0.0 gruntmuzicz.com # 2025-05-27
 0.0.0.0 smartsolve.ai # 2025-06-16
 0.0.0.0 appnebula.co/natal-chart # 2025-06-18
+0.0.0.0 sylskilsoftassist.com # 2025-06-30
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-26
