@@ -1378,6 +1378,8 @@
 0.0.0.0 treola-ag.com # 2025-06-26
 0.0.0.0 zesbit.com # 2025-06-26
 0.0.0.0 voltbankinternational.com # 2025-06-28
+0.0.0.0 m.daefox.com # 2025-07-02
+0.0.0.0 pc.daefox.com # 2025-07-02
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7971,6 +7973,7 @@
 0.0.0.0 coldeez.com # 2025-07-01
 0.0.0.0 glowency.de # 2025-07-01
 0.0.0.0 schneidersalzburg.at # 2025-07-01
+0.0.0.0 aluhsda.com # 2025-07-02
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28397,7 +28400,6 @@
 0.0.0.0 trybal.net # 2025-06-30
 0.0.0.0 autoteiledirektde.com # 2025-07-01
 0.0.0.0 bauernhofspiele.com # 2025-07-01
-0.0.0.0 billigwunder.com # 2025-07-01
 0.0.0.0 billigwunder24.de # 2025-07-01
 0.0.0.0 crystinasdreams.cfd # 2025-07-01
 0.0.0.0 dealfundus.de # 2025-07-01
@@ -28405,26 +28407,42 @@
 0.0.0.0 dielabubu.store # 2025-07-01
 0.0.0.0 fluffnestly.de # 2025-07-01
 0.0.0.0 gratis-produkttests.info # 2025-07-01
-0.0.0.0 gretasparwelt.de # 2025-07-01
 0.0.0.0 heiz-traum.com # 2025-07-01
 0.0.0.0 hpdcrw.shop # 2025-07-01
-0.0.0.0 intersport-eu.com # 2025-07-01
 0.0.0.0 kjw-garten.de # 2025-07-01
-0.0.0.0 knallerkiste.de # 2025-07-01
 0.0.0.0 kontoraiffeisenmeinelba.com # 2025-07-01
 0.0.0.0 labubuofficials.de # 2025-07-01
 0.0.0.0 lagerknaller.de # 2025-07-01
 0.0.0.0 lagoma24.com # 2025-07-01
 0.0.0.0 mexicotabs.com # 2025-07-01
 0.0.0.0 pksideshop.com # 2025-07-01
-0.0.0.0 preisrausch24.de # 2025-07-01
 0.0.0.0 probutton-tech.de # 2025-07-01
 0.0.0.0 ragwearaustria.com # 2025-07-01
 0.0.0.0 sparmarie24.de # 2025-07-01
 0.0.0.0 sparwahnsinn24.de # 2025-07-01
-0.0.0.0 stooveu.shop # 2025-07-01
 0.0.0.0 ugfxrl.shop # 2025-07-01
 0.0.0.0 wearnwatt.de # 2025-07-01
+0.0.0.0 billigwunder.com # 2025-07-02
+0.0.0.0 descenteosterreich.at # 2025-07-02
+0.0.0.0 fitfloposterreich.at # 2025-07-02
+0.0.0.0 fleurop-official.com # 2025-07-02
+0.0.0.0 gawude.shop # 2025-07-02
+0.0.0.0 gihuzt.shop # 2025-07-02
+0.0.0.0 gretasparwelt.de # 2025-07-02
+0.0.0.0 grhfdj.shop # 2025-07-02
+0.0.0.0 intersport-eu.com # 2025-07-02
+0.0.0.0 intimissimi-osterreich.at # 2025-07-02
+0.0.0.0 jelly-cat-deutschland.de # 2025-07-02
+0.0.0.0 kevxxx.shop # 2025-07-02
+0.0.0.0 knallerkiste.de # 2025-07-02
+0.0.0.0 owalasale.de # 2025-07-02
+0.0.0.0 preisrausch24.de # 2025-07-02
+0.0.0.0 spielzeug-wunderwelt.com # 2025-07-02
+0.0.0.0 stooveu.shop # 2025-07-02
+0.0.0.0 thomann-music.za.com # 2025-07-02
+0.0.0.0 thursdayboots-osterreich.at # 2025-07-02
+0.0.0.0 vozol6000osterreich.com # 2025-07-02
+0.0.0.0 wefashion.net # 2025-07-02
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28800,6 +28818,8 @@
 0.0.0.0 kundenservice-hotline.at # 2025-06-16
 0.0.0.0 aufsperrdienst.tech # 2025-06-26
 0.0.0.0 installateur.artpro-24.pro # 2025-06-26
+0.0.0.0 installateur-profis24.at # 2025-07-02
+0.0.0.0 kammerjäger-schulz.at # 2025-07-02
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -29351,8 +29371,8 @@
 0.0.0.0 gruntmuzicz.com # 2025-05-27
 0.0.0.0 smartsolve.ai # 2025-06-16
 0.0.0.0 appnebula.co/natal-chart # 2025-06-18
-0.0.0.0 sylskillsoft.com # 2025-07-01
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
+0.0.0.0 sylskillsoft.com # 2025-07-02
 
 # Automatisierte Warnungen
 0.0.0.0 hammerheartstore.com # 2025-05-26
