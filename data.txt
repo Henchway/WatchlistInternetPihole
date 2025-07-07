@@ -1380,7 +1380,7 @@
 0.0.0.0 voltbankinternational.com # 2025-06-28
 0.0.0.0 m.daefox.com # 2025-07-03
 0.0.0.0 pc.daefox.com # 2025-07-03
-0.0.0.0 erecovery.net # 2025-07-04
+0.0.0.0 erecovery.net # 2025-07-05
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7977,10 +7977,10 @@
 0.0.0.0 aluhsda.com # 2025-07-02
 0.0.0.0 smartundgeizig.de # 2025-07-03
 0.0.0.0 fogatoshop.com # 2025-07-04
-0.0.0.0 orthofabrik.de # 2025-07-04
 0.0.0.0 rabattmax.com # 2025-07-04
 0.0.0.0 stilgut-wien.at # 2025-07-04
 0.0.0.0 vivo-hamburg.de # 2025-07-04
+0.0.0.0 orthofabrik.de # 2025-07-05
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28450,12 +28450,12 @@
 0.0.0.0 thursdayboots-osterreich.at # 2025-07-03
 0.0.0.0 dachvr.okologischrlw.cyou # 2025-07-04
 0.0.0.0 engelswelpenhaus.de # 2025-07-04
-0.0.0.0 manufakturwerkeur.shop # 2025-07-04
 0.0.0.0 mexicotabs.com # 2025-07-04
 0.0.0.0 popland-berlin.de # 2025-07-04
 0.0.0.0 ragwearaustria.com # 2025-07-04
 0.0.0.0 rasenmahen24.com # 2025-07-04
-0.0.0.0 toonzshop.at # 2025-07-04
+0.0.0.0 manufakturwerkeur.shop # 2025-07-05
+0.0.0.0 toonzshop.at # 2025-07-05
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
