@@ -6345,7 +6345,6 @@
 0.0.0.0 de1.landurm.com # 2024-01-03
 0.0.0.0 emmalove.de # 2024-01-03
 0.0.0.0 exquisites-swiss.com # 2024-01-03
-0.0.0.0 feldluft.de # 2024-01-03
 0.0.0.0 footvibe.de # 2024-01-03
 0.0.0.0 fr.gluconv.com # 2024-01-03
 0.0.0.0 fr1.landomr.com # 2024-01-03
@@ -7981,6 +7980,7 @@
 0.0.0.0 stilgut-wien.at # 2025-07-04
 0.0.0.0 vivo-hamburg.de # 2025-07-04
 0.0.0.0 orthofabrik.de # 2025-07-05
+0.0.0.0 feldluft.de # 2025-07-06
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28414,7 +28414,6 @@
 0.0.0.0 hpdcrw.shop # 2025-07-01
 0.0.0.0 kjw-garten.de # 2025-07-01
 0.0.0.0 kontoraiffeisenmeinelba.com # 2025-07-01
-0.0.0.0 labubuofficials.de # 2025-07-01
 0.0.0.0 lagerknaller.de # 2025-07-01
 0.0.0.0 lagoma24.com # 2025-07-01
 0.0.0.0 pksideshop.com # 2025-07-01
@@ -28456,6 +28455,7 @@
 0.0.0.0 rasenmahen24.com # 2025-07-04
 0.0.0.0 manufakturwerkeur.shop # 2025-07-05
 0.0.0.0 toonzshop.at # 2025-07-05
+0.0.0.0 labubuofficials.de # 2025-07-06
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
