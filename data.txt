@@ -1381,6 +1381,8 @@
 0.0.0.0 m.daefox.com # 2025-07-03
 0.0.0.0 pc.daefox.com # 2025-07-03
 0.0.0.0 erecovery.net # 2025-07-05
+0.0.0.0 mobile.visc.top # 2025-07-07
+0.0.0.0 oestfundpro.com # 2025-07-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7981,6 +7983,16 @@
 0.0.0.0 vivo-hamburg.de # 2025-07-04
 0.0.0.0 orthofabrik.de # 2025-07-05
 0.0.0.0 feldluft.de # 2025-07-06
+0.0.0.0 artizynt-eu.com/at # 2025-07-07
+0.0.0.0 baumme.de # 2025-07-07
+0.0.0.0 baurmodehaus.de # 2025-07-07
+0.0.0.0 claracasperjuwelen.de # 2025-07-07
+0.0.0.0 cooling-ace.de # 2025-07-07
+0.0.0.0 lekiweb.com # 2025-07-07
+0.0.0.0 montivo.de # 2025-07-07
+0.0.0.0 nkeymono.lol # 2025-07-07
+0.0.0.0 thefleececompany.com # 2025-07-07
+0.0.0.0 weberundalbrecht.de # 2025-07-07
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28419,7 +28431,6 @@
 0.0.0.0 pksideshop.com # 2025-07-01
 0.0.0.0 probutton-tech.de # 2025-07-01
 0.0.0.0 sparmarie24.de # 2025-07-01
-0.0.0.0 sparwahnsinn24.de # 2025-07-01
 0.0.0.0 ugfxrl.shop # 2025-07-01
 0.0.0.0 wearnwatt.de # 2025-07-01
 0.0.0.0 billigwunder.com # 2025-07-02
@@ -28448,7 +28459,6 @@
 0.0.0.0 thomann-music.za.com # 2025-07-03
 0.0.0.0 thursdayboots-osterreich.at # 2025-07-03
 0.0.0.0 dachvr.okologischrlw.cyou # 2025-07-04
-0.0.0.0 engelswelpenhaus.de # 2025-07-04
 0.0.0.0 mexicotabs.com # 2025-07-04
 0.0.0.0 popland-berlin.de # 2025-07-04
 0.0.0.0 ragwearaustria.com # 2025-07-04
@@ -28456,6 +28466,21 @@
 0.0.0.0 manufakturwerkeur.shop # 2025-07-05
 0.0.0.0 toonzshop.at # 2025-07-05
 0.0.0.0 labubuofficials.de # 2025-07-06
+0.0.0.0 allesanhanger.com # 2025-07-07
+0.0.0.0 belogistik.de # 2025-07-07
+0.0.0.0 engelswelpenhaus.de # 2025-07-07
+0.0.0.0 familienmobil24.de # 2025-07-07
+0.0.0.0 haus-elektro.de # 2025-07-07
+0.0.0.0 heho-berlin.de # 2025-07-07
+0.0.0.0 kuchengrill.com # 2025-07-07
+0.0.0.0 lebenlh.klaryqx.cyou # 2025-07-07
+0.0.0.0 lidisale.shop # 2025-07-07
+0.0.0.0 lowa--schuhe.com # 2025-07-07
+0.0.0.0 meindl--schuhe.com # 2025-07-07
+0.0.0.0 onshoes-eu.com # 2025-07-07
+0.0.0.0 sparwahnsinn24.de # 2025-07-07
+0.0.0.0 varioustoolsstoresde.com # 2025-07-07
+0.0.0.0 wufundmiau.de # 2025-07-07
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29386,8 +29411,4 @@
 0.0.0.0 appnebula.co/natal-chart # 2025-06-18
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
-
-# Automatisierte Warnungen
-0.0.0.0 hammerheartstore.com # 2025-05-26
-0.0.0.0 broncofish.com # 2025-06-23
 
