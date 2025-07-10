@@ -1381,8 +1381,10 @@
 0.0.0.0 m.daefox.com # 2025-07-03
 0.0.0.0 pc.daefox.com # 2025-07-03
 0.0.0.0 erecovery.net # 2025-07-05
-0.0.0.0 mobile.visc.top # 2025-07-07
-0.0.0.0 oestfundpro.com # 2025-07-07
+0.0.0.0 bitcore-momentum.app # 2025-07-08
+0.0.0.0 immediate-aus.com # 2025-07-08
+0.0.0.0 mobile.visc.top # 2025-07-08
+0.0.0.0 oestfundpro.com # 2025-07-08
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7988,11 +7990,13 @@
 0.0.0.0 baurmodehaus.de # 2025-07-07
 0.0.0.0 claracasperjuwelen.de # 2025-07-07
 0.0.0.0 cooling-ace.de # 2025-07-07
-0.0.0.0 lekiweb.com # 2025-07-07
-0.0.0.0 montivo.de # 2025-07-07
 0.0.0.0 nkeymono.lol # 2025-07-07
 0.0.0.0 thefleececompany.com # 2025-07-07
-0.0.0.0 weberundalbrecht.de # 2025-07-07
+0.0.0.0 lekiweb.com # 2025-07-08
+0.0.0.0 montivo.de # 2025-07-08
+0.0.0.0 somni-ring.com # 2025-07-08
+0.0.0.0 vitafeetdeut.com # 2025-07-08
+0.0.0.0 weberundalbrecht.de # 2025-07-08
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28466,21 +28470,27 @@
 0.0.0.0 manufakturwerkeur.shop # 2025-07-05
 0.0.0.0 toonzshop.at # 2025-07-05
 0.0.0.0 labubuofficials.de # 2025-07-06
-0.0.0.0 allesanhanger.com # 2025-07-07
-0.0.0.0 belogistik.de # 2025-07-07
 0.0.0.0 engelswelpenhaus.de # 2025-07-07
-0.0.0.0 familienmobil24.de # 2025-07-07
-0.0.0.0 haus-elektro.de # 2025-07-07
-0.0.0.0 heho-berlin.de # 2025-07-07
-0.0.0.0 kuchengrill.com # 2025-07-07
-0.0.0.0 lebenlh.klaryqx.cyou # 2025-07-07
-0.0.0.0 lidisale.shop # 2025-07-07
 0.0.0.0 lowa--schuhe.com # 2025-07-07
 0.0.0.0 meindl--schuhe.com # 2025-07-07
-0.0.0.0 onshoes-eu.com # 2025-07-07
 0.0.0.0 sparwahnsinn24.de # 2025-07-07
-0.0.0.0 varioustoolsstoresde.com # 2025-07-07
-0.0.0.0 wufundmiau.de # 2025-07-07
+0.0.0.0 akuratbv.com # 2025-07-08
+0.0.0.0 allesanhanger.com # 2025-07-08
+0.0.0.0 belogistik.de # 2025-07-08
+0.0.0.0 de.mahertech24.com # 2025-07-08
+0.0.0.0 familienmobil24.de # 2025-07-08
+0.0.0.0 haus-elektro.de # 2025-07-08
+0.0.0.0 heho-berlin.de # 2025-07-08
+0.0.0.0 jdflmportexport.de # 2025-07-08
+0.0.0.0 kuchengrill.com # 2025-07-08
+0.0.0.0 lebenlh.klaryqx.cyou # 2025-07-08
+0.0.0.0 lidisale.shop # 2025-07-08
+0.0.0.0 lsstst.shop # 2025-07-08
+0.0.0.0 onshoes-eu.com # 2025-07-08
+0.0.0.0 tbz-versand.de # 2025-07-08
+0.0.0.0 varioustoolsstoresde.com # 2025-07-08
+0.0.0.0 vignetten.metaplexnews.com # 2025-07-08
+0.0.0.0 wufundmiau.de # 2025-07-08
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29261,6 +29271,7 @@
 0.0.0.0 congresshotelamsguestsportalarriva.com # 2025-04-17
 0.0.0.0 eu-6079461275-property.homes # 2025-04-24
 0.0.0.0 house-book.eu # 2025-06-19
+0.0.0.0 mesa-estate.eu # 2025-07-08
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
