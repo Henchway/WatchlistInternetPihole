@@ -7993,7 +7993,6 @@
 0.0.0.0 lekiweb.com # 2025-07-08
 0.0.0.0 montivo.de # 2025-07-08
 0.0.0.0 weberundalbrecht.de # 2025-07-08
-0.0.0.0 bikiniskin.de # 2025-07-09
 0.0.0.0 drpfoten.de # 2025-07-09
 0.0.0.0 festberg-ace.de # 2025-07-09
 0.0.0.0 luminara-mode.de # 2025-07-09
@@ -8003,10 +8002,11 @@
 0.0.0.0 uvives.de # 2025-07-09
 0.0.0.0 vitafeetdeut.com # 2025-07-09
 0.0.0.0 acalies.com # 2025-07-10
-0.0.0.0 edelynklein.de # 2025-07-10
 0.0.0.0 gavex.online # 2025-07-10
 0.0.0.0 jenuss-boutik.de # 2025-07-10
 0.0.0.0 lebenreuder.com # 2025-07-10
+0.0.0.0 bikiniskin.de # 2025-07-11
+0.0.0.0 edelynklein.de # 2025-07-11
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28501,23 +28501,28 @@
 0.0.0.0 tbz-versand.de # 2025-07-09
 0.0.0.0 vignetten.metaplexnews.com # 2025-07-09
 0.0.0.0 wufundmiau.de # 2025-07-09
-0.0.0.0 anhangershopsey.com # 2025-07-10
 0.0.0.0 at.collectory.se # 2025-07-10
 0.0.0.0 chourok.net # 2025-07-10
 0.0.0.0 collectory.se # 2025-07-10
 0.0.0.0 de.collectory.se # 2025-07-10
-0.0.0.0 descatio.com # 2025-07-10
 0.0.0.0 freezecylinders.myshopify.com # 2025-07-10
 0.0.0.0 glowency.de # 2025-07-10
 0.0.0.0 instrumentemusic.com # 2025-07-10
 0.0.0.0 labubu-lounge.de # 2025-07-10
 0.0.0.0 pmdsuo.shop # 2025-07-10
 0.0.0.0 roxydubai.com # 2025-07-10
-0.0.0.0 schneider-radhaus.com # 2025-07-10
-0.0.0.0 tell4u-shopping.de # 2025-07-10
 0.0.0.0 vignetten.holidayfreebie.com # 2025-07-10
-0.0.0.0 weingut-erbeldinger.shop # 2025-07-10
-0.0.0.0 welljddihco.com # 2025-07-10
+0.0.0.0 anhangershopsey.com # 2025-07-11
+0.0.0.0 athleticsavesale.shop # 2025-07-11
+0.0.0.0 descatio.com # 2025-07-11
+0.0.0.0 fiurre.shop # 2025-07-11
+0.0.0.0 lisascholzhunde3.de # 2025-07-11
+0.0.0.0 mondversand.shop # 2025-07-11
+0.0.0.0 schneider-radhaus.com # 2025-07-11
+0.0.0.0 tell4u-shopping.de # 2025-07-11
+0.0.0.0 thewinestoreava.shop # 2025-07-11
+0.0.0.0 weingut-erbeldinger.shop # 2025-07-11
+0.0.0.0 welljddihco.com # 2025-07-11
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28766,6 +28771,7 @@
 0.0.0.0 nhconnect.cc # 2025-06-27
 0.0.0.0 yumbrandsnow.com # 2025-06-27
 0.0.0.0 prozesswerk.digital # 2025-07-10
+0.0.0.0 clok-en.com # 2025-07-11
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
