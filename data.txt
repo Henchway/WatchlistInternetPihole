@@ -1385,7 +1385,7 @@
 0.0.0.0 oestfundpro.com # 2025-07-08
 0.0.0.0 bitcore-momentum.app # 2025-07-10
 0.0.0.0 immediate-aus.com # 2025-07-10
-0.0.0.0 rineplex.com # 2025-07-10
+0.0.0.0 rineplex.com # 2025-07-12
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8002,11 +8002,11 @@
 0.0.0.0 uvives.de # 2025-07-09
 0.0.0.0 vitafeetdeut.com # 2025-07-09
 0.0.0.0 acalies.com # 2025-07-10
-0.0.0.0 gavex.online # 2025-07-10
 0.0.0.0 jenuss-boutik.de # 2025-07-10
 0.0.0.0 lebenreuder.com # 2025-07-10
 0.0.0.0 bikiniskin.de # 2025-07-11
 0.0.0.0 edelynklein.de # 2025-07-11
+0.0.0.0 gavex.online # 2025-07-12
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28501,7 +28501,6 @@
 0.0.0.0 tbz-versand.de # 2025-07-09
 0.0.0.0 vignetten.metaplexnews.com # 2025-07-09
 0.0.0.0 wufundmiau.de # 2025-07-09
-0.0.0.0 at.collectory.se # 2025-07-10
 0.0.0.0 chourok.net # 2025-07-10
 0.0.0.0 collectory.se # 2025-07-10
 0.0.0.0 de.collectory.se # 2025-07-10
@@ -28510,19 +28509,20 @@
 0.0.0.0 instrumentemusic.com # 2025-07-10
 0.0.0.0 labubu-lounge.de # 2025-07-10
 0.0.0.0 pmdsuo.shop # 2025-07-10
-0.0.0.0 roxydubai.com # 2025-07-10
 0.0.0.0 vignetten.holidayfreebie.com # 2025-07-10
-0.0.0.0 anhangershopsey.com # 2025-07-11
-0.0.0.0 athleticsavesale.shop # 2025-07-11
 0.0.0.0 descatio.com # 2025-07-11
-0.0.0.0 fiurre.shop # 2025-07-11
-0.0.0.0 lisascholzhunde3.de # 2025-07-11
-0.0.0.0 mondversand.shop # 2025-07-11
 0.0.0.0 schneider-radhaus.com # 2025-07-11
 0.0.0.0 tell4u-shopping.de # 2025-07-11
-0.0.0.0 thewinestoreava.shop # 2025-07-11
 0.0.0.0 weingut-erbeldinger.shop # 2025-07-11
 0.0.0.0 welljddihco.com # 2025-07-11
+0.0.0.0 anhangershopsey.com # 2025-07-12
+0.0.0.0 at.collectory.se # 2025-07-12
+0.0.0.0 athleticsavesale.shop # 2025-07-12
+0.0.0.0 fiurre.shop # 2025-07-12
+0.0.0.0 lisascholzhunde3.de # 2025-07-12
+0.0.0.0 mondversand.shop # 2025-07-12
+0.0.0.0 roxydubai.com # 2025-07-12
+0.0.0.0 thewinestoreava.shop # 2025-07-12
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28770,8 +28770,8 @@
 0.0.0.0 googleseriess.com # 2025-06-27
 0.0.0.0 nhconnect.cc # 2025-06-27
 0.0.0.0 yumbrandsnow.com # 2025-06-27
-0.0.0.0 prozesswerk.digital # 2025-07-10
 0.0.0.0 clok-en.com # 2025-07-11
+0.0.0.0 prozesswerk.digital # 2025-07-12
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -28902,7 +28902,7 @@
 0.0.0.0 installateur.artpro-24.pro # 2025-06-26
 0.0.0.0 installateur-profis24.at # 2025-07-02
 0.0.0.0 kammerjäger-schulz.at # 2025-07-02
-0.0.0.0 not-schlosser.at # 2025-07-10
+0.0.0.0 not-schlosser.at # 2025-07-12
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -29219,6 +29219,9 @@
 0.0.0.0 immobilien-schaller.at # 2025-04-18
 0.0.0.0 sovimo-assets.com # 2025-05-25
 
+# Automatisierte Warnungen
+0.0.0.0 affenzahn-schuhe.com # 2025-07-12
+
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
 0.0.0.0 allhotelsmorocco.com # 2021-03-19
@@ -29306,7 +29309,7 @@
 0.0.0.0 congresshotelamsguestsportalarriva.com # 2025-04-17
 0.0.0.0 eu-6079461275-property.homes # 2025-04-24
 0.0.0.0 house-book.eu # 2025-06-19
-0.0.0.0 mesa-estate.eu # 2025-07-08
+0.0.0.0 mesa-estate.eu # 2025-07-12
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
