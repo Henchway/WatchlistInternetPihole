@@ -7995,7 +7995,6 @@
 0.0.0.0 weberundalbrecht.de # 2025-07-08
 0.0.0.0 drpfoten.de # 2025-07-09
 0.0.0.0 festberg-ace.de # 2025-07-09
-0.0.0.0 luminara-mode.de # 2025-07-09
 0.0.0.0 nordicdrop.de # 2025-07-09
 0.0.0.0 shopmaxxs.com # 2025-07-09
 0.0.0.0 somni-ring.com # 2025-07-09
@@ -8007,6 +8006,22 @@
 0.0.0.0 bikiniskin.de # 2025-07-11
 0.0.0.0 edelynklein.de # 2025-07-11
 0.0.0.0 gavex.online # 2025-07-12
+0.0.0.0 bremsen-onshop.com # 2025-07-14
+0.0.0.0 bremsenonshop.com # 2025-07-14
+0.0.0.0 garborine.com # 2025-07-14
+0.0.0.0 get-curaball.com # 2025-07-14
+0.0.0.0 hausundgarten.haus # 2025-07-14
+0.0.0.0 lookberg.de # 2025-07-14
+0.0.0.0 luminara-mode.de # 2025-07-14
+0.0.0.0 lunarelleberlin.de # 2025-07-14
+0.0.0.0 lusso-moda.de # 2025-07-14
+0.0.0.0 marcoferretti.de # 2025-07-14
+0.0.0.0 oldmoneylondon.com # 2025-07-14
+0.0.0.0 phytrix1.com # 2025-07-14
+0.0.0.0 swisslona.ch # 2025-07-14
+0.0.0.0 westfeldmode.de # 2025-07-14
+0.0.0.0 ziyarafashion.shop # 2025-07-14
+0.0.0.0 ziyaratelaviv.com # 2025-07-14
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28523,6 +28538,27 @@
 0.0.0.0 mondversand.shop # 2025-07-12
 0.0.0.0 roxydubai.com # 2025-07-12
 0.0.0.0 thewinestoreava.shop # 2025-07-12
+0.0.0.0 allesbois.de # 2025-07-14
+0.0.0.0 canyonsavebig.shop # 2025-07-14
+0.0.0.0 cecilaktion.de # 2025-07-14
+0.0.0.0 de-birke.com # 2025-07-14
+0.0.0.0 eu.stanley1913.com # 2025-07-14
+0.0.0.0 euro.stanleys1913.com # 2025-07-14
+0.0.0.0 greenmah.shop # 2025-07-14
+0.0.0.0 hundvonedenstoreava.shop # 2025-07-14
+0.0.0.0 kwjpsp.shop # 2025-07-14
+0.0.0.0 madridno94.com # 2025-07-14
+0.0.0.0 on-schuhe-de.shop # 2025-07-14
+0.0.0.0 purekicks.de # 2025-07-14
+0.0.0.0 riiokya.shop # 2025-07-14
+0.0.0.0 rolladenmeister.at # 2025-07-14
+0.0.0.0 stanley1913.com # 2025-07-14
+0.0.0.0 tbnlmv.shop # 2025-07-14
+0.0.0.0 tnxiyg.shop # 2025-07-14
+0.0.0.0 uk.stanley1913.com # 2025-07-14
+0.0.0.0 uloti.shop # 2025-07-14
+0.0.0.0 xenstream.shop # 2025-07-14
+0.0.0.0 xeviet.net # 2025-07-14
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28903,6 +28939,7 @@
 0.0.0.0 installateur-profis24.at # 2025-07-02
 0.0.0.0 kammerjäger-schulz.at # 2025-07-02
 0.0.0.0 not-schlosser.at # 2025-07-12
+0.0.0.0 elektriker-john.at # 2025-07-14
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -29221,6 +29258,7 @@
 
 # Automatisierte Warnungen
 0.0.0.0 affenzahn-schuhe.com # 2025-07-12
+0.0.0.0 versys.net # 2025-07-14
 
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
