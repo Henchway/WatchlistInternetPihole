@@ -1383,9 +1383,9 @@
 0.0.0.0 erecovery.net # 2025-07-05
 0.0.0.0 mobile.visc.top # 2025-07-08
 0.0.0.0 oestfundpro.com # 2025-07-08
-0.0.0.0 bitcore-momentum.app # 2025-07-10
 0.0.0.0 immediate-aus.com # 2025-07-10
 0.0.0.0 rineplex.com # 2025-07-12
+0.0.0.0 bitcore-momentum.app # 2025-07-16
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8009,7 +8009,6 @@
 0.0.0.0 bremsen-onshop.com # 2025-07-14
 0.0.0.0 bremsenonshop.com # 2025-07-14
 0.0.0.0 garborine.com # 2025-07-14
-0.0.0.0 get-curaball.com # 2025-07-14
 0.0.0.0 hausundgarten.haus # 2025-07-14
 0.0.0.0 luminara-mode.de # 2025-07-14
 0.0.0.0 lunarelleberlin.de # 2025-07-14
@@ -8025,8 +8024,13 @@
 0.0.0.0 lusso-moda.de # 2025-07-15
 0.0.0.0 mayr-wien.at # 2025-07-15
 0.0.0.0 monika-taschen.com # 2025-07-15
-0.0.0.0 oldmoneylondon.com # 2025-07-15
 0.0.0.0 rabeinriver.de # 2025-07-15
+0.0.0.0 bellave.de # 2025-07-16
+0.0.0.0 euvivosale.it.com # 2025-07-16
+0.0.0.0 get-curaball.com # 2025-07-16
+0.0.0.0 luxday.de # 2025-07-16
+0.0.0.0 mullersalzburg.com # 2025-07-16
+0.0.0.0 oldmoneylondon.com # 2025-07-16
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28555,21 +28559,31 @@
 0.0.0.0 kwjpsp.shop # 2025-07-15
 0.0.0.0 madridno94.com # 2025-07-15
 0.0.0.0 mldtb.com # 2025-07-15
-0.0.0.0 modellkeller.com # 2025-07-15
 0.0.0.0 on-schuhe-de.shop # 2025-07-15
-0.0.0.0 oopoie.shop # 2025-07-15
 0.0.0.0 purekicks.de # 2025-07-15
 0.0.0.0 riiokya.shop # 2025-07-15
-0.0.0.0 rolladenmeister.at # 2025-07-15
 0.0.0.0 stanley1913.com # 2025-07-15
 0.0.0.0 tbnlmv.shop # 2025-07-15
-0.0.0.0 tfbs-shop.com # 2025-07-15
-0.0.0.0 thomann-vip.za.com # 2025-07-15
 0.0.0.0 tnxiyg.shop # 2025-07-15
 0.0.0.0 uk.stanley1913.com # 2025-07-15
 0.0.0.0 uloti.shop # 2025-07-15
 0.0.0.0 versys.net # 2025-07-15
 0.0.0.0 xenstream.shop # 2025-07-15
+0.0.0.0 discount-on-car-parts.com # 2025-07-16
+0.0.0.0 fahrradtrek.com # 2025-07-16
+0.0.0.0 hermann-handel.de # 2025-07-16
+0.0.0.0 kmncvsdou.shop # 2025-07-16
+0.0.0.0 lipas.shop # 2025-07-16
+0.0.0.0 lokalweert.de # 2025-07-16
+0.0.0.0 modellkeller.com # 2025-07-16
+0.0.0.0 oopoie.shop # 2025-07-16
+0.0.0.0 pvqkcuin.shop # 2025-07-16
+0.0.0.0 rolladenmeister.at # 2025-07-16
+0.0.0.0 schockemohleonlinestore.shop # 2025-07-16
+0.0.0.0 shoplabubuland.com # 2025-07-16
+0.0.0.0 tfbs-shop.com # 2025-07-16
+0.0.0.0 thomann-vip.za.com # 2025-07-16
+0.0.0.0 vilbridis.com # 2025-07-16
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28950,7 +28964,7 @@
 0.0.0.0 installateur-profis24.at # 2025-07-02
 0.0.0.0 kammerjäger-schulz.at # 2025-07-02
 0.0.0.0 not-schlosser.at # 2025-07-12
-0.0.0.0 elektriker-john.at # 2025-07-15
+0.0.0.0 elektriker-john.at # 2025-07-16
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -29505,4 +29519,7 @@
 0.0.0.0 appnebula.co/natal-chart # 2025-06-18
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
+
+# Automatisierte Warnungen
+0.0.0.0 leoswc.com # 2025-07-16
 
