@@ -7920,7 +7920,6 @@
 0.0.0.0 deluxepallets.com # 2025-06-16
 0.0.0.0 hochwertigesspielzeug.com # 2025-06-16
 0.0.0.0 home-studio-pur.com # 2025-06-16
-0.0.0.0 ivily-shop.com # 2025-06-16
 0.0.0.0 loramuenchen.de # 2025-06-16
 0.0.0.0 mullers-modehaus.com # 2025-06-16
 0.0.0.0 ortho-magazin.de # 2025-06-16
@@ -8025,12 +8024,13 @@
 0.0.0.0 mayr-wien.at # 2025-07-15
 0.0.0.0 monika-taschen.com # 2025-07-15
 0.0.0.0 rabeinriver.de # 2025-07-15
-0.0.0.0 bellave.de # 2025-07-16
 0.0.0.0 euvivosale.it.com # 2025-07-16
 0.0.0.0 get-curaball.com # 2025-07-16
 0.0.0.0 luxday.de # 2025-07-16
 0.0.0.0 mullersalzburg.com # 2025-07-16
 0.0.0.0 oldmoneylondon.com # 2025-07-16
+0.0.0.0 bellave.de # 2025-07-17
+0.0.0.0 fashion-ivora.com # 2025-07-17
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28529,7 +28529,6 @@
 0.0.0.0 de.collectory.se # 2025-07-10
 0.0.0.0 freezecylinders.myshopify.com # 2025-07-10
 0.0.0.0 glowency.de # 2025-07-10
-0.0.0.0 instrumentemusic.com # 2025-07-10
 0.0.0.0 labubu-lounge.de # 2025-07-10
 0.0.0.0 pmdsuo.shop # 2025-07-10
 0.0.0.0 vignetten.holidayfreebie.com # 2025-07-10
@@ -28569,21 +28568,26 @@
 0.0.0.0 uloti.shop # 2025-07-15
 0.0.0.0 versys.net # 2025-07-15
 0.0.0.0 xenstream.shop # 2025-07-15
-0.0.0.0 discount-on-car-parts.com # 2025-07-16
-0.0.0.0 fahrradtrek.com # 2025-07-16
-0.0.0.0 hermann-handel.de # 2025-07-16
-0.0.0.0 kmncvsdou.shop # 2025-07-16
-0.0.0.0 lipas.shop # 2025-07-16
-0.0.0.0 lokalweert.de # 2025-07-16
 0.0.0.0 modellkeller.com # 2025-07-16
 0.0.0.0 oopoie.shop # 2025-07-16
-0.0.0.0 pvqkcuin.shop # 2025-07-16
 0.0.0.0 rolladenmeister.at # 2025-07-16
-0.0.0.0 schockemohleonlinestore.shop # 2025-07-16
-0.0.0.0 shoplabubuland.com # 2025-07-16
 0.0.0.0 tfbs-shop.com # 2025-07-16
 0.0.0.0 thomann-vip.za.com # 2025-07-16
-0.0.0.0 vilbridis.com # 2025-07-16
+0.0.0.0 discount-on-car-parts.com # 2025-07-17
+0.0.0.0 fahrradtrek.com # 2025-07-17
+0.0.0.0 hermann-handel.de # 2025-07-17
+0.0.0.0 instrumentemusic.com # 2025-07-17
+0.0.0.0 kmncvsdou.shop # 2025-07-17
+0.0.0.0 lipas.shop # 2025-07-17
+0.0.0.0 lockenbareu.shop # 2025-07-17
+0.0.0.0 lokalweert.de # 2025-07-17
+0.0.0.0 maison-closestore.com # 2025-07-17
+0.0.0.0 online-tonies.shop # 2025-07-17
+0.0.0.0 pvqkcuin.shop # 2025-07-17
+0.0.0.0 schockemohleonlinestore.shop # 2025-07-17
+0.0.0.0 shoplabubuland.com # 2025-07-17
+0.0.0.0 vilbridis.com # 2025-07-17
+0.0.0.0 walmede.shop # 2025-07-17
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28833,6 +28837,7 @@
 0.0.0.0 yumbrandsnow.com # 2025-06-27
 0.0.0.0 clok-en.com # 2025-07-11
 0.0.0.0 prozesswerk.digital # 2025-07-12
+0.0.0.0 vplan-beratung.org # 2025-07-17
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -29280,6 +29285,7 @@
 0.0.0.0 urban-assests.com # 2025-01-21
 0.0.0.0 immobilien-schaller.at # 2025-04-18
 0.0.0.0 sovimo-assets.com # 2025-05-25
+0.0.0.0 thirdeye-immobilien.at # 2025-07-17
 
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
