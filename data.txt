@@ -1386,6 +1386,7 @@
 0.0.0.0 immediate-aus.com # 2025-07-10
 0.0.0.0 rineplex.com # 2025-07-12
 0.0.0.0 bitcore-momentum.app # 2025-07-16
+0.0.0.0 indexfxcapital.co # 2025-07-18
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8031,6 +8032,13 @@
 0.0.0.0 oldmoneylondon.com # 2025-07-16
 0.0.0.0 bellave.de # 2025-07-17
 0.0.0.0 fashion-ivora.com # 2025-07-17
+0.0.0.0 atelierkitzbuehel.at # 2025-07-18
+0.0.0.0 gentglam.com # 2025-07-18
+0.0.0.0 lora-zurich.com # 2025-07-18
+0.0.0.0 meinedirndl.com # 2025-07-18
+0.0.0.0 schultemode.de # 2025-07-18
+0.0.0.0 vorano.de # 2025-07-18
+0.0.0.0 zalandora.com # 2025-07-18
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28579,15 +28587,21 @@
 0.0.0.0 instrumentemusic.com # 2025-07-17
 0.0.0.0 kmncvsdou.shop # 2025-07-17
 0.0.0.0 lipas.shop # 2025-07-17
-0.0.0.0 lockenbareu.shop # 2025-07-17
 0.0.0.0 lokalweert.de # 2025-07-17
-0.0.0.0 maison-closestore.com # 2025-07-17
-0.0.0.0 online-tonies.shop # 2025-07-17
 0.0.0.0 pvqkcuin.shop # 2025-07-17
 0.0.0.0 schockemohleonlinestore.shop # 2025-07-17
 0.0.0.0 shoplabubuland.com # 2025-07-17
 0.0.0.0 vilbridis.com # 2025-07-17
-0.0.0.0 walmede.shop # 2025-07-17
+0.0.0.0 bestelnuar.click # 2025-07-18
+0.0.0.0 click-zigaretten.com # 2025-07-18
+0.0.0.0 designatshop.com # 2025-07-18
+0.0.0.0 fahrradhandel-ahrens.de # 2025-07-18
+0.0.0.0 leoswc.com # 2025-07-18
+0.0.0.0 lockenbareu.shop # 2025-07-18
+0.0.0.0 maison-closestore.com # 2025-07-18
+0.0.0.0 online-tonies.shop # 2025-07-18
+0.0.0.0 onschuhen.com # 2025-07-18
+0.0.0.0 walmede.shop # 2025-07-18
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29285,7 +29299,7 @@
 0.0.0.0 urban-assests.com # 2025-01-21
 0.0.0.0 immobilien-schaller.at # 2025-04-18
 0.0.0.0 sovimo-assets.com # 2025-05-25
-0.0.0.0 thirdeye-immobilien.at # 2025-07-17
+0.0.0.0 thirdeye-immobilien.at # 2025-07-18
 
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
@@ -29525,7 +29539,4 @@
 0.0.0.0 appnebula.co/natal-chart # 2025-06-18
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
-
-# Automatisierte Warnungen
-0.0.0.0 leoswc.com # 2025-07-16
 
