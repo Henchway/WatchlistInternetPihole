@@ -1386,7 +1386,7 @@
 0.0.0.0 immediate-aus.com # 2025-07-10
 0.0.0.0 rineplex.com # 2025-07-12
 0.0.0.0 bitcore-momentum.app # 2025-07-16
-0.0.0.0 indexfxcapital.co # 2025-07-18
+0.0.0.0 indexfxcapital.co # 2025-07-19
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8012,7 +8012,6 @@
 0.0.0.0 hausundgarten.haus # 2025-07-14
 0.0.0.0 luminara-mode.de # 2025-07-14
 0.0.0.0 lunarelleberlin.de # 2025-07-14
-0.0.0.0 marcoferretti.de # 2025-07-14
 0.0.0.0 phytrix1.com # 2025-07-14
 0.0.0.0 swisslona.ch # 2025-07-14
 0.0.0.0 westfeldmode.de # 2025-07-14
@@ -8039,6 +8038,7 @@
 0.0.0.0 schultemode.de # 2025-07-18
 0.0.0.0 vorano.de # 2025-07-18
 0.0.0.0 zalandora.com # 2025-07-18
+0.0.0.0 marcoferretti.de # 2025-07-19
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28520,7 +28520,6 @@
 0.0.0.0 haus-elektro.de # 2025-07-08
 0.0.0.0 heho-berlin.de # 2025-07-08
 0.0.0.0 kuchengrill.com # 2025-07-08
-0.0.0.0 lebenlh.klaryqx.cyou # 2025-07-08
 0.0.0.0 lidisale.shop # 2025-07-08
 0.0.0.0 onshoes-eu.com # 2025-07-08
 0.0.0.0 varioustoolsstoresde.com # 2025-07-08
@@ -28565,7 +28564,6 @@
 0.0.0.0 hundvonedenstoreava.shop # 2025-07-15
 0.0.0.0 kwjpsp.shop # 2025-07-15
 0.0.0.0 madridno94.com # 2025-07-15
-0.0.0.0 mldtb.com # 2025-07-15
 0.0.0.0 on-schuhe-de.shop # 2025-07-15
 0.0.0.0 purekicks.de # 2025-07-15
 0.0.0.0 riiokya.shop # 2025-07-15
@@ -28592,16 +28590,18 @@
 0.0.0.0 schockemohleonlinestore.shop # 2025-07-17
 0.0.0.0 shoplabubuland.com # 2025-07-17
 0.0.0.0 vilbridis.com # 2025-07-17
-0.0.0.0 bestelnuar.click # 2025-07-18
-0.0.0.0 click-zigaretten.com # 2025-07-18
-0.0.0.0 designatshop.com # 2025-07-18
-0.0.0.0 fahrradhandel-ahrens.de # 2025-07-18
-0.0.0.0 leoswc.com # 2025-07-18
 0.0.0.0 lockenbareu.shop # 2025-07-18
 0.0.0.0 maison-closestore.com # 2025-07-18
 0.0.0.0 online-tonies.shop # 2025-07-18
-0.0.0.0 onschuhen.com # 2025-07-18
 0.0.0.0 walmede.shop # 2025-07-18
+0.0.0.0 bestelnuar.click # 2025-07-19
+0.0.0.0 click-zigaretten.com # 2025-07-19
+0.0.0.0 designatshop.com # 2025-07-19
+0.0.0.0 fahrradhandel-ahrens.de # 2025-07-19
+0.0.0.0 lebenlh.klaryqx.cyou # 2025-07-19
+0.0.0.0 leoswc.com # 2025-07-19
+0.0.0.0 mldtb.com # 2025-07-19
+0.0.0.0 onschuhen.com # 2025-07-19
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28851,7 +28851,7 @@
 0.0.0.0 yumbrandsnow.com # 2025-06-27
 0.0.0.0 clok-en.com # 2025-07-11
 0.0.0.0 prozesswerk.digital # 2025-07-12
-0.0.0.0 vplan-beratung.org # 2025-07-17
+0.0.0.0 vplan-beratung.org # 2025-07-19
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
