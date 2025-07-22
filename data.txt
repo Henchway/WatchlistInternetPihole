@@ -28597,11 +28597,11 @@
 0.0.0.0 bestelnuar.click # 2025-07-19
 0.0.0.0 click-zigaretten.com # 2025-07-19
 0.0.0.0 designatshop.com # 2025-07-19
-0.0.0.0 fahrradhandel-ahrens.de # 2025-07-19
 0.0.0.0 lebenlh.klaryqx.cyou # 2025-07-19
 0.0.0.0 leoswc.com # 2025-07-19
 0.0.0.0 mldtb.com # 2025-07-19
 0.0.0.0 onschuhen.com # 2025-07-19
+0.0.0.0 fahrradhandel-ahrens.de # 2025-07-20
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29436,7 +29436,6 @@
 0.0.0.0 firmenklick.net # 2024-02-01
 0.0.0.0 baby-sanft-einschlafen.de # 2024-02-09
 0.0.0.0 pdfmaster.app # 2024-02-13
-0.0.0.0 pdfguru.com # 2024-02-19
 0.0.0.0 manualsguru.com # 2024-02-26
 0.0.0.0 manualsmate.com # 2024-02-29
 0.0.0.0 produktretter.at # 2024-03-01
@@ -29539,4 +29538,5 @@
 0.0.0.0 appnebula.co/natal-chart # 2025-06-18
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
+0.0.0.0 pdfguru.com # 2025-07-20
 
