@@ -8039,6 +8039,16 @@
 0.0.0.0 vorano.de # 2025-07-18
 0.0.0.0 zalandora.com # 2025-07-18
 0.0.0.0 marcoferretti.de # 2025-07-19
+0.0.0.0 darasports.de # 2025-07-21
+0.0.0.0 elureea.de # 2025-07-21
+0.0.0.0 germany-kitchenware-store.com # 2025-07-21
+0.0.0.0 gutgarten.com # 2025-07-21
+0.0.0.0 hebewerkzeuge.com # 2025-07-21
+0.0.0.0 panolu-shop.com # 2025-07-21
+0.0.0.0 protektorenmotorrad.com # 2025-07-21
+0.0.0.0 tegernsee-boutique.de # 2025-07-21
+0.0.0.0 vaihjd-6f.myshopify.com # 2025-07-21
+0.0.0.0 wra24.de # 2025-07-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28602,6 +28612,20 @@
 0.0.0.0 mldtb.com # 2025-07-19
 0.0.0.0 onschuhen.com # 2025-07-19
 0.0.0.0 fahrradhandel-ahrens.de # 2025-07-20
+0.0.0.0 afreshcraftz.com # 2025-07-21
+0.0.0.0 asicskinetica.com # 2025-07-21
+0.0.0.0 assouline-eu.shop # 2025-07-21
+0.0.0.0 berkler-anhanger.com # 2025-07-21
+0.0.0.0 digi-markets.de # 2025-07-21
+0.0.0.0 ebikeeu.com # 2025-07-21
+0.0.0.0 ebiketeileverkaufe.com # 2025-07-21
+0.0.0.0 i-vlus.com # 2025-07-21
+0.0.0.0 kanaren-shop.com # 2025-07-21
+0.0.0.0 kogfuf.shop # 2025-07-21
+0.0.0.0 leguano-at.com # 2025-07-21
+0.0.0.0 myprotein-vipeu.shop # 2025-07-21
+0.0.0.0 nmcvsaxio.shop # 2025-07-21
+0.0.0.0 rasenmaherwendik.de # 2025-07-21
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
