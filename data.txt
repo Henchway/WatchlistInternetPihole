@@ -1387,6 +1387,7 @@
 0.0.0.0 rineplex.com # 2025-07-12
 0.0.0.0 bitcore-momentum.app # 2025-07-16
 0.0.0.0 indexfxcapital.co # 2025-07-19
+0.0.0.0 finanzweggmbh.com # 2025-07-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8045,15 +8046,16 @@
 0.0.0.0 protektorenmotorrad.com # 2025-07-21
 0.0.0.0 tegernsee-boutique.de # 2025-07-21
 0.0.0.0 vaihjd-6f.myshopify.com # 2025-07-21
-0.0.0.0 wra24.de # 2025-07-21
 0.0.0.0 aktivabenteuer.de # 2025-07-22
 0.0.0.0 elureea.de # 2025-07-22
 0.0.0.0 kuhschelhof.de # 2025-07-22
-0.0.0.0 mode-lizzy.com # 2025-07-22
-0.0.0.0 niaboutique.de # 2025-07-22
 0.0.0.0 panolu-shop.com # 2025-07-22
-0.0.0.0 sagenevada.org # 2025-07-22
 0.0.0.0 uplements.de # 2025-07-22
+0.0.0.0 mode-lizzy.com # 2025-07-23
+0.0.0.0 niaboutique.de # 2025-07-23
+0.0.0.0 sagenevada.org # 2025-07-23
+0.0.0.0 tragleicht.de # 2025-07-23
+0.0.0.0 wra24.de # 2025-07-23
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28620,27 +28622,32 @@
 0.0.0.0 afreshcraftz.com # 2025-07-22
 0.0.0.0 asicskinetica.com # 2025-07-22
 0.0.0.0 assouline-eu.shop # 2025-07-22
-0.0.0.0 baby-rostock.com # 2025-07-22
 0.0.0.0 berkler-anhanger.com # 2025-07-22
-0.0.0.0 buy.bwbabuy.shop/I6VQciQB?fbclid # 2025-07-22
 0.0.0.0 digi-markets.de # 2025-07-22
 0.0.0.0 ebikeeu.com # 2025-07-22
 0.0.0.0 ebiketeileverkaufe.com # 2025-07-22
-0.0.0.0 grillspro.shop # 2025-07-22
 0.0.0.0 i-vlus.com # 2025-07-22
 0.0.0.0 kanaren-shop.com # 2025-07-22
 0.0.0.0 kogfuf.shop # 2025-07-22
 0.0.0.0 leguano-at.com # 2025-07-22
 0.0.0.0 myprotein-vipeu.shop # 2025-07-22
 0.0.0.0 nmcvsaxio.shop # 2025-07-22
-0.0.0.0 purku.top # 2025-07-22
 0.0.0.0 rasenmaherwendik.de # 2025-07-22
-0.0.0.0 replik-uhren.com # 2025-07-22
-0.0.0.0 rnedok.shop # 2025-07-22
-0.0.0.0 sicherxe.reinowu.cyou # 2025-07-22
-0.0.0.0 timowelpen.cam # 2025-07-22
-0.0.0.0 vignetten.gettookun.com # 2025-07-22
-0.0.0.0 ziectmg.shop # 2025-07-22
+0.0.0.0 baby-rostock.com # 2025-07-23
+0.0.0.0 blumen-steu.com # 2025-07-23
+0.0.0.0 buy.bwbabuy.shop/I6VQciQB?fbclid # 2025-07-23
+0.0.0.0 de-on.shop # 2025-07-23
+0.0.0.0 dekoorialeu.shop # 2025-07-23
+0.0.0.0 grillspro.shop # 2025-07-23
+0.0.0.0 pdfadm.shop # 2025-07-23
+0.0.0.0 purku.top # 2025-07-23
+0.0.0.0 replik-uhren.com # 2025-07-23
+0.0.0.0 rnedok.shop # 2025-07-23
+0.0.0.0 sicherxe.reinowu.cyou # 2025-07-23
+0.0.0.0 timowelpen.cam # 2025-07-23
+0.0.0.0 vignetten.gettookun.com # 2025-07-23
+0.0.0.0 vorwerk-tm7.de # 2025-07-23
+0.0.0.0 ziectmg.shop # 2025-07-23
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29428,7 +29435,6 @@
 0.0.0.0 eu-6079461275-property.homes # 2025-04-24
 0.0.0.0 house-book.eu # 2025-06-19
 0.0.0.0 mesa-estate.eu # 2025-07-12
-0.0.0.0 arkasabay.com # 2025-07-22
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29579,4 +29585,7 @@
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
 0.0.0.0 pdfguru.com # 2025-07-20
+
+# Automatisierte Warnungen
+0.0.0.0 dessoushop.com # 2025-07-23
 
