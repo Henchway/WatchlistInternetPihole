@@ -7976,7 +7976,6 @@
 0.0.0.0 coldeez.com # 2025-07-01
 0.0.0.0 schneidersalzburg.at # 2025-07-01
 0.0.0.0 aluhsda.com # 2025-07-02
-0.0.0.0 smartundgeizig.de # 2025-07-03
 0.0.0.0 fogatoshop.com # 2025-07-04
 0.0.0.0 rabattmax.com # 2025-07-04
 0.0.0.0 stilgut-wien.at # 2025-07-04
@@ -8058,6 +8057,9 @@
 0.0.0.0 bienll.de # 2025-07-24
 0.0.0.0 kuhschelhof.de # 2025-07-24
 0.0.0.0 mode-lizzy.de # 2025-07-24
+0.0.0.0 annamodehaus.ch # 2025-07-25
+0.0.0.0 galeria-bergmann.de # 2025-07-25
+0.0.0.0 xiruilai.com # 2025-07-25
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28646,16 +28648,24 @@
 0.0.0.0 blumen-steu.com # 2025-07-24
 0.0.0.0 de-on.shop # 2025-07-24
 0.0.0.0 dekoorialeu.shop # 2025-07-24
-0.0.0.0 discount-technogym.shop # 2025-07-24
-0.0.0.0 kruegertracht.de # 2025-07-24
-0.0.0.0 outlet-sparcoofficial.com # 2025-07-24
 0.0.0.0 pdfadm.shop # 2025-07-24
-0.0.0.0 road-vignette.shop # 2025-07-24
 0.0.0.0 timowelpen.cam # 2025-07-24
-0.0.0.0 trailer-container.com # 2025-07-24
-0.0.0.0 vesburst.shop # 2025-07-24
 0.0.0.0 vorwerk-tm7.de # 2025-07-24
 0.0.0.0 xenstream.shop # 2025-07-24
+0.0.0.0 dessoushop.com # 2025-07-25
+0.0.0.0 discount-technogym.shop # 2025-07-25
+0.0.0.0 kruegertracht.de # 2025-07-25
+0.0.0.0 monstabellaeu.shop # 2025-07-25
+0.0.0.0 mubnew.com # 2025-07-25
+0.0.0.0 ot-living.de # 2025-07-25
+0.0.0.0 outlet-sparcoofficial.com # 2025-07-25
+0.0.0.0 panonlineshop.com # 2025-07-25
+0.0.0.0 road-vignette.shop # 2025-07-25
+0.0.0.0 sblt.net # 2025-07-25
+0.0.0.0 smartundgeizig.de # 2025-07-25
+0.0.0.0 swarovskivip.shop # 2025-07-25
+0.0.0.0 trailer-container.com # 2025-07-25
+0.0.0.0 vesburst.shop # 2025-07-25
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28906,6 +28916,7 @@
 0.0.0.0 clok-en.com # 2025-07-11
 0.0.0.0 prozesswerk.digital # 2025-07-12
 0.0.0.0 vplan-beratung.org # 2025-07-19
+0.0.0.0 insta.talentloompro-at.com # 2025-07-25
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -29593,8 +29604,4 @@
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
 0.0.0.0 pdfguru.com # 2025-07-20
-
-# Automatisierte Warnungen
-0.0.0.0 dessoushop.com # 2025-07-23
-0.0.0.0 sblt.net # 2025-07-24
 
