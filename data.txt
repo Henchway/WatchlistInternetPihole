@@ -28632,7 +28632,6 @@
 0.0.0.0 i-vlus.com # 2025-07-22
 0.0.0.0 kanaren-shop.com # 2025-07-22
 0.0.0.0 kogfuf.shop # 2025-07-22
-0.0.0.0 leguano-at.com # 2025-07-22
 0.0.0.0 myprotein-vipeu.shop # 2025-07-22
 0.0.0.0 nmcvsaxio.shop # 2025-07-22
 0.0.0.0 rasenmaherwendik.de # 2025-07-22
@@ -28642,7 +28641,6 @@
 0.0.0.0 purku.top # 2025-07-23
 0.0.0.0 replik-uhren.com # 2025-07-23
 0.0.0.0 rnedok.shop # 2025-07-23
-0.0.0.0 sicherxe.reinowu.cyou # 2025-07-23
 0.0.0.0 vignetten.gettookun.com # 2025-07-23
 0.0.0.0 ziectmg.shop # 2025-07-23
 0.0.0.0 blumen-steu.com # 2025-07-24
@@ -28650,22 +28648,24 @@
 0.0.0.0 dekoorialeu.shop # 2025-07-24
 0.0.0.0 pdfadm.shop # 2025-07-24
 0.0.0.0 timowelpen.cam # 2025-07-24
-0.0.0.0 vorwerk-tm7.de # 2025-07-24
 0.0.0.0 xenstream.shop # 2025-07-24
 0.0.0.0 dessoushop.com # 2025-07-25
 0.0.0.0 discount-technogym.shop # 2025-07-25
 0.0.0.0 kruegertracht.de # 2025-07-25
-0.0.0.0 monstabellaeu.shop # 2025-07-25
-0.0.0.0 mubnew.com # 2025-07-25
-0.0.0.0 ot-living.de # 2025-07-25
 0.0.0.0 outlet-sparcoofficial.com # 2025-07-25
-0.0.0.0 panonlineshop.com # 2025-07-25
 0.0.0.0 road-vignette.shop # 2025-07-25
 0.0.0.0 sblt.net # 2025-07-25
-0.0.0.0 smartundgeizig.de # 2025-07-25
-0.0.0.0 swarovskivip.shop # 2025-07-25
 0.0.0.0 trailer-container.com # 2025-07-25
 0.0.0.0 vesburst.shop # 2025-07-25
+0.0.0.0 leguano-at.com # 2025-07-26
+0.0.0.0 monstabellaeu.shop # 2025-07-26
+0.0.0.0 mubnew.com # 2025-07-26
+0.0.0.0 ot-living.de # 2025-07-26
+0.0.0.0 panonlineshop.com # 2025-07-26
+0.0.0.0 sicherxe.reinowu.cyou # 2025-07-26
+0.0.0.0 smartundgeizig.de # 2025-07-26
+0.0.0.0 swarovskivip.shop # 2025-07-26
+0.0.0.0 vorwerk-tm7.de # 2025-07-26
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29604,4 +29604,7 @@
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
 0.0.0.0 pdfguru.com # 2025-07-20
+
+# Automatisierte Warnungen
+0.0.0.0 excelia.net # 2025-07-26
 
