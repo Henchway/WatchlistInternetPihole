@@ -1388,6 +1388,8 @@
 0.0.0.0 bitcore-momentum.app # 2025-07-16
 0.0.0.0 indexfxcapital.co # 2025-07-19
 0.0.0.0 finanzweggmbh.com # 2025-07-24
+0.0.0.0 arcajettrader.com # 2025-07-28
+0.0.0.0 soeobfgf.com # 2025-07-28
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -4886,7 +4888,6 @@
 0.0.0.0 vivaia.com # 2023-07-31
 0.0.0.0 hplaptopakku.de # 2023-08-01
 0.0.0.0 aegis-sicherheitsschuhe.de # 2023-08-02
-0.0.0.0 frendorf.de # 2023-08-02
 0.0.0.0 mode-himmel.com # 2023-08-02
 0.0.0.0 10d20.toplook.cz # 2023-08-03
 0.0.0.0 aakop.top # 2023-08-03
@@ -7531,7 +7532,6 @@
 0.0.0.0 raum-lust.de # 2025-01-22
 0.0.0.0 rosenbaum-berlin.de # 2025-01-22
 0.0.0.0 zieglerzurich.ch # 2025-01-22
-0.0.0.0 otpedic.de # 2025-01-23
 0.0.0.0 viennamodehaus.at # 2025-01-23
 0.0.0.0 glow-haven.de # 2025-01-24
 0.0.0.0 meikemode.de # 2025-01-24
@@ -8047,7 +8047,6 @@
 0.0.0.0 vaihjd-6f.myshopify.com # 2025-07-21
 0.0.0.0 aktivabenteuer.de # 2025-07-22
 0.0.0.0 elureea.de # 2025-07-22
-0.0.0.0 panolu-shop.com # 2025-07-22
 0.0.0.0 uplements.de # 2025-07-22
 0.0.0.0 mode-lizzy.com # 2025-07-23
 0.0.0.0 niaboutique.de # 2025-07-23
@@ -8060,6 +8059,15 @@
 0.0.0.0 annamodehaus.ch # 2025-07-25
 0.0.0.0 galeria-bergmann.de # 2025-07-25
 0.0.0.0 xiruilai.com # 2025-07-25
+0.0.0.0 aut.grandado.com # 2025-07-28
+0.0.0.0 avdazzja.shop # 2025-07-28
+0.0.0.0 dasbatteries.com # 2025-07-28
+0.0.0.0 frendorf.de # 2025-07-28
+0.0.0.0 gomirno.myshopify.com # 2025-07-28
+0.0.0.0 kamerino.de # 2025-07-28
+0.0.0.0 otpedic.de # 2025-07-28
+0.0.0.0 panolu-shop.com # 2025-07-28
+0.0.0.0 rostockhaf.de # 2025-07-28
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -14215,7 +14223,6 @@
 0.0.0.0 lovegoldsale.com # 2023-02-08
 0.0.0.0 missomajewellery.com # 2023-02-08
 0.0.0.0 motoheatedclothing.com # 2023-02-08
-0.0.0.0 outlet-pro.com # 2023-02-08
 0.0.0.0 outletarmani.com # 2023-02-08
 0.0.0.0 outletrecovery.com # 2023-02-08
 0.0.0.0 popcartruck.com # 2023-02-08
@@ -28666,6 +28673,13 @@
 0.0.0.0 smartundgeizig.de # 2025-07-26
 0.0.0.0 swarovskivip.shop # 2025-07-26
 0.0.0.0 vorwerk-tm7.de # 2025-07-26
+0.0.0.0 aldioutlets.shop # 2025-07-28
+0.0.0.0 amznreturnsale.com # 2025-07-28
+0.0.0.0 minse.shop # 2025-07-28
+0.0.0.0 on-outlet-store.com # 2025-07-28
+0.0.0.0 onrunningoutletstore.de # 2025-07-28
+0.0.0.0 superdry.co.at # 2025-07-28
+0.0.0.0 tqdjywjx.shop # 2025-07-28
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28917,6 +28931,8 @@
 0.0.0.0 prozesswerk.digital # 2025-07-12
 0.0.0.0 vplan-beratung.org # 2025-07-19
 0.0.0.0 insta.talentloompro-at.com # 2025-07-25
+0.0.0.0 georworker.shop # 2025-07-28
+0.0.0.0 kfmdso.com # 2025-07-28
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -29604,6 +29620,7 @@
 0.0.0.0 sylskilsoftassist.com # 2025-07-01
 0.0.0.0 sylskillsoft.com # 2025-07-03
 0.0.0.0 pdfguru.com # 2025-07-20
+0.0.0.0 productshoppers.online/intersport-at # 2025-07-28
 
 # Automatisierte Warnungen
 0.0.0.0 excelia.net # 2025-07-26
