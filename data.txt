@@ -1391,8 +1391,9 @@
 0.0.0.0 arcajettrader.com # 2025-07-29
 0.0.0.0 soeobfgf.com # 2025-07-29
 0.0.0.0 lpm.gevestor-verlag.de/1/12113/spaetzuender-rente # 2025-07-30
-0.0.0.0 valkaf-dienst.com # 2025-07-30
 0.0.0.0 zinsprofi.net # 2025-07-30
+0.0.0.0 horizons28.com # 2025-07-31
+0.0.0.0 valkaf-dienst.com # 2025-07-31
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8077,6 +8078,7 @@
 0.0.0.0 gomirno.myshopify.com # 2025-07-30
 0.0.0.0 meierschweiz.de # 2025-07-30
 0.0.0.0 tovara.de # 2025-07-30
+0.0.0.0 viare-brooklyn.com # 2025-07-31
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28684,7 +28686,6 @@
 0.0.0.0 vorwerk-tm7.de # 2025-07-26
 0.0.0.0 aldioutlets.shop # 2025-07-29
 0.0.0.0 amznreturnsale.com # 2025-07-29
-0.0.0.0 excelia.net # 2025-07-29
 0.0.0.0 iskaireland.org # 2025-07-29
 0.0.0.0 kabahinfo.net # 2025-07-29
 0.0.0.0 minse.shop # 2025-07-29
@@ -28693,13 +28694,7 @@
 0.0.0.0 superdry.co.at # 2025-07-29
 0.0.0.0 tqdjywjx.shop # 2025-07-29
 0.0.0.0 umdm.org # 2025-07-29
-0.0.0.0 alltaghero.com # 2025-07-30
-0.0.0.0 blacksheepsportseu.shop # 2025-07-30
 0.0.0.0 bucheroase.com # 2025-07-30
-0.0.0.0 canyonsummersale.shop # 2025-07-30
-0.0.0.0 conymonika.de # 2025-07-30
-0.0.0.0 de-vivobarefoots.com # 2025-07-30
-0.0.0.0 defahrrads.com # 2025-07-30
 0.0.0.0 fred-perry.co.at # 2025-07-30
 0.0.0.0 gaffelshopava.shop # 2025-07-30
 0.0.0.0 growano.com # 2025-07-30
@@ -28716,13 +28711,28 @@
 0.0.0.0 samsoe-outlet.shop # 2025-07-30
 0.0.0.0 schwarzmarktwaffenhandler.de # 2025-07-30
 0.0.0.0 shebaike.com # 2025-07-30
-0.0.0.0 shinyflakes.de # 2025-07-30
-0.0.0.0 shop.bwaopa.top/8s?utm_medium # 2025-07-30
 0.0.0.0 solostove.pro # 2025-07-30
 0.0.0.0 solovair.at # 2025-07-30
 0.0.0.0 thomannofficial.com # 2025-07-30
 0.0.0.0 vintross.de # 2025-07-30
 0.0.0.0 wimpanistaeu.shop # 2025-07-30
+0.0.0.0 alltaghero.com # 2025-07-31
+0.0.0.0 blacksheepsportseu.shop # 2025-07-31
+0.0.0.0 bovse.shop # 2025-07-31
+0.0.0.0 canyonsummersale.shop # 2025-07-31
+0.0.0.0 conymonika.de # 2025-07-31
+0.0.0.0 de-vivobarefoots.com # 2025-07-31
+0.0.0.0 defahrrads.com # 2025-07-31
+0.0.0.0 ergobackpacks.com # 2025-07-31
+0.0.0.0 eu.popomartvip.shop # 2025-07-31
+0.0.0.0 excelia.net # 2025-07-31
+0.0.0.0 fahrradergeschaft.com # 2025-07-31
+0.0.0.0 fahrradladen-hoffmann.de # 2025-07-31
+0.0.0.0 gigasport8.myshoplaza.com # 2025-07-31
+0.0.0.0 shinyflakes.de # 2025-07-31
+0.0.0.0 shop.bwaopa.top/8s?utm_medium # 2025-07-31
+0.0.0.0 shopsasfinag.it.com # 2025-07-31
+0.0.0.0 thomannonlinestore.com # 2025-07-31
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -28974,9 +28984,9 @@
 0.0.0.0 prozesswerk.digital # 2025-07-12
 0.0.0.0 vplan-beratung.org # 2025-07-19
 0.0.0.0 insta.talentloompro-at.com # 2025-07-25
-0.0.0.0 georworker.shop # 2025-07-28
-0.0.0.0 gruene-strategie.de # 2025-07-30
 0.0.0.0 kfmdso.com # 2025-07-30
+0.0.0.0 georworker.shop # 2025-07-31
+0.0.0.0 gruene-strategie.de # 2025-07-31
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
