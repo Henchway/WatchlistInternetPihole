@@ -1394,7 +1394,7 @@
 0.0.0.0 zinsprofi.net # 2025-07-30
 0.0.0.0 valkaf-dienst.com # 2025-07-31
 0.0.0.0 horizons28.com # 2025-08-01
-0.0.0.0 toplomarketxsh.com # 2025-08-01
+0.0.0.0 toplomarketxsh.com # 2025-08-02
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7985,7 +7985,6 @@
 0.0.0.0 stilgut-wien.at # 2025-07-04
 0.0.0.0 vivo-hamburg.de # 2025-07-04
 0.0.0.0 orthofabrik.de # 2025-07-05
-0.0.0.0 feldluft.de # 2025-07-06
 0.0.0.0 artizynt-eu.com/at # 2025-07-07
 0.0.0.0 baumme.de # 2025-07-07
 0.0.0.0 baurmodehaus.de # 2025-07-07
@@ -8086,6 +8085,7 @@
 0.0.0.0 hype-hoodies.com # 2025-08-01
 0.0.0.0 semvio.com # 2025-08-01
 0.0.0.0 viare-brooklyn.com # 2025-08-01
+0.0.0.0 feldluft.de # 2025-08-02
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28677,7 +28677,6 @@
 0.0.0.0 discount-technogym.shop # 2025-07-25
 0.0.0.0 kruegertracht.de # 2025-07-25
 0.0.0.0 outlet-sparcoofficial.com # 2025-07-25
-0.0.0.0 road-vignette.shop # 2025-07-25
 0.0.0.0 sblt.net # 2025-07-25
 0.0.0.0 trailer-container.com # 2025-07-25
 0.0.0.0 vesburst.shop # 2025-07-25
@@ -28731,28 +28730,29 @@
 0.0.0.0 excelia.net # 2025-07-31
 0.0.0.0 shinyflakes.de # 2025-07-31
 0.0.0.0 shop.bwaopa.top/8s?utm_medium # 2025-07-31
-0.0.0.0 bergmanngoldschmied.com # 2025-08-01
 0.0.0.0 bovse.shop # 2025-08-01
-0.0.0.0 cable-scheune.com # 2025-08-01
-0.0.0.0 cadlicenseseller.com # 2025-08-01
 0.0.0.0 ergobackpacks.com # 2025-08-01
 0.0.0.0 fahrradergeschaft.com # 2025-08-01
 0.0.0.0 fahrradladen-hoffmann.de # 2025-08-01
 0.0.0.0 gigasport8.myshoplaza.com # 2025-08-01
-0.0.0.0 khadija-thebrand.shop # 2025-08-01
-0.0.0.0 kobe-voitore.com # 2025-08-01
 0.0.0.0 koel--schuhe.com # 2025-08-01
 0.0.0.0 mernesberlin.com # 2025-08-01
 0.0.0.0 multione.net # 2025-08-01
-0.0.0.0 pokezonetcg.com # 2025-08-01
 0.0.0.0 shopsasfinag.it.com # 2025-08-01
-0.0.0.0 stilejx.stilop.mom # 2025-08-01
-0.0.0.0 strausseu-vip-online.shop # 2025-08-01
 0.0.0.0 thomannonlinestore.com # 2025-08-01
-0.0.0.0 trendgardinen.de # 2025-08-01
-0.0.0.0 typology-paris.com # 2025-08-01
-0.0.0.0 vonvtrsi.shop # 2025-08-01
-0.0.0.0 wuzmi.shop # 2025-08-01
+0.0.0.0 bergmanngoldschmied.com # 2025-08-02
+0.0.0.0 cable-scheune.com # 2025-08-02
+0.0.0.0 cadlicenseseller.com # 2025-08-02
+0.0.0.0 khadija-thebrand.shop # 2025-08-02
+0.0.0.0 kobe-voitore.com # 2025-08-02
+0.0.0.0 pokezonetcg.com # 2025-08-02
+0.0.0.0 road-vignette.shop # 2025-08-02
+0.0.0.0 stilejx.stilop.mom # 2025-08-02
+0.0.0.0 strausseu-vip-online.shop # 2025-08-02
+0.0.0.0 trendgardinen.de # 2025-08-02
+0.0.0.0 typology-paris.com # 2025-08-02
+0.0.0.0 vonvtrsi.shop # 2025-08-02
+0.0.0.0 wuzmi.shop # 2025-08-02
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29697,4 +29697,7 @@
 0.0.0.0 pdfguru.com # 2025-07-20
 0.0.0.0 productshoppers.online/intersport-at # 2025-07-28
 0.0.0.0 test-iq.org # 2025-07-29
+
+# Automatisierte Warnungen
+0.0.0.0 simplecircle.net # 2025-08-02
 
