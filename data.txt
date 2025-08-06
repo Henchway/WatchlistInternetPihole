@@ -1395,6 +1395,8 @@
 0.0.0.0 valkaf-dienst.com # 2025-07-31
 0.0.0.0 horizons28.com # 2025-08-01
 0.0.0.0 toplomarketxsh.com # 2025-08-02
+0.0.0.0 m.blockchaintransactions.cc # 2025-08-04
+0.0.0.0 tradenovainvestment.com # 2025-08-04
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8071,7 +8073,6 @@
 0.0.0.0 panolu-shop.com # 2025-07-28
 0.0.0.0 rostockhaf.de # 2025-07-28
 0.0.0.0 bequem-schuhe.com # 2025-07-29
-0.0.0.0 marconzept.de # 2025-07-29
 0.0.0.0 oliviamoreau.de # 2025-07-29
 0.0.0.0 wulde.de # 2025-07-29
 0.0.0.0 claudia-atelier.de # 2025-07-30
@@ -8086,6 +8087,16 @@
 0.0.0.0 semvio.com # 2025-08-01
 0.0.0.0 viare-brooklyn.com # 2025-08-01
 0.0.0.0 feldluft.de # 2025-08-02
+0.0.0.0 bjwdpgzv.shop # 2025-08-04
+0.0.0.0 findably.myshoplaza.com # 2025-08-04
+0.0.0.0 gruber-graz.at # 2025-08-04
+0.0.0.0 huber-wien.com # 2025-08-04
+0.0.0.0 kaufen-virium.com # 2025-08-04
+0.0.0.0 marconzept.de # 2025-08-04
+0.0.0.0 northsidestore.shop # 2025-08-04
+0.0.0.0 shop-virium.com # 2025-08-04
+0.0.0.0 teva-austria.com # 2025-08-04
+0.0.0.0 try-virium.com # 2025-08-04
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -15942,7 +15953,6 @@
 0.0.0.0 hoppe-elektro24.de # 2023-05-25
 0.0.0.0 hypulse.de # 2023-05-25
 0.0.0.0 ilopax.com # 2023-05-25
-0.0.0.0 kadiwo.de # 2023-05-25
 0.0.0.0 kaminholzgmbh.com # 2023-05-25
 0.0.0.0 kaminholzholzofen.de # 2023-05-25
 0.0.0.0 kamudani.com # 2023-05-25
@@ -28706,7 +28716,6 @@
 0.0.0.0 gyilwyfj.shop # 2025-07-30
 0.0.0.0 harttip.de # 2025-07-30
 0.0.0.0 iiozb.shop # 2025-07-30
-0.0.0.0 livoro-deutschland.com # 2025-07-30
 0.0.0.0 nestrack.shop # 2025-07-30
 0.0.0.0 obmxaofp.shop # 2025-07-30
 0.0.0.0 penny-at.com # 2025-07-30
@@ -28753,6 +28762,25 @@
 0.0.0.0 vonvtrsi.shop # 2025-08-02
 0.0.0.0 wuzmi.shop # 2025-08-02
 0.0.0.0 conymonika.de # 2025-08-03
+0.0.0.0 engwe-ebike.com # 2025-08-04
+0.0.0.0 ftzs.net # 2025-08-04
+0.0.0.0 goohu.de # 2025-08-04
+0.0.0.0 grapewinesales.com # 2025-08-04
+0.0.0.0 hausgerat.com # 2025-08-04
+0.0.0.0 huiiltn.shop # 2025-08-04
+0.0.0.0 kallieswelpen.com # 2025-08-04
+0.0.0.0 klarrl.warmexw.buzz # 2025-08-04
+0.0.0.0 lbzdzx.com # 2025-08-04
+0.0.0.0 livoro-deutschland.com # 2025-08-04
+0.0.0.0 lqvixaeh.shop # 2025-08-04
+0.0.0.0 mrlh.org # 2025-08-04
+0.0.0.0 nicekune.com # 2025-08-04
+0.0.0.0 polene.co.at # 2025-08-04
+0.0.0.0 pulitocat.com # 2025-08-04
+0.0.0.0 reindesign-garten.de # 2025-08-04
+0.0.0.0 simplecircle.net # 2025-08-04
+0.0.0.0 sveni.shop # 2025-08-04
+0.0.0.0 ykfojdaa.shop # 2025-08-04
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29007,6 +29035,8 @@
 0.0.0.0 kfmdso.com # 2025-07-30
 0.0.0.0 georworker.shop # 2025-07-31
 0.0.0.0 gruene-strategie.de # 2025-07-31
+0.0.0.0 demays.cc # 2025-08-04
+0.0.0.0 wearebrew-en.com # 2025-08-04
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -29697,7 +29727,5 @@
 0.0.0.0 pdfguru.com # 2025-07-20
 0.0.0.0 productshoppers.online/intersport-at # 2025-07-28
 0.0.0.0 test-iq.org # 2025-07-29
-
-# Automatisierte Warnungen
-0.0.0.0 simplecircle.net # 2025-08-02
+0.0.0.0 yogastr.com # 2025-08-04
 
