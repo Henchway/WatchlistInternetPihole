@@ -1413,6 +1413,10 @@
 0.0.0.0 zenospark.top/?_lp=1&amp;_token # 2025-08-20
 0.0.0.0 addblockcs.com # 2025-08-21
 0.0.0.0 neluren.com # 2025-08-21
+0.0.0.0 egscap.com # 2025-08-22
+0.0.0.0 lbccnet.com # 2025-08-22
+0.0.0.0 paramount111.com # 2025-08-22
+0.0.0.0 unbroker.live # 2025-08-22
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8125,7 +8129,6 @@
 0.0.0.0 oryzom.de # 2025-08-14
 0.0.0.0 lennartkreutz.de # 2025-08-15
 0.0.0.0 alohas.at # 2025-08-18
-0.0.0.0 arlbergatelier.at # 2025-08-18
 0.0.0.0 huber-wien.com # 2025-08-18
 0.0.0.0 kochbucd.de # 2025-08-18
 0.0.0.0 milaboutique.de # 2025-08-18
@@ -8137,11 +8140,14 @@
 0.0.0.0 kuhschelhof.de # 2025-08-20
 0.0.0.0 narlia.de # 2025-08-20
 0.0.0.0 wascheparfume.de # 2025-08-20
-0.0.0.0 hoferwien.com # 2025-08-21
 0.0.0.0 moser-wien.com # 2025-08-21
 0.0.0.0 seylab.shop # 2025-08-21
 0.0.0.0 warmood.ch # 2025-08-21
 0.0.0.0 watson-manchester.com # 2025-08-21
+0.0.0.0 arlbergatelier.at # 2025-08-22
+0.0.0.0 hoferwien.com # 2025-08-22
+0.0.0.0 smartbud.com # 2025-08-22
+0.0.0.0 therapie-decken.com # 2025-08-22
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -28965,26 +28971,30 @@
 0.0.0.0 tatamibjjstore-eu.com # 2025-08-20
 0.0.0.0 vignette-shops.com # 2025-08-20
 0.0.0.0 antmineroutlet.com # 2025-08-21
-0.0.0.0 druvia.shop # 2025-08-21
-0.0.0.0 fahrradhandel-schulze.de # 2025-08-21
 0.0.0.0 gonsstransport.com # 2025-08-21
-0.0.0.0 grillzentrale.shop # 2025-08-21
-0.0.0.0 homesupplybest.com # 2025-08-21
 0.0.0.0 iwtwsrcf.shop # 2025-08-21
 0.0.0.0 kamagra-webshop.com # 2025-08-21
-0.0.0.0 kamagrashop.online # 2025-08-21
-0.0.0.0 keen--shoes.com # 2025-08-21
 0.0.0.0 nerveillegems.org # 2025-08-21
 0.0.0.0 pass-swiss.com # 2025-08-21
 0.0.0.0 reignsprime.com # 2025-08-21
 0.0.0.0 robogartende.com # 2025-08-21
-0.0.0.0 salesparco-eu.com # 2025-08-21
 0.0.0.0 seifenbrause.de # 2025-08-21
 0.0.0.0 so-trailers.com # 2025-08-21
 0.0.0.0 thinkingarabiangmbh.com # 2025-08-21
-0.0.0.0 vaude-de.com # 2025-08-21
 0.0.0.0 vogelfutterde.com # 2025-08-21
 0.0.0.0 werbenerlandtechnik.com # 2025-08-21
+0.0.0.0 druvia.shop # 2025-08-22
+0.0.0.0 fahrradhandel-schulze.de # 2025-08-22
+0.0.0.0 grillzentrale.shop # 2025-08-22
+0.0.0.0 homesupplybest.com # 2025-08-22
+0.0.0.0 kamagrashop.online # 2025-08-22
+0.0.0.0 keen--shoes.com # 2025-08-22
+0.0.0.0 knice.shop # 2025-08-22
+0.0.0.0 luxeshelf.com # 2025-08-22
+0.0.0.0 madeleine-issing.com # 2025-08-22
+0.0.0.0 navigatil.store # 2025-08-22
+0.0.0.0 salesparco-eu.com # 2025-08-22
+0.0.0.0 vaude-de.com # 2025-08-22
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29142,9 +29152,9 @@
 0.0.0.0 yourzencoach.co # 2025-08-16
 0.0.0.0 15millionen.net # 2025-08-18
 0.0.0.0 assess-health.com # 2025-08-21
-0.0.0.0 beseregesundheit.com # 2025-08-21
 0.0.0.0 fodgramstar.com # 2025-08-21
-0.0.0.0 manualshelp.com # 2025-08-21
+0.0.0.0 beseregesundheit.com # 2025-08-22
+0.0.0.0 manualshelp.com # 2025-08-22
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29715,6 +29725,8 @@
 0.0.0.0 waltade.shop # 2025-08-09
 0.0.0.0 einfachelinklogistik.com # 2025-08-14
 0.0.0.0 re-ts.com # 2025-08-18
+0.0.0.0 autoglobalshipping.com # 2025-08-22
+0.0.0.0 frachtaglogistics.com # 2025-08-22
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
