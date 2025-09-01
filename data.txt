@@ -1420,7 +1420,7 @@
 0.0.0.0 avestprimeyield.com # 2025-08-28
 0.0.0.0 bull-verse.net # 2025-08-28
 0.0.0.0 quatclub.com # 2025-08-28
-0.0.0.0 aurum-fix-corp.com # 2025-08-29
+0.0.0.0 aurum-fix-corp.com # 2025-08-30
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8159,7 +8159,6 @@
 0.0.0.0 vonauto.de # 2025-08-25
 0.0.0.0 pansycase.com # 2025-08-26
 0.0.0.0 rosenherzmode.com # 2025-08-26
-0.0.0.0 sensodecken.de # 2025-08-26
 0.0.0.0 traviro.de # 2025-08-26
 0.0.0.0 watson-manchester.com # 2025-08-26
 0.0.0.0 xxgab.com # 2025-08-26
@@ -8169,15 +8168,16 @@
 0.0.0.0 facymody.myshopify.com # 2025-08-27
 0.0.0.0 hilipert.com # 2025-08-27
 0.0.0.0 hofberg-stil.com # 2025-08-27
-0.0.0.0 maisonorelle.com # 2025-08-27
 0.0.0.0 mercapool.de # 2025-08-27
 0.0.0.0 surplus-militaires.fr # 2025-08-27
 0.0.0.0 therapie-decken.com # 2025-08-27
 0.0.0.0 kirost.com # 2025-08-28
 0.0.0.0 lazvik.de # 2025-08-28
-0.0.0.0 losmilitares.com # 2025-08-28
-0.0.0.0 miraefashion.com # 2025-08-28
 0.0.0.0 greatestpod.com # 2025-08-29
+0.0.0.0 losmilitares.com # 2025-08-30
+0.0.0.0 maisonorelle.com # 2025-08-30
+0.0.0.0 miraefashion.com # 2025-08-30
+0.0.0.0 sensodecken.de # 2025-08-30
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29035,7 +29035,6 @@
 0.0.0.0 frauchic.com # 2025-08-26
 0.0.0.0 gartenira.com # 2025-08-26
 0.0.0.0 hats-shop.com # 2025-08-26
-0.0.0.0 hensphere.shop # 2025-08-26
 0.0.0.0 hfbssxcd.shop # 2025-08-26
 0.0.0.0 inlinegate.shop # 2025-08-26
 0.0.0.0 kaufenkamagra.de # 2025-08-26
@@ -29100,17 +29099,18 @@
 0.0.0.0 haustierbedarfshop.com # 2025-08-29
 0.0.0.0 heimatmobel.myshopify.com # 2025-08-29
 0.0.0.0 hexagonresources.org # 2025-08-29
-0.0.0.0 hilkenmanor.com # 2025-08-29
 0.0.0.0 iemakluck.com # 2025-08-29
 0.0.0.0 kamagraeu.net # 2025-08-29
-0.0.0.0 kindersachenmitwachsend.com # 2025-08-29
 0.0.0.0 kostumparty.com # 2025-08-29
-0.0.0.0 labubuclubs.com # 2025-08-29
 0.0.0.0 on-at.com # 2025-08-29
 0.0.0.0 rueping-garten.de # 2025-08-29
 0.0.0.0 sportartikelwelt.com # 2025-08-29
 0.0.0.0 usdcondi.shop # 2025-08-29
 0.0.0.0 werbenerlandtechnik.com # 2025-08-29
+0.0.0.0 hensphere.shop # 2025-08-30
+0.0.0.0 hilkenmanor.com # 2025-08-30
+0.0.0.0 kindersachenmitwachsend.com # 2025-08-30
+0.0.0.0 labubuclubs.com # 2025-08-30
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29270,9 +29270,9 @@
 0.0.0.0 beseregesundheit.com # 2025-08-22
 0.0.0.0 manualshelp.com # 2025-08-22
 0.0.0.0 fodgramstar.com # 2025-08-26
-0.0.0.0 rituals-prize.com # 2025-08-26
 0.0.0.0 thebestpdf.com # 2025-08-26
 0.0.0.0 assess-health.com # 2025-08-28
+0.0.0.0 rituals-prize.com # 2025-08-30
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30081,4 +30081,7 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
+
+# Automatisierte Warnungen
+0.0.0.0 bitprofix.com # 2025-08-30
 
