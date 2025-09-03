@@ -8093,7 +8093,6 @@
 0.0.0.0 panolu-shop.com # 2025-07-28
 0.0.0.0 rostockhaf.de # 2025-07-28
 0.0.0.0 bequem-schuhe.com # 2025-07-29
-0.0.0.0 oliviamoreau.de # 2025-07-29
 0.0.0.0 wulde.de # 2025-07-29
 0.0.0.0 claudia-atelier.de # 2025-07-30
 0.0.0.0 gomirno.myshopify.com # 2025-07-30
@@ -8178,6 +8177,19 @@
 0.0.0.0 maisonorelle.com # 2025-08-30
 0.0.0.0 miraefashion.com # 2025-08-30
 0.0.0.0 sensodecken.de # 2025-08-30
+0.0.0.0 alpivogue.ch # 2025-09-01
+0.0.0.0 bayreuth-boutique.de # 2025-09-01
+0.0.0.0 beckerundkrause.de # 2025-09-01
+0.0.0.0 deutschla.de # 2025-09-01
+0.0.0.0 emaschmuck.com # 2025-09-01
+0.0.0.0 fischer-zurich.com # 2025-09-01
+0.0.0.0 istanha.com # 2025-09-01
+0.0.0.0 jillsglasses.com # 2025-09-01
+0.0.0.0 maingoldfrankfurt.com # 2025-09-01
+0.0.0.0 mode-boutiek.com # 2025-09-01
+0.0.0.0 novira-berlin.com # 2025-09-01
+0.0.0.0 oliviamoreau.de # 2025-09-01
+0.0.0.0 rheingolddusseldorf.com # 2025-09-01
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29034,7 +29046,6 @@
 0.0.0.0 fahrradspab.com # 2025-08-26
 0.0.0.0 frauchic.com # 2025-08-26
 0.0.0.0 gartenira.com # 2025-08-26
-0.0.0.0 hats-shop.com # 2025-08-26
 0.0.0.0 hfbssxcd.shop # 2025-08-26
 0.0.0.0 inlinegate.shop # 2025-08-26
 0.0.0.0 kaufenkamagra.de # 2025-08-26
@@ -29111,6 +29122,27 @@
 0.0.0.0 kindersachenmitwachsend.com # 2025-08-30
 0.0.0.0 labubuclubs.com # 2025-08-30
 0.0.0.0 beerschottierheim.de # 2025-08-31
+0.0.0.0 bitprofix.com # 2025-09-01
+0.0.0.0 cdryhghy.shop # 2025-09-01
+0.0.0.0 easyoel.net # 2025-09-01
+0.0.0.0 framelia.org # 2025-09-01
+0.0.0.0 hats-shop.com # 2025-09-01
+0.0.0.0 heimkuchenwaren.com # 2025-09-01
+0.0.0.0 mobiche.com # 2025-09-01
+0.0.0.0 myproteinstore.com # 2025-09-01
+0.0.0.0 ntnalrso.shop # 2025-09-01
+0.0.0.0 osuraring.com # 2025-09-01
+0.0.0.0 polsacs.com # 2025-09-01
+0.0.0.0 premium-toolsverkaufen.com # 2025-09-01
+0.0.0.0 reisenthelsale.de.com # 2025-09-01
+0.0.0.0 retailchemy.com # 2025-09-01
+0.0.0.0 sahibimnden.com # 2025-09-01
+0.0.0.0 scooter-chip.de # 2025-09-01
+0.0.0.0 skechersat.at # 2025-09-01
+0.0.0.0 teetassenstore.com # 2025-09-01
+0.0.0.0 topoutdoorsport.com # 2025-09-01
+0.0.0.0 trachtensale.com # 2025-09-01
+0.0.0.0 vapingonline.de # 2025-09-01
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29273,6 +29305,8 @@
 0.0.0.0 thebestpdf.com # 2025-08-26
 0.0.0.0 assess-health.com # 2025-08-28
 0.0.0.0 rituals-prize.com # 2025-08-30
+0.0.0.0 convertquick.net # 2025-09-01
+0.0.0.0 theautoveritas.com # 2025-09-01
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29537,6 +29571,8 @@
 0.0.0.0 log-inter.com # 2025-08-28
 0.0.0.0 pickario.de # 2025-08-28
 0.0.0.0 toyhasbro.com # 2025-08-28
+0.0.0.0 jensmall.top # 2025-09-01
+0.0.0.0 near-on-chain.de # 2025-09-01
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30081,7 +30117,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 bitprofix.com # 2025-08-30
 
