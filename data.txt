@@ -1421,6 +1421,9 @@
 0.0.0.0 bull-verse.net # 2025-08-28
 0.0.0.0 quatclub.com # 2025-08-28
 0.0.0.0 aurum-fix-corp.com # 2025-08-30
+0.0.0.0 patrisor.com # 2025-09-03
+0.0.0.0 peritacionjudicialoficial.com # 2025-09-03
+0.0.0.0 vip.marketadvisor.icu # 2025-09-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8158,7 +8161,6 @@
 0.0.0.0 vonauto.de # 2025-08-25
 0.0.0.0 pansycase.com # 2025-08-26
 0.0.0.0 rosenherzmode.com # 2025-08-26
-0.0.0.0 traviro.de # 2025-08-26
 0.0.0.0 watson-manchester.com # 2025-08-26
 0.0.0.0 xxgab.com # 2025-08-26
 0.0.0.0 baumann-modehaus.de # 2025-08-27
@@ -8182,7 +8184,6 @@
 0.0.0.0 emaschmuck.com # 2025-09-01
 0.0.0.0 fischer-zurich.com # 2025-09-01
 0.0.0.0 istanha.com # 2025-09-01
-0.0.0.0 maingoldfrankfurt.com # 2025-09-01
 0.0.0.0 mode-boutiek.com # 2025-09-01
 0.0.0.0 novira-berlin.com # 2025-09-01
 0.0.0.0 oliviamoreau.de # 2025-09-01
@@ -8192,6 +8193,20 @@
 0.0.0.0 bayreuth-boutique.de # 2025-09-02
 0.0.0.0 beckerundkrause.de # 2025-09-02
 0.0.0.0 jillsglasses.com # 2025-09-02
+0.0.0.0 barnierboutique.com # 2025-09-03
+0.0.0.0 becker-boutique.com # 2025-09-03
+0.0.0.0 bewegungsmeister.de # 2025-09-03
+0.0.0.0 birminghamwear.com # 2025-09-03
+0.0.0.0 braunboutique.com # 2025-09-03
+0.0.0.0 camila-geneve.com # 2025-09-03
+0.0.0.0 chicoza.de # 2025-09-03
+0.0.0.0 clevoire.com # 2025-09-03
+0.0.0.0 ebmini.de # 2025-09-03
+0.0.0.0 grubergraz.at # 2025-09-03
+0.0.0.0 maingoldfrankfurt.com # 2025-09-03
+0.0.0.0 mivoza.de # 2025-09-03
+0.0.0.0 sekoda-de.com # 2025-09-03
+0.0.0.0 traviro.de # 2025-09-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29098,7 +29113,6 @@
 0.0.0.0 krahl-container.eu # 2025-08-28
 0.0.0.0 lektromak.com # 2025-08-28
 0.0.0.0 mein-anhanger.de # 2025-08-28
-0.0.0.0 memede.de # 2025-08-28
 0.0.0.0 moebelonline24.com # 2025-08-28
 0.0.0.0 motogreenexpert.com # 2025-08-28
 0.0.0.0 ponstar.shop # 2025-08-28
@@ -29127,13 +29141,10 @@
 0.0.0.0 bitprofix.com # 2025-09-01
 0.0.0.0 hats-shop.com # 2025-09-01
 0.0.0.0 mobiche.com # 2025-09-01
-0.0.0.0 agrimodul.de # 2025-09-02
 0.0.0.0 cdryhghy.shop # 2025-09-02
-0.0.0.0 droflow.myshopify.com # 2025-09-02
 0.0.0.0 easyoel.net # 2025-09-02
 0.0.0.0 framelia.org # 2025-09-02
 0.0.0.0 heimkuchenwaren.com # 2025-09-02
-0.0.0.0 krueger-dirndleu.shop # 2025-09-02
 0.0.0.0 myproteinstore.com # 2025-09-02
 0.0.0.0 ntnalrso.shop # 2025-09-02
 0.0.0.0 osuraring.com # 2025-09-02
@@ -29142,14 +29153,28 @@
 0.0.0.0 reisenthelsale.de.com # 2025-09-02
 0.0.0.0 retailchemy.com # 2025-09-02
 0.0.0.0 sahibimnden.com # 2025-09-02
-0.0.0.0 scooter-chip.de # 2025-09-02
-0.0.0.0 skechersat.at # 2025-09-02
 0.0.0.0 teetassenstore.com # 2025-09-02
 0.0.0.0 thanesar.com # 2025-09-02
 0.0.0.0 topoutdoorsport.com # 2025-09-02
 0.0.0.0 trachtensale.com # 2025-09-02
-0.0.0.0 uiwsacop.shop # 2025-09-02
 0.0.0.0 vapingonline.de # 2025-09-02
+0.0.0.0 agrimodul.de # 2025-09-03
+0.0.0.0 bauen-shop-de.com # 2025-09-03
+0.0.0.0 bmwmt2025mall.sa.com # 2025-09-03
+0.0.0.0 droflow.myshopify.com # 2025-09-03
+0.0.0.0 hikingadventuregear.com # 2025-09-03
+0.0.0.0 hkm-sport.shop # 2025-09-03
+0.0.0.0 hlcdnqbu.shop # 2025-09-03
+0.0.0.0 ilsevonbach.de # 2025-09-03
+0.0.0.0 krueger-dirndleu.shop # 2025-09-03
+0.0.0.0 lypgm.com # 2025-09-03
+0.0.0.0 memede.de # 2025-09-03
+0.0.0.0 oikmvbuy.shop # 2025-09-03
+0.0.0.0 shopdestina.shop # 2025-09-03
+0.0.0.0 skechersat.at # 2025-09-03
+0.0.0.0 trachten-sale.com # 2025-09-03
+0.0.0.0 uiwsacop.shop # 2025-09-03
+0.0.0.0 ziviveo5.pro # 2025-09-03
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29314,6 +29339,7 @@
 0.0.0.0 rituals-prize.com # 2025-08-30
 0.0.0.0 convertquick.net # 2025-09-01
 0.0.0.0 theautoveritas.com # 2025-09-01
+0.0.0.0 nebula-witch-power.com # 2025-09-03
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29580,6 +29606,7 @@
 0.0.0.0 toyhasbro.com # 2025-08-28
 0.0.0.0 jensmall.top # 2025-09-01
 0.0.0.0 near-on-chain.de # 2025-09-01
+0.0.0.0 consultist-germany.com # 2025-09-03
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30124,7 +30151,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 lypgm.com # 2025-09-02
 
