@@ -1422,8 +1422,8 @@
 0.0.0.0 quatclub.com # 2025-08-28
 0.0.0.0 aurum-fix-corp.com # 2025-08-30
 0.0.0.0 patrisor.com # 2025-09-04
-0.0.0.0 peritacionjudicialoficial.com # 2025-09-04
 0.0.0.0 vip.marketadvisor.icu # 2025-09-04
+0.0.0.0 peritacionjudicialoficial.com # 2025-09-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8212,11 +8212,11 @@
 0.0.0.0 elevenforest.com # 2025-09-05
 0.0.0.0 elsas-schmuckatelier.com # 2025-09-05
 0.0.0.0 grubergraz.at # 2025-09-05
-0.0.0.0 soccxmode.com # 2025-09-05
 0.0.0.0 zofita.com # 2025-09-05
 0.0.0.0 artvibe-wellness.com # 2025-09-06
 0.0.0.0 chicoza.de # 2025-09-06
 0.0.0.0 lederhermann.com # 2025-09-06
+0.0.0.0 soccxmode.com # 2025-09-07
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29077,7 +29077,6 @@
 0.0.0.0 kaufenkamagra.de # 2025-08-26
 0.0.0.0 kdoqlibh.shop # 2025-08-26
 0.0.0.0 laserhex.shop # 2025-08-26
-0.0.0.0 lesboost.shop # 2025-08-26
 0.0.0.0 lesburst.shop # 2025-08-26
 0.0.0.0 miravastore.shop # 2025-08-26
 0.0.0.0 onsports.shop # 2025-08-26
@@ -29105,7 +29104,6 @@
 0.0.0.0 anhangerr.com # 2025-08-28
 0.0.0.0 bestfloordeals.com # 2025-08-28
 0.0.0.0 cnikgarden.com # 2025-08-28
-0.0.0.0 depotkraft.com # 2025-08-28
 0.0.0.0 erectionpills.store # 2025-08-28
 0.0.0.0 fitiwelt.com # 2025-08-28
 0.0.0.0 fraezenbikes.com # 2025-08-28
@@ -29147,9 +29145,7 @@
 0.0.0.0 labubuclubs.com # 2025-08-30
 0.0.0.0 beerschottierheim.de # 2025-08-31
 0.0.0.0 bitprofix.com # 2025-09-01
-0.0.0.0 hats-shop.com # 2025-09-01
 0.0.0.0 cdryhghy.shop # 2025-09-02
-0.0.0.0 easyoel.net # 2025-09-02
 0.0.0.0 framelia.org # 2025-09-02
 0.0.0.0 heimkuchenwaren.com # 2025-09-02
 0.0.0.0 myproteinstore.com # 2025-09-02
@@ -29203,6 +29199,10 @@
 0.0.0.0 tomsat.at # 2025-09-06
 0.0.0.0 vipaksideu.com # 2025-09-06
 0.0.0.0 zinsvermittler.com # 2025-09-06
+0.0.0.0 depotkraft.com # 2025-09-07
+0.0.0.0 easyoel.net # 2025-09-07
+0.0.0.0 hats-shop.com # 2025-09-07
+0.0.0.0 lesboost.shop # 2025-09-07
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29638,8 +29638,8 @@
 0.0.0.0 jensmall.top # 2025-09-04
 0.0.0.0 metas.talentnexuspro-at.com # 2025-09-04
 0.0.0.0 metat.talentnexuspro-at.com # 2025-09-04
-0.0.0.0 near-on-chain.de # 2025-09-04
 0.0.0.0 schloss-pichler.at # 2025-09-04
+0.0.0.0 near-on-chain.de # 2025-09-07
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30187,4 +30187,5 @@
 # Automatisierte Warnungen
 0.0.0.0 vhtxz.liokohts.top # 2025-09-05
 0.0.0.0 joycap.net # 2025-09-06
+0.0.0.0 styleettendances.com # 2025-09-07
 
