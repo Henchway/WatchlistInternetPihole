@@ -1424,6 +1424,8 @@
 0.0.0.0 patrisor.com # 2025-09-04
 0.0.0.0 vip.marketadvisor.icu # 2025-09-04
 0.0.0.0 peritacionjudicialoficial.com # 2025-09-07
+0.0.0.0 axl-staking.de # 2025-09-08
+0.0.0.0 solidarity-finanzierung.com # 2025-09-08
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8181,7 +8183,6 @@
 0.0.0.0 sensodecken.de # 2025-08-30
 0.0.0.0 alpivogue.ch # 2025-09-01
 0.0.0.0 deutschla.de # 2025-09-01
-0.0.0.0 emaschmuck.com # 2025-09-01
 0.0.0.0 fischer-zurich.com # 2025-09-01
 0.0.0.0 istanha.com # 2025-09-01
 0.0.0.0 mode-boutiek.com # 2025-09-01
@@ -8217,6 +8218,13 @@
 0.0.0.0 chicoza.de # 2025-09-06
 0.0.0.0 lederhermann.com # 2025-09-06
 0.0.0.0 soccxmode.com # 2025-09-07
+0.0.0.0 albrechtmode.de # 2025-09-08
+0.0.0.0 emaschmuck.com # 2025-09-08
+0.0.0.0 halloween-maskenmanufaktur.de # 2025-09-08
+0.0.0.0 muller-berlin.co # 2025-09-08
+0.0.0.0 nicole-modehaus.de # 2025-09-08
+0.0.0.0 shaeskin.com # 2025-09-08
+0.0.0.0 weberwien.at # 2025-09-08
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29153,11 +29161,9 @@
 0.0.0.0 polsacs.com # 2025-09-02
 0.0.0.0 premium-toolsverkaufen.com # 2025-09-02
 0.0.0.0 reisenthelsale.de.com # 2025-09-02
-0.0.0.0 retailchemy.com # 2025-09-02
 0.0.0.0 sahibimnden.com # 2025-09-02
 0.0.0.0 teetassenstore.com # 2025-09-02
 0.0.0.0 thanesar.com # 2025-09-02
-0.0.0.0 topoutdoorsport.com # 2025-09-02
 0.0.0.0 trachtensale.com # 2025-09-02
 0.0.0.0 vapingonline.de # 2025-09-02
 0.0.0.0 agrimodul.de # 2025-09-03
@@ -29203,6 +29209,22 @@
 0.0.0.0 easyoel.net # 2025-09-07
 0.0.0.0 hats-shop.com # 2025-09-07
 0.0.0.0 lesboost.shop # 2025-09-07
+0.0.0.0 edeka24de.com # 2025-09-08
+0.0.0.0 egajeevz.shop # 2025-09-08
+0.0.0.0 fahrradhandel-schmidt.com # 2025-09-08
+0.0.0.0 foxracing-eu-online.shop # 2025-09-08
+0.0.0.0 fuhrerschein-kaufenonline.com # 2025-09-08
+0.0.0.0 gartenladende.com # 2025-09-08
+0.0.0.0 koedel-gartenbau.de # 2025-09-08
+0.0.0.0 nouwd.com # 2025-09-08
+0.0.0.0 oelpreisfinder.de # 2025-09-08
+0.0.0.0 plavonpvcdemak.com # 2025-09-08
+0.0.0.0 redwing.at # 2025-09-08
+0.0.0.0 retailchemy.com # 2025-09-08
+0.0.0.0 soyml.top # 2025-09-08
+0.0.0.0 thule-touren.de # 2025-09-08
+0.0.0.0 topoutdoorsport.com # 2025-09-08
+0.0.0.0 vynpkgrz.shop # 2025-09-08
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29370,6 +29392,7 @@
 0.0.0.0 dance-bit.com # 2025-09-04
 0.0.0.0 nebula-witch-power.com # 2025-09-04
 0.0.0.0 walk-fit.io # 2025-09-04
+0.0.0.0 callfy.net # 2025-09-08
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -29640,6 +29663,7 @@
 0.0.0.0 metat.talentnexuspro-at.com # 2025-09-04
 0.0.0.0 schloss-pichler.at # 2025-09-04
 0.0.0.0 near-on-chain.de # 2025-09-07
+0.0.0.0 openai-trips-reserve.com # 2025-09-08
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30188,4 +30212,6 @@
 0.0.0.0 vhtxz.liokohts.top # 2025-09-05
 0.0.0.0 joycap.net # 2025-09-06
 0.0.0.0 styleettendances.com # 2025-09-07
+0.0.0.0 rieker--schuhe.com # 2025-09-08
+0.0.0.0 valuevervehub.com # 2025-09-08
 
