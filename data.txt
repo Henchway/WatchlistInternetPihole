@@ -1427,15 +1427,15 @@
 0.0.0.0 bull-verse.net # 2025-09-10
 0.0.0.0 innovativepath.icu # 2025-09-10
 0.0.0.0 xmb.cc # 2025-09-10
-0.0.0.0 atrendse.cc # 2025-09-11
-0.0.0.0 atrendseworld.com # 2025-09-11
 0.0.0.0 blitzgeld.at # 2025-09-11
 0.0.0.0 candriamsmarts.com # 2025-09-11
 0.0.0.0 peritacionjudicialoficial.com # 2025-09-11
 0.0.0.0 rzycucbupk.gyhjjifm.beauty # 2025-09-11
 0.0.0.0 snapbartar.com # 2025-09-11
-0.0.0.0 trader.212group.de # 2025-09-11
-0.0.0.0 valerixo.org # 2025-09-11
+0.0.0.0 atrendse.cc # 2025-09-12
+0.0.0.0 atrendseworld.com # 2025-09-12
+0.0.0.0 trader.212group.de # 2025-09-12
+0.0.0.0 valerixo.org # 2025-09-12
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8240,9 +8240,9 @@
 0.0.0.0 albrechtmode.de # 2025-09-11
 0.0.0.0 derpoly.de # 2025-09-11
 0.0.0.0 frovity.store # 2025-09-11
-0.0.0.0 linden-innsbruck.com # 2025-09-11
 0.0.0.0 onrunning001.myshoplaza.com # 2025-09-11
 0.0.0.0 seidl-mode.com # 2025-09-11
+0.0.0.0 linden-innsbruck.com # 2025-09-12
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29099,7 +29099,6 @@
 0.0.0.0 gartenira.com # 2025-08-26
 0.0.0.0 hfbssxcd.shop # 2025-08-26
 0.0.0.0 inlinegate.shop # 2025-08-26
-0.0.0.0 kaufenkamagra.de # 2025-08-26
 0.0.0.0 kdoqlibh.shop # 2025-08-26
 0.0.0.0 laserhex.shop # 2025-08-26
 0.0.0.0 lesburst.shop # 2025-08-26
@@ -29258,29 +29257,37 @@
 0.0.0.0 pmtinnova.com # 2025-09-10
 0.0.0.0 thule-touren.de # 2025-09-10
 0.0.0.0 werk-garten.de # 2025-09-10
-0.0.0.0 cozyixe.com # 2025-09-11
-0.0.0.0 cyberearth.org # 2025-09-11
 0.0.0.0 fahrradhandel-schmidt.com # 2025-09-11
 0.0.0.0 heizoelix.de # 2025-09-11
 0.0.0.0 japansmartmarketing.com # 2025-09-11
 0.0.0.0 joycap.net # 2025-09-11
-0.0.0.0 liewooodsale.com # 2025-09-11
 0.0.0.0 lloen.shop # 2025-09-11
 0.0.0.0 mitsubishiautopartsshop.com # 2025-09-11
 0.0.0.0 mknen.com # 2025-09-11
-0.0.0.0 nestleena.com # 2025-09-11
 0.0.0.0 oelgo.de # 2025-09-11
 0.0.0.0 oelit.de # 2025-09-11
 0.0.0.0 oelzone.de # 2025-09-11
-0.0.0.0 oxlora.shop # 2025-09-11
 0.0.0.0 qinero.com # 2025-09-11
 0.0.0.0 shopfishermansworld.com # 2025-09-11
 0.0.0.0 terea-polen.is # 2025-09-11
-0.0.0.0 trachtentrends.com # 2025-09-11
-0.0.0.0 tummamma.store # 2025-09-11
-0.0.0.0 usagcprogram.com # 2025-09-11
 0.0.0.0 vhtxz.liokohts.top # 2025-09-11
-0.0.0.0 yeezys.co.at # 2025-09-11
+0.0.0.0 baswad.com # 2025-09-12
+0.0.0.0 cozyixe.com # 2025-09-12
+0.0.0.0 cyberearth.org # 2025-09-12
+0.0.0.0 gorgeousshop.org # 2025-09-12
+0.0.0.0 jpins.shop # 2025-09-12
+0.0.0.0 kaufenkamagra.de # 2025-09-12
+0.0.0.0 liewooodsale.com # 2025-09-12
+0.0.0.0 longchampale.eu.com # 2025-09-12
+0.0.0.0 nestleena.com # 2025-09-12
+0.0.0.0 oxlora.shop # 2025-09-12
+0.0.0.0 piccu.org # 2025-09-12
+0.0.0.0 trachtentrends.com # 2025-09-12
+0.0.0.0 tummamma.store # 2025-09-12
+0.0.0.0 usagcprogram.com # 2025-09-12
+0.0.0.0 vetementmodefemme.com # 2025-09-12
+0.0.0.0 yeezys.co.at # 2025-09-12
+0.0.0.0 zertifikate24.online # 2025-09-12
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30266,7 +30273,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 piccu.org # 2025-09-11
 
