@@ -1426,7 +1426,6 @@
 0.0.0.0 solidarity-finanzierung.com # 2025-09-09
 0.0.0.0 bull-verse.net # 2025-09-10
 0.0.0.0 innovativepath.icu # 2025-09-10
-0.0.0.0 xmb.cc # 2025-09-10
 0.0.0.0 blitzgeld.at # 2025-09-11
 0.0.0.0 candriamsmarts.com # 2025-09-11
 0.0.0.0 peritacionjudicialoficial.com # 2025-09-11
@@ -1436,6 +1435,7 @@
 0.0.0.0 atrendseworld.com # 2025-09-12
 0.0.0.0 trader.212group.de # 2025-09-12
 0.0.0.0 valerixo.org # 2025-09-12
+0.0.0.0 xmb.cc # 2025-09-13
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8202,7 +8202,6 @@
 0.0.0.0 adafashion.ch # 2025-09-02
 0.0.0.0 ambioza.de # 2025-09-02
 0.0.0.0 beckerundkrause.de # 2025-09-02
-0.0.0.0 jillsglasses.com # 2025-09-02
 0.0.0.0 becker-boutique.com # 2025-09-03
 0.0.0.0 bewegungsmeister.de # 2025-09-03
 0.0.0.0 birminghamwear.com # 2025-09-03
@@ -8235,7 +8234,6 @@
 0.0.0.0 staud.clothing # 2025-09-09
 0.0.0.0 weberwien.at # 2025-09-09
 0.0.0.0 zava-valencia.com # 2025-09-09
-0.0.0.0 staud.co.at # 2025-09-10
 0.0.0.0 teyvaro.com # 2025-09-10
 0.0.0.0 albrechtmode.de # 2025-09-11
 0.0.0.0 derpoly.de # 2025-09-11
@@ -8243,6 +8241,8 @@
 0.0.0.0 onrunning001.myshoplaza.com # 2025-09-11
 0.0.0.0 seidl-mode.com # 2025-09-11
 0.0.0.0 linden-innsbruck.com # 2025-09-12
+0.0.0.0 jillsglasses.com # 2025-09-13
+0.0.0.0 staud.co.at # 2025-09-13
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29120,7 +29120,6 @@
 0.0.0.0 reignsprime.com # 2025-08-27
 0.0.0.0 reisenthelflow.de.com # 2025-08-27
 0.0.0.0 scieriebarlet.com # 2025-08-27
-0.0.0.0 agrial-culture.com # 2025-08-28
 0.0.0.0 alpinmotorcy.com # 2025-08-28
 0.0.0.0 anhänger-auto-shop.de # 2025-08-28
 0.0.0.0 anhanger-shop.com # 2025-08-28
@@ -29271,14 +29270,10 @@
 0.0.0.0 shopfishermansworld.com # 2025-09-11
 0.0.0.0 terea-polen.is # 2025-09-11
 0.0.0.0 vhtxz.liokohts.top # 2025-09-11
-0.0.0.0 baswad.com # 2025-09-12
 0.0.0.0 cozyixe.com # 2025-09-12
 0.0.0.0 cyberearth.org # 2025-09-12
-0.0.0.0 gorgeousshop.org # 2025-09-12
-0.0.0.0 jpins.shop # 2025-09-12
 0.0.0.0 kaufenkamagra.de # 2025-09-12
 0.0.0.0 liewooodsale.com # 2025-09-12
-0.0.0.0 longchampale.eu.com # 2025-09-12
 0.0.0.0 nestleena.com # 2025-09-12
 0.0.0.0 oxlora.shop # 2025-09-12
 0.0.0.0 piccu.org # 2025-09-12
@@ -29287,7 +29282,12 @@
 0.0.0.0 usagcprogram.com # 2025-09-12
 0.0.0.0 vetementmodefemme.com # 2025-09-12
 0.0.0.0 yeezys.co.at # 2025-09-12
-0.0.0.0 zertifikate24.online # 2025-09-12
+0.0.0.0 agrial-culture.com # 2025-09-13
+0.0.0.0 baswad.com # 2025-09-13
+0.0.0.0 gorgeousshop.org # 2025-09-13
+0.0.0.0 jpins.shop # 2025-09-13
+0.0.0.0 longchampale.eu.com # 2025-09-13
+0.0.0.0 zertifikate24.online # 2025-09-13
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29729,7 +29729,7 @@
 0.0.0.0 near-on-chain.de # 2025-09-07
 0.0.0.0 openai-trips-reserve.com # 2025-09-08
 0.0.0.0 baumantransporte.com # 2025-09-10
-0.0.0.0 jobflow.careers # 2025-09-11
+0.0.0.0 jobflow.careers # 2025-09-13
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30273,4 +30273,8 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
+
+# Automatisierte Warnungen
+0.0.0.0 drheimer.com # 2025-09-13
+0.0.0.0 scandifurn.com # 2025-09-13
 
