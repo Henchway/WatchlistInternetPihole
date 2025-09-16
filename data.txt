@@ -1427,15 +1427,15 @@
 0.0.0.0 bull-verse.net # 2025-09-10
 0.0.0.0 innovativepath.icu # 2025-09-10
 0.0.0.0 blitzgeld.at # 2025-09-11
-0.0.0.0 candriamsmarts.com # 2025-09-11
 0.0.0.0 peritacionjudicialoficial.com # 2025-09-11
 0.0.0.0 rzycucbupk.gyhjjifm.beauty # 2025-09-11
 0.0.0.0 snapbartar.com # 2025-09-11
 0.0.0.0 atrendse.cc # 2025-09-12
-0.0.0.0 atrendseworld.com # 2025-09-12
 0.0.0.0 trader.212group.de # 2025-09-12
 0.0.0.0 valerixo.org # 2025-09-12
 0.0.0.0 xmb.cc # 2025-09-13
+0.0.0.0 atrendseworld.com # 2025-09-14
+0.0.0.0 candriamsmarts.com # 2025-09-14
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -29228,7 +29228,6 @@
 0.0.0.0 econoessence.com # 2025-09-09
 0.0.0.0 edeka24de.com # 2025-09-09
 0.0.0.0 egajeevz.shop # 2025-09-09
-0.0.0.0 fanexch.com # 2025-09-09
 0.0.0.0 foxracing-eu-online.shop # 2025-09-09
 0.0.0.0 fuhrerschein-kaufenonline.com # 2025-09-09
 0.0.0.0 gartenladende.com # 2025-09-09
@@ -29237,7 +29236,6 @@
 0.0.0.0 koedel-gartenbau.de # 2025-09-09
 0.0.0.0 nouwd.com # 2025-09-09
 0.0.0.0 oelpreisfinder.de # 2025-09-09
-0.0.0.0 oldcrow.net # 2025-09-09
 0.0.0.0 plavonpvcdemak.com # 2025-09-09
 0.0.0.0 rachtentrends.com # 2025-09-09
 0.0.0.0 redwing.at # 2025-09-09
@@ -29245,7 +29243,6 @@
 0.0.0.0 salesagemart.com # 2025-09-09
 0.0.0.0 soyml.top # 2025-09-09
 0.0.0.0 styleettendances.com # 2025-09-09
-0.0.0.0 valuevervehub.com # 2025-09-09
 0.0.0.0 vynpkgrz.shop # 2025-09-09
 0.0.0.0 dfejyzbt.shop # 2025-09-10
 0.0.0.0 fahrradhandel-wenzel.de # 2025-09-10
@@ -29288,6 +29285,9 @@
 0.0.0.0 jpins.shop # 2025-09-13
 0.0.0.0 longchampale.eu.com # 2025-09-13
 0.0.0.0 zertifikate24.online # 2025-09-13
+0.0.0.0 fanexch.com # 2025-09-14
+0.0.0.0 oldcrow.net # 2025-09-14
+0.0.0.0 valuevervehub.com # 2025-09-14
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30275,6 +30275,7 @@
 0.0.0.0 canaryvacationhome.com # 2025-08-26
 
 # Automatisierte Warnungen
-0.0.0.0 drheimer.com # 2025-09-13
 0.0.0.0 scandifurn.com # 2025-09-13
+0.0.0.0 canapechic.com # 2025-09-14
+0.0.0.0 drheimer.com # 2025-09-14
 
