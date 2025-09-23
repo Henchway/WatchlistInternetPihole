@@ -1431,7 +1431,6 @@
 0.0.0.0 snapbartar.com # 2025-09-11
 0.0.0.0 trader.212group.de # 2025-09-12
 0.0.0.0 valerixo.org # 2025-09-12
-0.0.0.0 xmb.cc # 2025-09-13
 0.0.0.0 atrendseworld.com # 2025-09-14
 0.0.0.0 candriamsmarts.com # 2025-09-14
 0.0.0.0 ledger.live-transactions-check.com # 2025-09-16
@@ -1441,6 +1440,7 @@
 0.0.0.0 crypto-invest-ai.de # 2025-09-18
 0.0.0.0 lpm.fid-shop.de # 2025-09-18
 0.0.0.0 corgiswap.org # 2025-09-19
+0.0.0.0 xmb.cc # 2025-09-21
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -29371,10 +29371,8 @@
 0.0.0.0 halsten.net # 2025-09-19
 0.0.0.0 heizoelix.de # 2025-09-19
 0.0.0.0 james-watches.com # 2025-09-19
-0.0.0.0 kauflaand.shop # 2025-09-19
 0.0.0.0 kizwnbbm.shop # 2025-09-19
 0.0.0.0 mvhulvrd.shop # 2025-09-19
-0.0.0.0 npipinellas.com # 2025-09-19
 0.0.0.0 qcwouf.shop # 2025-09-19
 0.0.0.0 regattas.de # 2025-09-19
 0.0.0.0 spejdersportolinevip.com # 2025-09-19
@@ -29462,6 +29460,8 @@
 0.0.0.0 weinesprituosen.com # 2025-09-20
 0.0.0.0 wiltecc.com # 2025-09-20
 0.0.0.0 zeppeespadrillas.com # 2025-09-20
+0.0.0.0 kauflaand.shop # 2025-09-21
+0.0.0.0 npipinellas.com # 2025-09-21
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29906,9 +29906,9 @@
 0.0.0.0 near-on-chain.de # 2025-09-07
 0.0.0.0 openai-trips-reserve.com # 2025-09-08
 0.0.0.0 baumantransporte.com # 2025-09-10
-0.0.0.0 jobflow.careers # 2025-09-13
 0.0.0.0 trx-on-chain.de # 2025-09-16
 0.0.0.0 pathe-box.com # 2025-09-19
+0.0.0.0 jobflow.careers # 2025-09-21
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30457,4 +30457,5 @@
 # Automatisierte Warnungen
 0.0.0.0 carrujos.com # 2025-09-20
 0.0.0.0 valuevortexmart.com # 2025-09-20
+0.0.0.0 savesprintmart.com # 2025-09-21
 
