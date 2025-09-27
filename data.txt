@@ -1442,11 +1442,12 @@
 0.0.0.0 optadulttoy.com # 2025-09-22
 0.0.0.0 summerbackyard.shop # 2025-09-22
 0.0.0.0 bahismaksat.com # 2025-09-23
-0.0.0.0 bpgcoin.com # 2025-09-24
 0.0.0.0 crypto-invest-strategie.de # 2025-09-24
 0.0.0.0 limbach.io # 2025-09-24
 0.0.0.0 memecoin.boo # 2025-09-24
 0.0.0.0 stocks.asppeglobal-pro.com # 2025-09-24
+0.0.0.0 bpgcoin.com # 2025-09-25
+0.0.0.0 commerzsci.com # 2025-09-25
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8132,7 +8133,6 @@
 0.0.0.0 peakhup.com # 2025-08-25
 0.0.0.0 shop-teekanne.com # 2025-08-25
 0.0.0.0 velora-mode.de # 2025-08-25
-0.0.0.0 veroshell.com # 2025-08-25
 0.0.0.0 vonauto.de # 2025-08-25
 0.0.0.0 pansycase.com # 2025-08-26
 0.0.0.0 rosenherzmode.com # 2025-08-26
@@ -8294,12 +8294,19 @@
 0.0.0.0 peachyxchic.xyz # 2025-09-23
 0.0.0.0 popularhitech.com # 2025-09-23
 0.0.0.0 sandgo.shop # 2025-09-23
-0.0.0.0 voguewelt.de # 2025-09-23
 0.0.0.0 zanvon.com # 2025-09-23
 0.0.0.0 canadiana.top # 2025-09-24
 0.0.0.0 marconzept.com # 2025-09-24
 0.0.0.0 pumpvibes.com # 2025-09-24
-0.0.0.0 trapple.de # 2025-09-24
+0.0.0.0 curosleep.com # 2025-09-25
+0.0.0.0 funnel.gluckaro.de # 2025-09-25
+0.0.0.0 mautslowenien.at # 2025-09-25
+0.0.0.0 moser-graz.at # 2025-09-25
+0.0.0.0 parijanofficial.com # 2025-09-25
+0.0.0.0 sexpuppenkaufen.at # 2025-09-25
+0.0.0.0 trapple.de # 2025-09-25
+0.0.0.0 veroshell.com # 2025-09-25
+0.0.0.0 voguewelt.de # 2025-09-25
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24585,7 +24592,6 @@
 0.0.0.0 scandifurn.com # 2025-09-16
 0.0.0.0 schmitz-anhanger.com # 2025-09-16
 0.0.0.0 taschen-book.com # 2025-09-16
-0.0.0.0 vacarox.myshopify.com # 2025-09-16
 0.0.0.0 vapeweltde.com # 2025-09-16
 0.0.0.0 vibevapeshop.com # 2025-09-16
 0.0.0.0 wilhelmfoodshop.com # 2025-09-16
@@ -29504,25 +29510,39 @@
 0.0.0.0 nsp-enterprises.com # 2025-09-23
 0.0.0.0 ohssl.org # 2025-09-23
 0.0.0.0 presseausweis-beantragen.at # 2025-09-23
-0.0.0.0 savesprintmart.com # 2025-09-23
 0.0.0.0 valuevortexmart.com # 2025-09-23
 0.0.0.0 vigamtransport.com # 2025-09-23
 0.0.0.0 bagsmartosterreich.at # 2025-09-24
 0.0.0.0 bestenfahrrad.de # 2025-09-24
-0.0.0.0 bikepartonline.com # 2025-09-24
-0.0.0.0 brennholz-goignerog.at # 2025-09-24
 0.0.0.0 eucloseoutue.com # 2025-09-24
 0.0.0.0 footjoys.at # 2025-09-24
-0.0.0.0 gardowork.store # 2025-09-24
-0.0.0.0 gastronomiebedarf24.com # 2025-09-24
 0.0.0.0 giesswein--schuhe.com # 2025-09-24
-0.0.0.0 jlindebergseu.it.com # 2025-09-24
-0.0.0.0 lowa.com.de # 2025-09-24
 0.0.0.0 nnormal.at # 2025-09-24
-0.0.0.0 okwave.taxenough.sbs # 2025-09-24
-0.0.0.0 teknohaus.de # 2025-09-24
-0.0.0.0 tiagocarlosdultrary.shop # 2025-09-24
 0.0.0.0 vaudedshop.com # 2025-09-24
+0.0.0.0 abbandemo.com # 2025-09-25
+0.0.0.0 anhaengerkauf24.com # 2025-09-25
+0.0.0.0 autoteilewerkzeug.com # 2025-09-25
+0.0.0.0 betbuilt.sbs # 2025-09-25
+0.0.0.0 bikepartonline.com # 2025-09-25
+0.0.0.0 brennholz-goignerog.at # 2025-09-25
+0.0.0.0 dnaen.shop # 2025-09-25
+0.0.0.0 gardowork.store # 2025-09-25
+0.0.0.0 gastronomiebedarf24.com # 2025-09-25
+0.0.0.0 haarpflegehaut.com # 2025-09-25
+0.0.0.0 homesupplymarket.com # 2025-09-25
+0.0.0.0 jlindebergseu.it.com # 2025-09-25
+0.0.0.0 lowa.com.de # 2025-09-25
+0.0.0.0 okwave.taxenough.sbs # 2025-09-25
+0.0.0.0 planetebike24.de # 2025-09-25
+0.0.0.0 raiffeisen-osterreich.com # 2025-09-25
+0.0.0.0 rollenzeit.de # 2025-09-25
+0.0.0.0 rundummobil.de # 2025-09-25
+0.0.0.0 savesprintmart.com # 2025-09-25
+0.0.0.0 soundcore.co.at # 2025-09-25
+0.0.0.0 teknohaus.de # 2025-09-25
+0.0.0.0 tiagocarlosdultrary.shop # 2025-09-25
+0.0.0.0 vacarox.myshopify.com # 2025-09-25
+0.0.0.0 viqra.shop # 2025-09-25
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29696,6 +29716,7 @@
 0.0.0.0 theautoveritas.com # 2025-09-18
 0.0.0.0 phoneway.mobi # 2025-09-19
 0.0.0.0 besseregesunheit.com # 2025-09-23
+0.0.0.0 help.claritycheck.com # 2025-09-25
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30524,4 +30545,7 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
+
+# Automatisierte Warnungen
+0.0.0.0 lowpriceloomhub.com # 2025-09-25
 
