@@ -1447,8 +1447,8 @@
 0.0.0.0 memecoin.boo # 2025-09-24
 0.0.0.0 stocks.asppeglobal-pro.com # 2025-09-24
 0.0.0.0 bpgcoin.com # 2025-09-25
-0.0.0.0 commerzsci.com # 2025-09-26
-0.0.0.0 web.novacryptmax.com # 2025-09-26
+0.0.0.0 commerzsci.com # 2025-09-27
+0.0.0.0 web.novacryptmax.com # 2025-09-27
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8301,15 +8301,15 @@
 0.0.0.0 curosleep.com # 2025-09-25
 0.0.0.0 funnel.gluckaro.de # 2025-09-25
 0.0.0.0 mautslowenien.at # 2025-09-25
-0.0.0.0 moser-graz.at # 2025-09-25
 0.0.0.0 parijanofficial.com # 2025-09-25
 0.0.0.0 sexpuppenkaufen.at # 2025-09-25
 0.0.0.0 trapple.de # 2025-09-25
 0.0.0.0 veroshell.com # 2025-09-25
 0.0.0.0 voguewelt.de # 2025-09-25
-0.0.0.0 claudia-schmuckatelier.com # 2025-09-26
 0.0.0.0 grunekraft.shop # 2025-09-26
 0.0.0.0 zanvon.com # 2025-09-26
+0.0.0.0 claudia-schmuckatelier.com # 2025-09-27
+0.0.0.0 moser-graz.at # 2025-09-27
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24583,7 +24583,6 @@
 0.0.0.0 ferlagimo.com # 2025-09-16
 0.0.0.0 frtendance.com # 2025-09-16
 0.0.0.0 gartenatmos.com # 2025-09-16
-0.0.0.0 kausholzs.com # 2025-09-16
 0.0.0.0 lowa-schuhe.net # 2025-09-16
 0.0.0.0 main-garten.at # 2025-09-16
 0.0.0.0 oasenlicht.myshopify.com # 2025-09-16
@@ -24602,7 +24601,6 @@
 0.0.0.0 bash-vip.top # 2025-09-17
 0.0.0.0 gbviu-vip.shop # 2025-09-17
 0.0.0.0 lospimas.store # 2025-09-17
-0.0.0.0 lowcostlode.com # 2025-09-17
 0.0.0.0 marshallaudio-eu.top # 2025-09-17
 0.0.0.0 redwing.at # 2025-09-17
 0.0.0.0 thomannofficiall.com # 2025-09-17
@@ -24620,7 +24618,6 @@
 0.0.0.0 vaststore.shop # 2025-09-18
 0.0.0.0 aaronallen.top # 2025-09-19
 0.0.0.0 best-musical-discount.com # 2025-09-19
-0.0.0.0 bioeneix.de # 2025-09-19
 0.0.0.0 cahok.com # 2025-09-19
 0.0.0.0 eubooks.shop # 2025-09-19
 0.0.0.0 german-audio-equipment.com # 2025-09-19
@@ -29499,7 +29496,6 @@
 0.0.0.0 zwillingmesserverkauf.com # 2025-09-22
 0.0.0.0 zybux.shop # 2025-09-22
 0.0.0.0 bitprofix.com # 2025-09-23
-0.0.0.0 cftmarite.com # 2025-09-23
 0.0.0.0 eldraw.toysaid.baby # 2025-09-23
 0.0.0.0 energie-fee.de # 2025-09-23
 0.0.0.0 gamifo.com # 2025-09-23
@@ -29535,23 +29531,27 @@
 0.0.0.0 autoteilewerkzeug.com # 2025-09-26
 0.0.0.0 carrujos.com # 2025-09-26
 0.0.0.0 dnaen.shop # 2025-09-26
-0.0.0.0 europellet.at # 2025-09-26
 0.0.0.0 haarpflegehaut.com # 2025-09-26
-0.0.0.0 heiz-pellets24.com # 2025-09-26
 0.0.0.0 hikingadventuregear.com # 2025-09-26
 0.0.0.0 homesupplymarket.com # 2025-09-26
 0.0.0.0 lowpriceloomhub.com # 2025-09-26
 0.0.0.0 mein-kleinerhuhnerstall.com # 2025-09-26
 0.0.0.0 planetebike24.de # 2025-09-26
-0.0.0.0 poleneoutlet.de # 2025-09-26
 0.0.0.0 raiffeisen-osterreich.com # 2025-09-26
 0.0.0.0 rollenzeit.de # 2025-09-26
 0.0.0.0 rundummobil.de # 2025-09-26
-0.0.0.0 sidiaustria.com # 2025-09-26
 0.0.0.0 soundcore.co.at # 2025-09-26
 0.0.0.0 valuevortexmart.com # 2025-09-26
 0.0.0.0 viqra.shop # 2025-09-26
-0.0.0.0 warenmax.com # 2025-09-26
+0.0.0.0 bioeneix.de # 2025-09-27
+0.0.0.0 cftmarite.com # 2025-09-27
+0.0.0.0 europellet.at # 2025-09-27
+0.0.0.0 heiz-pellets24.com # 2025-09-27
+0.0.0.0 kausholzs.com # 2025-09-27
+0.0.0.0 lowcostlode.com # 2025-09-27
+0.0.0.0 poleneoutlet.de # 2025-09-27
+0.0.0.0 sidiaustria.com # 2025-09-27
+0.0.0.0 warenmax.com # 2025-09-27
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30007,8 +30007,8 @@
 0.0.0.0 igx.talentway-at.com # 2025-09-22
 0.0.0.0 igzd.talentway-at.com # 2025-09-22
 0.0.0.0 jensenwork.shop # 2025-09-22
-0.0.0.0 metad.talentway-at.com # 2025-09-22
 0.0.0.0 trx-on-chain.de # 2025-09-22
+0.0.0.0 metad.talentway-at.com # 2025-09-27
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30557,4 +30557,7 @@
 
 # Automatisierte Warnungen
 0.0.0.0 betontop.com # 2025-09-26
+0.0.0.0 clearancecurrent.com # 2025-09-27
+0.0.0.0 mehiv.com # 2025-09-27
+0.0.0.0 midoga.com # 2025-09-27
 
