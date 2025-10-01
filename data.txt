@@ -1449,6 +1449,8 @@
 0.0.0.0 bpgcoin.com # 2025-09-25
 0.0.0.0 commerzsci.com # 2025-09-27
 0.0.0.0 web.novacryptmax.com # 2025-09-27
+0.0.0.0 festgeldsicher.at # 2025-09-29
+0.0.0.0 kkrde-api.com # 2025-09-29
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8310,6 +8312,11 @@
 0.0.0.0 fotosrestaurieren.de # 2025-09-28
 0.0.0.0 luxzafashion.com # 2025-09-28
 0.0.0.0 pumpvibes.com # 2025-09-28
+0.0.0.0 dfdge.shop # 2025-09-29
+0.0.0.0 ebooklyn.net # 2025-09-29
+0.0.0.0 ellabelle.de # 2025-09-29
+0.0.0.0 lena-boutique.de # 2025-09-29
+0.0.0.0 thegrand-outlet.com # 2025-09-29
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24656,7 +24663,6 @@
 0.0.0.0 duftefursie.com # 2025-09-20
 0.0.0.0 elektroniknavigatio.com # 2025-09-20
 0.0.0.0 elementiporta.com # 2025-09-20
-0.0.0.0 ellanorahamburg.com # 2025-09-20
 0.0.0.0 erschwinglichwerkzeug.com # 2025-09-20
 0.0.0.0 fenderprofilleisten.com # 2025-09-20
 0.0.0.0 ferramentautensili.com # 2025-09-20
@@ -29508,7 +29514,6 @@
 0.0.0.0 vigamtransport.com # 2025-09-23
 0.0.0.0 bagsmartosterreich.at # 2025-09-24
 0.0.0.0 bestenfahrrad.de # 2025-09-24
-0.0.0.0 eucloseoutue.com # 2025-09-24
 0.0.0.0 footjoys.at # 2025-09-24
 0.0.0.0 nnormal.at # 2025-09-24
 0.0.0.0 vaudedshop.com # 2025-09-24
@@ -29552,6 +29557,23 @@
 0.0.0.0 warenmax.com # 2025-09-27
 0.0.0.0 giesswein--schuhe.com # 2025-09-28
 0.0.0.0 pmtinnova.com # 2025-09-28
+0.0.0.0 asfmagtollshop.cyou # 2025-09-29
+0.0.0.0 betontop.com # 2025-09-29
+0.0.0.0 brennholzruhl.de # 2025-09-29
+0.0.0.0 clearancecurrent.com # 2025-09-29
+0.0.0.0 discountdlife.shop # 2025-09-29
+0.0.0.0 ellanorahamburg.com # 2025-09-29
+0.0.0.0 esprits.at # 2025-09-29
+0.0.0.0 eucloseoutue.com # 2025-09-29
+0.0.0.0 fiammshop.eu # 2025-09-29
+0.0.0.0 jeapn.shop # 2025-09-29
+0.0.0.0 jeffkelleher.shop # 2025-09-29
+0.0.0.0 jonla.shop # 2025-09-29
+0.0.0.0 mehiv.com # 2025-09-29
+0.0.0.0 merrells.co.at # 2025-09-29
+0.0.0.0 midoga.com # 2025-09-29
+0.0.0.0 oogarden.de # 2025-09-29
+0.0.0.0 wannounce.com # 2025-09-29
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29726,6 +29748,7 @@
 0.0.0.0 phoneway.mobi # 2025-09-19
 0.0.0.0 besseregesunheit.com # 2025-09-23
 0.0.0.0 help.claritycheck.com # 2025-09-25
+0.0.0.0 loneix.info # 2025-09-29
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30009,6 +30032,8 @@
 0.0.0.0 trx-on-chain.de # 2025-09-22
 0.0.0.0 metad.talentway-at.com # 2025-09-27
 0.0.0.0 baumantransporte.com # 2025-09-28
+0.0.0.0 jenshoping.top # 2025-09-29
+0.0.0.0 otech-duesseldorf.com # 2025-09-29
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30554,11 +30579,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 betontop.com # 2025-09-26
-0.0.0.0 clearancecurrent.com # 2025-09-27
-0.0.0.0 mehiv.com # 2025-09-27
-0.0.0.0 midoga.com # 2025-09-27
-0.0.0.0 wannounce.com # 2025-09-28
 
