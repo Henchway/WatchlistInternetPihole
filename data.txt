@@ -1446,7 +1446,6 @@
 0.0.0.0 memecoin.boo # 2025-09-24
 0.0.0.0 bpgcoin.com # 2025-09-25
 0.0.0.0 commerzsci.com # 2025-09-27
-0.0.0.0 web.novacryptmax.com # 2025-09-27
 0.0.0.0 kkrde-api.com # 2025-09-29
 0.0.0.0 festgeldsicher.at # 2025-09-30
 0.0.0.0 bestekreditvergabe.ltd # 2025-10-01
@@ -1455,6 +1454,8 @@
 0.0.0.0 cfd.divine-group.io # 2025-10-02
 0.0.0.0 stocks.asppeglobal-pro.com # 2025-10-02
 0.0.0.0 swiss-funding.com # 2025-10-02
+0.0.0.0 divine-group.io # 2025-10-03
+0.0.0.0 web.novacryptmax.com # 2025-10-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8266,7 +8267,6 @@
 0.0.0.0 gambystudios.com # 2025-09-22
 0.0.0.0 happyteers.shop # 2025-09-22
 0.0.0.0 hofer-wien.co # 2025-09-22
-0.0.0.0 irish-supply.com # 2025-09-22
 0.0.0.0 irishsupply.ie # 2025-09-22
 0.0.0.0 jundongshop.com # 2025-09-22
 0.0.0.0 keycaps-vibe.com # 2025-09-22
@@ -8295,7 +8295,6 @@
 0.0.0.0 hanti-mat.com # 2025-09-23
 0.0.0.0 hyperstech.com # 2025-09-23
 0.0.0.0 popularhitech.com # 2025-09-23
-0.0.0.0 sandgo.shop # 2025-09-23
 0.0.0.0 canadiana.top # 2025-09-24
 0.0.0.0 marconzept.com # 2025-09-24
 0.0.0.0 curosleep.com # 2025-09-25
@@ -8324,6 +8323,10 @@
 0.0.0.0 mode-fuerdich.de # 2025-10-01
 0.0.0.0 peachyxchic.xyz # 2025-10-01
 0.0.0.0 trikotrabatt.de # 2025-10-01
+0.0.0.0 irish-supply.com # 2025-10-03
+0.0.0.0 reifemode.com # 2025-10-03
+0.0.0.0 sandgo.shop # 2025-10-03
+0.0.0.0 wrtcmme.com # 2025-10-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29560,7 +29563,6 @@
 0.0.0.0 giesswein--schuhe.com # 2025-09-28
 0.0.0.0 pmtinnova.com # 2025-09-28
 0.0.0.0 asfmagtollshop.cyou # 2025-09-29
-0.0.0.0 betontop.com # 2025-09-29
 0.0.0.0 brennholzruhl.de # 2025-09-29
 0.0.0.0 clearancecurrent.com # 2025-09-29
 0.0.0.0 ellanorahamburg.com # 2025-09-29
@@ -29589,9 +29591,7 @@
 0.0.0.0 kaufmannshop.de # 2025-10-01
 0.0.0.0 lealbys.com # 2025-10-01
 0.0.0.0 nsrarlou.shop # 2025-10-01
-0.0.0.0 pimdy.com # 2025-10-01
 0.0.0.0 promoprism.com # 2025-10-01
-0.0.0.0 sacsparisoutlet.com # 2025-10-01
 0.0.0.0 agadishop.com # 2025-10-02
 0.0.0.0 fiammshop.eu # 2025-10-02
 0.0.0.0 lowa.com.de # 2025-10-02
@@ -29600,6 +29600,19 @@
 0.0.0.0 specialpurchasepoint.com # 2025-10-02
 0.0.0.0 topfahrradzubehor.com # 2025-10-02
 0.0.0.0 vinospiritus.com # 2025-10-02
+0.0.0.0 ajfm.org # 2025-10-03
+0.0.0.0 aodlchangwangyj.jxckd.shop # 2025-10-03
+0.0.0.0 betontop.com # 2025-10-03
+0.0.0.0 blsyconcept.com # 2025-10-03
+0.0.0.0 discocho.com # 2025-10-03
+0.0.0.0 eldraw.giftleft.baby # 2025-10-03
+0.0.0.0 eroadstore.com # 2025-10-03
+0.0.0.0 gruavl.com # 2025-10-03
+0.0.0.0 kamagrakaufen24.net # 2025-10-03
+0.0.0.0 meinkleinerhuhnerstall-at.com # 2025-10-03
+0.0.0.0 pimdy.com # 2025-10-03
+0.0.0.0 sacsparisoutlet.com # 2025-10-03
+0.0.0.0 shaarks.com # 2025-10-03
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -29771,10 +29784,10 @@
 0.0.0.0 walk-fit.io # 2025-09-16
 0.0.0.0 walkfit.welltech.com # 2025-09-16
 0.0.0.0 theautoveritas.com # 2025-09-18
-0.0.0.0 phoneway.mobi # 2025-09-19
 0.0.0.0 besseregesunheit.com # 2025-09-23
 0.0.0.0 help.claritycheck.com # 2025-09-25
-0.0.0.0 loneix.info # 2025-09-29
+0.0.0.0 loneix.info # 2025-10-03
+0.0.0.0 phoneway.mobi # 2025-10-03
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30058,10 +30071,11 @@
 0.0.0.0 trx-on-chain.de # 2025-09-22
 0.0.0.0 metad.talentway-at.com # 2025-09-27
 0.0.0.0 baumantransporte.com # 2025-09-28
-0.0.0.0 jenshoping.top # 2025-09-29
 0.0.0.0 otech-duesseldorf.com # 2025-09-29
 0.0.0.0 tizchmrf.cc # 2025-09-30
 0.0.0.0 webtesthub.de # 2025-10-01
+0.0.0.0 demeaningfulbrands.com # 2025-10-03
+0.0.0.0 jenshoping.top # 2025-10-03
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30607,8 +30621,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 ajfm.org # 2025-10-02
-0.0.0.0 shaarks.com # 2025-10-02
 
