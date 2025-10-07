@@ -1428,7 +1428,6 @@
 0.0.0.0 rzycucbupk.gyhjjifm.beauty # 2025-09-11
 0.0.0.0 snapbartar.com # 2025-09-11
 0.0.0.0 trader.212group.de # 2025-09-12
-0.0.0.0 valerixo.org # 2025-09-12
 0.0.0.0 atrendseworld.com # 2025-09-14
 0.0.0.0 candriamsmarts.com # 2025-09-14
 0.0.0.0 ledger.live-transactions-check.com # 2025-09-16
@@ -1456,6 +1455,7 @@
 0.0.0.0 swiss-funding.com # 2025-10-02
 0.0.0.0 web.novacryptmax.com # 2025-10-03
 0.0.0.0 divine-group.io # 2025-10-04
+0.0.0.0 valerixo.org # 2025-10-05
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8311,7 +8311,6 @@
 0.0.0.0 fotosrestaurieren.de # 2025-09-28
 0.0.0.0 luxzafashion.com # 2025-09-28
 0.0.0.0 pumpvibes.com # 2025-09-28
-0.0.0.0 dfdge.shop # 2025-09-29
 0.0.0.0 ebooklyn.net # 2025-09-29
 0.0.0.0 ellabelle.de # 2025-09-29
 0.0.0.0 lena-boutique.de # 2025-09-29
@@ -8327,6 +8326,7 @@
 0.0.0.0 sandgo.shop # 2025-10-03
 0.0.0.0 wrtcmme.com # 2025-10-03
 0.0.0.0 alpenfaser.de # 2025-10-04
+0.0.0.0 dfdge.shop # 2025-10-05
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29549,7 +29549,6 @@
 0.0.0.0 planetebike24.de # 2025-09-26
 0.0.0.0 raiffeisen-osterreich.com # 2025-09-26
 0.0.0.0 rollenzeit.de # 2025-09-26
-0.0.0.0 soundcore.co.at # 2025-09-26
 0.0.0.0 valuevortexmart.com # 2025-09-26
 0.0.0.0 viqra.shop # 2025-09-26
 0.0.0.0 bioeneix.de # 2025-09-27
@@ -29574,7 +29573,6 @@
 0.0.0.0 esprits.at # 2025-09-30
 0.0.0.0 jeapn.shop # 2025-09-30
 0.0.0.0 jonla.shop # 2025-09-30
-0.0.0.0 kulako.com # 2025-09-30
 0.0.0.0 merrells.co.at # 2025-09-30
 0.0.0.0 midoga.com # 2025-09-30
 0.0.0.0 oogarden.de # 2025-09-30
@@ -29613,6 +29611,8 @@
 0.0.0.0 jeffkelleher.shop # 2025-10-04
 0.0.0.0 kamagrakaufen24.net # 2025-10-04
 0.0.0.0 meinkleinerhuhnerstall-at.com # 2025-10-04
+0.0.0.0 kulako.com # 2025-10-05
+0.0.0.0 soundcore.co.at # 2025-10-05
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30625,4 +30625,6 @@
 # Automatisierte Warnungen
 0.0.0.0 qboxo.com # 2025-10-04
 0.0.0.0 synizesis.com # 2025-10-04
+0.0.0.0 insolesgeeks.com # 2025-10-05
+0.0.0.0 soldessacsparis.com # 2025-10-05
 
