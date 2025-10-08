@@ -8327,6 +8327,24 @@
 0.0.0.0 wrtcmme.com # 2025-10-03
 0.0.0.0 alpenfaser.de # 2025-10-04
 0.0.0.0 dfdge.shop # 2025-10-05
+0.0.0.0 alessoria.de # 2025-10-06
+0.0.0.0 anamiboutique.de # 2025-10-06
+0.0.0.0 annamodehaus.com # 2025-10-06
+0.0.0.0 avoura.de # 2025-10-06
+0.0.0.0 baydresslove.com # 2025-10-06
+0.0.0.0 bcpchoice.shop # 2025-10-06
+0.0.0.0 ella-boutique.de # 2025-10-06
+0.0.0.0 gartenbeetzubehoer.com # 2025-10-06
+0.0.0.0 goldenbayboutiques.com # 2025-10-06
+0.0.0.0 halloweenwelt-manufaktur.de # 2025-10-06
+0.0.0.0 iconuva.de # 2025-10-06
+0.0.0.0 isabel-modehaus.de # 2025-10-06
+0.0.0.0 labubumundi.com # 2025-10-06
+0.0.0.0 malens-boutique.de # 2025-10-06
+0.0.0.0 mangolo-boutique.de # 2025-10-06
+0.0.0.0 modehaus-valentin.de # 2025-10-06
+0.0.0.0 weberstyle.de # 2025-10-06
+0.0.0.0 wohlina.de # 2025-10-06
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29613,6 +29631,24 @@
 0.0.0.0 meinkleinerhuhnerstall-at.com # 2025-10-04
 0.0.0.0 kulako.com # 2025-10-05
 0.0.0.0 soundcore.co.at # 2025-10-05
+0.0.0.0 auto-partshome.com # 2025-10-06
+0.0.0.0 banhban.de # 2025-10-06
+0.0.0.0 barrelcraft.store # 2025-10-06
+0.0.0.0 greenwichwelpen.de # 2025-10-06
+0.0.0.0 grunekraft.store # 2025-10-06
+0.0.0.0 grunovo.com # 2025-10-06
+0.0.0.0 huntingmasterstore.com # 2025-10-06
+0.0.0.0 insolesgeeks.com # 2025-10-06
+0.0.0.0 juergenkehrer.de # 2025-10-06
+0.0.0.0 lhsnr.shop # 2025-10-06
+0.0.0.0 lmvae.shop # 2025-10-06
+0.0.0.0 lovezhuvs.click # 2025-10-06
+0.0.0.0 petfuttershop.com # 2025-10-06
+0.0.0.0 reisentheleop.de.com # 2025-10-06
+0.0.0.0 soldessacsparis.com # 2025-10-06
+0.0.0.0 synizesis.com # 2025-10-06
+0.0.0.0 teamvismaleaseabike.shop # 2025-10-06
+0.0.0.0 velorin.de # 2025-10-06
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30076,6 +30112,8 @@
 0.0.0.0 webtesthub.de # 2025-10-01
 0.0.0.0 demeaningfulbrands.com # 2025-10-03
 0.0.0.0 jenshoping.top # 2025-10-03
+0.0.0.0 dts-werbeagentur.de # 2025-10-06
+0.0.0.0 isuitworker.shop # 2025-10-06
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30207,6 +30245,7 @@
 0.0.0.0 tormeister.at # 2025-08-12
 0.0.0.0 installateur-meister.at # 2025-08-27
 0.0.0.0 prs-installateur.at # 2025-09-23
+0.0.0.0 elektro-soforthilfe.at # 2025-10-06
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -30621,10 +30660,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 qboxo.com # 2025-10-04
-0.0.0.0 synizesis.com # 2025-10-04
-0.0.0.0 insolesgeeks.com # 2025-10-05
-0.0.0.0 soldessacsparis.com # 2025-10-05
 
