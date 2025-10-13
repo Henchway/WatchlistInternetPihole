@@ -1455,11 +1455,9 @@
 0.0.0.0 web.novacryptmax.com # 2025-10-03
 0.0.0.0 divine-group.io # 2025-10-04
 0.0.0.0 valerixo.org # 2025-10-05
-0.0.0.0 stockyis.com # 2025-10-08
 0.0.0.0 swiss-funding.com # 2025-10-08
 0.0.0.0 margaretannlynch.com # 2025-10-09
 0.0.0.0 222-t.com # 2025-10-10
-0.0.0.0 acoryxgroup.com # 2025-10-10
 0.0.0.0 althaus-kredit.com # 2025-10-10
 0.0.0.0 at-setrafimoney.org # 2025-10-10
 0.0.0.0 atdasjournal.com # 2025-10-10
@@ -1483,12 +1481,14 @@
 0.0.0.0 orange-ltd.org # 2025-10-10
 0.0.0.0 platform.invesco-trading.com # 2025-10-10
 0.0.0.0 prodiviagroup.com # 2025-10-10
-0.0.0.0 taktikinvestakademie.com # 2025-10-10
 0.0.0.0 twelvewhales.net # 2025-10-10
 0.0.0.0 volanixedgeai.com # 2025-10-10
 0.0.0.0 volksraiffkredit.org # 2025-10-10
-0.0.0.0 voltryzapex.app # 2025-10-10
 0.0.0.0 voltryzapex.at # 2025-10-10
+0.0.0.0 acoryxgroup.com # 2025-10-11
+0.0.0.0 stockyis.com # 2025-10-11
+0.0.0.0 taktikinvestakademie.com # 2025-10-11
+0.0.0.0 voltryzapex.app # 2025-10-11
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -29736,16 +29736,16 @@
 0.0.0.0 youkukestylus.com # 2025-10-09
 0.0.0.0 zaubelkid.com # 2025-10-09
 0.0.0.0 ziegler-handel.de # 2025-10-09
-0.0.0.0 bds-coffee.de # 2025-10-10
 0.0.0.0 janteshuiles.com # 2025-10-10
 0.0.0.0 lecreusets.de # 2025-10-10
-0.0.0.0 lowcostlustermart.com # 2025-10-10
 0.0.0.0 melittaosterreich.at # 2025-10-10
 0.0.0.0 myfurnitureland.com # 2025-10-10
 0.0.0.0 offup-vip.za.com # 2025-10-10
 0.0.0.0 phaidon-eu-online.shop # 2025-10-10
-0.0.0.0 pokemoncenter.com.de # 2025-10-10
 0.0.0.0 ppsecuresite.com # 2025-10-10
+0.0.0.0 bds-coffee.de # 2025-10-11
+0.0.0.0 lowcostlustermart.com # 2025-10-11
+0.0.0.0 pokemoncenter.com.de # 2025-10-11
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30767,4 +30767,5 @@
 
 # Automatisierte Warnungen
 0.0.0.0 econosavecenter.com # 2025-10-10
+0.0.0.0 econoechomart.com # 2025-10-11
 
