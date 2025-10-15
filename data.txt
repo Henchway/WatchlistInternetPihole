@@ -1472,7 +1472,6 @@
 0.0.0.0 fundgoxpro.net # 2025-10-10
 0.0.0.0 fundgoxprosolution.com # 2025-10-10
 0.0.0.0 futuregolds.com # 2025-10-10
-0.0.0.0 fx-ln.com # 2025-10-10
 0.0.0.0 geldvision.com # 2025-10-10
 0.0.0.0 ichferkens.de # 2025-10-10
 0.0.0.0 investkreditbank.at # 2025-10-10
@@ -1481,7 +1480,6 @@
 0.0.0.0 prodiviagroup.com # 2025-10-10
 0.0.0.0 twelvewhales.net # 2025-10-10
 0.0.0.0 volksraiffkredit.org # 2025-10-10
-0.0.0.0 voltryzapex.at # 2025-10-10
 0.0.0.0 acoryxgroup.com # 2025-10-11
 0.0.0.0 stockyis.com # 2025-10-11
 0.0.0.0 taktikinvestakademie.com # 2025-10-11
@@ -1489,6 +1487,8 @@
 0.0.0.0 johnstonmurphycapital.com # 2025-10-12
 0.0.0.0 platform.invesco-trading.com # 2025-10-12
 0.0.0.0 volanixedgeai.com # 2025-10-12
+0.0.0.0 fx-ln.com # 2025-10-13
+0.0.0.0 voltryzapex.at # 2025-10-13
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -29716,7 +29716,6 @@
 0.0.0.0 nioekure.com # 2025-10-08
 0.0.0.0 onopenbooks.com # 2025-10-08
 0.0.0.0 savesilomart.com # 2025-10-08
-0.0.0.0 shavecan.com # 2025-10-08
 0.0.0.0 tryglycogenplus.com # 2025-10-08
 0.0.0.0 yiqixiuba.com # 2025-10-08
 0.0.0.0 dunor.org # 2025-10-09
@@ -29733,7 +29732,6 @@
 0.0.0.0 zaubelkid.com # 2025-10-09
 0.0.0.0 ziegler-handel.de # 2025-10-09
 0.0.0.0 janteshuiles.com # 2025-10-10
-0.0.0.0 lecreusets.de # 2025-10-10
 0.0.0.0 melittaosterreich.at # 2025-10-10
 0.0.0.0 myfurnitureland.com # 2025-10-10
 0.0.0.0 offup-vip.za.com # 2025-10-10
@@ -29746,6 +29744,8 @@
 0.0.0.0 pasoraseasons.de # 2025-10-12
 0.0.0.0 youkukestylus.com # 2025-10-12
 0.0.0.0 zertifiziert.de # 2025-10-12
+0.0.0.0 lecreusets.de # 2025-10-13
+0.0.0.0 shavecan.com # 2025-10-13
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30768,4 +30768,6 @@
 # Automatisierte Warnungen
 0.0.0.0 econosavecenter.com # 2025-10-10
 0.0.0.0 econoechomart.com # 2025-10-12
+0.0.0.0 budgetburstdeals.com # 2025-10-13
+0.0.0.0 zxmcm.com # 2025-10-13
 
