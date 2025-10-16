@@ -1489,6 +1489,9 @@
 0.0.0.0 volanixedgeai.com # 2025-10-12
 0.0.0.0 fx-ln.com # 2025-10-13
 0.0.0.0 voltryzapex.at # 2025-10-13
+0.0.0.0 bull-verse.org # 2025-10-14
+0.0.0.0 galaxygroup.io # 2025-10-14
+0.0.0.0 jpmorgans-group.org # 2025-10-14
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8408,6 +8411,16 @@
 0.0.0.0 norazurich.com # 2025-10-10
 0.0.0.0 peppermayo.com # 2025-10-10
 0.0.0.0 dunancia.de # 2025-10-12
+0.0.0.0 barbara-taschen.com # 2025-10-14
+0.0.0.0 dhrys.com # 2025-10-14
+0.0.0.0 get4u.eu # 2025-10-14
+0.0.0.0 halloween-manufaktur.de # 2025-10-14
+0.0.0.0 martinundjulia.com # 2025-10-14
+0.0.0.0 mikamuenchen.de # 2025-10-14
+0.0.0.0 niemczyk-brennholz.eu # 2025-10-14
+0.0.0.0 nordspur.de # 2025-10-14
+0.0.0.0 scanbuymart.com # 2025-10-14
+0.0.0.0 schuhegiesswein.com # 2025-10-14
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -23936,7 +23949,6 @@
 0.0.0.0 fahrrado.com # 2025-05-31
 0.0.0.0 gs-eu.com # 2025-05-31
 0.0.0.0 oxfordall.shop # 2025-05-31
-0.0.0.0 avvenice.com # 2025-06-02
 0.0.0.0 chordmilk.shop # 2025-06-03
 0.0.0.0 de-bike.com # 2025-06-03
 0.0.0.0 diytools-store.com # 2025-06-03
@@ -29691,7 +29703,6 @@
 0.0.0.0 meinkleinerhuhnerstall-at.com # 2025-10-04
 0.0.0.0 kulako.com # 2025-10-05
 0.0.0.0 soundcore.co.at # 2025-10-05
-0.0.0.0 insolesgeeks.com # 2025-10-06
 0.0.0.0 soldessacsparis.com # 2025-10-06
 0.0.0.0 synizesis.com # 2025-10-06
 0.0.0.0 auto-partshome.com # 2025-10-07
@@ -29725,7 +29736,6 @@
 0.0.0.0 grunekraft.store # 2025-10-09
 0.0.0.0 kgspellets.com # 2025-10-09
 0.0.0.0 mybestonlineshop.com # 2025-10-09
-0.0.0.0 remington.com.de # 2025-10-09
 0.0.0.0 routine-fly.com # 2025-10-09
 0.0.0.0 routinefashiones.com # 2025-10-09
 0.0.0.0 uhlsportworld.shop # 2025-10-09
@@ -29746,6 +29756,28 @@
 0.0.0.0 zertifiziert.de # 2025-10-12
 0.0.0.0 lecreusets.de # 2025-10-13
 0.0.0.0 shavecan.com # 2025-10-13
+0.0.0.0 aegis-at.com # 2025-10-14
+0.0.0.0 asfindlgital.cfd # 2025-10-14
+0.0.0.0 bdscoffee.com # 2025-10-14
+0.0.0.0 biovorratshop.com # 2025-10-14
+0.0.0.0 buestyle.com # 2025-10-14
+0.0.0.0 doughhound.com # 2025-10-14
+0.0.0.0 elektrohandel-schmidt.com # 2025-10-14
+0.0.0.0 fitstancic.com # 2025-10-14
+0.0.0.0 foxracingdeals-eu.shop # 2025-10-14
+0.0.0.0 heisen-handels.de # 2025-10-14
+0.0.0.0 heizoel-standard.de # 2025-10-14
+0.0.0.0 mhpa.net # 2025-10-14
+0.0.0.0 naturerlebnisde.com # 2025-10-14
+0.0.0.0 phaidon-online.shop # 2025-10-14
+0.0.0.0 relsanthel.de.com # 2025-10-14
+0.0.0.0 remington.com.de # 2025-10-14
+0.0.0.0 schusters-handel.de # 2025-10-14
+0.0.0.0 speedos.co.at # 2025-10-14
+0.0.0.0 spirituelle-ecke.com # 2025-10-14
+0.0.0.0 toutetplus.com # 2025-10-14
+0.0.0.0 upbikewinner.com # 2025-10-14
+0.0.0.0 virosia.shop # 2025-10-14
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30217,6 +30249,9 @@
 0.0.0.0 bonprixsho.shop # 2025-10-07
 0.0.0.0 dts-werbeagentur.de # 2025-10-07
 0.0.0.0 flexarbeit.com # 2025-10-07
+0.0.0.0 malibu257.com # 2025-10-14
+0.0.0.0 testheld.me # 2025-10-14
+0.0.0.0 upshiftade.com # 2025-10-14
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -30527,6 +30562,7 @@
 0.0.0.0 autoglobalshipping.com # 2025-08-22
 0.0.0.0 frachtaglogistics.com # 2025-08-22
 0.0.0.0 fleetcargodirect.com # 2025-10-10
+0.0.0.0 linkglobalcargo.com # 2025-10-14
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
