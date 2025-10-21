@@ -1471,7 +1471,6 @@
 0.0.0.0 fundgoxpro.net # 2025-10-10
 0.0.0.0 fundgoxprosolution.com # 2025-10-10
 0.0.0.0 futuregolds.com # 2025-10-10
-0.0.0.0 geldvision.com # 2025-10-10
 0.0.0.0 ichferkens.de # 2025-10-10
 0.0.0.0 investkreditbank.at # 2025-10-10
 0.0.0.0 mullandfraser.com # 2025-10-10
@@ -1497,6 +1496,7 @@
 0.0.0.0 area.bitnixer.net # 2025-10-18
 0.0.0.0 solvexpulse-53-ai.org # 2025-10-18
 0.0.0.0 thamesai.com # 2025-10-18
+0.0.0.0 geldvision.com # 2025-10-19
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -29773,7 +29773,6 @@
 0.0.0.0 biovorratshop.com # 2025-10-15
 0.0.0.0 buestyle.com # 2025-10-15
 0.0.0.0 doughhound.com # 2025-10-15
-0.0.0.0 elektrohandel-schmidt.com # 2025-10-15
 0.0.0.0 facecomo.com # 2025-10-15
 0.0.0.0 fitstancic.com # 2025-10-15
 0.0.0.0 foxracingdeals-eu.shop # 2025-10-15
@@ -29782,14 +29781,11 @@
 0.0.0.0 naturerlebnisde.com # 2025-10-15
 0.0.0.0 phaidon-online.shop # 2025-10-15
 0.0.0.0 reisenthelsale.de.com # 2025-10-15
-0.0.0.0 relsanthel.de.com # 2025-10-15
 0.0.0.0 schusters-handel.de # 2025-10-15
 0.0.0.0 skygarden.digital # 2025-10-15
-0.0.0.0 speedos.co.at # 2025-10-15
 0.0.0.0 toutetplus.com # 2025-10-15
 0.0.0.0 upbikewinner.com # 2025-10-15
 0.0.0.0 virosia.shop # 2025-10-15
-0.0.0.0 al-nassr.store # 2025-10-16
 0.0.0.0 authilama.com # 2025-10-16
 0.0.0.0 berlinmusiccraft.com # 2025-10-16
 0.0.0.0 brookss.at # 2025-10-16
@@ -29829,6 +29825,10 @@
 0.0.0.0 thermomix-restposten.de # 2025-10-18
 0.0.0.0 vorwerk-com.de # 2025-10-18
 0.0.0.0 xbune.shop # 2025-10-18
+0.0.0.0 al-nassr.store # 2025-10-19
+0.0.0.0 elektrohandel-schmidt.com # 2025-10-19
+0.0.0.0 relsanthel.de.com # 2025-10-19
+0.0.0.0 speedos.co.at # 2025-10-19
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30006,9 +30006,9 @@
 0.0.0.0 digitale-vignette-online.at # 2025-10-07
 0.0.0.0 mobileinfo.biz # 2025-10-07
 0.0.0.0 besseregesunheit.com # 2025-10-10
-0.0.0.0 locateanyphone.net # 2025-10-10
 0.0.0.0 besseregesudheit.com # 2025-10-12
 0.0.0.0 girl-world.site # 2025-10-15
+0.0.0.0 locateanyphone.net # 2025-10-19
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30301,9 +30301,9 @@
 0.0.0.0 bonprixsho.shop # 2025-10-07
 0.0.0.0 dts-werbeagentur.de # 2025-10-07
 0.0.0.0 flexarbeit.com # 2025-10-07
-0.0.0.0 malibu257.com # 2025-10-14
 0.0.0.0 testheld.me # 2025-10-17
 0.0.0.0 upshiftade.com # 2025-10-18
+0.0.0.0 malibu257.com # 2025-10-19
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
