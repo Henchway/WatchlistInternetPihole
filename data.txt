@@ -1497,6 +1497,8 @@
 0.0.0.0 solvexpulse-53-ai.org # 2025-10-18
 0.0.0.0 thamesai.com # 2025-10-18
 0.0.0.0 geldvision.com # 2025-10-19
+0.0.0.0 cimga.ltd # 2025-10-21
+0.0.0.0 gruenstein.inc # 2025-10-21
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8432,9 +8434,11 @@
 0.0.0.0 zeitloseliebe.de # 2025-10-17
 0.0.0.0 halloween-manufaktur.de # 2025-10-18
 0.0.0.0 martinundjulia.com # 2025-10-18
-0.0.0.0 bauergraz.com # 2025-10-20
 0.0.0.0 hofnergraz.at # 2025-10-20
 0.0.0.0 schuhegiesswein.com # 2025-10-20
+0.0.0.0 amuseliebedirndl.com # 2025-10-21
+0.0.0.0 bauergraz.com # 2025-10-21
+0.0.0.0 ruytior.shop # 2025-10-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -15539,7 +15543,6 @@
 0.0.0.0 vivobarefootösterreich.at # 2023-04-17
 0.0.0.0 xkauf.at # 2023-04-17
 0.0.0.0 camperschuhe.at # 2023-04-18
-0.0.0.0 dein-traumbrautkleid.de # 2023-04-18
 0.0.0.0 followeron.com # 2023-04-18
 0.0.0.0 latifamorgantyorkies.com # 2023-04-18
 0.0.0.0 oncloud-turkey.com # 2023-04-18
@@ -16217,7 +16220,6 @@
 0.0.0.0 elektro-knoll.com # 2023-05-25
 0.0.0.0 elektro-media.com # 2023-05-25
 0.0.0.0 elektro-palme.com # 2023-05-25
-0.0.0.0 elektroexpress24.com # 2023-05-25
 0.0.0.0 elektronische-strasse.com # 2023-05-25
 0.0.0.0 elitwelpen.de # 2023-05-25
 0.0.0.0 energynatural.shop # 2023-05-25
@@ -29830,16 +29832,37 @@
 0.0.0.0 elektrohandel-schmidt.com # 2025-10-19
 0.0.0.0 relsanthel.de.com # 2025-10-19
 0.0.0.0 speedos.co.at # 2025-10-19
-0.0.0.0 avenes.at # 2025-10-20
-0.0.0.0 flashsalefiesta.com # 2025-10-20
-0.0.0.0 fleurop-german.com # 2025-10-20
-0.0.0.0 lanternfestosterreich.com # 2025-10-20
-0.0.0.0 lxcvt.shop # 2025-10-20
 0.0.0.0 poleneoutlet.de # 2025-10-20
-0.0.0.0 sezaneclothingshop.sa.com # 2025-10-20
-0.0.0.0 shopunivers.de # 2025-10-20
-0.0.0.0 styledresser.com # 2025-10-20
-0.0.0.0 waxmk.com # 2025-10-20
+0.0.0.0 abdeckplanenmotor.com # 2025-10-21
+0.0.0.0 adl.wiksh.shop # 2025-10-21
+0.0.0.0 airyixe.com # 2025-10-21
+0.0.0.0 avenes.at # 2025-10-21
+0.0.0.0 barrelecraft.store # 2025-10-21
+0.0.0.0 conrad-brennstoffe.de # 2025-10-21
+0.0.0.0 e.holzheiz.com # 2025-10-21
+0.0.0.0 econoessencemart.com # 2025-10-21
+0.0.0.0 eldraw.mailplus.baby # 2025-10-21
+0.0.0.0 elternundkinderfreude.de # 2025-10-21
+0.0.0.0 euortovox.shop # 2025-10-21
+0.0.0.0 eurvipsale.shop # 2025-10-21
+0.0.0.0 exotischereptilien.eu # 2025-10-21
+0.0.0.0 flashsalefiesta.com # 2025-10-21
+0.0.0.0 fleurop-german.com # 2025-10-21
+0.0.0.0 gesunderrasen.com # 2025-10-21
+0.0.0.0 greenwichwelpenhaus.de # 2025-10-21
+0.0.0.0 labubu-box.com # 2025-10-21
+0.0.0.0 lahop.goodstill.rest # 2025-10-21
+0.0.0.0 lanternfestosterreich.com # 2025-10-21
+0.0.0.0 lxcvt.shop # 2025-10-21
+0.0.0.0 mobivita.de # 2025-10-21
+0.0.0.0 opholzimpexgmbh.com # 2025-10-21
+0.0.0.0 pulsequity.com # 2025-10-21
+0.0.0.0 sezaneclothingshop.sa.com # 2025-10-21
+0.0.0.0 shopunivers.de # 2025-10-21
+0.0.0.0 sting-ring.de # 2025-10-21
+0.0.0.0 styledresser.com # 2025-10-21
+0.0.0.0 waxmk.com # 2025-10-21
+0.0.0.0 xperttrekking.com # 2025-10-21
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30863,8 +30886,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 dlandtechnik.com # 2025-10-20
-0.0.0.0 gesunderrasen.com # 2025-10-20
 
