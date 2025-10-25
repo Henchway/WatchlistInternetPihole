@@ -1498,9 +1498,13 @@
 0.0.0.0 thamesai.com # 2025-10-18
 0.0.0.0 geldvision.com # 2025-10-19
 0.0.0.0 cimga.ltd # 2025-10-21
-0.0.0.0 austriafinanzhaus.com # 2025-10-22
-0.0.0.0 fincapitus.com # 2025-10-22
 0.0.0.0 gruenstein.inc # 2025-10-22
+0.0.0.0 austriafinanzhaus.com # 2025-10-23
+0.0.0.0 batsedgx.vip # 2025-10-23
+0.0.0.0 ebay.buyvip.live # 2025-10-23
+0.0.0.0 fincapitus.com # 2025-10-23
+0.0.0.0 quantum-ai.at # 2025-10-23
+0.0.0.0 zureonglobal.com # 2025-10-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -7705,7 +7709,6 @@
 0.0.0.0 emilyschmuck.com # 2025-02-24
 0.0.0.0 eu-sezane.com # 2025-02-24
 0.0.0.0 healthybear.io # 2025-02-24
-0.0.0.0 loanya.de # 2025-02-24
 0.0.0.0 pummys.com # 2025-02-24
 0.0.0.0 uaqcx.shop # 2025-02-24
 0.0.0.0 xhkstore.info # 2025-02-24
@@ -8442,7 +8445,8 @@
 0.0.0.0 bauergraz.com # 2025-10-21
 0.0.0.0 ruytior.shop # 2025-10-21
 0.0.0.0 erovo.de # 2025-10-22
-0.0.0.0 gracesboutiquecalifornia.com # 2025-10-22
+0.0.0.0 amuseliebe.shop # 2025-10-23
+0.0.0.0 gracesboutiquecalifornia.com # 2025-10-23
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24174,7 +24178,6 @@
 0.0.0.0 canyonsavebig.shop # 2025-07-15
 0.0.0.0 cecilaktion.de # 2025-07-15
 0.0.0.0 de-birke.com # 2025-07-15
-0.0.0.0 eu.stanley1913.com # 2025-07-15
 0.0.0.0 euro.stanleys1913.com # 2025-07-15
 0.0.0.0 greenmah.shop # 2025-07-15
 0.0.0.0 hundvonedenstoreava.shop # 2025-07-15
@@ -29769,7 +29772,6 @@
 0.0.0.0 fahrradstorm.com # 2025-10-12
 0.0.0.0 pasoraseasons.de # 2025-10-12
 0.0.0.0 youkukestylus.com # 2025-10-12
-0.0.0.0 zertifiziert.de # 2025-10-12
 0.0.0.0 lecreusets.de # 2025-10-13
 0.0.0.0 shavecan.com # 2025-10-13
 0.0.0.0 asfindlgital.cfd # 2025-10-14
@@ -29866,9 +29868,20 @@
 0.0.0.0 pulsequity.com # 2025-10-22
 0.0.0.0 sting-ring.de # 2025-10-22
 0.0.0.0 tm-preisvergleich.de # 2025-10-22
-0.0.0.0 urbradeln.de # 2025-10-22
-0.0.0.0 volkskuchen.com # 2025-10-22
 0.0.0.0 xperttrekking.com # 2025-10-22
+0.0.0.0 alles-anhanger.com # 2025-10-23
+0.0.0.0 almana-shop.de # 2025-10-23
+0.0.0.0 discount-mytholon.shop # 2025-10-23
+0.0.0.0 eldraw.gochoice.baby # 2025-10-23
+0.0.0.0 klassischesfahrradneu.com # 2025-10-23
+0.0.0.0 mypookino.com # 2025-10-23
+0.0.0.0 oberflache24.com # 2025-10-23
+0.0.0.0 snckhor-materiaux.com # 2025-10-23
+0.0.0.0 solovairaustria.com # 2025-10-23
+0.0.0.0 urbradeln.de # 2025-10-23
+0.0.0.0 volkskuchen.com # 2025-10-23
+0.0.0.0 werkzeugland.com # 2025-10-23
+0.0.0.0 wieburg-handel.de # 2025-10-23
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30043,12 +30056,13 @@
 0.0.0.0 loneix.info # 2025-10-03
 0.0.0.0 phoneway.mobi # 2025-10-03
 0.0.0.0 digitale-vignette-online.at # 2025-10-07
-0.0.0.0 mobileinfo.biz # 2025-10-07
 0.0.0.0 besseregesunheit.com # 2025-10-10
 0.0.0.0 besseregesudheit.com # 2025-10-12
 0.0.0.0 girl-world.site # 2025-10-15
 0.0.0.0 locateanyphone.net # 2025-10-19
 0.0.0.0 myiq.com # 2025-10-22
+0.0.0.0 magenta-oat.com # 2025-10-23
+0.0.0.0 pdfgo.co # 2025-10-23
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30343,7 +30357,7 @@
 0.0.0.0 flexarbeit.com # 2025-10-07
 0.0.0.0 testheld.me # 2025-10-17
 0.0.0.0 upshiftade.com # 2025-10-18
-0.0.0.0 malibu257.com # 2025-10-19
+0.0.0.0 malibu257.com # 2025-10-23
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
