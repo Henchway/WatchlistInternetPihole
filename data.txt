@@ -1500,11 +1500,12 @@
 0.0.0.0 cimga.ltd # 2025-10-21
 0.0.0.0 gruenstein.inc # 2025-10-22
 0.0.0.0 austriafinanzhaus.com # 2025-10-23
-0.0.0.0 batsedgx.vip # 2025-10-23
-0.0.0.0 ebay.buyvip.live # 2025-10-23
 0.0.0.0 fincapitus.com # 2025-10-23
-0.0.0.0 quantum-ai.at # 2025-10-23
-0.0.0.0 zureonglobal.com # 2025-10-23
+0.0.0.0 batsedgx.vip # 2025-10-24
+0.0.0.0 ebay.buyvip.live # 2025-10-24
+0.0.0.0 goaper.com # 2025-10-24
+0.0.0.0 quantum-ai.at # 2025-10-24
+0.0.0.0 zureonglobal.com # 2025-10-24
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8447,6 +8448,12 @@
 0.0.0.0 erovo.de # 2025-10-22
 0.0.0.0 amuseliebe.shop # 2025-10-23
 0.0.0.0 gracesboutiquecalifornia.com # 2025-10-23
+0.0.0.0 dresswithsoul.com # 2025-10-24
+0.0.0.0 edelina.de # 2025-10-24
+0.0.0.0 houseofnordberg.com # 2025-10-24
+0.0.0.0 lucevera.de # 2025-10-24
+0.0.0.0 neueberlin.de # 2025-10-24
+0.0.0.0 vlizo-modehaus.shop # 2025-10-24
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29869,19 +29876,27 @@
 0.0.0.0 sting-ring.de # 2025-10-22
 0.0.0.0 tm-preisvergleich.de # 2025-10-22
 0.0.0.0 xperttrekking.com # 2025-10-22
-0.0.0.0 alles-anhanger.com # 2025-10-23
-0.0.0.0 almana-shop.de # 2025-10-23
-0.0.0.0 discount-mytholon.shop # 2025-10-23
-0.0.0.0 eldraw.gochoice.baby # 2025-10-23
-0.0.0.0 klassischesfahrradneu.com # 2025-10-23
-0.0.0.0 mypookino.com # 2025-10-23
-0.0.0.0 oberflache24.com # 2025-10-23
-0.0.0.0 snckhor-materiaux.com # 2025-10-23
 0.0.0.0 solovairaustria.com # 2025-10-23
 0.0.0.0 urbradeln.de # 2025-10-23
 0.0.0.0 volkskuchen.com # 2025-10-23
-0.0.0.0 werkzeugland.com # 2025-10-23
-0.0.0.0 wieburg-handel.de # 2025-10-23
+0.0.0.0 adllwyj67.wuhlzk.shop # 2025-10-24
+0.0.0.0 alles-anhanger.com # 2025-10-24
+0.0.0.0 almana-shop.de # 2025-10-24
+0.0.0.0 anhänger-meister.de # 2025-10-24
+0.0.0.0 discount-mytholon.shop # 2025-10-24
+0.0.0.0 eldraw.gochoice.baby # 2025-10-24
+0.0.0.0 klassischesfahrradneu.com # 2025-10-24
+0.0.0.0 mypookino.com # 2025-10-24
+0.0.0.0 oberflache24.com # 2025-10-24
+0.0.0.0 owala.com.de # 2025-10-24
+0.0.0.0 presiond.com # 2025-10-24
+0.0.0.0 prokitchenwaresupply.com # 2025-10-24
+0.0.0.0 snckhor-materiaux.com # 2025-10-24
+0.0.0.0 werkzeugland.com # 2025-10-24
+0.0.0.0 whisperpromise.shop # 2025-10-24
+0.0.0.0 wieburg-handel.de # 2025-10-24
+0.0.0.0 wovara.shop # 2025-10-24
+0.0.0.0 xcren.shop # 2025-10-24
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30063,6 +30078,7 @@
 0.0.0.0 myiq.com # 2025-10-22
 0.0.0.0 magenta-oat.com # 2025-10-23
 0.0.0.0 pdfgo.co # 2025-10-23
+0.0.0.0 rytewerkone.com # 2025-10-24
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -30490,6 +30506,10 @@
 0.0.0.0 installateur-meister.at # 2025-08-27
 0.0.0.0 prs-installateur.at # 2025-09-23
 0.0.0.0 elektro-soforthilfe.at # 2025-10-06
+0.0.0.0 aufsperr-nothilfe.at # 2025-10-24
+0.0.0.0 insektnotdienst.at # 2025-10-24
+0.0.0.0 installateur.prs247.tech # 2025-10-24
+0.0.0.0 schluesseldienst-hilft.at # 2025-10-24
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
