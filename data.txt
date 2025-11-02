@@ -1509,7 +1509,7 @@
 0.0.0.0 finapactglobal.net # 2025-10-28
 0.0.0.0 larevixinvest-de.com # 2025-10-28
 0.0.0.0 vumonvision.com # 2025-10-28
-0.0.0.0 m.xtop.cc # 2025-10-30
+0.0.0.0 m.xtop.cc # 2025-10-31
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -8482,6 +8482,8 @@
 0.0.0.0 mooje.de # 2025-10-30
 0.0.0.0 orykas.de # 2025-10-30
 0.0.0.0 united-meds.com # 2025-10-30
+0.0.0.0 belliora.it # 2025-10-31
+0.0.0.0 charmfay.com # 2025-10-31
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -29942,33 +29944,38 @@
 0.0.0.0 85-bktrade.com # 2025-10-29
 0.0.0.0 abdeckplanenmotor.com # 2025-10-29
 0.0.0.0 allgoodssale.com # 2025-10-29
-0.0.0.0 foodsprings.shop # 2025-10-29
 0.0.0.0 lumiraza.com # 2025-10-29
 0.0.0.0 schraubheld24.de # 2025-10-29
-0.0.0.0 2025blackfridaysale.shop # 2025-10-30
 0.0.0.0 catfilled.baby # 2025-10-30
-0.0.0.0 dasorevaparis.de # 2025-10-30
-0.0.0.0 engeliebe.de # 2025-10-30
-0.0.0.0 freigexact.com # 2025-10-30
-0.0.0.0 gw-style.com # 2025-10-30
-0.0.0.0 importstoree.com # 2025-10-30
-0.0.0.0 jb-store.de # 2025-10-30
-0.0.0.0 li-me.com # 2025-10-30
-0.0.0.0 loveideaet.click # 2025-10-30
-0.0.0.0 myautomotorrad.com # 2025-10-30
-0.0.0.0 ortovox-hot.com # 2025-10-30
-0.0.0.0 proinstrumentshop.com # 2025-10-30
 0.0.0.0 retreature.com # 2025-10-30
-0.0.0.0 rhode.co.at # 2025-10-30
-0.0.0.0 skechers-at.at # 2025-10-30
-0.0.0.0 sunnivaonline.shop # 2025-10-30
-0.0.0.0 systemofdown.com # 2025-10-30
-0.0.0.0 tonies-rabatt.com # 2025-10-30
-0.0.0.0 tropicfeelnet.com # 2025-10-30
 0.0.0.0 vitaldelikatesse.com # 2025-10-30
-0.0.0.0 wievano.de # 2025-10-30
-0.0.0.0 wika-shop.de # 2025-10-30
+0.0.0.0 2025blackfridaysale.shop # 2025-10-31
+0.0.0.0 dasorevaparis.de # 2025-10-31
+0.0.0.0 engeliebe.de # 2025-10-31
+0.0.0.0 fahrstadt.de # 2025-10-31
+0.0.0.0 foodsprings.shop # 2025-10-31
+0.0.0.0 freigexact.com # 2025-10-31
+0.0.0.0 gw-style.com # 2025-10-31
+0.0.0.0 importstoree.com # 2025-10-31
+0.0.0.0 jb-store.de # 2025-10-31
+0.0.0.0 kfzteilesale.com # 2025-10-31
+0.0.0.0 li-me.com # 2025-10-31
+0.0.0.0 loveideaet.click # 2025-10-31
+0.0.0.0 lux-clubx.za.com # 2025-10-31
+0.0.0.0 myautomotorrad.com # 2025-10-31
+0.0.0.0 myclothesera.com # 2025-10-31
+0.0.0.0 nemino.net # 2025-10-31
+0.0.0.0 ortovox-hot.com # 2025-10-31
+0.0.0.0 proinstrumentshop.com # 2025-10-31
+0.0.0.0 rhode.co.at # 2025-10-31
 0.0.0.0 screenfreedays.com # 2025-10-31
+0.0.0.0 skechers-at.at # 2025-10-31
+0.0.0.0 sunnivaonline.shop # 2025-10-31
+0.0.0.0 systemofdown.com # 2025-10-31
+0.0.0.0 tonies-rabatt.com # 2025-10-31
+0.0.0.0 tropicfeelnet.com # 2025-10-31
+0.0.0.0 wievano.de # 2025-10-31
+0.0.0.0 wika-shop.de # 2025-10-31
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -30478,7 +30485,6 @@
 0.0.0.0 fix24h.at # 2022-03-23
 0.0.0.0 aufsperrhilfe-24.at # 2022-03-25
 0.0.0.0 sanitär-installateur.at # 2022-03-31
-0.0.0.0 schluesseldienst.at # 2022-04-12
 0.0.0.0 24team.at # 2022-04-14
 0.0.0.0 24installateur.at # 2022-04-15
 0.0.0.0 elektriker-fritz.de # 2022-04-22
@@ -31004,7 +31010,4 @@
 0.0.0.0 mesa-estate.eu # 2025-07-12
 0.0.0.0 bookinginfo.at # 2025-08-26
 0.0.0.0 canaryvacationhome.com # 2025-08-26
-
-# Automatisierte Warnungen
-0.0.0.0 nemino.net # 2025-10-30
 
