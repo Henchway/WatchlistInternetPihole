@@ -1560,14 +1560,14 @@
 0.0.0.0 valueflowhub.com # 2026-01-09
 0.0.0.0 visionarycaapital.com # 2026-01-09
 0.0.0.0 wertalmpro.at # 2026-01-09
-0.0.0.0 corestationsystems.sbs # 2026-01-10
 0.0.0.0 dkcoindey.com # 2026-01-10
 0.0.0.0 flipsterusdt.com # 2026-01-10
 0.0.0.0 kredygo.ch # 2026-01-10
 0.0.0.0 leucopipki.pro # 2026-01-10
 0.0.0.0 lunara-vondilex.de # 2026-01-10
 0.0.0.0 lunaravondilex.com # 2026-01-10
-0.0.0.0 synthplatformtrust.click # 2026-01-10
+0.0.0.0 corestationsystems.sbs # 2026-01-11
+0.0.0.0 synthplatformtrust.click # 2026-01-11
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -23781,7 +23781,6 @@
 0.0.0.0 neuertm7-vorwerk.com # 2025-12-23
 0.0.0.0 nvcxa.com # 2025-12-23
 0.0.0.0 nyhead.openwind.shop # 2025-12-23
-0.0.0.0 pedalpalast.de # 2025-12-23
 0.0.0.0 raderstore.de # 2025-12-23
 0.0.0.0 salehealthfoods.com # 2025-12-23
 0.0.0.0 tuckerandwelch.com # 2025-12-23
@@ -23897,7 +23896,6 @@
 0.0.0.0 gastigarenergie.com # 2026-01-08
 0.0.0.0 gisemo.com # 2026-01-08
 0.0.0.0 groheverkauf.com # 2026-01-08
-0.0.0.0 hariamarkt.shop # 2026-01-08
 0.0.0.0 heizungersatzteile.com # 2026-01-08
 0.0.0.0 huntersverige-se.com # 2026-01-08
 0.0.0.0 ivernamart.com # 2026-01-08
@@ -23946,7 +23944,6 @@
 0.0.0.0 cyjumay.shop # 2026-01-10
 0.0.0.0 heimde24.com # 2026-01-10
 0.0.0.0 isipisi.online # 2026-01-10
-0.0.0.0 kaffee-liebling.de # 2026-01-10
 0.0.0.0 kh-heizol.de # 2026-01-10
 0.0.0.0 primavo24.de # 2026-01-10
 0.0.0.0 snowfitgear.com # 2026-01-10
@@ -23954,6 +23951,9 @@
 0.0.0.0 urbanfahrt.de # 2026-01-10
 0.0.0.0 werner-handel24.de # 2026-01-10
 0.0.0.0 zusellmk.click # 2026-01-10
+0.0.0.0 hariamarkt.shop # 2026-01-11
+0.0.0.0 kaffee-liebling.de # 2026-01-11
+0.0.0.0 pedalpalast.de # 2026-01-11
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31324,7 +31324,7 @@
 0.0.0.0 drinkrelaxo.com # 2026-01-04
 0.0.0.0 nibble-app.com # 2026-01-08
 0.0.0.0 overbuyi.com # 2026-01-09
-0.0.0.0 getanswers.net # 2026-01-10
+0.0.0.0 getanswers.net # 2026-01-11
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -31634,9 +31634,9 @@
 0.0.0.0 handmadestoe.cc # 2025-12-30
 0.0.0.0 elitestayzio2u.com # 2025-12-31
 0.0.0.0 enchantravel.com # 2026-01-07
-0.0.0.0 dyshopvip.com # 2026-01-08
 0.0.0.0 handmadedsjk.cc # 2026-01-08
 0.0.0.0 prüfwerkgmbh.de # 2026-01-08
+0.0.0.0 dyshopvip.com # 2026-01-11
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
