@@ -24277,7 +24277,6 @@
 0.0.0.0 pelletor.at # 2026-02-10
 0.0.0.0 roborocks.de # 2026-02-10
 0.0.0.0 rzpellet.at # 2026-02-10
-0.0.0.0 salewa-cz-2026.myshoplaza.com # 2026-02-10
 0.0.0.0 savemosaic.com # 2026-02-10
 0.0.0.0 serenorstock.com # 2026-02-10
 0.0.0.0 sundaynaturalshop.de # 2026-02-10
@@ -24332,6 +24331,7 @@
 0.0.0.0 savehalo.com # 2026-02-14
 0.0.0.0 topelectronicshop.com # 2026-02-14
 0.0.0.0 truerebuy.com # 2026-02-14
+0.0.0.0 salewa-cz-2026.myshoplaza.com # 2026-02-15
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31428,7 +31428,6 @@
 0.0.0.0 barki-shop.de # 2025-12-22
 0.0.0.0 bergwalt-mode.com # 2025-12-22
 0.0.0.0 dein-sicheres-bad.de # 2025-12-22
-0.0.0.0 klar-haus.de # 2025-12-22
 0.0.0.0 melia-co.com # 2025-12-22
 0.0.0.0 modetraum.com # 2025-12-22
 0.0.0.0 dezcmoi.com # 2025-12-23
@@ -31581,7 +31580,6 @@
 0.0.0.0 anna-atelier.com # 2026-02-11
 0.0.0.0 funluluu.com # 2026-02-11
 0.0.0.0 vinnciwear.com # 2026-02-11
-0.0.0.0 wirbelsanft.com # 2026-02-11
 0.0.0.0 airvaxde.com # 2026-02-12
 0.0.0.0 elsopia.com # 2026-02-12
 0.0.0.0 fellnasenstube.de # 2026-02-12
@@ -31591,6 +31589,8 @@
 0.0.0.0 russellandbromley.de # 2026-02-12
 0.0.0.0 talkbuds.de # 2026-02-12
 0.0.0.0 vereinsregisterauszug.at # 2026-02-12
+0.0.0.0 klar-haus.de # 2026-02-15
+0.0.0.0 wirbelsanft.com # 2026-02-15
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32481,7 +32481,6 @@
 0.0.0.0 kanzlei-röcherimrecht.de # 2026-01-28
 0.0.0.0 veit-insolvenz.de # 2026-01-28
 0.0.0.0 berger-roland.com # 2026-01-29
-0.0.0.0 insolvenz.veit-kanzlei.de # 2026-01-29
 0.0.0.0 mle-aumueller.de # 2026-02-01
 0.0.0.0 impro-insolvenz.de # 2026-02-05
 0.0.0.0 insolvenz-veit.de # 2026-02-05
@@ -32489,6 +32488,7 @@
 0.0.0.0 betrugsrecht.de # 2026-02-12
 0.0.0.0 heuselaw.de # 2026-02-12
 0.0.0.0 kirchner-rechtsanwaelte.de # 2026-02-13
+0.0.0.0 insolvenz.veit-kanzlei.de # 2026-02-15
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
