@@ -1607,6 +1607,7 @@
 0.0.0.0 qq339.com # 2026-02-11
 0.0.0.0 oxelvian.com # 2026-02-13
 0.0.0.0 qrixvetra.com # 2026-02-14
+0.0.0.0 bullbittrade.com # 2026-02-16
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -23939,7 +23940,6 @@
 0.0.0.0 shop.vffvllo.shop # 2026-01-08
 0.0.0.0 slidockscorporation.com # 2026-01-08
 0.0.0.0 solaryn.de # 2026-01-08
-0.0.0.0 spezialwerkzeug-profi.com # 2026-01-08
 0.0.0.0 tupmide.org # 2026-01-08
 0.0.0.0 tynoraemporium.com # 2026-01-08
 0.0.0.0 urlfox.whitewarm.shop # 2026-01-08
@@ -24263,7 +24263,6 @@
 0.0.0.0 vintedreselling.eu # 2026-02-08
 0.0.0.0 tatonka-de.com # 2026-02-09
 0.0.0.0 vorwerk-de.com # 2026-02-09
-0.0.0.0 airsguns.com # 2026-02-10
 0.0.0.0 blackdiamond-schweiz.com # 2026-02-10
 0.0.0.0 ccdraw.incomelog.shop # 2026-02-10
 0.0.0.0 cineluxdeutschland.com # 2026-02-10
@@ -24332,6 +24331,24 @@
 0.0.0.0 topelectronicshop.com # 2026-02-14
 0.0.0.0 truerebuy.com # 2026-02-14
 0.0.0.0 salewa-cz-2026.myshoplaza.com # 2026-02-15
+0.0.0.0 airsguns.com # 2026-02-16
+0.0.0.0 babylissde.de # 2026-02-16
+0.0.0.0 cbvdshj.com # 2026-02-16
+0.0.0.0 esfimeqss.cfd # 2026-02-16
+0.0.0.0 eusportsequipment.it.com # 2026-02-16
+0.0.0.0 galactict.com # 2026-02-16
+0.0.0.0 hausofvedashop.com # 2026-02-16
+0.0.0.0 kochhand.com # 2026-02-16
+0.0.0.0 lahop.joinpull.shop # 2026-02-16
+0.0.0.0 lasportivaoutlet.at # 2026-02-16
+0.0.0.0 onlinemusikinstrumente.com # 2026-02-16
+0.0.0.0 proofsagen.com # 2026-02-16
+0.0.0.0 pt-sky.com # 2026-02-16
+0.0.0.0 sammlerliebe.com # 2026-02-16
+0.0.0.0 savewharf.com # 2026-02-16
+0.0.0.0 spezialwerkzeug-profi.com # 2026-02-16
+0.0.0.0 thenorthfacedeutschland.com # 2026-02-16
+0.0.0.0 waffen-outdoor.com # 2026-02-16
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31591,6 +31608,14 @@
 0.0.0.0 vereinsregisterauszug.at # 2026-02-12
 0.0.0.0 klar-haus.de # 2026-02-15
 0.0.0.0 wirbelsanft.com # 2026-02-15
+0.0.0.0 ebikedolomiti.com # 2026-02-16
+0.0.0.0 elle-zurich.com # 2026-02-16
+0.0.0.0 farbenruhe.ch # 2026-02-16
+0.0.0.0 klugezwerge.de # 2026-02-16
+0.0.0.0 life.yuomyt.com # 2026-02-16
+0.0.0.0 secure.lovetrusthappy.com # 2026-02-16
+0.0.0.0 stilhausfreiburg.com # 2026-02-16
+0.0.0.0 takball.com # 2026-02-16
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -31802,6 +31827,7 @@
 0.0.0.0 ritualshopper.com # 2026-02-02
 0.0.0.0 texsatelsac.com # 2026-02-03
 0.0.0.0 besseregesundheit.com # 2026-02-12
+0.0.0.0 smartiq.co # 2026-02-16
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -32121,6 +32147,7 @@
 0.0.0.0 handmadestoree.cc # 2026-02-05
 0.0.0.0 rezdyretreats.com # 2026-02-10
 0.0.0.0 agda888.com # 2026-02-14
+0.0.0.0 applovntop.com # 2026-02-16
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -32264,6 +32291,7 @@
 0.0.0.0 sapphire-gartenflege.at # 2026-01-09
 0.0.0.0 glas-plus.at # 2026-01-10
 0.0.0.0 hmbgroup.at # 2026-02-03
+0.0.0.0 reifendienst-notdienst.jimdosite.com # 2026-02-16
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -32443,6 +32471,7 @@
 0.0.0.0 frachtaglogistics.com # 2025-08-22
 0.0.0.0 fleetcargodirect.com # 2025-10-10
 0.0.0.0 linkglobalcargo.com # 2025-10-16
+0.0.0.0 petshippingltd.com # 2026-02-16
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -32485,10 +32514,18 @@
 0.0.0.0 impro-insolvenz.de # 2026-02-05
 0.0.0.0 insolvenz-veit.de # 2026-02-05
 0.0.0.0 websterjamesprofessionalcorp.com # 2026-02-09
-0.0.0.0 betrugsrecht.de # 2026-02-12
 0.0.0.0 heuselaw.de # 2026-02-12
 0.0.0.0 kirchner-rechtsanwaelte.de # 2026-02-13
 0.0.0.0 insolvenz.veit-kanzlei.de # 2026-02-15
+0.0.0.0 agbglobal.cc # 2026-02-16
+0.0.0.0 betrugsbekampfer.com # 2026-02-16
+0.0.0.0 betrugsrecht.de # 2026-02-16
+0.0.0.0 de-orion.site # 2026-02-16
+0.0.0.0 hausmanns-verwertung.de # 2026-02-16
+0.0.0.0 kley-kanzlei.com # 2026-02-16
+0.0.0.0 kuehnenagel-service.de # 2026-02-16
+0.0.0.0 rechtsanwalt-adams.com # 2026-02-16
+0.0.0.0 wiv-verwertung.de # 2026-02-16
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
