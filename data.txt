@@ -1608,7 +1608,9 @@
 0.0.0.0 qrixvetra.com # 2026-02-14
 0.0.0.0 bullbittrade.com # 2026-02-17
 0.0.0.0 visionarycaapital.com # 2026-02-17
-0.0.0.0 ftmxglobal.com # 2026-02-18
+0.0.0.0 a1-anlagen.com # 2026-02-19
+0.0.0.0 fokus-auf-deutschland.click # 2026-02-19
+0.0.0.0 ftmxglobal.com # 2026-02-19
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24262,7 +24264,6 @@
 0.0.0.0 vintedreselling.eu # 2026-02-08
 0.0.0.0 tatonka-de.com # 2026-02-09
 0.0.0.0 vorwerk-de.com # 2026-02-09
-0.0.0.0 blackdiamond-schweiz.com # 2026-02-10
 0.0.0.0 ccdraw.incomelog.shop # 2026-02-10
 0.0.0.0 cineluxdeutschland.com # 2026-02-10
 0.0.0.0 computerpartsglobal.com # 2026-02-10
@@ -24350,22 +24351,34 @@
 0.0.0.0 topelectronicshop.com # 2026-02-17
 0.0.0.0 waffen-outdoor.com # 2026-02-17
 0.0.0.0 bestandigwert.com # 2026-02-18
-0.0.0.0 buerobedarfshop.com # 2026-02-18
-0.0.0.0 conteneursducoin.com # 2026-02-18
 0.0.0.0 dampfshishahub.com # 2026-02-18
-0.0.0.0 diag-wagen.de # 2026-02-18
 0.0.0.0 diana-apotheke.com # 2026-02-18
 0.0.0.0 fahrtechnikteile.com # 2026-02-18
-0.0.0.0 finalatransports.com # 2026-02-18
-0.0.0.0 flexsugges.com # 2026-02-18
-0.0.0.0 hausdampf.com # 2026-02-18
 0.0.0.0 issamtransports.com # 2026-02-18
 0.0.0.0 liwed.barpalm.shop # 2026-02-18
-0.0.0.0 lunakinderwelt.com # 2026-02-18
-0.0.0.0 radrudel.de # 2026-02-18
 0.0.0.0 salzburgapotheke.com # 2026-02-18
-0.0.0.0 theisentransports.com # 2026-02-18
-0.0.0.0 vynxaria.com # 2026-02-18
+0.0.0.0 air-uposterreich.at # 2026-02-19
+0.0.0.0 airyano.com # 2026-02-19
+0.0.0.0 blackdiamond-schweiz.com # 2026-02-19
+0.0.0.0 buerobedarfshop.com # 2026-02-19
+0.0.0.0 conteneursducoin.com # 2026-02-19
+0.0.0.0 diag-wagen.de # 2026-02-19
+0.0.0.0 drink-horizon.com # 2026-02-19
+0.0.0.0 finalatransports.com # 2026-02-19
+0.0.0.0 flexsugges.com # 2026-02-19
+0.0.0.0 hausdampf.com # 2026-02-19
+0.0.0.0 hipoff.iistrike.club # 2026-02-19
+0.0.0.0 homekitchensupplymart.com # 2026-02-19
+0.0.0.0 lgglegrandgroupe.com # 2026-02-19
+0.0.0.0 lunakinderwelt.com # 2026-02-19
+0.0.0.0 naturvitalia.com # 2026-02-19
+0.0.0.0 preiswertoutdoor.com # 2026-02-19
+0.0.0.0 radrudel.de # 2026-02-19
+0.0.0.0 theisentransports.com # 2026-02-19
+0.0.0.0 trailer-master.de # 2026-02-19
+0.0.0.0 trangianverkaufe.com # 2026-02-19
+0.0.0.0 vynxaria.com # 2026-02-19
+0.0.0.0 wildblumenparadies.de # 2026-02-19
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31618,7 +31631,6 @@
 0.0.0.0 elsopia.com # 2026-02-12
 0.0.0.0 fellnasenstube.de # 2026-02-12
 0.0.0.0 goldenpump.de # 2026-02-12
-0.0.0.0 neolevii.com # 2026-02-12
 0.0.0.0 providenceerc.com # 2026-02-12
 0.0.0.0 russellandbromley.de # 2026-02-12
 0.0.0.0 talkbuds.de # 2026-02-12
@@ -31639,6 +31651,14 @@
 0.0.0.0 ludwigmaria.at # 2026-02-18
 0.0.0.0 novalyx.de # 2026-02-18
 0.0.0.0 studiosflora.com # 2026-02-18
+0.0.0.0 cxzy.de # 2026-02-19
+0.0.0.0 humehealth.de # 2026-02-19
+0.0.0.0 neolevii.com # 2026-02-19
+0.0.0.0 orivelle-official.com # 2026-02-19
+0.0.0.0 ruckgabe.heidi-mode.de # 2026-02-19
+0.0.0.0 steinhaus-berlin.co # 2026-02-19
+0.0.0.0 tewango.de # 2026-02-19
+0.0.0.0 urbanclasse.store # 2026-02-19
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -31852,6 +31872,7 @@
 0.0.0.0 besseregesundheit.com # 2026-02-12
 0.0.0.0 geschenklust.com # 2026-02-17
 0.0.0.0 smartiq.co # 2026-02-18
+0.0.0.0 superwipes.de # 2026-02-19
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -32316,6 +32337,8 @@
 0.0.0.0 glas-plus.at # 2026-01-10
 0.0.0.0 hmbgroup.at # 2026-02-03
 0.0.0.0 reifendienst-notdienst.jimdosite.com # 2026-02-16
+0.0.0.0 geschirrspueler.lbspro.at # 2026-02-19
+0.0.0.0 kundendienstexperte.at # 2026-02-19
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -32874,4 +32897,7 @@
 0.0.0.0 tblackfriday.com # 2026-02-17
 0.0.0.0 heizkauf.de # 2026-02-18
 0.0.0.0 naturelabs.store # 2026-02-18
+0.0.0.0 kunstcreativiteit.com # 2026-02-19
+0.0.0.0 loveknitzab.click # 2026-02-19
+0.0.0.0 sale.yjfgndf.top # 2026-02-19
 
