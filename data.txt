@@ -1602,7 +1602,6 @@
 0.0.0.0 gucimu.pics # 2026-02-06
 0.0.0.0 recovoltd.com # 2026-02-09
 0.0.0.0 doge-mining.top # 2026-02-10
-0.0.0.0 wertexmarkt.de # 2026-02-10
 0.0.0.0 qq339.com # 2026-02-11
 0.0.0.0 oxelvian.com # 2026-02-13
 0.0.0.0 qrixvetra.com # 2026-02-14
@@ -1610,10 +1609,11 @@
 0.0.0.0 visionarycaapital.com # 2026-02-17
 0.0.0.0 ftmxglobal.com # 2026-02-19
 0.0.0.0 a1-anlagen.com # 2026-02-20
-0.0.0.0 banking.wsboh.org # 2026-02-20
 0.0.0.0 fokus-auf-deutschland.click # 2026-02-20
-0.0.0.0 umbfinancialgroup.com # 2026-02-20
-0.0.0.0 wsboh.org # 2026-02-20
+0.0.0.0 banking.wsboh.org # 2026-02-21
+0.0.0.0 umbfinancialgroup.com # 2026-02-21
+0.0.0.0 wertexmarkt.de # 2026-02-21
+0.0.0.0 wsboh.org # 2026-02-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24374,19 +24374,19 @@
 0.0.0.0 airyano.com # 2026-02-20
 0.0.0.0 diag-wagen.de # 2026-02-20
 0.0.0.0 drink-horizon.com # 2026-02-20
-0.0.0.0 ediblesthc.de # 2026-02-20
 0.0.0.0 hipoff.iistrike.club # 2026-02-20
-0.0.0.0 homekitchensupplymart.com # 2026-02-20
 0.0.0.0 lgglegrandgroupe.com # 2026-02-20
-0.0.0.0 mundinhoabc.com # 2026-02-20
 0.0.0.0 naturvitalia.com # 2026-02-20
 0.0.0.0 preiswertoutdoor.com # 2026-02-20
-0.0.0.0 scimonge.com # 2026-02-20
 0.0.0.0 trailer-master.de # 2026-02-20
 0.0.0.0 trangianverkaufe.com # 2026-02-20
 0.0.0.0 vamosschuhedamen.com # 2026-02-20
 0.0.0.0 wildblumenparadies.de # 2026-02-20
 0.0.0.0 yumgs.holdenouterwear.shop # 2026-02-20
+0.0.0.0 ediblesthc.de # 2026-02-21
+0.0.0.0 homekitchensupplymart.com # 2026-02-21
+0.0.0.0 mundinhoabc.com # 2026-02-21
+0.0.0.0 scimonge.com # 2026-02-21
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32401,8 +32401,8 @@
 0.0.0.0 rechtsanwalt-adams.com # 2026-02-17
 0.0.0.0 websterjamesprofessionalcorp.com # 2026-02-17
 0.0.0.0 betrugsbekampfer.com # 2026-02-18
-0.0.0.0 abele-kanzlei.com # 2026-02-20
 0.0.0.0 reuther-anwaelte.com # 2026-02-20
+0.0.0.0 abele-kanzlei.com # 2026-02-21
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
