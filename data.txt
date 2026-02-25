@@ -1615,6 +1615,9 @@
 0.0.0.0 wertexmarkt.de # 2026-02-21
 0.0.0.0 wsboh.org # 2026-02-21
 0.0.0.0 brokereins1.com # 2026-02-23
+0.0.0.0 capvest-consulting.com # 2026-02-23
+0.0.0.0 tagmarkets.com # 2026-02-23
+0.0.0.0 trade.capvest-consulting.com # 2026-02-23
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24386,8 +24389,11 @@
 0.0.0.0 luxeshopcart.com # 2026-02-22
 0.0.0.0 tatonka-de.com # 2026-02-22
 0.0.0.0 theisentransports.com # 2026-02-22
+0.0.0.0 abodeare.com # 2026-02-23
 0.0.0.0 babyausstattung-de.com # 2026-02-23
+0.0.0.0 byredowien.com # 2026-02-23
 0.0.0.0 cccup.atmonitor.shop # 2026-02-23
+0.0.0.0 cdtest.fullgrow.club # 2026-02-23
 0.0.0.0 cricuts.de # 2026-02-23
 0.0.0.0 de-frilufts.com # 2026-02-23
 0.0.0.0 frankfurteintrachtshop.com # 2026-02-23
@@ -24395,12 +24401,15 @@
 0.0.0.0 globetrotteroutlet.de # 2026-02-23
 0.0.0.0 kaufhaustier.com # 2026-02-23
 0.0.0.0 mobilixpro.com # 2026-02-23
+0.0.0.0 nauticspace.com # 2026-02-23
 0.0.0.0 polluxer.com # 2026-02-23
 0.0.0.0 radrudel.de # 2026-02-23
 0.0.0.0 ratataur.com # 2026-02-23
 0.0.0.0 rawtop.morepush.shop # 2026-02-23
 0.0.0.0 senkkopfschraube.com # 2026-02-23
+0.0.0.0 snowhow.shop # 2026-02-23
 0.0.0.0 unibois-stammholz.com # 2026-02-23
+0.0.0.0 verdalucina.com # 2026-02-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31673,15 +31682,16 @@
 0.0.0.0 studiosflora.com # 2026-02-18
 0.0.0.0 cxzy.de # 2026-02-19
 0.0.0.0 humehealth.de # 2026-02-19
-0.0.0.0 neolevii.com # 2026-02-19
 0.0.0.0 orivelle-official.com # 2026-02-19
 0.0.0.0 ruckgabe.heidi-mode.de # 2026-02-19
 0.0.0.0 steinhaus-berlin.co # 2026-02-19
 0.0.0.0 tewango.de # 2026-02-19
 0.0.0.0 urbanclasse.store # 2026-02-19
 0.0.0.0 secure.lovetrusthappy.com # 2026-02-20
+0.0.0.0 neolevii.com # 2026-02-23
 0.0.0.0 skometa.com # 2026-02-23
 0.0.0.0 stilhausfreiburg.com # 2026-02-23
+0.0.0.0 wagemannmode.de # 2026-02-23
 0.0.0.0 wiskiiactive.com # 2026-02-23
 
 # Abo-Fallen
@@ -31897,6 +31907,7 @@
 0.0.0.0 geschenklust.com # 2026-02-17
 0.0.0.0 superwipes.de # 2026-02-19
 0.0.0.0 smartiq.co # 2026-02-22
+0.0.0.0 familo.net # 2026-02-23
 0.0.0.0 nespresso.at-7.perigord-retreats.com # 2026-02-23
 
 # Betrügerische Jobangebote
@@ -32364,6 +32375,7 @@
 0.0.0.0 reifendienst-notdienst.jimdosite.com # 2026-02-16
 0.0.0.0 kundendienstexperte.at # 2026-02-19
 0.0.0.0 geschirrspueler.lbspro.at # 2026-02-23
+0.0.0.0 kammerjäger-kessler.de # 2026-02-23
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
