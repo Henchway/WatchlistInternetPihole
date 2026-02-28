@@ -1611,7 +1611,6 @@
 0.0.0.0 fokus-auf-deutschland.click # 2026-02-20
 0.0.0.0 banking.wsboh.org # 2026-02-21
 0.0.0.0 umbfinancialgroup.com # 2026-02-21
-0.0.0.0 wertexmarkt.de # 2026-02-21
 0.0.0.0 wsboh.org # 2026-02-21
 0.0.0.0 capvest-consulting.com # 2026-02-24
 0.0.0.0 tagmarkets.com # 2026-02-24
@@ -1622,6 +1621,7 @@
 0.0.0.0 naxinv.com # 2026-02-25
 0.0.0.0 trade.naxinv.com # 2026-02-25
 0.0.0.0 unzerfinanzpro.de # 2026-02-25
+0.0.0.0 wertexmarkt.de # 2026-02-26
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -6928,7 +6928,6 @@
 0.0.0.0 shg-media.at # 2022-10-19
 0.0.0.0 silbermobilguides.at # 2022-10-19
 0.0.0.0 spiele-kreis-graz.at # 2022-10-19
-0.0.0.0 sportabo.at # 2022-10-19
 0.0.0.0 sportmediterran.at # 2022-10-19
 0.0.0.0 stapler-sperka.at # 2022-10-19
 0.0.0.0 stefanie-falk.at # 2022-10-19
@@ -24411,30 +24410,37 @@
 0.0.0.0 snowhow.shop # 2026-02-24
 0.0.0.0 unibois-stammholz.com # 2026-02-24
 0.0.0.0 verdalucina.com # 2026-02-24
-0.0.0.0 airyano.com # 2026-02-25
 0.0.0.0 asflnag.bond # 2026-02-25
-0.0.0.0 auriaofficiel.com # 2026-02-25
-0.0.0.0 bestemedikamente.com # 2026-02-25
 0.0.0.0 bikeskraft.de # 2026-02-25
 0.0.0.0 cantinadautoress.com # 2026-02-25
 0.0.0.0 clashtek.com # 2026-02-25
-0.0.0.0 dealmeadow.com # 2026-02-25
-0.0.0.0 heizoel-schnell-gmbh.de # 2026-02-25
 0.0.0.0 heizoel24-preise.com # 2026-02-25
 0.0.0.0 jbl-deutschland.de # 2026-02-25
-0.0.0.0 kellerspirit.com # 2026-02-25
-0.0.0.0 klempnerwerkzeug.com # 2026-02-25
-0.0.0.0 klenkholzag.de # 2026-02-25
-0.0.0.0 labelparis.com # 2026-02-25
 0.0.0.0 love-roses.com # 2026-02-25
 0.0.0.0 nyhead.morepush.shop # 2026-02-25
 0.0.0.0 platten-paradies.com # 2026-02-25
-0.0.0.0 profahrradteile.com # 2026-02-25
 0.0.0.0 qrvawuep.shop # 2026-02-25
 0.0.0.0 qualitatsdampf.com # 2026-02-25
 0.0.0.0 remingtons.co.at # 2026-02-25
-0.0.0.0 watchcod-nz.shop # 2026-02-25
 0.0.0.0 wildblumenparadies.de # 2026-02-25
+0.0.0.0 airyano.com # 2026-02-26
+0.0.0.0 auriaofficiel.com # 2026-02-26
+0.0.0.0 baukomps.com # 2026-02-26
+0.0.0.0 bestemedikamente.com # 2026-02-26
+0.0.0.0 dealmeadow.com # 2026-02-26
+0.0.0.0 heizoel-schnell-gmbh.de # 2026-02-26
+0.0.0.0 hipoff.fullgrow.club # 2026-02-26
+0.0.0.0 kellerspirit.com # 2026-02-26
+0.0.0.0 klempnerwerkzeug.com # 2026-02-26
+0.0.0.0 klenkholzag.de # 2026-02-26
+0.0.0.0 labelparis.com # 2026-02-26
+0.0.0.0 motorrad-ausstattung.com # 2026-02-26
+0.0.0.0 profahrradteile.com # 2026-02-26
+0.0.0.0 savehubx.com # 2026-02-26
+0.0.0.0 tauchflaschenschutznetz.com # 2026-02-26
+0.0.0.0 wassono.myshopify.com # 2026-02-26
+0.0.0.0 watchcod-nz.shop # 2026-02-26
+0.0.0.0 weber-motorrad.com # 2026-02-26
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31701,8 +31707,6 @@
 0.0.0.0 ewige-seide.de # 2026-02-18
 0.0.0.0 ludwigmaria.at # 2026-02-18
 0.0.0.0 novalyx.de # 2026-02-18
-0.0.0.0 studiosflora.com # 2026-02-18
-0.0.0.0 cxzy.de # 2026-02-19
 0.0.0.0 humehealth.de # 2026-02-19
 0.0.0.0 orivelle-official.com # 2026-02-19
 0.0.0.0 ruckgabe.heidi-mode.de # 2026-02-19
@@ -31717,10 +31721,12 @@
 0.0.0.0 wiskiiactive.com # 2026-02-23
 0.0.0.0 montgerrard.com # 2026-02-24
 0.0.0.0 myakkushop.de # 2026-02-24
-0.0.0.0 alphaluxury.de # 2026-02-25
 0.0.0.0 rare404.com # 2026-02-25
 0.0.0.0 vereinsregisterauszug.at # 2026-02-25
 0.0.0.0 zigoff.de # 2026-02-25
+0.0.0.0 alphaluxury.de # 2026-02-26
+0.0.0.0 cxzy.de # 2026-02-26
+0.0.0.0 studiosflora.com # 2026-02-26
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -31940,6 +31946,7 @@
 0.0.0.0 glucavit.com # 2026-02-25
 0.0.0.0 vorisol.com # 2026-02-25
 0.0.0.0 vorisol.com.de # 2026-02-25
+0.0.0.0 mobilephonelocator.net # 2026-02-26
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -32469,12 +32476,16 @@
 0.0.0.0 bavaria-rechtundberatung.com # 2026-02-24
 0.0.0.0 kanzlei-roth.org # 2026-02-24
 0.0.0.0 roth-collegen.com # 2026-02-24
-0.0.0.0 roth-collegen.net # 2026-02-24
 0.0.0.0 wulstenra.com # 2026-02-24
 0.0.0.0 dennisbecker-ra.de # 2026-02-25
 0.0.0.0 hengelermuellera.com # 2026-02-25
 0.0.0.0 hengelermuellerc.com # 2026-02-25
 0.0.0.0 wiv-verwertung.de # 2026-02-25
+0.0.0.0 insolvenzrecht-rick.de # 2026-02-26
+0.0.0.0 kanzlei-ra.net # 2026-02-26
+0.0.0.0 ra-rick.de # 2026-02-26
+0.0.0.0 rick-kanzlei.de # 2026-02-26
+0.0.0.0 roth-collegen.net # 2026-02-26
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -32903,6 +32914,7 @@
 0.0.0.0 wombatscityhostelviennathelounge.at-austria.com # 2025-12-15
 0.0.0.0 guestrsrevation.com # 2026-01-12
 0.0.0.0 wegoeurope.com # 2026-02-01
+0.0.0.0 guardunit77-booking.com # 2026-02-26
 
 # Automatisierte Warnungen
 0.0.0.0 transmarketconssrl.com # 2025-11-13
@@ -32983,4 +32995,6 @@
 0.0.0.0 kayh.tovy.shop # 2026-02-23
 0.0.0.0 trvndshop.com # 2026-02-24
 0.0.0.0 brovia.co # 2026-02-25
+0.0.0.0 key34.com # 2026-02-26
+0.0.0.0 oldestteabrand.com # 2026-02-26
 
