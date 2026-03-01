@@ -1620,8 +1620,8 @@
 0.0.0.0 my.naxinv.com # 2026-02-25
 0.0.0.0 naxinv.com # 2026-02-25
 0.0.0.0 trade.naxinv.com # 2026-02-25
-0.0.0.0 unzerfinanzpro.de # 2026-02-25
 0.0.0.0 wertexmarkt.de # 2026-02-26
+0.0.0.0 unzerfinanzpro.de # 2026-02-27
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24032,7 +24032,6 @@
 0.0.0.0 shop-root.de # 2026-01-17
 0.0.0.0 tattoo-glanz-pflege.de # 2026-01-17
 0.0.0.0 ulmgmbh.com # 2026-01-17
-0.0.0.0 hengjian.eu # 2026-01-18
 0.0.0.0 levoit.co.at # 2026-01-18
 0.0.0.0 muysale.cn # 2026-01-18
 0.0.0.0 brevilledeutschland.de # 2026-01-19
@@ -24422,25 +24421,29 @@
 0.0.0.0 qrvawuep.shop # 2026-02-25
 0.0.0.0 qualitatsdampf.com # 2026-02-25
 0.0.0.0 remingtons.co.at # 2026-02-25
-0.0.0.0 wildblumenparadies.de # 2026-02-25
 0.0.0.0 airyano.com # 2026-02-26
-0.0.0.0 auriaofficiel.com # 2026-02-26
-0.0.0.0 baukomps.com # 2026-02-26
 0.0.0.0 bestemedikamente.com # 2026-02-26
 0.0.0.0 dealmeadow.com # 2026-02-26
 0.0.0.0 heizoel-schnell-gmbh.de # 2026-02-26
-0.0.0.0 hipoff.fullgrow.club # 2026-02-26
 0.0.0.0 kellerspirit.com # 2026-02-26
 0.0.0.0 klempnerwerkzeug.com # 2026-02-26
 0.0.0.0 klenkholzag.de # 2026-02-26
-0.0.0.0 labelparis.com # 2026-02-26
-0.0.0.0 motorrad-ausstattung.com # 2026-02-26
 0.0.0.0 profahrradteile.com # 2026-02-26
-0.0.0.0 savehubx.com # 2026-02-26
-0.0.0.0 tauchflaschenschutznetz.com # 2026-02-26
-0.0.0.0 wassono.myshopify.com # 2026-02-26
 0.0.0.0 watchcod-nz.shop # 2026-02-26
-0.0.0.0 weber-motorrad.com # 2026-02-26
+0.0.0.0 auriaofficiel.com # 2026-02-27
+0.0.0.0 baukomps.com # 2026-02-27
+0.0.0.0 hengjian.eu # 2026-02-27
+0.0.0.0 hipoff.fullgrow.club # 2026-02-27
+0.0.0.0 labelparis.com # 2026-02-27
+0.0.0.0 mobelonlineshop24.com # 2026-02-27
+0.0.0.0 motorrad-ausstattung.com # 2026-02-27
+0.0.0.0 nachhaltigewohndeko.com # 2026-02-27
+0.0.0.0 savehubx.com # 2026-02-27
+0.0.0.0 tauchflaschenschutznetz.com # 2026-02-27
+0.0.0.0 wassono.myshopify.com # 2026-02-27
+0.0.0.0 weber-motorrad.com # 2026-02-27
+0.0.0.0 wildblumenparadies.de # 2026-02-27
+0.0.0.0 wildlingschuhede.com # 2026-02-27
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31727,6 +31730,8 @@
 0.0.0.0 alphaluxury.de # 2026-02-26
 0.0.0.0 cxzy.de # 2026-02-26
 0.0.0.0 studiosflora.com # 2026-02-26
+0.0.0.0 maison-dartois.co # 2026-02-27
+0.0.0.0 villainworlld.de # 2026-02-27
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32265,8 +32270,8 @@
 0.0.0.0 handmadesho.cc # 2026-01-27
 0.0.0.0 handmadestoree.cc # 2026-02-05
 0.0.0.0 rezdyretreats.com # 2026-02-10
-0.0.0.0 agda888.com # 2026-02-14
 0.0.0.0 applovntop.com # 2026-02-19
+0.0.0.0 agda888.com # 2026-02-27
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -32472,20 +32477,20 @@
 0.0.0.0 kirchner-rechtsanwaelte.de # 2026-02-23
 0.0.0.0 kkz-insolvenzrecht.de # 2026-02-23
 0.0.0.0 reuther-anwaelte.com # 2026-02-23
-0.0.0.0 altenlaw.de # 2026-02-24
 0.0.0.0 bavaria-rechtundberatung.com # 2026-02-24
-0.0.0.0 kanzlei-roth.org # 2026-02-24
-0.0.0.0 roth-collegen.com # 2026-02-24
-0.0.0.0 wulstenra.com # 2026-02-24
 0.0.0.0 dennisbecker-ra.de # 2026-02-25
 0.0.0.0 hengelermuellera.com # 2026-02-25
 0.0.0.0 hengelermuellerc.com # 2026-02-25
 0.0.0.0 wiv-verwertung.de # 2026-02-25
 0.0.0.0 insolvenzrecht-rick.de # 2026-02-26
-0.0.0.0 kanzlei-ra.net # 2026-02-26
 0.0.0.0 ra-rick.de # 2026-02-26
 0.0.0.0 rick-kanzlei.de # 2026-02-26
 0.0.0.0 roth-collegen.net # 2026-02-26
+0.0.0.0 altenlaw.de # 2026-02-27
+0.0.0.0 kanzlei-ra.net # 2026-02-27
+0.0.0.0 kanzlei-roth.org # 2026-02-27
+0.0.0.0 roth-collegen.com # 2026-02-27
+0.0.0.0 wulstenra.com # 2026-02-27
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -32920,7 +32925,6 @@
 0.0.0.0 transmarketconssrl.com # 2025-11-13
 0.0.0.0 hackmann-heizoel.de # 2025-11-27
 0.0.0.0 wabp.sleepysheepy.shop # 2026-01-20
-0.0.0.0 grupoguki.mx # 2026-01-22
 0.0.0.0 paperspast.natlib.govt.nz # 2026-01-22
 0.0.0.0 souinfla.com.br # 2026-01-22
 0.0.0.0 amaruskincare.com # 2026-01-29
@@ -32997,4 +33001,5 @@
 0.0.0.0 brovia.co # 2026-02-25
 0.0.0.0 key34.com # 2026-02-26
 0.0.0.0 oldestteabrand.com # 2026-02-26
+0.0.0.0 grupoguki.mx # 2026-02-27
 
