@@ -1621,7 +1621,7 @@
 0.0.0.0 naxinv.com # 2026-02-25
 0.0.0.0 trade.naxinv.com # 2026-02-25
 0.0.0.0 wertexmarkt.de # 2026-02-26
-0.0.0.0 unzerfinanzpro.de # 2026-02-27
+0.0.0.0 unzerfinanzpro.de # 2026-03-01
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24169,7 +24169,6 @@
 0.0.0.0 auto-handel.org # 2026-01-31
 0.0.0.0 barzubehoerhaus.com # 2026-01-31
 0.0.0.0 carboar.ar # 2026-01-31
-0.0.0.0 clothlve.com # 2026-01-31
 0.0.0.0 edebrennholzedgar.com # 2026-01-31
 0.0.0.0 luladiffusion.com # 2026-01-31
 0.0.0.0 naturacare360.com # 2026-01-31
@@ -24400,7 +24399,6 @@
 0.0.0.0 polluxer.com # 2026-02-24
 0.0.0.0 ratataur.com # 2026-02-24
 0.0.0.0 rawtop.morepush.shop # 2026-02-24
-0.0.0.0 senkkopfschraube.com # 2026-02-24
 0.0.0.0 shoprufe.com # 2026-02-24
 0.0.0.0 snowhow.shop # 2026-02-24
 0.0.0.0 unibois-stammholz.com # 2026-02-24
@@ -24432,7 +24430,6 @@
 0.0.0.0 motorrad-ausstattung.com # 2026-02-27
 0.0.0.0 savehubx.com # 2026-02-27
 0.0.0.0 tauchflaschenschutznetz.com # 2026-02-27
-0.0.0.0 wassono.myshopify.com # 2026-02-27
 0.0.0.0 weber-motorrad.com # 2026-02-27
 0.0.0.0 wildblumenparadies.de # 2026-02-27
 0.0.0.0 air-uposterreich.at # 2026-02-28
@@ -24444,6 +24441,9 @@
 0.0.0.0 qualitatsdampf.com # 2026-02-28
 0.0.0.0 watchcod-nz.shop # 2026-02-28
 0.0.0.0 wildlingschuhede.com # 2026-02-28
+0.0.0.0 clothlve.com # 2026-03-01
+0.0.0.0 senkkopfschraube.com # 2026-03-01
+0.0.0.0 wassono.myshopify.com # 2026-03-01
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31728,10 +31728,10 @@
 0.0.0.0 alphaluxury.de # 2026-02-26
 0.0.0.0 studiosflora.com # 2026-02-26
 0.0.0.0 maison-dartois.co # 2026-02-27
-0.0.0.0 villainworlld.de # 2026-02-27
 0.0.0.0 cliarweoe.com # 2026-02-28
 0.0.0.0 cxzy.de # 2026-02-28
 0.0.0.0 rare404.com # 2026-02-28
+0.0.0.0 villainworlld.de # 2026-03-01
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32417,10 +32417,10 @@
 0.0.0.0 hmbgroup.at # 2026-02-03
 0.0.0.0 reifendienst-notdienst.jimdosite.com # 2026-02-16
 0.0.0.0 kundendienstexperte.at # 2026-02-19
-0.0.0.0 geschirrspueler.lbspro.at # 2026-02-23
 0.0.0.0 kammerjäger-kessler.de # 2026-02-23
 0.0.0.0 rohrreinigungshilfe.at # 2026-02-24
 0.0.0.0 svd24.pro # 2026-02-28
+0.0.0.0 geschirrspueler.lbspro.at # 2026-03-01
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -33002,4 +33002,5 @@
 0.0.0.0 key34.com # 2026-02-26
 0.0.0.0 oldestteabrand.com # 2026-02-26
 0.0.0.0 grupoguki.mx # 2026-02-27
+0.0.0.0 rafso.tovy.shop # 2026-03-01
 
