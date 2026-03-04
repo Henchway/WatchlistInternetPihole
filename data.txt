@@ -1622,6 +1622,7 @@
 0.0.0.0 trade.naxinv.com # 2026-02-25
 0.0.0.0 wertexmarkt.de # 2026-02-26
 0.0.0.0 unzerfinanzpro.de # 2026-03-01
+0.0.0.0 bitcoinskn.com # 2026-03-02
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24299,7 +24300,6 @@
 0.0.0.0 puritawa.com # 2026-02-11
 0.0.0.0 techhomede.com # 2026-02-11
 0.0.0.0 thule-familien.de # 2026-02-11
-0.0.0.0 zova.at # 2026-02-11
 0.0.0.0 cartsaga.com # 2026-02-12
 0.0.0.0 giesswein.ro # 2026-02-12
 0.0.0.0 anhangerwagen.com # 2026-02-13
@@ -24352,14 +24352,12 @@
 0.0.0.0 waffen-outdoor.com # 2026-02-17
 0.0.0.0 bestandigwert.com # 2026-02-18
 0.0.0.0 dampfshishahub.com # 2026-02-18
-0.0.0.0 diana-apotheke.com # 2026-02-18
 0.0.0.0 fahrtechnikteile.com # 2026-02-18
 0.0.0.0 issamtransports.com # 2026-02-18
 0.0.0.0 liwed.barpalm.shop # 2026-02-18
 0.0.0.0 salzburgapotheke.com # 2026-02-18
 0.0.0.0 blackdiamond-schweiz.com # 2026-02-19
 0.0.0.0 buerobedarfshop.com # 2026-02-19
-0.0.0.0 conteneursducoin.com # 2026-02-19
 0.0.0.0 finalatransports.com # 2026-02-19
 0.0.0.0 flexsugges.com # 2026-02-19
 0.0.0.0 hausdampf.com # 2026-02-19
@@ -24444,6 +24442,37 @@
 0.0.0.0 clothlve.com # 2026-03-01
 0.0.0.0 senkkopfschraube.com # 2026-03-01
 0.0.0.0 wassono.myshopify.com # 2026-03-01
+0.0.0.0 apelt-handel.de # 2026-03-02
+0.0.0.0 champion.co.at # 2026-03-02
+0.0.0.0 conteneursducoin.com # 2026-03-02
+0.0.0.0 coregarment.com # 2026-03-02
+0.0.0.0 deutsches-gut.de # 2026-03-02
+0.0.0.0 diana-apotheke.com # 2026-03-02
+0.0.0.0 ecohabitsy.com # 2026-03-02
+0.0.0.0 eurodeals-store.shop # 2026-03-02
+0.0.0.0 fc-moto-vip.com # 2026-03-02
+0.0.0.0 germanqualitaet.de # 2026-03-02
+0.0.0.0 glowwarehousede.com # 2026-03-02
+0.0.0.0 groupeferroignis.com # 2026-03-02
+0.0.0.0 haustirwelten.de # 2026-03-02
+0.0.0.0 heimguts.shop # 2026-03-02
+0.0.0.0 hipoff.sohat.shop # 2026-03-02
+0.0.0.0 jolamsneaker.com # 2026-03-02
+0.0.0.0 kartsportzubehoer.com # 2026-03-02
+0.0.0.0 liport.lowcruise.shop # 2026-03-02
+0.0.0.0 meisterkuchen-pro.de # 2026-03-02
+0.0.0.0 musikinstrumente-profi.com # 2026-03-02
+0.0.0.0 optimisticoffer.com # 2026-03-02
+0.0.0.0 pellets-maschinen.de # 2026-03-02
+0.0.0.0 rossignol.com.de # 2026-03-02
+0.0.0.0 suchsnow.com # 2026-03-02
+0.0.0.0 thehandtoolauto.com # 2026-03-02
+0.0.0.0 timberlandde.de # 2026-03-02
+0.0.0.0 topskiequipmentde.com # 2026-03-02
+0.0.0.0 wanderstiefeldeal.com # 2026-03-02
+0.0.0.0 wellunora.com # 2026-03-02
+0.0.0.0 zloae.shop # 2026-03-02
+0.0.0.0 zova.at # 2026-03-02
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31732,6 +31761,10 @@
 0.0.0.0 cxzy.de # 2026-02-28
 0.0.0.0 rare404.com # 2026-02-28
 0.0.0.0 villainworlld.de # 2026-03-01
+0.0.0.0 adoreshe.com # 2026-03-02
+0.0.0.0 eleganz-haus.de # 2026-03-02
+0.0.0.0 skield.de # 2026-03-02
+0.0.0.0 tryemsense.com # 2026-03-02
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -31952,6 +31985,7 @@
 0.0.0.0 vorisol.com # 2026-02-25
 0.0.0.0 vorisol.com.de # 2026-02-25
 0.0.0.0 mobilephonelocator.net # 2026-02-26
+0.0.0.0 purisakiofficial.com # 2026-03-02
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -32491,6 +32525,12 @@
 0.0.0.0 kanzlei-roth.org # 2026-02-27
 0.0.0.0 roth-collegen.com # 2026-02-27
 0.0.0.0 wulstenra.com # 2026-02-27
+0.0.0.0 anwaelte-brinkmann.de # 2026-03-02
+0.0.0.0 kienast-ra.de # 2026-03-02
+0.0.0.0 selegalsolutions.com # 2026-03-02
+0.0.0.0 westmeier-partner.net # 2026-03-02
+0.0.0.0 westmeier-rechtsanwaelte.com # 2026-03-02
+0.0.0.0 westmeier-rechtsanwaelte.net # 2026-03-02
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -32920,6 +32960,7 @@
 0.0.0.0 guestrsrevation.com # 2026-01-12
 0.0.0.0 wegoeurope.com # 2026-02-01
 0.0.0.0 guardunit77-booking.com # 2026-02-26
+0.0.0.0 feuerbergplus.com # 2026-03-02
 
 # Automatisierte Warnungen
 0.0.0.0 transmarketconssrl.com # 2025-11-13
