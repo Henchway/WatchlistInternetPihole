@@ -1625,9 +1625,10 @@
 0.0.0.0 bitcoinskn.com # 2026-03-02
 0.0.0.0 cadcoinpro.ca # 2026-03-04
 0.0.0.0 etherscan.io # 2026-03-04
-0.0.0.0 eurokak.com # 2026-03-04
-0.0.0.0 unionglobalcredit.com # 2026-03-04
 0.0.0.0 zinsfuchs.com # 2026-03-04
+0.0.0.0 eurokak.com # 2026-03-05
+0.0.0.0 novator-consulting.com # 2026-03-05
+0.0.0.0 unionglobalcredit.com # 2026-03-05
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24233,7 +24234,6 @@
 0.0.0.0 hutdesignherren.com # 2026-02-05
 0.0.0.0 motelmio.shop # 2026-02-05
 0.0.0.0 ottoelektro.de # 2026-02-05
-0.0.0.0 richter-uhren.de # 2026-02-05
 0.0.0.0 smtoygalaxy.com # 2026-02-05
 0.0.0.0 sprinttosave.com # 2026-02-05
 0.0.0.0 uggs.co.at # 2026-02-05
@@ -24472,7 +24472,6 @@
 0.0.0.0 rossignol.com.de # 2026-03-03
 0.0.0.0 suchsnow.com # 2026-03-03
 0.0.0.0 thehandtoolauto.com # 2026-03-03
-0.0.0.0 timberlandde.de # 2026-03-03
 0.0.0.0 wanderstiefeldeal.com # 2026-03-03
 0.0.0.0 wellunora.com # 2026-03-03
 0.0.0.0 zloae.shop # 2026-03-03
@@ -24480,13 +24479,23 @@
 0.0.0.0 autozubehormarkt.com # 2026-03-04
 0.0.0.0 grillen-shop.com # 2026-03-04
 0.0.0.0 heimguts.shop # 2026-03-04
-0.0.0.0 lampenreich.com # 2026-03-04
 0.0.0.0 pmtree.lowcruise.shop # 2026-03-04
-0.0.0.0 purepharmas.co.uk # 2026-03-04
 0.0.0.0 snowbuils.online # 2026-03-04
 0.0.0.0 uggfans.myshoplaza.com # 2026-03-04
 0.0.0.0 werkzeugbrandl.com # 2026-03-04
 0.0.0.0 zkort.shop # 2026-03-04
+0.0.0.0 bijeenmooi.ch # 2026-03-05
+0.0.0.0 fahrradhandel-rothbart.de # 2026-03-05
+0.0.0.0 lampenreich.com # 2026-03-05
+0.0.0.0 loopearplugs.at # 2026-03-05
+0.0.0.0 loopearplugsosterreich.com # 2026-03-05
+0.0.0.0 misalena.com # 2026-03-05
+0.0.0.0 peterjeskouhren.de # 2026-03-05
+0.0.0.0 purepharmas.co.uk # 2026-03-05
+0.0.0.0 rapidboost.com # 2026-03-05
+0.0.0.0 richter-uhren.de # 2026-03-05
+0.0.0.0 swarovskiclub.myshoplaza.com # 2026-03-05
+0.0.0.0 timberlandde.de # 2026-03-05
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -30665,7 +30674,6 @@
 0.0.0.0 dressedandblessed.nl # 2025-02-18
 0.0.0.0 gesundpur.at # 2025-02-18
 0.0.0.0 lauradiva.shop # 2025-02-18
-0.0.0.0 mikiscardshop.shop # 2025-02-18
 0.0.0.0 post-nachsenden.de # 2025-02-18
 0.0.0.0 quarmart.com # 2025-02-18
 0.0.0.0 catfootwear-at.com # 2025-02-20
@@ -31785,6 +31793,7 @@
 0.0.0.0 nordheim-mode.de # 2026-03-04
 0.0.0.0 russellandbromley.de # 2026-03-04
 0.0.0.0 tronicaltune.net # 2026-03-04
+0.0.0.0 prelox-guenstiger.de # 2026-03-05
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32546,13 +32555,14 @@
 0.0.0.0 roth-collegen.com # 2026-02-27
 0.0.0.0 wulstenra.com # 2026-02-27
 0.0.0.0 anwaelte-brinkmann.de # 2026-03-02
-0.0.0.0 kienast-ra.de # 2026-03-02
 0.0.0.0 westmeier-partner.net # 2026-03-02
 0.0.0.0 westmeier-rechtsanwaelte.com # 2026-03-02
-0.0.0.0 westmeier-rechtsanwaelte.net # 2026-03-02
 0.0.0.0 impro-insolvenz.de # 2026-03-03
 0.0.0.0 selegalsolutions.com # 2026-03-03
 0.0.0.0 asd-rechtsanwaelte.de # 2026-03-04
+0.0.0.0 kienast-ra.de # 2026-03-05
+0.0.0.0 schultzebraun-anwaelte.de # 2026-03-05
+0.0.0.0 westmeier-rechtsanwaelte.net # 2026-03-05
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -32984,8 +32994,8 @@
 0.0.0.0 wegoeurope.com # 2026-02-01
 0.0.0.0 guardunit77-booking.com # 2026-02-26
 0.0.0.0 feuerbergplus.com # 2026-03-02
-0.0.0.0 airtickt.us # 2026-03-04
 0.0.0.0 flyftravel.com # 2026-03-04
+0.0.0.0 airtickt.us # 2026-03-05
 
 # Automatisierte Warnungen
 0.0.0.0 transmarketconssrl.com # 2025-11-13
