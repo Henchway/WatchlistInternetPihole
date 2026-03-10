@@ -1625,10 +1625,10 @@
 0.0.0.0 bitcoinskn.com # 2026-03-02
 0.0.0.0 cadcoinpro.ca # 2026-03-04
 0.0.0.0 etherscan.io # 2026-03-04
-0.0.0.0 zinsfuchs.com # 2026-03-04
 0.0.0.0 eurokak.com # 2026-03-05
 0.0.0.0 unionglobalcredit.com # 2026-03-05
 0.0.0.0 novator-consulting.com # 2026-03-06
+0.0.0.0 zinsfuchs.com # 2026-03-08
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24469,7 +24469,6 @@
 0.0.0.0 pellets-maschinen.de # 2026-03-03
 0.0.0.0 rossignol.com.de # 2026-03-03
 0.0.0.0 suchsnow.com # 2026-03-03
-0.0.0.0 thehandtoolauto.com # 2026-03-03
 0.0.0.0 wanderstiefeldeal.com # 2026-03-03
 0.0.0.0 wellunora.com # 2026-03-03
 0.0.0.0 zloae.shop # 2026-03-03
@@ -24494,13 +24493,14 @@
 0.0.0.0 purepharmas.co.uk # 2026-03-06
 0.0.0.0 rapidboost.com # 2026-03-06
 0.0.0.0 swarovskiclub.myshoplaza.com # 2026-03-06
-0.0.0.0 apelt-shop.de # 2026-03-07
 0.0.0.0 ecohubfast.shop # 2026-03-07
 0.0.0.0 edelkatzenzucht.com # 2026-03-07
 0.0.0.0 geometrichome.com # 2026-03-07
 0.0.0.0 gomel-24.de # 2026-03-07
 0.0.0.0 hundebedarfsale.com # 2026-03-07
 0.0.0.0 peterjeskouhren.de # 2026-03-07
+0.0.0.0 apelt-shop.de # 2026-03-08
+0.0.0.0 thehandtoolauto.com # 2026-03-08
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31621,7 +31621,6 @@
 0.0.0.0 belouu.de # 2025-12-31
 0.0.0.0 kleinewunderhaus.de # 2025-12-31
 0.0.0.0 yyluckbb.com # 2026-01-01
-0.0.0.0 brunnerluzern.com # 2026-01-02
 0.0.0.0 get.sheremart.com # 2026-01-02
 0.0.0.0 alpenkindmode.com # 2026-01-03
 0.0.0.0 mulvanni.de # 2026-01-05
@@ -31799,6 +31798,7 @@
 0.0.0.0 russellandbromley.de # 2026-03-04
 0.0.0.0 tronicaltune.net # 2026-03-04
 0.0.0.0 prelox-guenstiger.de # 2026-03-05
+0.0.0.0 brunnerluzern.com # 2026-03-08
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32547,7 +32547,6 @@
 0.0.0.0 reuther-anwaelte.com # 2026-02-23
 0.0.0.0 bavaria-rechtundberatung.com # 2026-02-24
 0.0.0.0 dennisbecker-ra.de # 2026-02-25
-0.0.0.0 hengelermuellera.com # 2026-02-25
 0.0.0.0 hengelermuellerc.com # 2026-02-25
 0.0.0.0 wiv-verwertung.de # 2026-02-25
 0.0.0.0 insolvenzrecht-rick.de # 2026-02-26
@@ -32568,6 +32567,7 @@
 0.0.0.0 schultzebraun-anwaelte.de # 2026-03-05
 0.0.0.0 westmeier-rechtsanwaelte.net # 2026-03-05
 0.0.0.0 anwaelte-brinkmann.de # 2026-03-07
+0.0.0.0 hengelermuellera.com # 2026-03-08
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -33083,4 +33083,5 @@
 0.0.0.0 rafso.tovy.shop # 2026-03-01
 0.0.0.0 alivramexico.com # 2026-03-04
 0.0.0.0 bacara.com.ar # 2026-03-07
+0.0.0.0 dashlogic.com # 2026-03-08
 
