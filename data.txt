@@ -24501,7 +24501,6 @@
 0.0.0.0 gartenhausmodern.com # 2026-03-10
 0.0.0.0 germanmanufaktur.de # 2026-03-10
 0.0.0.0 heizungsolar.com # 2026-03-10
-0.0.0.0 konigmode.de # 2026-03-10
 0.0.0.0 milyenshop.com # 2026-03-10
 0.0.0.0 motorradoutfit.com # 2026-03-10
 0.0.0.0 shopsavehub.com # 2026-03-10
@@ -24551,6 +24550,7 @@
 0.0.0.0 myspirituosen.com # 2026-03-14
 0.0.0.0 timberlandde.de # 2026-03-14
 0.0.0.0 waermewald.de # 2026-03-14
+0.0.0.0 konigmode.de # 2026-03-15
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
