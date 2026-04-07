@@ -24497,7 +24497,6 @@
 0.0.0.0 ehspelletsgmbh.de # 2026-03-10
 0.0.0.0 endlich-gesund.com # 2026-03-10
 0.0.0.0 felgenwelt.com # 2026-03-10
-0.0.0.0 gartenhausmodern.com # 2026-03-10
 0.0.0.0 germanmanufaktur.de # 2026-03-10
 0.0.0.0 heizungsolar.com # 2026-03-10
 0.0.0.0 milyenshop.com # 2026-03-10
@@ -24762,12 +24761,10 @@
 0.0.0.0 brunboisdechauffage.at # 2026-04-03
 0.0.0.0 ergrolabrantnerkg.com # 2026-04-03
 0.0.0.0 ferplasthaustierbedarf.com # 2026-04-03
-0.0.0.0 knusperwelt.com # 2026-04-03
 0.0.0.0 livorentino.com # 2026-04-03
 0.0.0.0 oelbonus.de # 2026-04-03
 0.0.0.0 purewellness-shop.de # 2026-04-03
 0.0.0.0 sanitaerbox.com # 2026-04-03
-0.0.0.0 sereneify.com # 2026-04-03
 0.0.0.0 steyrtracteursgmbh.at # 2026-04-03
 0.0.0.0 waterdrop-osterreich.at # 2026-04-03
 0.0.0.0 weinfreunoutlet.com # 2026-04-03
@@ -24779,6 +24776,9 @@
 0.0.0.0 coastalresin.store # 2026-04-04
 0.0.0.0 columbiasale.de # 2026-04-04
 0.0.0.0 craftoliq.com # 2026-04-04
+0.0.0.0 gartenhausmodern.com # 2026-04-05
+0.0.0.0 knusperwelt.com # 2026-04-05
+0.0.0.0 sereneify.com # 2026-04-05
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32109,7 +32109,6 @@
 0.0.0.0 orfbeitragportal.at # 2026-03-24
 0.0.0.0 variova.de # 2026-03-24
 0.0.0.0 relaxholz.at # 2026-03-25
-0.0.0.0 elisabethwien.at # 2026-03-26
 0.0.0.0 herzstil.de # 2026-03-26
 0.0.0.0 nemanex.at # 2026-03-26
 0.0.0.0 potenzmittelbestellen.at # 2026-03-26
@@ -32142,6 +32141,7 @@
 0.0.0.0 baumkau.com # 2026-04-04
 0.0.0.0 hartmann-frankfurt.com # 2026-04-04
 0.0.0.0 kronwald-mode.de # 2026-04-04
+0.0.0.0 elisabethwien.at # 2026-04-05
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32701,7 +32701,7 @@
 0.0.0.0 appolvintop.click # 2026-03-20
 0.0.0.0 grkwork.com # 2026-03-20
 0.0.0.0 ca-agentur.de # 2026-03-24
-0.0.0.0 riversidebuzz.com # 2026-04-03
+0.0.0.0 riversidebuzz.com # 2026-04-05
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -32941,8 +32941,8 @@
 0.0.0.0 mtr-legal.net # 2026-03-30
 0.0.0.0 exner-collegen.de # 2026-03-31
 0.0.0.0 anwalt-rieger.de # 2026-04-01
-0.0.0.0 insolvenzrecht-rieger.de # 2026-04-01
 0.0.0.0 exner-kollegen.de # 2026-04-02
+0.0.0.0 insolvenzrecht-rieger.de # 2026-04-05
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
