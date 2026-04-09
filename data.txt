@@ -1657,6 +1657,8 @@
 0.0.0.0 e-finanzmarket.com # 2026-04-03
 0.0.0.0 finio24.com # 2026-04-03
 0.0.0.0 talenorvixa.com # 2026-04-03
+0.0.0.0 cryptoweb3pro.com # 2026-04-07
+0.0.0.0 degussa-onlineseite.de # 2026-04-07
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24391,7 +24393,6 @@
 0.0.0.0 vamosschuhedamen.com # 2026-02-20
 0.0.0.0 yumgs.holdenouterwear.shop # 2026-02-20
 0.0.0.0 ediblesthc.de # 2026-02-21
-0.0.0.0 homekitchensupplymart.com # 2026-02-21
 0.0.0.0 mundinhoabc.com # 2026-02-21
 0.0.0.0 scimonge.com # 2026-02-21
 0.0.0.0 hausofvedashop.com # 2026-02-22
@@ -24507,7 +24508,6 @@
 0.0.0.0 deutschebapotheke.net # 2026-03-11
 0.0.0.0 earljourdier.com # 2026-03-11
 0.0.0.0 gartenschoner.com # 2026-03-11
-0.0.0.0 luxurioserstil.com # 2026-03-11
 0.0.0.0 pedale-onshop.com # 2026-03-11
 0.0.0.0 primarycarenw.com # 2026-03-11
 0.0.0.0 skina.nu # 2026-03-11
@@ -24577,7 +24577,6 @@
 0.0.0.0 dachlust.com # 2026-03-19
 0.0.0.0 degussa-onlineshop.de # 2026-03-19
 0.0.0.0 klots.shop # 2026-03-19
-0.0.0.0 nautikbedarf.com # 2026-03-19
 0.0.0.0 peterjeskouhren.de # 2026-03-19
 0.0.0.0 polluxer.com # 2026-03-19
 0.0.0.0 qavelo.com # 2026-03-19
@@ -24779,6 +24778,32 @@
 0.0.0.0 onrunning-at.myshoplaza.com # 2026-04-06
 0.0.0.0 reebokoutlet.de # 2026-04-06
 0.0.0.0 steyrtracteursgmbh.at # 2026-04-06
+0.0.0.0 asfjmeqe.sbs # 2026-04-07
+0.0.0.0 auroradore.com # 2026-04-07
+0.0.0.0 cameragearshop.de # 2026-04-07
+0.0.0.0 campingzubehorhub.com # 2026-04-07
+0.0.0.0 ehfzhepg.shop # 2026-04-07
+0.0.0.0 europe-pack.eu # 2026-04-07
+0.0.0.0 freiheitcamping.com # 2026-04-07
+0.0.0.0 gutmotorradteile.com # 2026-04-07
+0.0.0.0 homekitchensupplymart.com # 2026-04-07
+0.0.0.0 hotcarmodificationparts.com # 2026-04-07
+0.0.0.0 klima-bonus.app # 2026-04-07
+0.0.0.0 likdl.shop # 2026-04-07
+0.0.0.0 likds.shop # 2026-04-07
+0.0.0.0 luxurioserstil.com # 2026-04-07
+0.0.0.0 moebel-onlineshop.com # 2026-04-07
+0.0.0.0 moto-discounts-germany.com # 2026-04-07
+0.0.0.0 nautikbedarf.com # 2026-04-07
+0.0.0.0 nurioso.com # 2026-04-07
+0.0.0.0 placidena.com # 2026-04-07
+0.0.0.0 reeddecory.com # 2026-04-07
+0.0.0.0 rentyet.shop # 2026-04-07
+0.0.0.0 soccerssp.com # 2026-04-07
+0.0.0.0 spielwaren-tonies.com # 2026-04-07
+0.0.0.0 weinekaufen.com # 2026-04-07
+0.0.0.0 woodelivo.com # 2026-04-07
+0.0.0.0 wuording.shop # 2026-04-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32142,6 +32167,11 @@
 0.0.0.0 hartmann-frankfurt.com # 2026-04-04
 0.0.0.0 kronwald-mode.de # 2026-04-04
 0.0.0.0 elisabethwien.at # 2026-04-05
+0.0.0.0 bayerischeu.de # 2026-04-07
+0.0.0.0 huberd.com # 2026-04-07
+0.0.0.0 karlson-berlin.com # 2026-04-07
+0.0.0.0 vesa-mode.de # 2026-04-07
+0.0.0.0 zaubberkraft.de # 2026-04-07
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32373,6 +32403,7 @@
 0.0.0.0 meinperfekterlebenslauf.de # 2026-03-31
 0.0.0.0 stadtplan-local.com # 2026-04-01
 0.0.0.0 veluflex.com # 2026-04-06
+0.0.0.0 getqr.com # 2026-04-07
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -32924,7 +32955,6 @@
 0.0.0.0 westmeier-rechtsanwaelte.net # 2026-03-05
 0.0.0.0 anwaelte-brinkmann.de # 2026-03-07
 0.0.0.0 hengelermuellera.com # 2026-03-08
-0.0.0.0 ra-rick.de # 2026-03-10
 0.0.0.0 websterjamesprofessionalcorp.com # 2026-03-11
 0.0.0.0 kkz-insolvenzrecht.de # 2026-03-13
 0.0.0.0 graf-collegen.com # 2026-03-16
@@ -32943,6 +32973,10 @@
 0.0.0.0 insolvenzrecht-rieger.de # 2026-04-05
 0.0.0.0 exner-collegen.de # 2026-04-06
 0.0.0.0 exner-kollegen.de # 2026-04-06
+0.0.0.0 demmerimrecht.de # 2026-04-07
+0.0.0.0 demmermail.com # 2026-04-07
+0.0.0.0 ra-rick.de # 2026-04-07
+0.0.0.0 rw-insolvenzverwaltung.de # 2026-04-07
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
