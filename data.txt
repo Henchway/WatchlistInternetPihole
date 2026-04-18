@@ -1662,8 +1662,9 @@
 0.0.0.0 ibointernational.com # 2026-04-10
 0.0.0.0 cryptoweb3pro.com # 2026-04-12
 0.0.0.0 erviagas.top # 2026-04-14
-0.0.0.0 capitalexpressmetatrade.net # 2026-04-15
 0.0.0.0 selorentiva.com # 2026-04-15
+0.0.0.0 capitalexpressmetatrade.net # 2026-04-16
+0.0.0.0 ventechatgpt.com # 2026-04-16
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24055,7 +24056,6 @@
 0.0.0.0 oneact.formchain.shop # 2026-01-16
 0.0.0.0 radteiledeal.com # 2026-01-16
 0.0.0.0 thelabeel.com # 2026-01-16
-0.0.0.0 treasureeshop.de # 2026-01-16
 0.0.0.0 allgamesinone.com # 2026-01-17
 0.0.0.0 haustieralles.com # 2026-01-17
 0.0.0.0 lasportivashop.myshoplaza.com # 2026-01-17
@@ -24857,7 +24857,6 @@
 0.0.0.0 dexxxlutz.shop # 2026-04-14
 0.0.0.0 domuslumi.com # 2026-04-14
 0.0.0.0 don-art.de # 2026-04-14
-0.0.0.0 gartenix.com # 2026-04-14
 0.0.0.0 goodpriceclothes.com # 2026-04-14
 0.0.0.0 habitataro.com # 2026-04-14
 0.0.0.0 hanwag--schuhe.com # 2026-04-14
@@ -24885,35 +24884,49 @@
 0.0.0.0 waffenlager.com # 2026-04-14
 0.0.0.0 werkzeug-brandl.com # 2026-04-14
 0.0.0.0 asfrnagi.beer # 2026-04-15
-0.0.0.0 calmstructure.com # 2026-04-15
 0.0.0.0 coolgin.com # 2026-04-15
 0.0.0.0 dekorativeholzprodukte.com # 2026-04-15
-0.0.0.0 electro-redeker.de # 2026-04-15
 0.0.0.0 esn-fitness.com # 2026-04-15
 0.0.0.0 essentials-osterreich.at # 2026-04-15
 0.0.0.0 ferplasthaustierbedarf.com # 2026-04-15
 0.0.0.0 galera-markt.com # 2026-04-15
 0.0.0.0 go-campingmaster.com # 2026-04-15
 0.0.0.0 gotshod.monster # 2026-04-15
-0.0.0.0 hahncontainer.de # 2026-04-15
 0.0.0.0 heizoel24-aktuell.com # 2026-04-15
 0.0.0.0 hoka--shoes.com # 2026-04-15
 0.0.0.0 householdessentialslab.com # 2026-04-15
 0.0.0.0 interarino.com # 2026-04-15
 0.0.0.0 klimabonus2026.at # 2026-04-15
 0.0.0.0 koochand.com # 2026-04-15
-0.0.0.0 lebensartikel.com # 2026-04-15
 0.0.0.0 lifestylemallshop.com # 2026-04-15
 0.0.0.0 luxurioserstil.com # 2026-04-15
 0.0.0.0 million-recht.de # 2026-04-15
-0.0.0.0 nexolc.com # 2026-04-15
-0.0.0.0 plushroomdesign.com # 2026-04-15
 0.0.0.0 topfelite.shop # 2026-04-15
 0.0.0.0 uaeteampissei.team # 2026-04-15
-0.0.0.0 vehiclepartmart.com # 2026-04-15
-0.0.0.0 vetretto.myshopify.com # 2026-04-15
-0.0.0.0 vidaserenahogar.com # 2026-04-15
-0.0.0.0 workysander.shop # 2026-04-15
+0.0.0.0 adl.iuvxvo.shop # 2026-04-16
+0.0.0.0 calmstructure.com # 2026-04-16
+0.0.0.0 chimballsas.com # 2026-04-16
+0.0.0.0 chxskfar.shop # 2026-04-16
+0.0.0.0 classicdesignoutlet.com # 2026-04-16
+0.0.0.0 electro-redeker.de # 2026-04-16
+0.0.0.0 elektrosde.com # 2026-04-16
+0.0.0.0 gartenix.com # 2026-04-16
+0.0.0.0 hahncontainer.de # 2026-04-16
+0.0.0.0 klimakaelteprofi.com # 2026-04-16
+0.0.0.0 lebensartikel.com # 2026-04-16
+0.0.0.0 lidnz.shop # 2026-04-16
+0.0.0.0 medicalapotheke.com # 2026-04-16
+0.0.0.0 meistervolt.de # 2026-04-16
+0.0.0.0 moto-teile24.com # 2026-04-16
+0.0.0.0 nestleix.com # 2026-04-16
+0.0.0.0 nexolc.com # 2026-04-16
+0.0.0.0 nyhead.localdraw.shop # 2026-04-16
+0.0.0.0 plushroomdesign.com # 2026-04-16
+0.0.0.0 treasureeshop.de # 2026-04-16
+0.0.0.0 vehiclepartmart.com # 2026-04-16
+0.0.0.0 vetretto.myshopify.com # 2026-04-16
+0.0.0.0 vidaserenahogar.com # 2026-04-16
+0.0.0.0 workysander.shop # 2026-04-16
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32287,7 +32300,6 @@
 0.0.0.0 fatburner-guru.de # 2026-04-14
 0.0.0.0 fizzclean.com.de # 2026-04-14
 0.0.0.0 healthroutine.com # 2026-04-14
-0.0.0.0 herzfunken.com # 2026-04-14
 0.0.0.0 kronwald-mode.de # 2026-04-14
 0.0.0.0 marien-apotheken.de # 2026-04-14
 0.0.0.0 maxpeedingrods.de # 2026-04-14
@@ -32296,6 +32308,12 @@
 0.0.0.0 avyara.de # 2026-04-15
 0.0.0.0 jewelleryina.com # 2026-04-15
 0.0.0.0 modeir-modehaus.de # 2026-04-15
+0.0.0.0 AOFEIDA.COM # 2026-04-16
+0.0.0.0 herzfunken.com # 2026-04-16
+0.0.0.0 madepants.de # 2026-04-16
+0.0.0.0 neotechix.com # 2026-04-16
+0.0.0.0 wearstepz.com # 2026-04-16
+0.0.0.0 whipl.de # 2026-04-16
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32531,6 +32549,8 @@
 0.0.0.0 vidiofy.co # 2026-04-14
 0.0.0.0 nibble-app.com # 2026-04-15
 0.0.0.0 use.ai # 2026-04-15
+0.0.0.0 digitale-horoskope.de # 2026-04-16
+0.0.0.0 ritualsfaces.com # 2026-04-16
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -33013,6 +33033,8 @@
 0.0.0.0 glaserei.valyz.at # 2026-03-12
 0.0.0.0 kundendienstgeraete.at # 2026-03-22
 0.0.0.0 sapphire-gartenflege.at # 2026-04-06
+0.0.0.0 elektriker.lindens.at # 2026-04-16
+0.0.0.0 installateur.lindens.at # 2026-04-16
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -33102,10 +33124,8 @@
 0.0.0.0 mtr-legal.net # 2026-03-30
 0.0.0.0 anwalt-rieger.de # 2026-04-01
 0.0.0.0 exner-collegen.de # 2026-04-06
-0.0.0.0 exner-kollegen.de # 2026-04-06
 0.0.0.0 ra-rick.de # 2026-04-07
 0.0.0.0 rw-insolvenzverwaltung.de # 2026-04-07
-0.0.0.0 demmerimrecht.de # 2026-04-09
 0.0.0.0 anwalt-sirrenberg.com # 2026-04-10
 0.0.0.0 rechtsanwalt-sirrenberg.de # 2026-04-10
 0.0.0.0 verwertung-sirrenberg.com # 2026-04-10
@@ -33113,6 +33133,11 @@
 0.0.0.0 demmermail.com # 2026-04-13
 0.0.0.0 kronberg-partner.de # 2026-04-14
 0.0.0.0 stinco-insolvenz.de # 2026-04-15
+0.0.0.0 demmerimrecht.de # 2026-04-16
+0.0.0.0 exner-kollegen.de # 2026-04-16
+0.0.0.0 graf-collegen.de # 2026-04-16
+0.0.0.0 lohr-treuhand.com # 2026-04-16
+0.0.0.0 schuster-kanzlei.de # 2026-04-16
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -33299,6 +33324,15 @@
 0.0.0.0 pw-express.com # 2026-03-27
 0.0.0.0 universalshippings.com # 2026-04-02
 0.0.0.0 visionauto-solution.com # 2026-04-10
+
+# Automatisierte Warnungen
+0.0.0.0 kayh.tovy.shop # 2026-02-23
+0.0.0.0 acmesalehvqm.click # 2026-04-16
+0.0.0.0 csbsts.site # 2026-04-16
+0.0.0.0 nusalemqjxy.click # 2026-04-16
+0.0.0.0 okhat.fundtable.shop # 2026-04-16
+0.0.0.0 shopsgogo.shop # 2026-04-16
+0.0.0.0 wbymall.store # 2026-04-16
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
@@ -33552,7 +33586,4 @@
 0.0.0.0 wegoeuro.com # 2026-03-31
 0.0.0.0 wegoflight.com # 2026-03-31
 0.0.0.0 edreamtrips.com # 2026-04-14
-
-# Automatisierte Warnungen
-0.0.0.0 kayh.tovy.shop # 2026-02-23
 
