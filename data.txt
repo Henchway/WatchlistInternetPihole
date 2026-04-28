@@ -1668,8 +1668,8 @@
 0.0.0.0 visioninvesti.com # 2026-04-21
 0.0.0.0 cfd.diamond-tradeltd.com # 2026-04-22
 0.0.0.0 meridianunitedholdingsnet.digital # 2026-04-23
-0.0.0.0 syntek-ai.app # 2026-04-24
 0.0.0.0 handelsnation.com # 2026-04-25
+0.0.0.0 syntek-ai.app # 2026-04-26
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24745,8 +24745,6 @@
 0.0.0.0 arnstadter-einkauf.de # 2026-04-06
 0.0.0.0 damsonmadder.co.at # 2026-04-06
 0.0.0.0 montblancsale.de # 2026-04-06
-0.0.0.0 reebokoutlet.de # 2026-04-06
-0.0.0.0 steyrtracteursgmbh.at # 2026-04-06
 0.0.0.0 asfjmeqe.sbs # 2026-04-07
 0.0.0.0 auroradore.com # 2026-04-08
 0.0.0.0 cameragearshop.de # 2026-04-08
@@ -24802,7 +24800,6 @@
 0.0.0.0 pelletor.at # 2026-04-11
 0.0.0.0 petroya.de # 2026-04-11
 0.0.0.0 raiffeisen-gewinn.vip # 2026-04-11
-0.0.0.0 richagloves.com # 2026-04-11
 0.0.0.0 rs-remorque.com # 2026-04-11
 0.0.0.0 sportgearde.com # 2026-04-11
 0.0.0.0 steelseries.com.de # 2026-04-11
@@ -24863,7 +24860,6 @@
 0.0.0.0 go-campingmaster.com # 2026-04-15
 0.0.0.0 gotshod.monster # 2026-04-15
 0.0.0.0 heizoel24-aktuell.com # 2026-04-15
-0.0.0.0 hoka--shoes.com # 2026-04-15
 0.0.0.0 householdessentialslab.com # 2026-04-15
 0.0.0.0 interarino.com # 2026-04-15
 0.0.0.0 klimabonus2026.at # 2026-04-15
@@ -24969,7 +24965,6 @@
 0.0.0.0 thiamtransports.com # 2026-04-22
 0.0.0.0 ythebyre.top # 2026-04-22
 0.0.0.0 agriservice640.com # 2026-04-23
-0.0.0.0 autoteilejetzt.com # 2026-04-23
 0.0.0.0 carteloshop.com # 2026-04-23
 0.0.0.0 cottanest.com # 2026-04-23
 0.0.0.0 dayoner.com # 2026-04-23
@@ -25029,6 +25024,11 @@
 0.0.0.0 srylab.bio # 2026-04-25
 0.0.0.0 werkbedarf24.de # 2026-04-25
 0.0.0.0 werkora-industrial.com # 2026-04-25
+0.0.0.0 autoteilejetzt.com # 2026-04-26
+0.0.0.0 hoka--shoes.com # 2026-04-26
+0.0.0.0 reebokoutlet.de # 2026-04-26
+0.0.0.0 richagloves.com # 2026-04-26
+0.0.0.0 steyrtracteursgmbh.at # 2026-04-26
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31966,7 +31966,6 @@
 0.0.0.0 dresswithsoul.com # 2025-10-28
 0.0.0.0 dyn-amo.com # 2025-10-28
 0.0.0.0 elegance-maison.fr # 2025-10-28
-0.0.0.0 faccelove.de # 2025-10-28
 0.0.0.0 orcliacare.com # 2025-10-28
 0.0.0.0 queckone.com # 2025-10-28
 0.0.0.0 thompson-sydney.com # 2025-10-28
@@ -32431,6 +32430,7 @@
 0.0.0.0 annakatharina-wien.at # 2026-04-23
 0.0.0.0 mannheimmodehaus.com # 2026-04-23
 0.0.0.0 herzstil.de # 2026-04-25
+0.0.0.0 faccelove.de # 2026-04-26
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32661,9 +32661,7 @@
 0.0.0.0 stadtplan-local.com # 2026-04-01
 0.0.0.0 getqr.com # 2026-04-07
 0.0.0.0 glpura.com # 2026-04-13
-0.0.0.0 heute-horoskope.de # 2026-04-14
 0.0.0.0 vidiofy.co # 2026-04-14
-0.0.0.0 nibble-app.com # 2026-04-15
 0.0.0.0 use.ai # 2026-04-15
 0.0.0.0 ritualsfaces.com # 2026-04-16
 0.0.0.0 handy-horoskope.de # 2026-04-20
@@ -32671,6 +32669,8 @@
 0.0.0.0 olivias-horoskope.de # 2026-04-21
 0.0.0.0 digitale-horoskope.de # 2026-04-22
 0.0.0.0 veluflex.com # 2026-04-23
+0.0.0.0 heute-horoskope.de # 2026-04-26
+0.0.0.0 nibble-app.com # 2026-04-26
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -33267,10 +33267,10 @@
 0.0.0.0 online-betrugs-hilfe.de # 2026-04-21
 0.0.0.0 kanzlei-niva.de # 2026-04-22
 0.0.0.0 kanzlei-statz.de # 2026-04-22
-0.0.0.0 schreyer-ra.de # 2026-04-22
 0.0.0.0 kanzlei-zimmermann-partner.com # 2026-04-23
 0.0.0.0 exner-kollegen.net # 2026-04-24
 0.0.0.0 betrugsexperten.de # 2026-04-25
+0.0.0.0 schreyer-ra.de # 2026-04-26
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -33471,6 +33471,7 @@
 0.0.0.0 coolcare.mx # 2026-04-23
 0.0.0.0 gvbmfflnanzonline.info # 2026-04-23
 0.0.0.0 mobilerheizungen.de # 2026-04-23
+0.0.0.0 jewelrymejuri.com # 2026-04-26
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
