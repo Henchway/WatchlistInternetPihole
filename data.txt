@@ -24917,7 +24917,6 @@
 0.0.0.0 dackeltraum.com # 2026-04-21
 0.0.0.0 dualtron-scooters.com # 2026-04-21
 0.0.0.0 easylivora.com # 2026-04-21
-0.0.0.0 interiorene.com # 2026-04-21
 0.0.0.0 jutevibers.com # 2026-04-21
 0.0.0.0 koochand.com # 2026-04-21
 0.0.0.0 kylar.de # 2026-04-21
@@ -25087,10 +25086,8 @@
 0.0.0.0 strahlwerk24.com # 2026-04-30
 0.0.0.0 zentrof.com # 2026-04-30
 0.0.0.0 adl.zixoko.shop # 2026-05-01
-0.0.0.0 cottagoshop.com # 2026-05-01
 0.0.0.0 decohousely.com # 2026-05-01
 0.0.0.0 dekoartikelrabatt.de # 2026-05-01
-0.0.0.0 dieterrux-dienstleistungs.de # 2026-05-01
 0.0.0.0 esy-oil.com # 2026-05-01
 0.0.0.0 expressbrennholz.de # 2026-05-01
 0.0.0.0 finca-selection.com # 2026-05-01
@@ -25109,7 +25106,10 @@
 0.0.0.0 studioherr.com # 2026-05-01
 0.0.0.0 transportwelt.com # 2026-05-01
 0.0.0.0 urbanvibesretreat.com # 2026-05-01
-0.0.0.0 wattpionier.de # 2026-05-01
+0.0.0.0 cottagoshop.com # 2026-05-02
+0.0.0.0 dieterrux-dienstleistungs.de # 2026-05-02
+0.0.0.0 interiorene.com # 2026-05-02
+0.0.0.0 wattpionier.de # 2026-05-02
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32514,15 +32514,15 @@
 0.0.0.0 coordinatedy.com # 2026-04-28
 0.0.0.0 maronellis.com # 2026-04-28
 0.0.0.0 vitaglp.com # 2026-04-28
-0.0.0.0 demeano.com # 2026-04-29
 0.0.0.0 giesswein.com.de # 2026-04-30
 0.0.0.0 helldivers-merch.com # 2026-04-30
 0.0.0.0 repsberlin.com # 2026-04-30
 0.0.0.0 superie.de # 2026-04-30
-0.0.0.0 wooflyx.com # 2026-04-30
 0.0.0.0 zenvys.de # 2026-04-30
 0.0.0.0 at.rattaay.com # 2026-05-01
 0.0.0.0 knieexpert.de # 2026-05-01
+0.0.0.0 demeano.com # 2026-05-02
+0.0.0.0 wooflyx.com # 2026-05-02
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33251,9 +33251,9 @@
 0.0.0.0 installateur.lindens.at # 2026-04-19
 0.0.0.0 schluesseldienst.platz-1.at # 2026-04-19
 0.0.0.0 kammerjaeger-hoffmeyer.de # 2026-04-20
-0.0.0.0 kammerjaeger-fischer.de # 2026-04-21
 0.0.0.0 elektriker-hoffmeyer.de # 2026-04-22
 0.0.0.0 sbk-hoffmeyer.de # 2026-04-23
+0.0.0.0 kammerjaeger-fischer.de # 2026-05-02
 
 # Automatisierte Warnungen
 0.0.0.0 kayh.tovy.shop # 2026-02-23
