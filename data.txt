@@ -1659,7 +1659,6 @@
 0.0.0.0 ibointernational.com # 2026-04-10
 0.0.0.0 cryptoweb3pro.com # 2026-04-12
 0.0.0.0 erviagas.top # 2026-04-14
-0.0.0.0 selorentiva.com # 2026-04-15
 0.0.0.0 capitalexpressmetatrade.net # 2026-04-16
 0.0.0.0 ventechatgpt.com # 2026-04-17
 0.0.0.0 pgmus.net # 2026-04-19
@@ -1675,6 +1674,7 @@
 0.0.0.0 swissalpha.io # 2026-04-29
 0.0.0.0 paywayslite.com # 2026-05-01
 0.0.0.0 vip.frontiermarket.icu # 2026-05-01
+0.0.0.0 selorentiva.com # 2026-05-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25001,7 +25001,6 @@
 0.0.0.0 kaufhaushamburg.com # 2026-04-25
 0.0.0.0 kraftdesweins.com # 2026-04-25
 0.0.0.0 moebelgutlager.com # 2026-04-25
-0.0.0.0 motorradking.com # 2026-04-25
 0.0.0.0 musikgarage.com # 2026-04-25
 0.0.0.0 poolfreunde.com # 2026-04-25
 0.0.0.0 sanitaerbox.com # 2026-04-25
@@ -25110,6 +25109,7 @@
 0.0.0.0 dieterrux-dienstleistungs.de # 2026-05-02
 0.0.0.0 interiorene.com # 2026-05-02
 0.0.0.0 wattpionier.de # 2026-05-02
+0.0.0.0 motorradking.com # 2026-05-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32518,11 +32518,11 @@
 0.0.0.0 helldivers-merch.com # 2026-04-30
 0.0.0.0 repsberlin.com # 2026-04-30
 0.0.0.0 superie.de # 2026-04-30
-0.0.0.0 zenvys.de # 2026-04-30
 0.0.0.0 at.rattaay.com # 2026-05-01
 0.0.0.0 knieexpert.de # 2026-05-01
 0.0.0.0 demeano.com # 2026-05-02
 0.0.0.0 wooflyx.com # 2026-05-02
+0.0.0.0 zenvys.de # 2026-05-03
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
