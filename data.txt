@@ -24646,7 +24646,6 @@
 0.0.0.0 anhaenger-geraete.com # 2026-03-25
 0.0.0.0 berlinrideservice.com # 2026-03-25
 0.0.0.0 creamywear.com # 2026-03-25
-0.0.0.0 ebikedolomiti.com # 2026-03-25
 0.0.0.0 formeri.shop # 2026-03-25
 0.0.0.0 heizor.de # 2026-03-25
 0.0.0.0 mygarminstraps.de # 2026-03-25
@@ -25286,6 +25285,7 @@
 0.0.0.0 veilwellness.com # 2026-05-16
 0.0.0.0 vitafeetdeu.com # 2026-05-16
 0.0.0.0 von-kronen.com # 2026-05-16
+0.0.0.0 ebikedolomiti.com # 2026-05-17
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
