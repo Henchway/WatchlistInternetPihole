@@ -1653,7 +1653,6 @@
 0.0.0.0 e-finanzmarket.com # 2026-04-03
 0.0.0.0 finio24.com # 2026-04-03
 0.0.0.0 talenorvixa.com # 2026-04-03
-0.0.0.0 degussa-onlineseite.de # 2026-04-08
 0.0.0.0 gkworktk.com # 2026-04-09
 0.0.0.0 tagesschau.finance # 2026-04-09
 0.0.0.0 ibointernational.com # 2026-04-10
@@ -1683,6 +1682,10 @@
 0.0.0.0 rechtund-gesetz.com # 2026-05-13
 0.0.0.0 de-cnovapaymoney.org # 2026-05-14
 0.0.0.0 resolved.defisolution.net # 2026-05-15
+0.0.0.0 degussa-onlineseite.de # 2026-05-18
+0.0.0.0 peluxiv.com # 2026-05-18
+0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-18
+0.0.0.0 win2daycasino.at # 2026-05-18
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24597,7 +24600,6 @@
 0.0.0.0 kaffeglueck.de # 2026-03-20
 0.0.0.0 kagasa.com # 2026-03-20
 0.0.0.0 let-glam.com # 2026-03-20
-0.0.0.0 solanix.de # 2026-03-20
 0.0.0.0 stoicdraussen.com # 2026-03-20
 0.0.0.0 tckuspcx.shop # 2026-03-20
 0.0.0.0 tickgreen.net # 2026-03-20
@@ -25085,8 +25087,6 @@
 0.0.0.0 studioherr.com # 2026-05-01
 0.0.0.0 transportwelt.com # 2026-05-01
 0.0.0.0 urbanvibesretreat.com # 2026-05-01
-0.0.0.0 cottagoshop.com # 2026-05-02
-0.0.0.0 dieterrux-dienstleistungs.de # 2026-05-02
 0.0.0.0 interiorene.com # 2026-05-02
 0.0.0.0 wattpionier.de # 2026-05-02
 0.0.0.0 motorradking.com # 2026-05-03
@@ -25279,13 +25279,31 @@
 0.0.0.0 lichtzauberaustria.com # 2026-05-16
 0.0.0.0 poiner.com # 2026-05-16
 0.0.0.0 poseidon-home.com # 2026-05-16
-0.0.0.0 roommyhut.com # 2026-05-16
 0.0.0.0 themarthub.com # 2026-05-16
 0.0.0.0 toniesspielzeug.com # 2026-05-16
 0.0.0.0 veilwellness.com # 2026-05-16
 0.0.0.0 vitafeetdeu.com # 2026-05-16
 0.0.0.0 von-kronen.com # 2026-05-16
 0.0.0.0 ebikedolomiti.com # 2026-05-17
+0.0.0.0 autoteileharbor.com # 2026-05-18
+0.0.0.0 bioen-tech.de # 2026-05-18
+0.0.0.0 buckbasil.com # 2026-05-18
+0.0.0.0 cottagoshop.com # 2026-05-18
+0.0.0.0 dieterrux-dienstleistungs.de # 2026-05-18
+0.0.0.0 ezigarettestore.com # 2026-05-18
+0.0.0.0 franzoesischebulldogge.at # 2026-05-18
+0.0.0.0 freitag-taschen.com # 2026-05-18
+0.0.0.0 gartenpaula.de # 2026-05-18
+0.0.0.0 hansholzmotor.de # 2026-05-18
+0.0.0.0 helivo.de # 2026-05-18
+0.0.0.0 meistersunny.de # 2026-05-18
+0.0.0.0 modedeu.com # 2026-05-18
+0.0.0.0 pfotenzug.com # 2026-05-18
+0.0.0.0 prof-vet.com # 2026-05-18
+0.0.0.0 roommyhut.com # 2026-05-18
+0.0.0.0 sppulsar.shop # 2026-05-18
+0.0.0.0 vwutaq.com # 2026-05-18
+0.0.0.0 werkzeug-und-maschinen.de # 2026-05-18
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32733,6 +32751,15 @@
 0.0.0.0 adlz.ekyyq.shop # 2026-05-15
 0.0.0.0 berlinglamour.de # 2026-05-15
 0.0.0.0 seiden-haus.de # 2026-05-16
+0.0.0.0 emmamodehaus.com # 2026-05-18
+0.0.0.0 falkenmode.de # 2026-05-18
+0.0.0.0 henslymo.com # 2026-05-18
+0.0.0.0 kylora.de # 2026-05-18
+0.0.0.0 lumawerks.de # 2026-05-18
+0.0.0.0 peluxiv.at # 2026-05-18
+0.0.0.0 pexcer.com # 2026-05-18
+0.0.0.0 prinzmode-berlin.de # 2026-05-18
+0.0.0.0 sunlu-filaments.com # 2026-05-18
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -32975,7 +33002,7 @@
 0.0.0.0 olivias-horoskope.de # 2026-05-08
 0.0.0.0 glpura.com # 2026-05-12
 0.0.0.0 mob.faceyoga.fit # 2026-05-12
-0.0.0.0 sparkv.co # 2026-05-15
+0.0.0.0 sparkv.co # 2026-05-18
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -33498,6 +33525,9 @@
 0.0.0.0 magenta.zgwqds.com/at # 2026-05-12
 0.0.0.0 fsphost.com # 2026-05-14
 0.0.0.0 getfund-8733.twil.io/confirm # 2026-05-15
+0.0.0.0 erneurungogk.at/ogk/dn5OdWLd # 2026-05-18
+0.0.0.0 online-sign.net # 2026-05-18
+0.0.0.0 signonlinenow.net # 2026-05-18
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -34054,6 +34084,7 @@
 0.0.0.0 flyftravel.com # 2026-03-13
 0.0.0.0 wegoeuro.com # 2026-03-31
 0.0.0.0 wegoflight.com # 2026-03-31
-0.0.0.0 edreamtrips.com # 2026-04-14
 0.0.0.0 approve-reservation-euro.com # 2026-04-22
+0.0.0.0 edreamtrips.com # 2026-05-18
+0.0.0.0 mallorca-holidayhomes.com # 2026-05-18
 
