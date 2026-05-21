@@ -1683,9 +1683,9 @@
 0.0.0.0 de-cnovapaymoney.org # 2026-05-14
 0.0.0.0 resolved.defisolution.net # 2026-05-15
 0.0.0.0 degussa-onlineseite.de # 2026-05-18
-0.0.0.0 peluxiv.com # 2026-05-18
-0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-18
-0.0.0.0 win2daycasino.at # 2026-05-18
+0.0.0.0 peluxiv.com # 2026-05-19
+0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-19
+0.0.0.0 win2daycasino.at # 2026-05-19
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25285,25 +25285,25 @@
 0.0.0.0 vitafeetdeu.com # 2026-05-16
 0.0.0.0 von-kronen.com # 2026-05-16
 0.0.0.0 ebikedolomiti.com # 2026-05-17
-0.0.0.0 autoteileharbor.com # 2026-05-18
-0.0.0.0 bioen-tech.de # 2026-05-18
-0.0.0.0 buckbasil.com # 2026-05-18
 0.0.0.0 cottagoshop.com # 2026-05-18
 0.0.0.0 dieterrux-dienstleistungs.de # 2026-05-18
-0.0.0.0 ezigarettestore.com # 2026-05-18
-0.0.0.0 franzoesischebulldogge.at # 2026-05-18
 0.0.0.0 freitag-taschen.com # 2026-05-18
-0.0.0.0 gartenpaula.de # 2026-05-18
-0.0.0.0 hansholzmotor.de # 2026-05-18
-0.0.0.0 helivo.de # 2026-05-18
-0.0.0.0 meistersunny.de # 2026-05-18
-0.0.0.0 modedeu.com # 2026-05-18
-0.0.0.0 pfotenzug.com # 2026-05-18
-0.0.0.0 prof-vet.com # 2026-05-18
 0.0.0.0 roommyhut.com # 2026-05-18
-0.0.0.0 sppulsar.shop # 2026-05-18
-0.0.0.0 vwutaq.com # 2026-05-18
-0.0.0.0 werkzeug-und-maschinen.de # 2026-05-18
+0.0.0.0 autoteileharbor.com # 2026-05-19
+0.0.0.0 bioen-tech.de # 2026-05-19
+0.0.0.0 buckbasil.com # 2026-05-19
+0.0.0.0 ezigarettestore.com # 2026-05-19
+0.0.0.0 franzoesischebulldogge.at # 2026-05-19
+0.0.0.0 gartenpaula.de # 2026-05-19
+0.0.0.0 hansholzmotor.de # 2026-05-19
+0.0.0.0 helivo.de # 2026-05-19
+0.0.0.0 meistersunny.de # 2026-05-19
+0.0.0.0 modedeu.com # 2026-05-19
+0.0.0.0 pfotenzug.com # 2026-05-19
+0.0.0.0 prof-vet.com # 2026-05-19
+0.0.0.0 sppulsar.shop # 2026-05-19
+0.0.0.0 vwutaq.com # 2026-05-19
+0.0.0.0 werkzeug-und-maschinen.de # 2026-05-19
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32758,8 +32758,8 @@
 0.0.0.0 lumawerks.de # 2026-05-18
 0.0.0.0 peluxiv.at # 2026-05-18
 0.0.0.0 pexcer.com # 2026-05-18
-0.0.0.0 prinzmode-berlin.de # 2026-05-18
 0.0.0.0 sunlu-filaments.com # 2026-05-18
+0.0.0.0 prinzmode-berlin.de # 2026-05-19
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
