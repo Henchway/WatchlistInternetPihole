@@ -1686,8 +1686,8 @@
 0.0.0.0 peluxiv.com # 2026-05-19
 0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-19
 0.0.0.0 win2daycasino.at # 2026-05-19
-0.0.0.0 belmonthouse.co.za # 2026-05-22
-0.0.0.0 vexontor.com # 2026-05-22
+0.0.0.0 belmonthouse.co.za # 2026-05-23
+0.0.0.0 vexontor.com # 2026-05-23
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25316,29 +25316,29 @@
 0.0.0.0 strahlwerk24.com # 2026-05-21
 0.0.0.0 vapedampf.com # 2026-05-21
 0.0.0.0 watersydea.shop # 2026-05-21
-0.0.0.0 aquaflexshop.de # 2026-05-22
 0.0.0.0 at.nneelkwerf.net # 2026-05-22
 0.0.0.0 autoteileharbor.com # 2026-05-22
-0.0.0.0 baustoffwerkzeug.com # 2026-05-22
 0.0.0.0 bioen-tech.de # 2026-05-22
-0.0.0.0 checkout.rezeptedesgeschmacks.com # 2026-05-22
 0.0.0.0 coinmyo.com # 2026-05-22
 0.0.0.0 comfyure.com # 2026-05-22
 0.0.0.0 dimedell.com # 2026-05-22
 0.0.0.0 gartenpaula.de # 2026-05-22
-0.0.0.0 handarbeitenkaess.de # 2026-05-22
-0.0.0.0 kunstgeschwind.de # 2026-05-22
 0.0.0.0 moebelkick.de # 2026-05-22
-0.0.0.0 mpgarten-shop.de # 2026-05-22
 0.0.0.0 oswald-juergenss24.de # 2026-05-22
 0.0.0.0 prismirror.shop # 2026-05-22
 0.0.0.0 revolutionracede.de # 2026-05-22
 0.0.0.0 soccerssp.com # 2026-05-22
-0.0.0.0 sporttritt.com # 2026-05-22
-0.0.0.0 stabileersatzteile.com # 2026-05-22
-0.0.0.0 toolsundteile.com # 2026-05-22
 0.0.0.0 watchcod-hr.shop # 2026-05-22
 0.0.0.0 zlongs.com # 2026-05-22
+0.0.0.0 aquaflexshop.de # 2026-05-23
+0.0.0.0 baustoffwerkzeug.com # 2026-05-23
+0.0.0.0 checkout.rezeptedesgeschmacks.com # 2026-05-23
+0.0.0.0 handarbeitenkaess.de # 2026-05-23
+0.0.0.0 kunstgeschwind.de # 2026-05-23
+0.0.0.0 mpgarten-shop.de # 2026-05-23
+0.0.0.0 sporttritt.com # 2026-05-23
+0.0.0.0 stabileersatzteile.com # 2026-05-23
+0.0.0.0 toolsundteile.com # 2026-05-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32806,14 +32806,14 @@
 0.0.0.0 zepcap.com # 2026-05-20
 0.0.0.0 attraktivemanner.com # 2026-05-22
 0.0.0.0 augsburgerkunstschachtel.de # 2026-05-22
-0.0.0.0 copterdeals.de # 2026-05-22
 0.0.0.0 fischerwarenhaus.com # 2026-05-22
-0.0.0.0 kleaskunst.de # 2026-05-22
 0.0.0.0 kunstkulisse.de # 2026-05-22
 0.0.0.0 kunststoffsteine.de # 2026-05-22
 0.0.0.0 orvynwien.com # 2026-05-22
 0.0.0.0 veedelmaskenshop.de # 2026-05-22
 0.0.0.0 vintageitisrain.store # 2026-05-22
+0.0.0.0 copterdeals.de # 2026-05-23
+0.0.0.0 kleaskunst.de # 2026-05-23
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33709,11 +33709,11 @@
 0.0.0.0 stephanbayer.de # 2026-05-07
 0.0.0.0 kanzlei-niva.de # 2026-05-08
 0.0.0.0 eisner-kollegen.de # 2026-05-13
-0.0.0.0 brueck-tax-legal.com # 2026-05-20
 0.0.0.0 lindemann-kanzlei.de # 2026-05-21
 0.0.0.0 pilars-treuhand.com # 2026-05-21
 0.0.0.0 kanzlei-helmut-kuhn.de # 2026-05-22
 0.0.0.0 noble-alliance.com # 2026-05-22
+0.0.0.0 brueck-tax-legal.com # 2026-05-23
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
