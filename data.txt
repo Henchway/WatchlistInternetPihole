@@ -1684,10 +1684,10 @@
 0.0.0.0 resolved.defisolution.net # 2026-05-15
 0.0.0.0 degussa-onlineseite.de # 2026-05-18
 0.0.0.0 peluxiv.com # 2026-05-19
-0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-19
 0.0.0.0 win2daycasino.at # 2026-05-19
 0.0.0.0 belmonthouse.co.za # 2026-05-23
 0.0.0.0 vexontor.com # 2026-05-23
+0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-24
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25119,7 +25119,6 @@
 0.0.0.0 airsguns.com # 2026-05-06
 0.0.0.0 hotcarmodificationparts.com # 2026-05-06
 0.0.0.0 market.vailmere.com # 2026-05-06
-0.0.0.0 angermaierwiesn.de # 2026-05-07
 0.0.0.0 ardenza.store # 2026-05-07
 0.0.0.0 bamboomyly.com # 2026-05-07
 0.0.0.0 berger-deals.com # 2026-05-07
@@ -25300,7 +25299,6 @@
 0.0.0.0 eboerse.shop # 2026-05-21
 0.0.0.0 galera-markt.com # 2026-05-21
 0.0.0.0 greentuning-de.com # 2026-05-21
-0.0.0.0 heizoel-experten.de # 2026-05-21
 0.0.0.0 hirobikegmbh.de # 2026-05-21
 0.0.0.0 holzkraft.pro # 2026-05-21
 0.0.0.0 intermaschineauktion.com # 2026-05-21
@@ -25339,6 +25337,8 @@
 0.0.0.0 sporttritt.com # 2026-05-23
 0.0.0.0 stabileersatzteile.com # 2026-05-23
 0.0.0.0 toolsundteile.com # 2026-05-23
+0.0.0.0 angermaierwiesn.de # 2026-05-24
+0.0.0.0 heizoel-experten.de # 2026-05-24
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33395,9 +33395,9 @@
 0.0.0.0 uwb-beratung.com # 2026-04-29
 0.0.0.0 dacimmo.com # 2026-05-14
 0.0.0.0 steinersearch.at # 2026-05-20
-0.0.0.0 precision-labs.de # 2026-05-21
-0.0.0.0 ownyourregion.eu # 2026-05-22
 0.0.0.0 talent-levia.com # 2026-05-22
+0.0.0.0 ownyourregion.eu # 2026-05-24
+0.0.0.0 precision-labs.de # 2026-05-24
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
