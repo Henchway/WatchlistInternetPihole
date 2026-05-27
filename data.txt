@@ -1686,8 +1686,8 @@
 0.0.0.0 peluxiv.com # 2026-05-19
 0.0.0.0 win2daycasino.at # 2026-05-19
 0.0.0.0 belmonthouse.co.za # 2026-05-23
-0.0.0.0 vexontor.com # 2026-05-23
 0.0.0.0 rihilozavoradvisorynet.digital # 2026-05-24
+0.0.0.0 vexontor.com # 2026-05-25
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25320,7 +25320,6 @@
 0.0.0.0 coinmyo.com # 2026-05-22
 0.0.0.0 comfyure.com # 2026-05-22
 0.0.0.0 dimedell.com # 2026-05-22
-0.0.0.0 gartenpaula.de # 2026-05-22
 0.0.0.0 moebelkick.de # 2026-05-22
 0.0.0.0 oswald-juergenss24.de # 2026-05-22
 0.0.0.0 prismirror.shop # 2026-05-22
@@ -25330,7 +25329,6 @@
 0.0.0.0 zlongs.com # 2026-05-22
 0.0.0.0 aquaflexshop.de # 2026-05-23
 0.0.0.0 baustoffwerkzeug.com # 2026-05-23
-0.0.0.0 checkout.rezeptedesgeschmacks.com # 2026-05-23
 0.0.0.0 handarbeitenkaess.de # 2026-05-23
 0.0.0.0 kunstgeschwind.de # 2026-05-23
 0.0.0.0 mpgarten-shop.de # 2026-05-23
@@ -25338,7 +25336,9 @@
 0.0.0.0 stabileersatzteile.com # 2026-05-23
 0.0.0.0 toolsundteile.com # 2026-05-23
 0.0.0.0 angermaierwiesn.de # 2026-05-24
-0.0.0.0 heizoel-experten.de # 2026-05-24
+0.0.0.0 checkout.rezeptedesgeschmacks.com # 2026-05-25
+0.0.0.0 gartenpaula.de # 2026-05-25
+0.0.0.0 heizoel-experten.de # 2026-05-25
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32759,7 +32759,6 @@
 0.0.0.0 brehn.de # 2026-05-07
 0.0.0.0 bricoandpool.com # 2026-05-07
 0.0.0.0 delksm.com # 2026-05-07
-0.0.0.0 heisehaus.com # 2026-05-07
 0.0.0.0 meinhuggies.com # 2026-05-07
 0.0.0.0 mgaffaires.com # 2026-05-07
 0.0.0.0 mivoza-store.com # 2026-05-07
@@ -32814,6 +32813,7 @@
 0.0.0.0 vintageitisrain.store # 2026-05-22
 0.0.0.0 copterdeals.de # 2026-05-23
 0.0.0.0 kleaskunst.de # 2026-05-23
+0.0.0.0 heisehaus.com # 2026-05-25
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33397,7 +33397,7 @@
 0.0.0.0 steinersearch.at # 2026-05-20
 0.0.0.0 talent-levia.com # 2026-05-22
 0.0.0.0 ownyourregion.eu # 2026-05-24
-0.0.0.0 precision-labs.de # 2026-05-24
+0.0.0.0 precision-labs.de # 2026-05-25
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
