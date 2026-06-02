@@ -24962,7 +24962,6 @@
 0.0.0.0 dokumentenkaufen.eu # 2026-04-24
 0.0.0.0 ekzsale.shop # 2026-04-24
 0.0.0.0 fahrradhandel-koumagnon.de # 2026-04-24
-0.0.0.0 fanskicke.com # 2026-04-24
 0.0.0.0 grillterrasse.com # 2026-04-24
 0.0.0.0 hans-engelke-energie.de # 2026-04-24
 0.0.0.0 kinderlichtblicke.de # 2026-04-24
@@ -25384,7 +25383,6 @@
 0.0.0.0 jblat.at # 2026-05-29
 0.0.0.0 kraft-profil-technik.eu # 2026-05-29
 0.0.0.0 mahroboterhaus.myshopify.com # 2026-05-29
-0.0.0.0 miteckenundkantenboutique.shop # 2026-05-29
 0.0.0.0 modernoutdoorstandard.de # 2026-05-29
 0.0.0.0 stahlmotorrad.com # 2026-05-29
 0.0.0.0 whzyxd.com # 2026-05-29
@@ -25393,11 +25391,13 @@
 0.0.0.0 aquaristikteichstore.com # 2026-05-30
 0.0.0.0 cosori.at # 2026-05-30
 0.0.0.0 easeviro.com # 2026-05-30
-0.0.0.0 einfahbacken.de # 2026-05-30
 0.0.0.0 fatfax.ratewell.shop # 2026-05-30
 0.0.0.0 garteni.de # 2026-05-30
 0.0.0.0 marcuweklingboutique.shop # 2026-05-30
 0.0.0.0 mobelmomente.com # 2026-05-30
+0.0.0.0 einfahbacken.de # 2026-05-31
+0.0.0.0 fanskicke.com # 2026-05-31
+0.0.0.0 miteckenundkantenboutique.shop # 2026-05-31
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33669,10 +33669,11 @@
 0.0.0.0 dersa-spedition.com # 2026-05-28
 0.0.0.0 freeavmhzwr.click # 2026-05-28
 0.0.0.0 gabor-net.com # 2026-05-28
-0.0.0.0 glanzschuh.com # 2026-05-28
 0.0.0.0 passendenschuhe.com # 2026-05-28
 0.0.0.0 superpdxzxc.click # 2026-05-28
 0.0.0.0 wpokr.store # 2026-05-28
+0.0.0.0 glanzschuh.com # 2026-05-31
+0.0.0.0 service-finanzonline.at/datenaktualisierung # 2026-05-31
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -33789,11 +33790,11 @@
 0.0.0.0 stephanbayer.de # 2026-05-07
 0.0.0.0 kanzlei-niva.de # 2026-05-08
 0.0.0.0 eisner-kollegen.de # 2026-05-13
-0.0.0.0 lindemann-kanzlei.de # 2026-05-21
 0.0.0.0 pilars-treuhand.com # 2026-05-21
 0.0.0.0 noble-alliance.com # 2026-05-22
 0.0.0.0 brueck-tax-legal.com # 2026-05-23
 0.0.0.0 kanzlei-helmut-kuhn.de # 2026-05-28
+0.0.0.0 lindemann-kanzlei.de # 2026-05-31
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -33976,13 +33977,13 @@
 0.0.0.0 ultimateasdc.com # 2026-02-20
 0.0.0.0 nwmoverscp.com # 2026-02-23
 0.0.0.0 petshippingltd.com # 2026-02-23
-0.0.0.0 germanyrimowa.com # 2026-03-04
 0.0.0.0 pw-express.com # 2026-03-27
 0.0.0.0 universalshippings.com # 2026-04-02
 0.0.0.0 visionauto-solution.com # 2026-04-10
 0.0.0.0 alstran-spedition.com # 2026-04-24
 0.0.0.0 transportes-angel-salinas.com # 2026-05-12
 0.0.0.0 alphatransportlogistik.com # 2026-05-20
+0.0.0.0 germanyrimowa.com # 2026-05-31
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
