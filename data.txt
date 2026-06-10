@@ -1706,10 +1706,15 @@
 0.0.0.0 sorvelutik.com # 2026-06-04
 0.0.0.0 sorvelutik.net # 2026-06-04
 0.0.0.0 sorvelutik.tech # 2026-06-04
-0.0.0.0 kenotistflowio.digital # 2026-06-06
 0.0.0.0 purposefulcareerpath.click # 2026-06-06
 0.0.0.0 vakrin.com # 2026-06-06
 0.0.0.0 coinvoro.com # 2026-06-07
+0.0.0.0 brokersinternaational.com # 2026-06-08
+0.0.0.0 capitalxsolution.com # 2026-06-08
+0.0.0.0 cimnelatlas.click # 2026-06-08
+0.0.0.0 de1.aiinshgits.de # 2026-06-08
+0.0.0.0 kenotistflowio.digital # 2026-06-08
+0.0.0.0 runrigstack.click # 2026-06-08
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25000,7 +25005,6 @@
 0.0.0.0 kaufhaushamburg.com # 2026-04-25
 0.0.0.0 kraftdesweins.com # 2026-04-25
 0.0.0.0 moebelgutlager.com # 2026-04-25
-0.0.0.0 musikgarage.com # 2026-04-25
 0.0.0.0 poolfreunde.com # 2026-04-25
 0.0.0.0 sanitaerbox.com # 2026-04-25
 0.0.0.0 srylab.bio # 2026-04-25
@@ -25503,12 +25507,10 @@
 0.0.0.0 thebreakfastshop.de # 2026-06-06
 0.0.0.0 ultenicstaubsauger.com # 2026-06-06
 0.0.0.0 velmart-berlin.com # 2026-06-06
-0.0.0.0 wachstumsworkshop.de # 2026-06-06
 0.0.0.0 whiskerhalo.com # 2026-06-06
 0.0.0.0 baptistacoffee.shop # 2026-06-07
 0.0.0.0 fahrradladen-brand.de # 2026-06-07
 0.0.0.0 finca-selection.com # 2026-06-07
-0.0.0.0 flexbikes.de # 2026-06-07
 0.0.0.0 iptvanbieter.at # 2026-06-07
 0.0.0.0 kaffeealternative.de # 2026-06-07
 0.0.0.0 kapmazmateriaux.com # 2026-06-07
@@ -25518,6 +25520,39 @@
 0.0.0.0 slreinigungsfirma.de # 2026-06-07
 0.0.0.0 tagespflegedorfflitzer.de # 2026-06-07
 0.0.0.0 tracksuitshop.de # 2026-06-07
+0.0.0.0 aeropress.co.at # 2026-06-08
+0.0.0.0 asfinag.at-service.shop # 2026-06-08
+0.0.0.0 bestkitchenwarede.com # 2026-06-08
+0.0.0.0 bueromoebels.de # 2026-06-08
+0.0.0.0 buroausstattung.com # 2026-06-08
+0.0.0.0 christinefamiliewelpen.com # 2026-06-08
+0.0.0.0 dasoo.de # 2026-06-08
+0.0.0.0 drmartensboots.co.at # 2026-06-08
+0.0.0.0 fahrradkontor.com # 2026-06-08
+0.0.0.0 fahrradt.de # 2026-06-08
+0.0.0.0 falthammer-markt.com # 2026-06-08
+0.0.0.0 flexbikes.de # 2026-06-08
+0.0.0.0 hostagetapedeutschland.de # 2026-06-08
+0.0.0.0 keltraxde.com # 2026-06-08
+0.0.0.0 laufenalltagnatur.com # 2026-06-08
+0.0.0.0 lems.com.de # 2026-06-08
+0.0.0.0 liwed.wedstrip.shop # 2026-06-08
+0.0.0.0 marinepartde.com # 2026-06-08
+0.0.0.0 metallicastores.com # 2026-06-08
+0.0.0.0 modellbau-zentrum.com # 2026-06-08
+0.0.0.0 musikgarage.com # 2026-06-08
+0.0.0.0 pricehaiku.com # 2026-06-08
+0.0.0.0 prothermwoodpellets.com # 2026-06-08
+0.0.0.0 qievpfhz.shop # 2026-06-08
+0.0.0.0 roadtrip-camping.com # 2026-06-08
+0.0.0.0 superexpressholz.de # 2026-06-08
+0.0.0.0 torbeschlagestobgriffe.com # 2026-06-08
+0.0.0.0 vintageweinde.com # 2026-06-08
+0.0.0.0 wachstumsworkshop.de # 2026-06-08
+0.0.0.0 waffen24de.com # 2026-06-08
+0.0.0.0 warmeluxe.com # 2026-06-08
+0.0.0.0 warmthvo.com # 2026-06-08
+0.0.0.0 wolffcomerce.de # 2026-06-08
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -32947,7 +32982,6 @@
 0.0.0.0 m.kaufjoy.de # 2026-05-08
 0.0.0.0 stilmoment.com # 2026-05-08
 0.0.0.0 brytesmile.de # 2026-05-09
-0.0.0.0 nuubu-store.com # 2026-05-09
 0.0.0.0 daheimgut.com # 2026-05-11
 0.0.0.0 de-fizzclean.com # 2026-05-11
 0.0.0.0 get-fizzclean.com # 2026-05-11
@@ -33011,6 +33045,11 @@
 0.0.0.0 sophiamode.de # 2026-06-05
 0.0.0.0 stilrosa.com # 2026-06-05
 0.0.0.0 velinaboutiquewien.com # 2026-06-05
+0.0.0.0 chaps-herrenmode.com # 2026-06-08
+0.0.0.0 grace-hawthorne.com # 2026-06-08
+0.0.0.0 mariaeva-wien.at # 2026-06-08
+0.0.0.0 norwiss.de # 2026-06-08
+0.0.0.0 nuubu-store.com # 2026-06-08
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33257,6 +33296,7 @@
 0.0.0.0 ritualsgleam.com # 2026-06-02
 0.0.0.0 chatlyai.app # 2026-06-03
 0.0.0.0 gewa24.com # 2026-06-05
+0.0.0.0 64personality.com # 2026-06-08
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -33601,6 +33641,7 @@
 0.0.0.0 auhandmade.com # 2026-06-02
 0.0.0.0 workspacehatch.com # 2026-06-03
 0.0.0.0 remotejobseu.site # 2026-06-07
+0.0.0.0 efficient-flow.solutions # 2026-06-08
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -33783,6 +33824,7 @@
 0.0.0.0 fsphost.com # 2026-06-07
 0.0.0.0 haasrecruiting.at # 2026-06-07
 0.0.0.0 id-finanzonline.at/datenaktualisierung # 2026-06-07
+0.0.0.0 camper--schuhe.com # 2026-06-08
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -33906,6 +33948,8 @@
 0.0.0.0 rsteelelawfirm.com # 2026-06-02
 0.0.0.0 verwaltung-gmbh.com # 2026-06-02
 0.0.0.0 ra-gsklegal.de # 2026-06-05
+0.0.0.0 cplollp.com # 2026-06-08
+0.0.0.0 haas-partner.com # 2026-06-08
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
