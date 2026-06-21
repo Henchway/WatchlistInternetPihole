@@ -25657,6 +25657,7 @@
 0.0.0.0 zahnarzt-wegscheider.at # 2026-06-12
 0.0.0.0 zauberhaftergarten.de # 2026-06-12
 0.0.0.0 heizoel-easy.com # 2026-06-18
+0.0.0.0 legeroschweiz.com # 2026-06-19
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
