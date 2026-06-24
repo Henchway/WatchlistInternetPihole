@@ -1718,6 +1718,8 @@
 0.0.0.0 tgi.li # 2026-06-12
 0.0.0.0 ultracybertrust.digital # 2026-06-12
 0.0.0.0 inoquant.net # 2026-06-18
+0.0.0.0 evh.cc # 2026-06-22
+0.0.0.0 lago-trading.com # 2026-06-22
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25658,6 +25660,43 @@
 0.0.0.0 zauberhaftergarten.de # 2026-06-12
 0.0.0.0 heizoel-easy.com # 2026-06-18
 0.0.0.0 legeroschweiz.com # 2026-06-19
+0.0.0.0 angebotewein.com # 2026-06-22
+0.0.0.0 apothekevienna.com # 2026-06-22
+0.0.0.0 asfinaq.de # 2026-06-22
+0.0.0.0 backen-shop.com # 2026-06-22
+0.0.0.0 beautyhealthsupplies.com # 2026-06-22
+0.0.0.0 beleuchtung-online.com # 2026-06-22
+0.0.0.0 cacauetshop.com # 2026-06-22
+0.0.0.0 clifbarosterreich.at # 2026-06-22
+0.0.0.0 deintrikot.at # 2026-06-22
+0.0.0.0 dgkktero.sho # 2026-06-22
+0.0.0.0 dgkktero.shop # 2026-06-22
+0.0.0.0 difhewbg.shop # 2026-06-22
+0.0.0.0 dingesgroup.com # 2026-06-22
+0.0.0.0 farben-profis.com # 2026-06-22
+0.0.0.0 fishingluresverkauf.com # 2026-06-22
+0.0.0.0 gartenmaxe.de # 2026-06-22
+0.0.0.0 giessweinca.com # 2026-06-22
+0.0.0.0 glow-garden.com # 2026-06-22
+0.0.0.0 gueta-handel.com # 2026-06-22
+0.0.0.0 homeloomnest.com # 2026-06-22
+0.0.0.0 linhygdt.shop # 2026-06-22
+0.0.0.0 liwed.boycotton.shop # 2026-06-22
+0.0.0.0 lloyd.co.at # 2026-06-22
+0.0.0.0 mytrumerholz.shop # 2026-06-22
+0.0.0.0 newgocontainers.com # 2026-06-22
+0.0.0.0 pedalprofi.de # 2026-06-22
+0.0.0.0 pureherbnutri.com # 2026-06-22
+0.0.0.0 sauna4home.de # 2026-06-22
+0.0.0.0 schaltersteckdosen.com # 2026-06-22
+0.0.0.0 shop.asfinaq.de # 2026-06-22
+0.0.0.0 steiner-kg.at # 2026-06-22
+0.0.0.0 theurbenieus.com # 2026-06-22
+0.0.0.0 toyfunrealm.com # 2026-06-22
+0.0.0.0 trumerholz-store.shop # 2026-06-22
+0.0.0.0 trumerholzliving.shop # 2026-06-22
+0.0.0.0 tupperwareosterreich.com # 2026-06-22
+0.0.0.0 warmthota.com # 2026-06-22
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33166,6 +33205,17 @@
 0.0.0.0 stadlwerk.de # 2026-06-12
 0.0.0.0 therapiedecken.de # 2026-06-12
 0.0.0.0 zanatelier.com # 2026-06-12
+0.0.0.0 at.pkajwb.shop # 2026-06-22
+0.0.0.0 berizen.com # 2026-06-22
+0.0.0.0 de.epicooleronline.store # 2026-06-22
+0.0.0.0 epi-cooler.at # 2026-06-22
+0.0.0.0 epicoolerklima.shop # 2026-06-22
+0.0.0.0 get-epicooler.com # 2026-06-22
+0.0.0.0 osmo-official.com # 2026-06-22
+0.0.0.0 sarahmeyer.com # 2026-06-22
+0.0.0.0 shevode.com # 2026-06-22
+0.0.0.0 solyball.com # 2026-06-22
+0.0.0.0 sommerfeld-munchen.de # 2026-06-22
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33416,6 +33466,7 @@
 0.0.0.0 testiqs.com # 2026-06-09
 0.0.0.0 urbanmap.org # 2026-06-11
 0.0.0.0 textguardai.com # 2026-06-19
+0.0.0.0 kittykaiser.de # 2026-06-22
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -33762,6 +33813,7 @@
 0.0.0.0 remotejobseu.site # 2026-06-07
 0.0.0.0 efficient-flow.solutions # 2026-06-08
 0.0.0.0 kbs-management.cc # 2026-06-10
+0.0.0.0 zibitcoin.net # 2026-06-22
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -33920,6 +33972,7 @@
 0.0.0.0 hsdienst.at # 2026-05-07
 0.0.0.0 schluesseldienst.valers.site # 2026-05-08
 0.0.0.0 aquagenie-installationen.com # 2026-06-01
+0.0.0.0 heizleo.de # 2026-06-22
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
