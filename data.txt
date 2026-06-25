@@ -1720,6 +1720,10 @@
 0.0.0.0 inoquant.net # 2026-06-18
 0.0.0.0 evh.cc # 2026-06-22
 0.0.0.0 lago-trading.com # 2026-06-22
+0.0.0.0 alvexo-data.com # 2026-06-23
+0.0.0.0 festgeldkompass.com # 2026-06-23
+0.0.0.0 talvurieks.at # 2026-06-23
+0.0.0.0 vornethpro.at # 2026-06-23
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25697,6 +25701,25 @@
 0.0.0.0 trumerholzliving.shop # 2026-06-22
 0.0.0.0 tupperwareosterreich.com # 2026-06-22
 0.0.0.0 warmthota.com # 2026-06-22
+0.0.0.0 anhaengerklasen.de # 2026-06-23
+0.0.0.0 boseaustria.com # 2026-06-23
+0.0.0.0 bshudk.shop # 2026-06-23
+0.0.0.0 cecilemilan.com # 2026-06-23
+0.0.0.0 containerslager.com # 2026-06-23
+0.0.0.0 exclusive-keys.de # 2026-06-23
+0.0.0.0 giesswein.com.de # 2026-06-23
+0.0.0.0 joachim-gartengeraete.de # 2026-06-23
+0.0.0.0 malergeschaft.com # 2026-06-23
+0.0.0.0 mein-technikmarkt.com # 2026-06-23
+0.0.0.0 nhbdgy.shop # 2026-06-23
+0.0.0.0 pet-bigfamily.com # 2026-06-23
+0.0.0.0 solarek-energie.com # 2026-06-23
+0.0.0.0 teichwunder.com # 2026-06-23
+0.0.0.0 trikotadler.com # 2026-06-23
+0.0.0.0 waermewelt.com # 2026-06-23
+0.0.0.0 wobasolar-energie.com # 2026-06-23
+0.0.0.0 wuffstore.de # 2026-06-23
+0.0.0.0 zwclsaablueashe.shop # 2026-06-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33075,7 +33098,6 @@
 0.0.0.0 coordinatedy.com # 2026-04-28
 0.0.0.0 maronellis.com # 2026-04-28
 0.0.0.0 vitaglp.com # 2026-04-28
-0.0.0.0 giesswein.com.de # 2026-04-30
 0.0.0.0 helldivers-merch.com # 2026-04-30
 0.0.0.0 repsberlin.com # 2026-04-30
 0.0.0.0 superie.de # 2026-04-30
@@ -33216,6 +33238,7 @@
 0.0.0.0 shevode.com # 2026-06-22
 0.0.0.0 solyball.com # 2026-06-22
 0.0.0.0 sommerfeld-munchen.de # 2026-06-22
+0.0.0.0 elisabethwien.com # 2026-06-23
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33467,6 +33490,8 @@
 0.0.0.0 urbanmap.org # 2026-06-11
 0.0.0.0 textguardai.com # 2026-06-19
 0.0.0.0 kittykaiser.de # 2026-06-22
+0.0.0.0 bongochat.de # 2026-06-23
+0.0.0.0 novavitalia.de # 2026-06-23
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -33973,6 +33998,8 @@
 0.0.0.0 schluesseldienst.valers.site # 2026-05-08
 0.0.0.0 aquagenie-installationen.com # 2026-06-01
 0.0.0.0 heizleo.de # 2026-06-22
+0.0.0.0 dienstleistung-horvath.com # 2026-06-23
+0.0.0.0 kanal-fuchs.at # 2026-06-23
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
