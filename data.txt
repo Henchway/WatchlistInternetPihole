@@ -1761,6 +1761,11 @@
 0.0.0.0 smartinvestorvision.com # 2026-06-29
 0.0.0.0 strategicwealthway.com # 2026-06-29
 0.0.0.0 zuverlassigerkredit.com # 2026-06-29
+0.0.0.0 area.aicnxedge.com # 2026-06-30
+0.0.0.0 belkruvozan-ai.at # 2026-06-30
+0.0.0.0 cibfinanzgruppe.com # 2026-06-30
+0.0.0.0 dapenex.com # 2026-06-30
+0.0.0.0 reimund-morgenfurt.at # 2026-06-30
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25818,6 +25823,17 @@
 0.0.0.0 walklux.de # 2026-06-29
 0.0.0.0 weber-werkstatt.com # 2026-06-29
 0.0.0.0 ysmnfewy.shop # 2026-06-29
+0.0.0.0 all-eco.eu # 2026-06-30
+0.0.0.0 aquariumlebens.com # 2026-06-30
+0.0.0.0 biller-beck.com # 2026-06-30
+0.0.0.0 brenuingerde.com # 2026-06-30
+0.0.0.0 cozynestlyauraglow.com # 2026-06-30
+0.0.0.0 fahrradpunkt.com # 2026-06-30
+0.0.0.0 feuchtigkeits.de # 2026-06-30
+0.0.0.0 jdspaistcsblin-de.com # 2026-06-30
+0.0.0.0 kalkhofffahrrader.de # 2026-06-30
+0.0.0.0 malteserworld.at # 2026-06-30
+0.0.0.0 otto-kauf.de # 2026-06-30
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33357,6 +33373,9 @@
 0.0.0.0 navrosup.com # 2026-06-29
 0.0.0.0 risora-shop.de # 2026-06-29
 0.0.0.0 velorina.de # 2026-06-29
+0.0.0.0 baumann-boutique.ch # 2026-06-30
+0.0.0.0 gashelbywatch.com # 2026-06-30
+0.0.0.0 get-airzuma.com # 2026-06-30
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
