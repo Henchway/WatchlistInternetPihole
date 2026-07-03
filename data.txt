@@ -12292,7 +12292,6 @@
 0.0.0.0 e-bike-world.eu # 2023-11-15
 0.0.0.0 gaboreshop.cz # 2023-11-15
 0.0.0.0 gaborliefern.com # 2023-11-15
-0.0.0.0 gaborsale.com # 2023-11-15
 0.0.0.0 huntergummistiefeloutlet.com # 2023-11-15
 0.0.0.0 kriminal-bankett.de # 2023-11-15
 0.0.0.0 laceupshoessales.com # 2023-11-15
@@ -25834,6 +25833,13 @@
 0.0.0.0 kalkhofffahrrader.de # 2026-06-30
 0.0.0.0 malteserworld.at # 2026-06-30
 0.0.0.0 otto-kauf.de # 2026-06-30
+0.0.0.0 bioaestheticshop.com # 2026-07-01
+0.0.0.0 ethimostyle.com # 2026-07-01
+0.0.0.0 ewigesleder.com # 2026-07-01
+0.0.0.0 khjugyu.shop # 2026-07-01
+0.0.0.0 kindrucksackgarten.com # 2026-07-01
+0.0.0.0 moebelverlosung.de # 2026-07-01
+0.0.0.0 steelmoebel.de # 2026-07-01
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33376,6 +33382,12 @@
 0.0.0.0 baumann-boutique.ch # 2026-06-30
 0.0.0.0 gashelbywatch.com # 2026-06-30
 0.0.0.0 get-airzuma.com # 2026-06-30
+0.0.0.0 at.hatme.de # 2026-07-01
+0.0.0.0 efeublute.com # 2026-07-01
+0.0.0.0 frohepfoten.de # 2026-07-01
+0.0.0.0 modestylebay.com # 2026-07-01
+0.0.0.0 nerooflow.com # 2026-07-01
+0.0.0.0 norevialife.com # 2026-07-01
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33815,6 +33827,8 @@
 0.0.0.0 bongochat.de # 2026-06-23
 0.0.0.0 novavitalia.de # 2026-06-23
 0.0.0.0 foreverjoy.site # 2026-06-24
+0.0.0.0 convert2.info # 2026-07-01
+0.0.0.0 novamenstruhilfe.de # 2026-07-01
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34165,6 +34179,7 @@
 0.0.0.0 ll-sheins.com # 2026-06-25
 0.0.0.0 svitla-vip.co # 2026-06-26
 0.0.0.0 handmadeshops.net # 2026-06-29
+0.0.0.0 aktiv-personal.net # 2026-07-01
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
