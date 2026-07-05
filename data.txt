@@ -1770,6 +1770,13 @@
 0.0.0.0 kiqutilaumpartnersnet.click # 2026-07-02
 0.0.0.0 pelkruvilanz.at # 2026-07-02
 0.0.0.0 rumplierorbit.click # 2026-07-02
+0.0.0.0 deutschfollowup.cc # 2026-07-03
+0.0.0.0 jelvruvozan-ie.com # 2026-07-03
+0.0.0.0 jelvruvozan.fr # 2026-07-03
+0.0.0.0 ortexgruppe.com # 2026-07-03
+0.0.0.0 skelvurizont.at # 2026-07-03
+0.0.0.0 tokbit.site # 2026-07-03
+0.0.0.0 ute.investporfolio.com # 2026-07-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25862,6 +25869,21 @@
 0.0.0.0 speelwereld.shop # 2026-07-02
 0.0.0.0 wunderrasen.com # 2026-07-02
 0.0.0.0 zorbainc.com # 2026-07-02
+0.0.0.0 anhaenger-gross.de # 2026-07-03
+0.0.0.0 duryoafe.shop # 2026-07-03
+0.0.0.0 dwellglory.com # 2026-07-03
+0.0.0.0 groundies.at # 2026-07-03
+0.0.0.0 heinrich-handel.com # 2026-07-03
+0.0.0.0 intimissimiat.at # 2026-07-03
+0.0.0.0 kingofindigo.com # 2026-07-03
+0.0.0.0 meindlaustria.at # 2026-07-03
+0.0.0.0 mobelwohnen.com # 2026-07-03
+0.0.0.0 moodors.shop # 2026-07-03
+0.0.0.0 motivoebike.com # 2026-07-03
+0.0.0.0 plovurikant.at # 2026-07-03
+0.0.0.0 schumann-markt.com # 2026-07-03
+0.0.0.0 selvorinai.net # 2026-07-03
+0.0.0.0 teilradln.com # 2026-07-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33412,6 +33434,7 @@
 0.0.0.0 norevialife.com # 2026-07-01
 0.0.0.0 at.grandado.com # 2026-07-02
 0.0.0.0 richterorthopadie.com # 2026-07-02
+0.0.0.0 criel.de # 2026-07-03
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33606,6 +33629,9 @@
 0.0.0.0 kleurrijkedame.com # 2026-07-02
 0.0.0.0 lovelierscent.com # 2026-07-02
 0.0.0.0 newlrgshops.com # 2026-07-02
+0.0.0.0 id-austria.at-bmf-gv-uberprufung.com # 2026-07-03
+0.0.0.0 id-austria.bmf-gv-at.com # 2026-07-03
+0.0.0.0 klimageld-2026.cc # 2026-07-03
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34379,6 +34405,7 @@
 0.0.0.0 schluessel-maxi.at # 2026-06-25
 0.0.0.0 install.aktiv24.at # 2026-06-26
 0.0.0.0 elektro.aktiv24.at # 2026-06-29
+0.0.0.0 bodenverlegung-wien.at # 2026-07-03
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
