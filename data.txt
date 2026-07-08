@@ -1777,6 +1777,8 @@
 0.0.0.0 skelvurizont.at # 2026-07-03
 0.0.0.0 tokbit.site # 2026-07-03
 0.0.0.0 ute.investporfolio.com # 2026-07-03
+0.0.0.0 lcm-markets.com # 2026-07-06
+0.0.0.0 viajesdeplaceryencanto.com # 2026-07-06
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25884,6 +25886,36 @@
 0.0.0.0 schumann-markt.com # 2026-07-03
 0.0.0.0 selvorinai.net # 2026-07-03
 0.0.0.0 teilradln.com # 2026-07-03
+0.0.0.0 ankpqvzu.shop # 2026-07-06
+0.0.0.0 ballshops.com # 2026-07-06
+0.0.0.0 baumeistertools.com # 2026-07-06
+0.0.0.0 bestestrikot.com # 2026-07-06
+0.0.0.0 bikegearsupply.com # 2026-07-06
+0.0.0.0 cooleschuhe.com # 2026-07-06
+0.0.0.0 eu.rasenmarkt.com # 2026-07-06
+0.0.0.0 fahrradsparwelt24.de # 2026-07-06
+0.0.0.0 fueloutlets.com # 2026-07-06
+0.0.0.0 gartenbedarf-online.com # 2026-07-06
+0.0.0.0 german-pet-shop.com # 2026-07-06
+0.0.0.0 glaubensweg.com # 2026-07-06
+0.0.0.0 gomodellbahn.com # 2026-07-06
+0.0.0.0 hgkzgbho.shop # 2026-07-06
+0.0.0.0 hornwald.com # 2026-07-06
+0.0.0.0 ivdmlqrb.shop # 2026-07-06
+0.0.0.0 midea-deutschland.com # 2026-07-06
+0.0.0.0 mideadeutschland.de # 2026-07-06
+0.0.0.0 ocbqzggs.shop # 2026-07-06
+0.0.0.0 osiriscards.store # 2026-07-06
+0.0.0.0 owalaflascheosterreich.shop # 2026-07-06
+0.0.0.0 peykshop.com # 2026-07-06
+0.0.0.0 portaspliteu.com # 2026-07-06
+0.0.0.0 rasenmarkt.com # 2026-07-06
+0.0.0.0 schraubschmiede.de # 2026-07-06
+0.0.0.0 specializedosterreich.at # 2026-07-06
+0.0.0.0 tga-degenfeld.at # 2026-07-06
+0.0.0.0 vfsrwo.shop # 2026-07-06
+0.0.0.0 wahlgartenalltag.com # 2026-07-06
+0.0.0.0 wienerwonderlonds.shop # 2026-07-06
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33435,6 +33467,12 @@
 0.0.0.0 at.grandado.com # 2026-07-02
 0.0.0.0 richterorthopadie.com # 2026-07-02
 0.0.0.0 criel.de # 2026-07-03
+0.0.0.0 handcrafted-magazine.com # 2026-07-06
+0.0.0.0 heim-trend.de # 2026-07-06
+0.0.0.0 hilifeshop.com # 2026-07-06
+0.0.0.0 leadbrass.com # 2026-07-06
+0.0.0.0 randaoma.com # 2026-07-06
+0.0.0.0 swedora.com # 2026-07-06
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33609,7 +33647,6 @@
 0.0.0.0 mygabor.shop # 2026-06-25
 0.0.0.0 opus-mode.com # 2026-06-25
 0.0.0.0 outletsilkscarf.com # 2026-06-25
-0.0.0.0 schraubschmiede.de # 2026-06-25
 0.0.0.0 socksworlds.com # 2026-06-25
 0.0.0.0 statementdresses.com # 2026-06-25
 0.0.0.0 todecorchristmas.com # 2026-06-25
@@ -33632,6 +33669,7 @@
 0.0.0.0 id-austria.at-bmf-gv-uberprufung.com # 2026-07-03
 0.0.0.0 id-austria.bmf-gv-at.com # 2026-07-03
 0.0.0.0 klimageld-2026.cc # 2026-07-03
+0.0.0.0 voba-sign.cc # 2026-07-06
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -33889,6 +33927,7 @@
 0.0.0.0 convert2.info # 2026-07-01
 0.0.0.0 novamenstruhilfe.de # 2026-07-01
 0.0.0.0 novachatai.io # 2026-07-02
+0.0.0.0 checkdeinhoroskop.com # 2026-07-06
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34406,6 +34445,7 @@
 0.0.0.0 install.aktiv24.at # 2026-06-26
 0.0.0.0 elektro.aktiv24.at # 2026-06-29
 0.0.0.0 bodenverlegung-wien.at # 2026-07-03
+0.0.0.0 profi-entruempelung.at # 2026-07-06
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -34535,6 +34575,7 @@
 0.0.0.0 kortner-partner.de # 2026-06-22
 0.0.0.0 mehler-anwaelte.de # 2026-06-22
 0.0.0.0 bdhw-insolvenz.de # 2026-06-23
+0.0.0.0 treuhand-gmbh.com # 2026-07-06
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
