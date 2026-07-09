@@ -1773,12 +1773,16 @@
 0.0.0.0 deutschfollowup.cc # 2026-07-03
 0.0.0.0 jelvruvozan-ie.com # 2026-07-03
 0.0.0.0 jelvruvozan.fr # 2026-07-03
-0.0.0.0 ortexgruppe.com # 2026-07-03
 0.0.0.0 skelvurizont.at # 2026-07-03
 0.0.0.0 tokbit.site # 2026-07-03
 0.0.0.0 ute.investporfolio.com # 2026-07-03
 0.0.0.0 lcm-markets.com # 2026-07-06
 0.0.0.0 viajesdeplaceryencanto.com # 2026-07-06
+0.0.0.0 aiyaphorm.at # 2026-07-07
+0.0.0.0 alpivesta.net # 2026-07-07
+0.0.0.0 onlineeba.com # 2026-07-07
+0.0.0.0 ortexgruppe.com # 2026-07-07
+0.0.0.0 wertovia.com # 2026-07-07
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25916,6 +25920,25 @@
 0.0.0.0 vfsrwo.shop # 2026-07-06
 0.0.0.0 wahlgartenalltag.com # 2026-07-06
 0.0.0.0 wienerwonderlonds.shop # 2026-07-06
+0.0.0.0 cebuporn.com # 2026-07-07
+0.0.0.0 chacos.at # 2026-07-07
+0.0.0.0 feuerundgrill.myshopify.com # 2026-07-07
+0.0.0.0 jblaustria.com # 2026-07-07
+0.0.0.0 kuhlhaus-de.shop # 2026-07-07
+0.0.0.0 longrunfood.com # 2026-07-07
+0.0.0.0 midea-germany.de # 2026-07-07
+0.0.0.0 nrer.shop # 2026-07-07
+0.0.0.0 onrunning-eu.myshoplaza.com # 2026-07-07
+0.0.0.0 ordnungpro.com # 2026-07-07
+0.0.0.0 pokepoint.shop # 2026-07-07
+0.0.0.0 ridefusiongear.com # 2026-07-07
+0.0.0.0 rudolphmaschine.de # 2026-07-07
+0.0.0.0 sesuifxu.shop # 2026-07-07
+0.0.0.0 stromzone.com # 2026-07-07
+0.0.0.0 tadauswelpen.de # 2026-07-07
+0.0.0.0 tech.eco-outils.com # 2026-07-07
+0.0.0.0 wakritransport.com # 2026-07-07
+0.0.0.0 yootet.com # 2026-07-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33473,6 +33496,7 @@
 0.0.0.0 leadbrass.com # 2026-07-06
 0.0.0.0 randaoma.com # 2026-07-06
 0.0.0.0 swedora.com # 2026-07-06
+0.0.0.0 spreach.de # 2026-07-07
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
