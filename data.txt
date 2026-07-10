@@ -25935,10 +25935,17 @@
 0.0.0.0 rudolphmaschine.de # 2026-07-07
 0.0.0.0 sesuifxu.shop # 2026-07-07
 0.0.0.0 stromzone.com # 2026-07-07
-0.0.0.0 tadauswelpen.de # 2026-07-07
 0.0.0.0 tech.eco-outils.com # 2026-07-07
 0.0.0.0 wakritransport.com # 2026-07-07
 0.0.0.0 yootet.com # 2026-07-07
+0.0.0.0 autohaus-ferkl.de # 2026-07-08
+0.0.0.0 cleaningproductsshop.com # 2026-07-08
+0.0.0.0 deconestprolab.com # 2026-07-08
+0.0.0.0 midea-deutschland.de # 2026-07-08
+0.0.0.0 modernlampart.com # 2026-07-08
+0.0.0.0 qhvltajo.shop # 2026-07-08
+0.0.0.0 tadauswelpen.de # 2026-07-08
+0.0.0.0 wildlingshoes.cc # 2026-07-08
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33497,6 +33504,11 @@
 0.0.0.0 randaoma.com # 2026-07-06
 0.0.0.0 swedora.com # 2026-07-06
 0.0.0.0 spreach.de # 2026-07-07
+0.0.0.0 evavana.com # 2026-07-08
+0.0.0.0 gesundheitsfor.de # 2026-07-08
+0.0.0.0 loreaofficial.shop # 2026-07-08
+0.0.0.0 navando.nl # 2026-07-08
+0.0.0.0 skynore.de # 2026-07-08
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34470,6 +34482,7 @@
 0.0.0.0 elektro.aktiv24.at # 2026-06-29
 0.0.0.0 bodenverlegung-wien.at # 2026-07-03
 0.0.0.0 profi-entruempelung.at # 2026-07-06
+0.0.0.0 elektrosparkvien.com # 2026-07-08
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
