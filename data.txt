@@ -1783,6 +1783,7 @@
 0.0.0.0 onlineeba.com # 2026-07-07
 0.0.0.0 ortexgruppe.com # 2026-07-07
 0.0.0.0 wertovia.com # 2026-07-07
+0.0.0.0 brikebrain.digital # 2026-07-09
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -3852,7 +3853,6 @@
 0.0.0.0 apotheker-rezeptfrei.de # 2021-12-21
 0.0.0.0 augenoptik-tomaschek.de # 2021-12-21
 0.0.0.0 drmartensjadonsale.de # 2021-12-21
-0.0.0.0 engelsherz.com # 2021-12-21
 0.0.0.0 exseedg.com # 2021-12-21
 0.0.0.0 familie-amelsberg.de # 2021-12-21
 0.0.0.0 gottesiemen.com # 2021-12-21
@@ -24684,7 +24684,6 @@
 0.0.0.0 ihljpbdo.shop # 2026-03-27
 0.0.0.0 oelfast.de # 2026-03-27
 0.0.0.0 sarlcresmar.com # 2026-03-27
-0.0.0.0 degussaonline.de # 2026-03-28
 0.0.0.0 heizoelkontor.de # 2026-03-28
 0.0.0.0 ihreedelmetallprofis.de # 2026-03-28
 0.0.0.0 loopearplugs.at # 2026-03-28
@@ -25946,6 +25945,11 @@
 0.0.0.0 qhvltajo.shop # 2026-07-08
 0.0.0.0 tadauswelpen.de # 2026-07-08
 0.0.0.0 wildlingshoes.cc # 2026-07-08
+0.0.0.0 depotonlinestore.com # 2026-07-09
+0.0.0.0 eloneohome.shop # 2026-07-09
+0.0.0.0 heiz-partner24.de # 2026-07-09
+0.0.0.0 living-smarter24.com # 2026-07-09
+0.0.0.0 midea-portasplit.com # 2026-07-09
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33509,6 +33513,11 @@
 0.0.0.0 loreaofficial.shop # 2026-07-08
 0.0.0.0 navando.nl # 2026-07-08
 0.0.0.0 skynore.de # 2026-07-08
+0.0.0.0 de.moravon.com # 2026-07-09
+0.0.0.0 nordmodehaus.com # 2026-07-09
+0.0.0.0 novolo.shop # 2026-07-09
+0.0.0.0 spotsound.fr # 2026-07-09
+0.0.0.0 varulo.de # 2026-07-09
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33706,6 +33715,7 @@
 0.0.0.0 id-austria.bmf-gv-at.com # 2026-07-03
 0.0.0.0 klimageld-2026.cc # 2026-07-03
 0.0.0.0 voba-sign.cc # 2026-07-06
+0.0.0.0 skincarelimit.com # 2026-07-09
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34315,6 +34325,7 @@
 0.0.0.0 svitla-vip.co # 2026-06-26
 0.0.0.0 handmadeshops.net # 2026-06-29
 0.0.0.0 aktiv-personal.net # 2026-07-01
+0.0.0.0 han3szd2ork.com # 2026-07-09
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -34613,6 +34624,7 @@
 0.0.0.0 mehler-anwaelte.de # 2026-06-22
 0.0.0.0 bdhw-insolvenz.de # 2026-06-23
 0.0.0.0 treuhand-gmbh.com # 2026-07-06
+0.0.0.0 kern-recht.de # 2026-07-09
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
