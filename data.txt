@@ -1718,7 +1718,6 @@
 0.0.0.0 ultracybertrust.digital # 2026-06-12
 0.0.0.0 inoquant.net # 2026-06-18
 0.0.0.0 evh.cc # 2026-06-22
-0.0.0.0 lago-trading.com # 2026-06-22
 0.0.0.0 alvexo-data.com # 2026-06-23
 0.0.0.0 festgeldkompass.com # 2026-06-23
 0.0.0.0 talvurieks.at # 2026-06-23
@@ -1784,6 +1783,9 @@
 0.0.0.0 ortexgruppe.com # 2026-07-07
 0.0.0.0 wertovia.com # 2026-07-07
 0.0.0.0 brikebrain.digital # 2026-07-09
+0.0.0.0 lago-trading.com # 2026-07-10
+0.0.0.0 lcminvesting.com # 2026-07-10
+0.0.0.0 levorelio.net # 2026-07-10
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25950,6 +25952,13 @@
 0.0.0.0 heiz-partner24.de # 2026-07-09
 0.0.0.0 living-smarter24.com # 2026-07-09
 0.0.0.0 midea-portasplit.com # 2026-07-09
+0.0.0.0 abmdistrib.com # 2026-07-10
+0.0.0.0 electrolager.de # 2026-07-10
+0.0.0.0 kaelte-bringer.de # 2026-07-10
+0.0.0.0 klimag.myshopify.com # 2026-07-10
+0.0.0.0 loewe-osterreich.com # 2026-07-10
+0.0.0.0 netatmo.com.de # 2026-07-10
+0.0.0.0 rqhtyztv.shop # 2026-07-10
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33518,6 +33527,8 @@
 0.0.0.0 novolo.shop # 2026-07-09
 0.0.0.0 spotsound.fr # 2026-07-09
 0.0.0.0 varulo.de # 2026-07-09
+0.0.0.0 cozeymaison.com # 2026-07-10
+0.0.0.0 mannstil.com # 2026-07-10
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
