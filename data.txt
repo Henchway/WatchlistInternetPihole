@@ -1786,6 +1786,13 @@
 0.0.0.0 lago-trading.com # 2026-07-10
 0.0.0.0 lcminvesting.com # 2026-07-10
 0.0.0.0 levorelio.net # 2026-07-10
+0.0.0.0 arvulonikanz-belgium.com # 2026-07-13
+0.0.0.0 arvulonikanz-netherlands.com # 2026-07-13
+0.0.0.0 arvulonikanz.com # 2026-07-13
+0.0.0.0 arvulonikanz.net # 2026-07-13
+0.0.0.0 arvulonikanz.org # 2026-07-13
+0.0.0.0 arvulonikanz.tech # 2026-07-13
+0.0.0.0 finance91-eum55.sbs # 2026-07-13
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25959,6 +25966,33 @@
 0.0.0.0 loewe-osterreich.com # 2026-07-10
 0.0.0.0 netatmo.com.de # 2026-07-10
 0.0.0.0 rqhtyztv.shop # 2026-07-10
+0.0.0.0 bawqpou.shop # 2026-07-13
+0.0.0.0 bikecube.de # 2026-07-13
+0.0.0.0 blattbucht.de # 2026-07-13
+0.0.0.0 buecherfreund.com # 2026-07-13
+0.0.0.0 cogesal-miko.com # 2026-07-13
+0.0.0.0 der-schnapsstodlsale.com # 2026-07-13
+0.0.0.0 dotloveculture.com # 2026-07-13
+0.0.0.0 drykorngeschaft.com # 2026-07-13
+0.0.0.0 gabelglanz.de # 2026-07-13
+0.0.0.0 get-coolizicoolzy.store # 2026-07-13
+0.0.0.0 heller-rasenmaeher.com # 2026-07-13
+0.0.0.0 kcttjctl.shop # 2026-07-13
+0.0.0.0 kineticsportsland.shop # 2026-07-13
+0.0.0.0 klaurboutik.shop # 2026-07-13
+0.0.0.0 klimawelts.com # 2026-07-13
+0.0.0.0 kruegeroutlet.de # 2026-07-13
+0.0.0.0 ostyro.myshopify.com # 2026-07-13
+0.0.0.0 rasenrobo.com # 2026-07-13
+0.0.0.0 rio-handelshaus.de # 2026-07-13
+0.0.0.0 scharrer-handel.com # 2026-07-13
+0.0.0.0 stoffweltenshop.com # 2026-07-13
+0.0.0.0 styleoli.com # 2026-07-13
+0.0.0.0 szxlbxlz.shop # 2026-07-13
+0.0.0.0 thorogoodeutschland.de # 2026-07-13
+0.0.0.0 traumgirlanden.shop # 2026-07-13
+0.0.0.0 vema-elektro.de # 2026-07-13
+0.0.0.0 withingss.de # 2026-07-13
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33529,6 +33563,12 @@
 0.0.0.0 varulo.de # 2026-07-09
 0.0.0.0 cozeymaison.com # 2026-07-10
 0.0.0.0 mannstil.com # 2026-07-10
+0.0.0.0 eichborn-berlin.de # 2026-07-13
+0.0.0.0 genieskauf.de # 2026-07-13
+0.0.0.0 kynebeauty.de # 2026-07-13
+0.0.0.0 m.genieskauf.de # 2026-07-13
+0.0.0.0 nimbusfuchs.com # 2026-07-13
+0.0.0.0 stilberlin.com # 2026-07-13
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33727,6 +33767,11 @@
 0.0.0.0 klimageld-2026.cc # 2026-07-03
 0.0.0.0 voba-sign.cc # 2026-07-06
 0.0.0.0 skincarelimit.com # 2026-07-09
+0.0.0.0 despachoca.com # 2026-07-13
+0.0.0.0 haus.volksbarnk-at.site # 2026-07-13
+0.0.0.0 meirne-bank99-at.site # 2026-07-13
+0.0.0.0 propertydamagehomeclaimtips.com # 2026-07-13
+0.0.0.0 wvvw.barnking-volksbanlk-at.site # 2026-07-13
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
