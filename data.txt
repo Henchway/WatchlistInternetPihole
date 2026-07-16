@@ -1793,6 +1793,14 @@
 0.0.0.0 arvulonikanz.org # 2026-07-13
 0.0.0.0 arvulonikanz.tech # 2026-07-13
 0.0.0.0 finance91-eum55.sbs # 2026-07-13
+0.0.0.0 drelkuvizen.at # 2026-07-14
+0.0.0.0 mauersberger-rechtsanwalt.de # 2026-07-14
+0.0.0.0 pnuvelbar-ai.com # 2026-07-14
+0.0.0.0 pnuvelbar-ai.org # 2026-07-14
+0.0.0.0 ramo-investezza.com # 2026-07-14
+0.0.0.0 skurvorizan.at # 2026-07-14
+0.0.0.0 skvurthalen.at # 2026-07-14
+0.0.0.0 uni-kredit-service.de # 2026-07-14
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25993,6 +26001,14 @@
 0.0.0.0 traumgirlanden.shop # 2026-07-13
 0.0.0.0 vema-elektro.de # 2026-07-13
 0.0.0.0 withingss.de # 2026-07-13
+0.0.0.0 adl.uoyps.shop # 2026-07-14
+0.0.0.0 cuttingboarddirect.com # 2026-07-14
+0.0.0.0 dotados-anhaenger.com # 2026-07-14
+0.0.0.0 lauensteingarten.de # 2026-07-14
+0.0.0.0 likevlqwe.click # 2026-07-14
+0.0.0.0 lyleandscott.com # 2026-07-14
+0.0.0.0 warme-quelle.com # 2026-07-14
+0.0.0.0 werkstattgitter.com # 2026-07-14
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34030,6 +34046,7 @@
 0.0.0.0 novamenstruhilfe.de # 2026-07-01
 0.0.0.0 novachatai.io # 2026-07-02
 0.0.0.0 checkdeinhoroskop.com # 2026-07-06
+0.0.0.0 jobleads.com # 2026-07-14
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
