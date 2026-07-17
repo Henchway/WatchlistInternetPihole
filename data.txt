@@ -1801,6 +1801,8 @@
 0.0.0.0 skurvorizan.at # 2026-07-14
 0.0.0.0 skvurthalen.at # 2026-07-14
 0.0.0.0 uni-kredit-service.de # 2026-07-14
+0.0.0.0 hofkammerpro-de.live # 2026-07-15
+0.0.0.0 hofkammerpro.at # 2026-07-15
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25152,7 +25154,6 @@
 0.0.0.0 eshop.vailmere.com # 2026-05-08
 0.0.0.0 homestorex.com # 2026-05-08
 0.0.0.0 ijhardware.com # 2026-05-08
-0.0.0.0 industriehub.de # 2026-05-08
 0.0.0.0 insightberichte.de # 2026-05-08
 0.0.0.0 kazoomba.com # 2026-05-08
 0.0.0.0 ks-baumarkt.com # 2026-05-08
@@ -26009,6 +26010,22 @@
 0.0.0.0 lyleandscott.com # 2026-07-14
 0.0.0.0 warme-quelle.com # 2026-07-14
 0.0.0.0 werkstattgitter.com # 2026-07-14
+0.0.0.0 alpenholz.shop # 2026-07-15
+0.0.0.0 alpenmode.com # 2026-07-15
+0.0.0.0 ehketzlg.shop # 2026-07-15
+0.0.0.0 eolatetuko.shop # 2026-07-15
+0.0.0.0 fahrradexklusiv.de # 2026-07-15
+0.0.0.0 fireworksecho.com # 2026-07-15
+0.0.0.0 gartengenussde.com # 2026-07-15
+0.0.0.0 heinen-klimahaus.myshopify.com # 2026-07-15
+0.0.0.0 kleemeyermichael.com # 2026-07-15
+0.0.0.0 motelamiioofficial.com # 2026-07-15
+0.0.0.0 nxhdyeu.shop # 2026-07-15
+0.0.0.0 poleneparis.at # 2026-07-15
+0.0.0.0 primetechmarket.co # 2026-07-15
+0.0.0.0 redefinedrebelit.com # 2026-07-15
+0.0.0.0 solarek-energie.de # 2026-07-15
+0.0.0.0 wildlingschuh.com # 2026-07-15
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33788,6 +33805,9 @@
 0.0.0.0 meirne-bank99-at.site # 2026-07-13
 0.0.0.0 propertydamagehomeclaimtips.com # 2026-07-13
 0.0.0.0 wvvw.barnking-volksbanlk-at.site # 2026-07-13
+0.0.0.0 check-24.cc # 2026-07-15
+0.0.0.0 klimabonus-at.com # 2026-07-15
+0.0.0.0 voba-investment.net # 2026-07-15
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34399,6 +34419,7 @@
 0.0.0.0 handmadeshops.net # 2026-06-29
 0.0.0.0 aktiv-personal.net # 2026-07-01
 0.0.0.0 han3szd2ork.com # 2026-07-09
+0.0.0.0 uimlvmo.com # 2026-07-15
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
