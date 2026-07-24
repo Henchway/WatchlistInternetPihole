@@ -1720,7 +1720,6 @@
 0.0.0.0 evh.cc # 2026-06-22
 0.0.0.0 alvexo-data.com # 2026-06-23
 0.0.0.0 festgeldkompass.com # 2026-06-23
-0.0.0.0 talvurieks.at # 2026-06-23
 0.0.0.0 vornethpro.at # 2026-06-23
 0.0.0.0 automatacompare.com # 2026-06-24
 0.0.0.0 startrade.co # 2026-06-24
@@ -1803,6 +1802,15 @@
 0.0.0.0 uni-kredit-service.de # 2026-07-14
 0.0.0.0 hofkammerpro-de.live # 2026-07-15
 0.0.0.0 hofkammerpro.at # 2026-07-15
+0.0.0.0 reviewbrokersonline.com # 2026-07-20
+0.0.0.0 bakuronel-ai.net # 2026-07-21
+0.0.0.0 bakuronel-italy.com # 2026-07-21
+0.0.0.0 bakuronel.com # 2026-07-21
+0.0.0.0 edgestan.com # 2026-07-21
+0.0.0.0 geo.marketinvesco.com # 2026-07-21
+0.0.0.0 grow-your.capital # 2026-07-21
+0.0.0.0 primeplatform-ai.com # 2026-07-21
+0.0.0.0 talvurieks.at # 2026-07-22
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -11021,7 +11029,6 @@
 0.0.0.0 rolexwanduhr.de # 2023-08-24
 0.0.0.0 schafproduktion24.de # 2023-08-24
 0.0.0.0 therapydevices-shop.com # 2023-08-24
-0.0.0.0 udoke.com # 2023-08-24
 0.0.0.0 clarasdad.de # 2023-08-25
 0.0.0.0 clivechristianuk.com # 2023-08-25
 0.0.0.0 ensuenosecuador.com # 2023-08-25
@@ -25955,7 +25962,6 @@
 0.0.0.0 tech.eco-outils.com # 2026-07-07
 0.0.0.0 wakritransport.com # 2026-07-07
 0.0.0.0 yootet.com # 2026-07-07
-0.0.0.0 autohaus-ferkl.de # 2026-07-08
 0.0.0.0 cleaningproductsshop.com # 2026-07-08
 0.0.0.0 deconestprolab.com # 2026-07-08
 0.0.0.0 midea-deutschland.de # 2026-07-08
@@ -26026,6 +26032,48 @@
 0.0.0.0 redefinedrebelit.com # 2026-07-15
 0.0.0.0 solarek-energie.de # 2026-07-15
 0.0.0.0 wildlingschuh.com # 2026-07-15
+0.0.0.0 avis.support # 2026-07-16
+0.0.0.0 cityclima.myshopify.com # 2026-07-16
+0.0.0.0 dahlmann-scholz.de # 2026-07-16
+0.0.0.0 findsdemmarket.shop # 2026-07-16
+0.0.0.0 gallusgarten.com # 2026-07-16
+0.0.0.0 kaminexpertstore.com # 2026-07-16
+0.0.0.0 kastneroehlersde.com # 2026-07-16
+0.0.0.0 koppermuller-markt.de # 2026-07-16
+0.0.0.0 motelamiio-official.com # 2026-07-16
+0.0.0.0 skvywots.shop # 2026-07-16
+0.0.0.0 suplments.de # 2026-07-16
+0.0.0.0 topowhey.top # 2026-07-16
+0.0.0.0 udoke.com # 2026-07-16
+0.0.0.0 heizungonlineshop.com # 2026-07-17
+0.0.0.0 rovantar.com # 2026-07-17
+0.0.0.0 svflvtut.shop # 2026-07-17
+0.0.0.0 aodi.jdsld.shop # 2026-07-20
+0.0.0.0 bluttestzuhause.com # 2026-07-20
+0.0.0.0 bose-at.com # 2026-07-20
+0.0.0.0 cashandel.shop # 2026-07-20
+0.0.0.0 estransportundlogistik-gmbh.de # 2026-07-20
+0.0.0.0 hausgeratewelt.com # 2026-07-20
+0.0.0.0 ildcsncf.shop # 2026-07-20
+0.0.0.0 inresalear.click # 2026-07-20
+0.0.0.0 itnl-logistics.com # 2026-07-20
+0.0.0.0 jfajhkpq.shop # 2026-07-20
+0.0.0.0 market.clearancewhirl.com # 2026-07-20
+0.0.0.0 miniorad.de # 2026-07-20
+0.0.0.0 mjdr.shop # 2026-07-20
+0.0.0.0 nestauralabglow.com # 2026-07-20
+0.0.0.0 pfadfindershop.com # 2026-07-20
+0.0.0.0 shiseido-eu.com # 2026-07-20
+0.0.0.0 store.kestrelby.com # 2026-07-20
+0.0.0.0 universjouets.com # 2026-07-20
+0.0.0.0 waldesstille.com # 2026-07-20
+0.0.0.0 cdlp.co.at # 2026-07-21
+0.0.0.0 eu.goldengoosediscount.com # 2026-07-21
+0.0.0.0 interlux-zentrum.com # 2026-07-21
+0.0.0.0 lernenalltagsaiten.com # 2026-07-21
+0.0.0.0 morenutritionfeen.shop # 2026-07-21
+0.0.0.0 rohrshop24.com # 2026-07-21
+0.0.0.0 bohnengold.com # 2026-07-22
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33602,6 +33650,15 @@
 0.0.0.0 m.genieskauf.de # 2026-07-13
 0.0.0.0 nimbusfuchs.com # 2026-07-13
 0.0.0.0 stilberlin.com # 2026-07-13
+0.0.0.0 salexen.de # 2026-07-16
+0.0.0.0 becker-basel.com # 2026-07-20
+0.0.0.0 lindenfeldmode.de # 2026-07-20
+0.0.0.0 oxknit.com # 2026-07-20
+0.0.0.0 airzuma.at # 2026-07-21
+0.0.0.0 tryspinea.com # 2026-07-21
+0.0.0.0 drive-max.de # 2026-07-22
+0.0.0.0 lumenrosa.de # 2026-07-22
+0.0.0.0 vitalpfote.ch # 2026-07-22
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33808,6 +33865,7 @@
 0.0.0.0 check-24.cc # 2026-07-15
 0.0.0.0 klimabonus-at.com # 2026-07-15
 0.0.0.0 voba-investment.net # 2026-07-15
+0.0.0.0 gaborfactorysale.com # 2026-07-16
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34067,6 +34125,7 @@
 0.0.0.0 novachatai.io # 2026-07-02
 0.0.0.0 checkdeinhoroskop.com # 2026-07-06
 0.0.0.0 jobleads.com # 2026-07-14
+0.0.0.0 testlibrary.com # 2026-07-20
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34420,6 +34479,7 @@
 0.0.0.0 aktiv-personal.net # 2026-07-01
 0.0.0.0 han3szd2ork.com # 2026-07-09
 0.0.0.0 uimlvmo.com # 2026-07-15
+0.0.0.0 eilers-gmbh.com # 2026-07-16
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -34672,7 +34732,6 @@
 0.0.0.0 westmeier-ra.net # 2026-03-24
 0.0.0.0 stengelra.com # 2026-03-26
 0.0.0.0 bachmann-kanzlei.de # 2026-03-30
-0.0.0.0 mtr-legal.de # 2026-03-30
 0.0.0.0 mtr-legal.net # 2026-03-30
 0.0.0.0 anwalt-rieger.de # 2026-04-01
 0.0.0.0 ra-rick.de # 2026-04-07
@@ -34719,6 +34778,7 @@
 0.0.0.0 bdhw-insolvenz.de # 2026-06-23
 0.0.0.0 treuhand-gmbh.com # 2026-07-06
 0.0.0.0 kern-recht.de # 2026-07-09
+0.0.0.0 owendoylellp.com # 2026-07-20
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -34911,6 +34971,7 @@
 0.0.0.0 mentfieldlgs.com # 2026-06-07
 0.0.0.0 ozeanhaustiereluftwegelieferung.de # 2026-06-10
 0.0.0.0 grotecenergy.com # 2026-06-12
+0.0.0.0 spedition-thiemann.de # 2026-07-21
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
@@ -35169,4 +35230,5 @@
 0.0.0.0 mallorca-holidayhomes.com # 2026-06-09
 0.0.0.0 guest-pend3120.com # 2026-06-11
 0.0.0.0 hotels-inform4281.com # 2026-06-11
+0.0.0.0 traum-ferienwohnungen.de # 2026-07-20
 
