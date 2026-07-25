@@ -26074,6 +26074,26 @@
 0.0.0.0 morenutritionfeen.shop # 2026-07-21
 0.0.0.0 rohrshop24.com # 2026-07-21
 0.0.0.0 bohnengold.com # 2026-07-22
+0.0.0.0 aktivbeutel.com # 2026-07-23
+0.0.0.0 bergcycle.com # 2026-07-23
+0.0.0.0 bettwarenundtextilien.com # 2026-07-23
+0.0.0.0 dewglam.com # 2026-07-23
+0.0.0.0 dicha-anhaenger.com # 2026-07-23
+0.0.0.0 drahtloseenergie.com # 2026-07-23
+0.0.0.0 erad-sport.de # 2026-07-23
+0.0.0.0 fahrradrottstock.de # 2026-07-23
+0.0.0.0 firstgoldgmbh.com # 2026-07-23
+0.0.0.0 gjkafaxn.shop # 2026-07-23
+0.0.0.0 hardwarewerkzeugshop.com # 2026-07-23
+0.0.0.0 lllfdyfz.shop # 2026-07-23
+0.0.0.0 matenor.fr # 2026-07-23
+0.0.0.0 morenutritiion.shop # 2026-07-23
+0.0.0.0 mxdara.com # 2026-07-23
+0.0.0.0 rauchen-jetzt.de # 2026-07-23
+0.0.0.0 saspromordi.com # 2026-07-23
+0.0.0.0 sport-supplies.com # 2026-07-23
+0.0.0.0 vapekitprime.com # 2026-07-23
+0.0.0.0 vogeltranke.com # 2026-07-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33659,6 +33679,11 @@
 0.0.0.0 drive-max.de # 2026-07-22
 0.0.0.0 lumenrosa.de # 2026-07-22
 0.0.0.0 vitalpfote.ch # 2026-07-22
+0.0.0.0 boho-lust.de # 2026-07-23
+0.0.0.0 brot-meister.com # 2026-07-23
+0.0.0.0 chillinmode.com # 2026-07-23
+0.0.0.0 marloe.de # 2026-07-23
+0.0.0.0 rabattkorb.de # 2026-07-23
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33866,6 +33891,8 @@
 0.0.0.0 klimabonus-at.com # 2026-07-15
 0.0.0.0 voba-investment.net # 2026-07-15
 0.0.0.0 gaborfactorysale.com # 2026-07-16
+0.0.0.0 cycrun.com # 2026-07-23
+0.0.0.0 waterfinder.co.za # 2026-07-23
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34126,6 +34153,8 @@
 0.0.0.0 checkdeinhoroskop.com # 2026-07-06
 0.0.0.0 jobleads.com # 2026-07-14
 0.0.0.0 testlibrary.com # 2026-07-20
+0.0.0.0 anontexter.com # 2026-07-23
+0.0.0.0 runtrainpro.com # 2026-07-23
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34779,6 +34808,8 @@
 0.0.0.0 treuhand-gmbh.com # 2026-07-06
 0.0.0.0 kern-recht.de # 2026-07-09
 0.0.0.0 owendoylellp.com # 2026-07-20
+0.0.0.0 adlerundsohn.com # 2026-07-23
+0.0.0.0 rechtsanwalt-wiegmann.de # 2026-07-23
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
