@@ -26094,6 +26094,15 @@
 0.0.0.0 sport-supplies.com # 2026-07-23
 0.0.0.0 vapekitprime.com # 2026-07-23
 0.0.0.0 vogeltranke.com # 2026-07-23
+0.0.0.0 ankelinerherz.com # 2026-07-24
+0.0.0.0 axel-maschine.de # 2026-07-24
+0.0.0.0 betrailo.com # 2026-07-24
+0.0.0.0 ewzmvasz.shop # 2026-07-24
+0.0.0.0 fahrzeugcamp.com # 2026-07-24
+0.0.0.0 gartenkraft-de.com # 2026-07-24
+0.0.0.0 lydevmkt.shop # 2026-07-24
+0.0.0.0 ravenciax.shop # 2026-07-24
+0.0.0.0 wikebygb.shop # 2026-07-24
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
