@@ -1811,6 +1811,9 @@
 0.0.0.0 grow-your.capital # 2026-07-21
 0.0.0.0 primeplatform-ai.com # 2026-07-21
 0.0.0.0 talvurieks.at # 2026-07-22
+0.0.0.0 atfinanciialad.com # 2026-07-27
+0.0.0.0 aurum-foundation.com # 2026-07-27
+0.0.0.0 aurum.foundation # 2026-07-27
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26103,6 +26106,25 @@
 0.0.0.0 lydevmkt.shop # 2026-07-24
 0.0.0.0 ravenciax.shop # 2026-07-24
 0.0.0.0 wikebygb.shop # 2026-07-24
+0.0.0.0 9889adl.dxnqt.shop # 2026-07-27
+0.0.0.0 alskdrmo.shop # 2026-07-27
+0.0.0.0 anhaengerhandel-leipzig.com # 2026-07-27
+0.0.0.0 autohaus-ferkl.de # 2026-07-27
+0.0.0.0 bestbikede.com # 2026-07-27
+0.0.0.0 campingplatze-de.com # 2026-07-27
+0.0.0.0 casanovera.com # 2026-07-27
+0.0.0.0 familienzeltneu.com # 2026-07-27
+0.0.0.0 getflowersforsociety.shop # 2026-07-27
+0.0.0.0 gldclothing.com # 2026-07-27
+0.0.0.0 homemerchpro.com # 2026-07-27
+0.0.0.0 hutare.com # 2026-07-27
+0.0.0.0 ihnlhrqf.shop # 2026-07-27
+0.0.0.0 krafthoz-pellets.com # 2026-07-27
+0.0.0.0 officialfixdessertchocolatier.com # 2026-07-27
+0.0.0.0 seoeeo.com # 2026-07-27
+0.0.0.0 urban-rad.com # 2026-07-27
+0.0.0.0 wzdnymoc.shop # 2026-07-27
+0.0.0.0 zentrovian.de # 2026-07-27
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33693,6 +33715,8 @@
 0.0.0.0 chillinmode.com # 2026-07-23
 0.0.0.0 marloe.de # 2026-07-23
 0.0.0.0 rabattkorb.de # 2026-07-23
+0.0.0.0 coreex.ch # 2026-07-27
+0.0.0.0 daily-outfit.de # 2026-07-27
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34164,6 +34188,9 @@
 0.0.0.0 testlibrary.com # 2026-07-20
 0.0.0.0 anontexter.com # 2026-07-23
 0.0.0.0 runtrainpro.com # 2026-07-23
+0.0.0.0 buislearny.com # 2026-07-27
+0.0.0.0 mobischule.com # 2026-07-27
+0.0.0.0 peoplespot.io # 2026-07-27
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34518,6 +34545,7 @@
 0.0.0.0 han3szd2ork.com # 2026-07-09
 0.0.0.0 uimlvmo.com # 2026-07-15
 0.0.0.0 eilers-gmbh.com # 2026-07-16
+0.0.0.0 xenokrat.de # 2026-07-27
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
