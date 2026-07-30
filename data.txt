@@ -17073,7 +17073,6 @@
 0.0.0.0 helikontex-eu.shop # 2025-04-29
 0.0.0.0 lasportivaapps.com # 2025-04-29
 0.0.0.0 pillintrip.com # 2025-04-29
-0.0.0.0 powersebike.com # 2025-04-29
 0.0.0.0 rennkurbelde.com # 2025-04-29
 0.0.0.0 sale.orunning.shop # 2025-04-29
 0.0.0.0 springfield.mysellauth.com # 2025-04-29
@@ -26125,6 +26124,19 @@
 0.0.0.0 urban-rad.com # 2026-07-27
 0.0.0.0 wzdnymoc.shop # 2026-07-27
 0.0.0.0 zentrovian.de # 2026-07-27
+0.0.0.0 ankeir.com # 2026-07-28
+0.0.0.0 cordreelprada.com # 2026-07-28
+0.0.0.0 coreglp.at # 2026-07-28
+0.0.0.0 germins.de # 2026-07-28
+0.0.0.0 ghkmaili.shop # 2026-07-28
+0.0.0.0 giessweins.es # 2026-07-28
+0.0.0.0 homer24.com # 2026-07-28
+0.0.0.0 jack-wolfiskin.com # 2026-07-28
+0.0.0.0 jth-transport.be # 2026-07-28
+0.0.0.0 klettererpro.com # 2026-07-28
+0.0.0.0 morenutriitiion.com # 2026-07-28
+0.0.0.0 motoriderde.com # 2026-07-28
+0.0.0.0 premiumedelnicetrachtenmo.shop # 2026-07-28
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33717,6 +33729,12 @@
 0.0.0.0 rabattkorb.de # 2026-07-23
 0.0.0.0 coreex.ch # 2026-07-27
 0.0.0.0 daily-outfit.de # 2026-07-27
+0.0.0.0 aluvea.de # 2026-07-28
+0.0.0.0 deutschdeal.com # 2026-07-28
+0.0.0.0 fastfatbike.de # 2026-07-28
+0.0.0.0 herzmarkt24.de # 2026-07-28
+0.0.0.0 moonkie.de # 2026-07-28
+0.0.0.0 vendyle.com # 2026-07-28
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
