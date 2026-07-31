@@ -26137,6 +26137,10 @@
 0.0.0.0 morenutriitiion.com # 2026-07-28
 0.0.0.0 motoriderde.com # 2026-07-28
 0.0.0.0 premiumedelnicetrachtenmo.shop # 2026-07-28
+0.0.0.0 charlottetilbury-de.com # 2026-07-29
+0.0.0.0 gradschcafe.com # 2026-07-29
+0.0.0.0 mepalconstruction.com # 2026-07-29
+0.0.0.0 vxyyiurw.shop # 2026-07-29
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33735,6 +33739,8 @@
 0.0.0.0 herzmarkt24.de # 2026-07-28
 0.0.0.0 moonkie.de # 2026-07-28
 0.0.0.0 vendyle.com # 2026-07-28
+0.0.0.0 cars-boutique.de # 2026-07-29
+0.0.0.0 vitafus.com # 2026-07-29
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33944,6 +33950,7 @@
 0.0.0.0 gaborfactorysale.com # 2026-07-16
 0.0.0.0 cycrun.com # 2026-07-23
 0.0.0.0 waterfinder.co.za # 2026-07-23
+0.0.0.0 Id-austria.at.gv-oesterreich.com # 2026-07-29
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34209,6 +34216,7 @@
 0.0.0.0 buislearny.com # 2026-07-27
 0.0.0.0 mobischule.com # 2026-07-27
 0.0.0.0 peoplespot.io # 2026-07-27
+0.0.0.0 hepativa.de # 2026-07-29
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
