@@ -1814,6 +1814,7 @@
 0.0.0.0 atfinanciialad.com # 2026-07-27
 0.0.0.0 aurum-foundation.com # 2026-07-27
 0.0.0.0 aurum.foundation # 2026-07-27
+0.0.0.0 integralmarket.ltd # 2026-07-30
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26141,6 +26142,18 @@
 0.0.0.0 gradschcafe.com # 2026-07-29
 0.0.0.0 mepalconstruction.com # 2026-07-29
 0.0.0.0 vxyyiurw.shop # 2026-07-29
+0.0.0.0 amapbraf.shop # 2026-07-30
+0.0.0.0 brenn-holzinger.at # 2026-07-30
+0.0.0.0 bwinel.com # 2026-07-30
+0.0.0.0 epicdicehub.com # 2026-07-30
+0.0.0.0 illusiono.com # 2026-07-30
+0.0.0.0 intersport-at.shop # 2026-07-30
+0.0.0.0 merapetfood.shop # 2026-07-30
+0.0.0.0 merashop.shop # 2026-07-30
+0.0.0.0 omniluxdeutschlands.com # 2026-07-30
+0.0.0.0 schilderei.shop # 2026-07-30
+0.0.0.0 tarringtonhousedea.com # 2026-07-30
+0.0.0.0 werkzeugboxe.com # 2026-07-30
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33741,6 +33754,10 @@
 0.0.0.0 vendyle.com # 2026-07-28
 0.0.0.0 cars-boutique.de # 2026-07-29
 0.0.0.0 vitafus.com # 2026-07-29
+0.0.0.0 bielefeldmodehaus.myshopify.com # 2026-07-30
+0.0.0.0 epicooler.at # 2026-07-30
+0.0.0.0 falkenhof-mode.de # 2026-07-30
+0.0.0.0 totsoo.com # 2026-07-30
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34217,6 +34234,8 @@
 0.0.0.0 mobischule.com # 2026-07-27
 0.0.0.0 peoplespot.io # 2026-07-27
 0.0.0.0 hepativa.de # 2026-07-29
+0.0.0.0 pdfhouse.com # 2026-07-30
+0.0.0.0 personality.co # 2026-07-30
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34873,6 +34892,8 @@
 0.0.0.0 owendoylellp.com # 2026-07-20
 0.0.0.0 adlerundsohn.com # 2026-07-23
 0.0.0.0 rechtsanwalt-wiegmann.de # 2026-07-23
+0.0.0.0 anwaltskanzlei-brust.de # 2026-07-30
+0.0.0.0 hofreiter-kanzlei.de # 2026-07-30
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
