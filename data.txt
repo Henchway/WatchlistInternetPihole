@@ -1815,6 +1815,8 @@
 0.0.0.0 aurum-foundation.com # 2026-07-27
 0.0.0.0 aurum.foundation # 2026-07-27
 0.0.0.0 integralmarket.ltd # 2026-07-30
+0.0.0.0 hortmann-gesetz.de # 2026-07-31
+0.0.0.0 kyros-mining.github.io # 2026-07-31
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26154,6 +26156,9 @@
 0.0.0.0 schilderei.shop # 2026-07-30
 0.0.0.0 tarringtonhousedea.com # 2026-07-30
 0.0.0.0 werkzeugboxe.com # 2026-07-30
+0.0.0.0 avtmcugf.shop # 2026-07-31
+0.0.0.0 bike2bikes.com # 2026-07-31
+0.0.0.0 containerdhggmbh.de # 2026-07-31
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33758,6 +33763,7 @@
 0.0.0.0 epicooler.at # 2026-07-30
 0.0.0.0 falkenhof-mode.de # 2026-07-30
 0.0.0.0 totsoo.com # 2026-07-30
+0.0.0.0 aurafior.shop # 2026-07-31
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34591,6 +34597,7 @@
 0.0.0.0 uimlvmo.com # 2026-07-15
 0.0.0.0 eilers-gmbh.com # 2026-07-16
 0.0.0.0 xenokrat.de # 2026-07-27
+0.0.0.0 hypo-4u.de # 2026-07-31
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -34894,6 +34901,7 @@
 0.0.0.0 rechtsanwalt-wiegmann.de # 2026-07-23
 0.0.0.0 anwaltskanzlei-brust.de # 2026-07-30
 0.0.0.0 hofreiter-kanzlei.de # 2026-07-30
+0.0.0.0 rechtsanwalt-breithaupt.de # 2026-07-31
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
