@@ -17075,7 +17075,6 @@
 0.0.0.0 greatpillsshopcomb.com # 2025-04-29
 0.0.0.0 helikontex-eu.shop # 2025-04-29
 0.0.0.0 lasportivaapps.com # 2025-04-29
-0.0.0.0 pillintrip.com # 2025-04-29
 0.0.0.0 rennkurbelde.com # 2025-04-29
 0.0.0.0 sale.orunning.shop # 2025-04-29
 0.0.0.0 springfield.mysellauth.com # 2025-04-29
@@ -26159,6 +26158,32 @@
 0.0.0.0 avtmcugf.shop # 2026-07-31
 0.0.0.0 bike2bikes.com # 2026-07-31
 0.0.0.0 containerdhggmbh.de # 2026-07-31
+0.0.0.0 amouravienna.com # 2026-08-03
+0.0.0.0 aquaschuheshop.com # 2026-08-03
+0.0.0.0 baumaterialstore.com # 2026-08-03
+0.0.0.0 beckludwig.com # 2026-08-03
+0.0.0.0 bestwassertechnik.com # 2026-08-03
+0.0.0.0 brocheeks.store # 2026-08-03
+0.0.0.0 buytrumerholz.shop # 2026-08-03
+0.0.0.0 cupriva.de # 2026-08-03
+0.0.0.0 desginevo.com # 2026-08-03
+0.0.0.0 eversonehandel.at # 2026-08-03
+0.0.0.0 hxmwuvgh.shop # 2026-08-03
+0.0.0.0 igelwelt.com # 2026-08-03
+0.0.0.0 intersport88.myshoplaza.com # 2026-08-03
+0.0.0.0 kallisteremeurl.com # 2026-08-03
+0.0.0.0 klimagerat.com # 2026-08-03
+0.0.0.0 kopfwaermer.com # 2026-08-03
+0.0.0.0 leathemeans.com # 2026-08-03
+0.0.0.0 market.darrowmere.com # 2026-08-03
+0.0.0.0 market.halewick.com # 2026-08-03
+0.0.0.0 mediamarkt-berlin.com # 2026-08-03
+0.0.0.0 merrachi-de.com # 2026-08-03
+0.0.0.0 opticlegacy.com # 2026-08-03
+0.0.0.0 radbasis.com # 2026-08-03
+0.0.0.0 schwimmschuh.com # 2026-08-03
+0.0.0.0 taktikwaffen.com # 2026-08-03
+0.0.0.0 zenoclimat.de # 2026-08-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33764,6 +33789,20 @@
 0.0.0.0 falkenhof-mode.de # 2026-07-30
 0.0.0.0 totsoo.com # 2026-07-30
 0.0.0.0 aurafior.shop # 2026-07-31
+0.0.0.0 aakip.com # 2026-08-03
+0.0.0.0 gogooption.com # 2026-08-03
+0.0.0.0 lehmannatelier.de # 2026-08-03
+0.0.0.0 modehausedelweis.com # 2026-08-03
+0.0.0.0 needtoknit.com # 2026-08-03
+0.0.0.0 oubao1930.com # 2026-08-03
+0.0.0.0 owronline.com # 2026-08-03
+0.0.0.0 paddleaway.de # 2026-08-03
+0.0.0.0 shminfo.com # 2026-08-03
+0.0.0.0 shoupou.com # 2026-08-03
+0.0.0.0 starays.com # 2026-08-03
+0.0.0.0 startrsp.com # 2026-08-03
+0.0.0.0 voniri.com # 2026-08-03
+0.0.0.0 zebrasisi.com # 2026-08-03
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -33974,6 +34013,8 @@
 0.0.0.0 cycrun.com # 2026-07-23
 0.0.0.0 waterfinder.co.za # 2026-07-23
 0.0.0.0 Id-austria.at.gv-oesterreich.com # 2026-07-29
+0.0.0.0 flnanzonline.net # 2026-08-03
+0.0.0.0 gvflnanzonline.info # 2026-08-03
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34766,6 +34807,7 @@
 0.0.0.0 bodenverlegung-wien.at # 2026-07-03
 0.0.0.0 profi-entruempelung.at # 2026-07-06
 0.0.0.0 elektrosparkvien.com # 2026-07-08
+0.0.0.0 schaedlingsschutz.at # 2026-08-03
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
