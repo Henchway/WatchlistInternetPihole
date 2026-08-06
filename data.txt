@@ -1817,6 +1817,9 @@
 0.0.0.0 integralmarket.ltd # 2026-07-30
 0.0.0.0 hortmann-gesetz.de # 2026-07-31
 0.0.0.0 kyros-mining.github.io # 2026-07-31
+0.0.0.0 hextryxstorm.digital # 2026-08-04
+0.0.0.0 novaris-capitallimited.ltd # 2026-08-04
+0.0.0.0 schelhammer-systems.com # 2026-08-04
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26184,6 +26187,17 @@
 0.0.0.0 schwimmschuh.com # 2026-08-03
 0.0.0.0 taktikwaffen.com # 2026-08-03
 0.0.0.0 zenoclimat.de # 2026-08-03
+0.0.0.0 24-fahrradladen.com # 2026-08-04
+0.0.0.0 alkan-bike.com # 2026-08-04
+0.0.0.0 klimafresh.com # 2026-08-04
+0.0.0.0 kzlkozlm.shop # 2026-08-04
+0.0.0.0 lehmann-gartenmaschinen.com # 2026-08-04
+0.0.0.0 medicalsupportsale.com # 2026-08-04
+0.0.0.0 motopartsdeutschland.com # 2026-08-04
+0.0.0.0 msanhanger.at # 2026-08-04
+0.0.0.0 perlenwerk.com # 2026-08-04
+0.0.0.0 smokelabin.com # 2026-08-04
+0.0.0.0 zonixwater.com # 2026-08-04
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33803,6 +33817,8 @@
 0.0.0.0 startrsp.com # 2026-08-03
 0.0.0.0 voniri.com # 2026-08-03
 0.0.0.0 zebrasisi.com # 2026-08-03
+0.0.0.0 lenimara.at # 2026-08-04
+0.0.0.0 nikicloth.de # 2026-08-04
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34283,6 +34299,8 @@
 0.0.0.0 hepativa.de # 2026-07-29
 0.0.0.0 pdfhouse.com # 2026-07-30
 0.0.0.0 personality.co # 2026-07-30
+0.0.0.0 chat-box.ai # 2026-08-04
+0.0.0.0 skywork.ai # 2026-08-04
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34944,6 +34962,7 @@
 0.0.0.0 anwaltskanzlei-brust.de # 2026-07-30
 0.0.0.0 hofreiter-kanzlei.de # 2026-07-30
 0.0.0.0 rechtsanwalt-breithaupt.de # 2026-07-31
+0.0.0.0 custosprivatstiftung.at # 2026-08-04
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
