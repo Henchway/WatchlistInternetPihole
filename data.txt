@@ -1820,6 +1820,7 @@
 0.0.0.0 hextryxstorm.digital # 2026-08-04
 0.0.0.0 novaris-capitallimited.ltd # 2026-08-04
 0.0.0.0 schelhammer-systems.com # 2026-08-04
+0.0.0.0 se-sthqntm-64.com # 2026-08-05
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26198,6 +26199,22 @@
 0.0.0.0 perlenwerk.com # 2026-08-04
 0.0.0.0 smokelabin.com # 2026-08-04
 0.0.0.0 zonixwater.com # 2026-08-04
+0.0.0.0 alimora.shop # 2026-08-05
+0.0.0.0 babolats.at # 2026-08-05
+0.0.0.0 bialettiaustria.com # 2026-08-05
+0.0.0.0 dreodeutschland.com # 2026-08-05
+0.0.0.0 giessweinfootwear.shop # 2026-08-05
+0.0.0.0 gswoutfit.shop # 2026-08-05
+0.0.0.0 isolierbecher.com # 2026-08-05
+0.0.0.0 market.saverevolve.com # 2026-08-05
+0.0.0.0 minipfotenwelt.com # 2026-08-05
+0.0.0.0 oakfieldy.com # 2026-08-05
+0.0.0.0 pepedenimjeans.com # 2026-08-05
+0.0.0.0 racgjshq.shop # 2026-08-05
+0.0.0.0 riotintoportside.com # 2026-08-05
+0.0.0.0 vvmwtdpc.shop # 2026-08-05
+0.0.0.0 weinfit.shop # 2026-08-05
+0.0.0.0 weinundgenusswelt.com # 2026-08-05
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33819,6 +33836,7 @@
 0.0.0.0 zebrasisi.com # 2026-08-03
 0.0.0.0 lenimara.at # 2026-08-04
 0.0.0.0 nikicloth.de # 2026-08-04
+0.0.0.0 jasminecrafts.store # 2026-08-05
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34301,6 +34319,10 @@
 0.0.0.0 personality.co # 2026-07-30
 0.0.0.0 chat-box.ai # 2026-08-04
 0.0.0.0 skywork.ai # 2026-08-04
+0.0.0.0 evitrol.com # 2026-08-05
+0.0.0.0 feleva.com # 2026-08-05
+0.0.0.0 tryinnerly.com # 2026-08-05
+0.0.0.0 wwiqtest.com # 2026-08-05
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -34963,6 +34985,7 @@
 0.0.0.0 hofreiter-kanzlei.de # 2026-07-30
 0.0.0.0 rechtsanwalt-breithaupt.de # 2026-07-31
 0.0.0.0 custosprivatstiftung.at # 2026-08-04
+0.0.0.0 jaeger-insolvenz.de # 2026-08-05
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -35156,6 +35179,7 @@
 0.0.0.0 ozeanhaustiereluftwegelieferung.de # 2026-06-10
 0.0.0.0 grotecenergy.com # 2026-06-12
 0.0.0.0 spedition-thiemann.de # 2026-07-21
+0.0.0.0 frethix.com # 2026-08-05
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
