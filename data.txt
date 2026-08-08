@@ -1821,6 +1821,8 @@
 0.0.0.0 novaris-capitallimited.ltd # 2026-08-04
 0.0.0.0 schelhammer-systems.com # 2026-08-04
 0.0.0.0 se-sthqntm-64.com # 2026-08-05
+0.0.0.0 globalpartners-ltd.com # 2026-08-06
+0.0.0.0 ortexgruppepros.com # 2026-08-06
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25910,7 +25912,6 @@
 0.0.0.0 anhaenger-gross.de # 2026-07-03
 0.0.0.0 duryoafe.shop # 2026-07-03
 0.0.0.0 dwellglory.com # 2026-07-03
-0.0.0.0 groundies.at # 2026-07-03
 0.0.0.0 heinrich-handel.com # 2026-07-03
 0.0.0.0 intimissimiat.at # 2026-07-03
 0.0.0.0 kingofindigo.com # 2026-07-03
@@ -26215,6 +26216,19 @@
 0.0.0.0 vvmwtdpc.shop # 2026-08-05
 0.0.0.0 weinfit.shop # 2026-08-05
 0.0.0.0 weinundgenusswelt.com # 2026-08-05
+0.0.0.0 autodriverama.com # 2026-08-06
+0.0.0.0 autoscentral.eu # 2026-08-06
+0.0.0.0 fotostudi.de # 2026-08-06
+0.0.0.0 gefrints.com # 2026-08-06
+0.0.0.0 landwirtschaftshop.com # 2026-08-06
+0.0.0.0 market.cedarbourne.com # 2026-08-06
+0.0.0.0 mhrauto-industrie.com # 2026-08-06
+0.0.0.0 pjwyzcxh.shop # 2026-08-06
+0.0.0.0 seirzvxn.shop # 2026-08-06
+0.0.0.0 shirteu365.com # 2026-08-06
+0.0.0.0 tee1.shop # 2026-08-06
+0.0.0.0 vyxenor.com # 2026-08-06
+0.0.0.0 yipmriso.shop # 2026-08-06
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34049,6 +34063,8 @@
 0.0.0.0 Id-austria.at.gv-oesterreich.com # 2026-07-29
 0.0.0.0 flnanzonline.net # 2026-08-03
 0.0.0.0 gvflnanzonline.info # 2026-08-03
+0.0.0.0 doctortrf.com # 2026-08-06
+0.0.0.0 gabor.in # 2026-08-06
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34679,6 +34695,7 @@
 0.0.0.0 eilers-gmbh.com # 2026-07-16
 0.0.0.0 xenokrat.de # 2026-07-27
 0.0.0.0 hypo-4u.de # 2026-07-31
+0.0.0.0 mexdkjuf.com # 2026-08-06
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -34848,6 +34865,7 @@
 0.0.0.0 profi-entruempelung.at # 2026-07-06
 0.0.0.0 elektrosparkvien.com # 2026-07-08
 0.0.0.0 schaedlingsschutz.at # 2026-08-03
+0.0.0.0 uebersiedlunglinz.at # 2026-08-06
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
