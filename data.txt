@@ -1823,6 +1823,9 @@
 0.0.0.0 se-sthqntm-64.com # 2026-08-05
 0.0.0.0 globalpartners-ltd.com # 2026-08-06
 0.0.0.0 ortexgruppepros.com # 2026-08-06
+0.0.0.0 fundora.at # 2026-08-07
+0.0.0.0 vernixo.info # 2026-08-07
+0.0.0.0 zukunfttreuhand.com # 2026-08-07
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26229,6 +26232,15 @@
 0.0.0.0 tee1.shop # 2026-08-06
 0.0.0.0 vyxenor.com # 2026-08-06
 0.0.0.0 yipmriso.shop # 2026-08-06
+0.0.0.0 4bike.net # 2026-08-07
+0.0.0.0 brotbackenshop.com # 2026-08-07
+0.0.0.0 deutschtool.com # 2026-08-07
+0.0.0.0 elnaturalistaosterreich.com # 2026-08-07
+0.0.0.0 helene-ida-schmuck.de # 2026-08-07
+0.0.0.0 landtechnik-striptechno.de # 2026-08-07
+0.0.0.0 omniluxaustria.com # 2026-08-07
+0.0.0.0 store.dalecrofton.com # 2026-08-07
+0.0.0.0 werkundwarme.de # 2026-08-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33851,6 +33863,9 @@
 0.0.0.0 lenimara.at # 2026-08-04
 0.0.0.0 nikicloth.de # 2026-08-04
 0.0.0.0 jasminecrafts.store # 2026-08-05
+0.0.0.0 apjjket.com # 2026-08-07
+0.0.0.0 beautflly.com # 2026-08-07
+0.0.0.0 cyrarise.com # 2026-08-07
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34339,6 +34354,7 @@
 0.0.0.0 feleva.com # 2026-08-05
 0.0.0.0 tryinnerly.com # 2026-08-05
 0.0.0.0 wwiqtest.com # 2026-08-05
+0.0.0.0 cosmicpdf.com # 2026-08-07
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35198,6 +35214,7 @@
 0.0.0.0 grotecenergy.com # 2026-06-12
 0.0.0.0 spedition-thiemann.de # 2026-07-21
 0.0.0.0 frethix.com # 2026-08-05
+0.0.0.0 transport51.de # 2026-08-07
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
