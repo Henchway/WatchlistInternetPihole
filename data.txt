@@ -1819,7 +1819,6 @@
 0.0.0.0 kyros-mining.github.io # 2026-07-31
 0.0.0.0 hextryxstorm.digital # 2026-08-04
 0.0.0.0 novaris-capitallimited.ltd # 2026-08-04
-0.0.0.0 schelhammer-systems.com # 2026-08-04
 0.0.0.0 se-sthqntm-64.com # 2026-08-05
 0.0.0.0 globalpartners-ltd.com # 2026-08-06
 0.0.0.0 ortexgruppepros.com # 2026-08-06
@@ -1829,6 +1828,7 @@
 0.0.0.0 univormel.sbs # 2026-08-10
 0.0.0.0 custosprivatstiftung.at # 2026-08-11
 0.0.0.0 finance-solution.ag # 2026-08-11
+0.0.0.0 schelhammer-systems.com # 2026-08-12
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26173,7 +26173,6 @@
 0.0.0.0 bestwassertechnik.com # 2026-08-03
 0.0.0.0 brocheeks.store # 2026-08-03
 0.0.0.0 buytrumerholz.shop # 2026-08-03
-0.0.0.0 cupriva.de # 2026-08-03
 0.0.0.0 desginevo.com # 2026-08-03
 0.0.0.0 eversonehandel.at # 2026-08-03
 0.0.0.0 hxmwuvgh.shop # 2026-08-03
@@ -26280,6 +26279,20 @@
 0.0.0.0 themusiciansshop.com # 2026-08-11
 0.0.0.0 yexktahz.shop # 2026-08-11
 0.0.0.0 zubehorfahrrad.de # 2026-08-11
+0.0.0.0 gartenundwerkzeug.com # 2026-08-12
+0.0.0.0 grunergruss.com # 2026-08-12
+0.0.0.0 minteech.com # 2026-08-12
+0.0.0.0 modellbaucore.com # 2026-08-12
+0.0.0.0 ouratransport.com # 2026-08-12
+0.0.0.0 poolzubehors.com # 2026-08-12
+0.0.0.0 qojxbuch.shop # 2026-08-12
+0.0.0.0 solarprofi-shop.com # 2026-08-12
+0.0.0.0 terraqo.de # 2026-08-12
+0.0.0.0 thewituka.shop # 2026-08-12
+0.0.0.0 uarleniz.com # 2026-08-12
+0.0.0.0 vdel-electromenager.com # 2026-08-12
+0.0.0.0 wavevisionag.com # 2026-08-12
+0.0.0.0 wildlingschuhe.com # 2026-08-12
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33912,10 +33925,13 @@
 0.0.0.0 luftfreiheit.de # 2026-08-10
 0.0.0.0 verlimo-shop.com # 2026-08-10
 0.0.0.0 hanna-health.de # 2026-08-11
-0.0.0.0 kamenik-at.de # 2026-08-11
 0.0.0.0 noroa.de # 2026-08-11
 0.0.0.0 officialcoolizi.com # 2026-08-11
 0.0.0.0 sciencefactoryshop.de # 2026-08-11
+0.0.0.0 cupriva.de # 2026-08-12
+0.0.0.0 fischer-adler.com # 2026-08-12
+0.0.0.0 kamenik-at.de # 2026-08-12
+0.0.0.0 nubelle-shop.de # 2026-08-12
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34768,6 +34784,8 @@
 0.0.0.0 fei3nhaus58.com # 2026-08-10
 0.0.0.0 goforbest.top # 2026-08-11
 0.0.0.0 homeofficepilot.at # 2026-08-11
+0.0.0.0 boinnew.cc # 2026-08-12
+0.0.0.0 webora-agentur.de # 2026-08-12
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -35532,4 +35550,5 @@
 0.0.0.0 guest-pend3120.com # 2026-06-11
 0.0.0.0 hotels-inform4281.com # 2026-06-11
 0.0.0.0 traum-ferienwohnungen.de # 2026-07-20
+0.0.0.0 feytour.de # 2026-08-12
 
