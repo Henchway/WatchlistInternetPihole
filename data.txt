@@ -34166,6 +34166,7 @@
 0.0.0.0 doctortrf.com # 2026-08-06
 0.0.0.0 gabor.in # 2026-08-06
 0.0.0.0 klimabonus-antrag.co # 2026-08-10
+0.0.0.0 finzanzonline.com # 2026-08-16
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
