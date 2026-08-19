@@ -1831,6 +1831,12 @@
 0.0.0.0 metrosafecorp.com # 2026-08-13
 0.0.0.0 fullzcash.vip # 2026-08-14
 0.0.0.0 univormel.sbs # 2026-08-14
+0.0.0.0 banking.dolomiten.sbs # 2026-08-17
+0.0.0.0 banking.dolomiten.sbs:8008 # 2026-08-17
+0.0.0.0 dolomitenbahk.com # 2026-08-17
+0.0.0.0 effexlaw.com # 2026-08-17
+0.0.0.0 fidexico.eu # 2026-08-17
+0.0.0.0 mexdkjuo.com # 2026-08-17
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26312,6 +26318,34 @@
 0.0.0.0 rasenmaschinen.com # 2026-08-14
 0.0.0.0 schraubenhub.de # 2026-08-14
 0.0.0.0 yonook.com # 2026-08-14
+0.0.0.0 agrarhaustier.com # 2026-08-17
+0.0.0.0 baustoffestore.com # 2026-08-17
+0.0.0.0 bici-vience.com # 2026-08-17
+0.0.0.0 borvane.com # 2026-08-17
+0.0.0.0 cacollypetfood.com # 2026-08-17
+0.0.0.0 dam-autoshop.com # 2026-08-17
+0.0.0.0 deinbeautytraum.com # 2026-08-17
+0.0.0.0 elvamat.com # 2026-08-17
+0.0.0.0 familien-auf-tour.de # 2026-08-17
+0.0.0.0 fxsazczb.shop # 2026-08-17
+0.0.0.0 heizwelt24.shop # 2026-08-17
+0.0.0.0 kausnackwelt.com # 2026-08-17
+0.0.0.0 lasportivaaustria.myshoplaza.com # 2026-08-17
+0.0.0.0 naturabenteuer.com # 2026-08-17
+0.0.0.0 nicetossyhn.click # 2026-08-17
+0.0.0.0 pbici.com # 2026-08-17
+0.0.0.0 pcdpyqtc.shop # 2026-08-17
+0.0.0.0 premiumedelnicetrachtenmo.com # 2026-08-17
+0.0.0.0 pvncjdw.shop # 2026-08-17
+0.0.0.0 schonique.com # 2026-08-17
+0.0.0.0 sports-xpert.com # 2026-08-17
+0.0.0.0 standprofi.com # 2026-08-17
+0.0.0.0 stunningmakeupstore.com # 2026-08-17
+0.0.0.0 vintagespinvinyl.com # 2026-08-17
+0.0.0.0 vinvieux.com # 2026-08-17
+0.0.0.0 vjzxdhai.shop # 2026-08-17
+0.0.0.0 winklers-handel.de # 2026-08-17
+0.0.0.0 zuhausealltaglernen.com # 2026-08-17
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33951,6 +33985,9 @@
 0.0.0.0 kamenik-at.de # 2026-08-12
 0.0.0.0 nubelle-shop.de # 2026-08-12
 0.0.0.0 glanzwiese.com # 2026-08-14
+0.0.0.0 armywe.site # 2026-08-17
+0.0.0.0 diivokine.com # 2026-08-17
+0.0.0.0 grubervienna.com # 2026-08-17
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34807,6 +34844,8 @@
 0.0.0.0 homeofficepilot.at # 2026-08-11
 0.0.0.0 boinnew.cc # 2026-08-12
 0.0.0.0 webora-agentur.de # 2026-08-12
+0.0.0.0 karger-agentur.de # 2026-08-17
+0.0.0.0 pergus-data.de # 2026-08-17
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -34977,6 +35016,9 @@
 0.0.0.0 elektrosparkvien.com # 2026-07-08
 0.0.0.0 schaedlingsschutz.at # 2026-08-03
 0.0.0.0 uebersiedlunglinz.at # 2026-08-06
+0.0.0.0 elektriker-rudolf.at # 2026-08-17
+0.0.0.0 installateur-rudolf.at # 2026-08-17
+0.0.0.0 schluesseldienst-rudolf.at # 2026-08-17
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
