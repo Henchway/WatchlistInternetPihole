@@ -1843,6 +1843,7 @@
 0.0.0.0 markvexo.at # 2026-08-18
 0.0.0.0 markvexoki.at # 2026-08-18
 0.0.0.0 sparzinsvergleich.de # 2026-08-18
+0.0.0.0 verde-wallet.com # 2026-08-19
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25333,7 +25334,6 @@
 0.0.0.0 adventurefungear.com # 2026-05-21
 0.0.0.0 autopraxen.com # 2026-05-21
 0.0.0.0 cooperatem.com # 2026-05-21
-0.0.0.0 eboerse.shop # 2026-05-21
 0.0.0.0 galera-markt.com # 2026-05-21
 0.0.0.0 greentuning-de.com # 2026-05-21
 0.0.0.0 hirobikegmbh.de # 2026-05-21
@@ -26547,6 +26547,30 @@
 0.0.0.0 wunderpan.com # 2026-08-18
 0.0.0.0 zahnversand.com # 2026-08-18
 0.0.0.0 zuhauseideenwelt.com # 2026-08-18
+0.0.0.0 blaupause-leipzig.shop # 2026-08-19
+0.0.0.0 box-trailers.com # 2026-08-19
+0.0.0.0 croozerangebote.com # 2026-08-19
+0.0.0.0 cyclepartsstore.com # 2026-08-19
+0.0.0.0 direkt-fahrrad-roller.de # 2026-08-19
+0.0.0.0 gigantautoteile.com # 2026-08-19
+0.0.0.0 grillhausug.com # 2026-08-19
+0.0.0.0 hofasudtransport.com # 2026-08-19
+0.0.0.0 homelyist.com # 2026-08-19
+0.0.0.0 impellerverkauf.com # 2026-08-19
+0.0.0.0 jagdschwestern.de # 2026-08-19
+0.0.0.0 klassischelichter.com # 2026-08-19
+0.0.0.0 klimaanlageportal.de # 2026-08-19
+0.0.0.0 lin7dwerk46.com # 2026-08-19
+0.0.0.0 mulevas.com # 2026-08-19
+0.0.0.0 onnutritionatshop.com # 2026-08-19
+0.0.0.0 radfit24.com # 2026-08-19
+0.0.0.0 rowenta.com.de # 2026-08-19
+0.0.0.0 royalpfoten.de # 2026-08-19
+0.0.0.0 stimmfang.com # 2026-08-19
+0.0.0.0 trainwelt.com # 2026-08-19
+0.0.0.0 traumwelpenzuhause.de # 2026-08-19
+0.0.0.0 wagner-baumaschinen.com # 2026-08-19
+0.0.0.0 yeti.com.de # 2026-08-19
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34192,6 +34216,10 @@
 0.0.0.0 dailymod.de # 2026-08-18
 0.0.0.0 m.dailymod.de # 2026-08-18
 0.0.0.0 velorin.de # 2026-08-18
+0.0.0.0 haute-berlin.de # 2026-08-19
+0.0.0.0 livineda.de # 2026-08-19
+0.0.0.0 swzec.store # 2026-08-19
+0.0.0.0 velareehhaus.com # 2026-08-19
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34686,6 +34714,7 @@
 0.0.0.0 pngtree.com # 2026-08-11
 0.0.0.0 pressdown.co # 2026-08-11
 0.0.0.0 novasparkling.com # 2026-08-13
+0.0.0.0 mentalabs.org # 2026-08-19
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35363,6 +35392,8 @@
 0.0.0.0 dahlmann-scholz.de # 2026-08-10
 0.0.0.0 rusin-anwaelte.de # 2026-08-11
 0.0.0.0 rusin-recht.de # 2026-08-11
+0.0.0.0 ra-owl.de # 2026-08-19
+0.0.0.0 weidemann-kanzlei.de # 2026-08-19
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -35558,6 +35589,7 @@
 0.0.0.0 spedition-thiemann.de # 2026-07-21
 0.0.0.0 frethix.com # 2026-08-05
 0.0.0.0 transport51.de # 2026-08-07
+0.0.0.0 alpenroute36.com # 2026-08-19
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
