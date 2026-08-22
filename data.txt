@@ -1844,6 +1844,8 @@
 0.0.0.0 markvexoki.at # 2026-08-18
 0.0.0.0 sparzinsvergleich.de # 2026-08-18
 0.0.0.0 verde-wallet.com # 2026-08-19
+0.0.0.0 air-profits.com # 2026-08-20
+0.0.0.0 newappc.cc # 2026-08-20
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25112,7 +25114,6 @@
 0.0.0.0 zentrof.com # 2026-04-30
 0.0.0.0 adl.zixoko.shop # 2026-05-01
 0.0.0.0 decohousely.com # 2026-05-01
-0.0.0.0 esy-oil.com # 2026-05-01
 0.0.0.0 expressbrennholz.de # 2026-05-01
 0.0.0.0 hahncontainer.de # 2026-05-01
 0.0.0.0 km-baumarkt.de # 2026-05-01
@@ -26571,6 +26572,42 @@
 0.0.0.0 traumwelpenzuhause.de # 2026-08-19
 0.0.0.0 wagner-baumaschinen.com # 2026-08-19
 0.0.0.0 yeti.com.de # 2026-08-19
+0.0.0.0 allesimalltag.com # 2026-08-20
+0.0.0.0 awsea.eu.cc # 2026-08-20
+0.0.0.0 aymwoljw.shop # 2026-08-20
+0.0.0.0 daswarenregal.com # 2026-08-20
+0.0.0.0 deinemarktplatz24.com # 2026-08-20
+0.0.0.0 discount-lightingshop.com # 2026-08-20
+0.0.0.0 duhm-motorgerate.de # 2026-08-20
+0.0.0.0 erbeborse.com # 2026-08-20
+0.0.0.0 esnssalies.shop # 2026-08-20
+0.0.0.0 germany-numis.com # 2026-08-20
+0.0.0.0 geschichteinmetall.com # 2026-08-20
+0.0.0.0 homolius-brennstoffe.com # 2026-08-20
+0.0.0.0 jjjbeqgj.shop # 2026-08-20
+0.0.0.0 kabinettdermunze.com # 2026-08-20
+0.0.0.0 kimlongfood.com # 2026-08-20
+0.0.0.0 kindersafetech.com # 2026-08-20
+0.0.0.0 kleiderschrankkauf.com # 2026-08-20
+0.0.0.0 kontorundkueche.com # 2026-08-20
+0.0.0.0 korbheld.de # 2026-08-20
+0.0.0.0 lifestylehub24.com # 2026-08-20
+0.0.0.0 mepalconstructionmodulaire.com # 2026-08-20
+0.0.0.0 platzsieg.com # 2026-08-20
+0.0.0.0 portathesauri.com # 2026-08-20
+0.0.0.0 qudjvnr.shop # 2026-08-20
+0.0.0.0 schatzkammeronline.com # 2026-08-20
+0.0.0.0 schmahl-gartengeraete.de # 2026-08-20
+0.0.0.0 schwarzklettern.de # 2026-08-20
+0.0.0.0 sl-handel.de # 2026-08-20
+0.0.0.0 smartphonepartner.com # 2026-08-20
+0.0.0.0 tunedautoparts.com # 2026-08-20
+0.0.0.0 uzulidwf.shop # 2026-08-20
+0.0.0.0 webers.co.at # 2026-08-20
+0.0.0.0 werkzeugerasenmaher.de # 2026-08-20
+0.0.0.0 wertanker.com # 2026-08-20
+0.0.0.0 xmadramen.club # 2026-08-20
+0.0.0.0 yachtausstattung.com # 2026-08-20
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34220,6 +34257,13 @@
 0.0.0.0 livineda.de # 2026-08-19
 0.0.0.0 swzec.store # 2026-08-19
 0.0.0.0 velareehhaus.com # 2026-08-19
+0.0.0.0 bygeneva.de # 2026-08-20
+0.0.0.0 emmastuttgart.com # 2026-08-20
+0.0.0.0 friedamuenchen.com # 2026-08-20
+0.0.0.0 huliabu.com # 2026-08-20
+0.0.0.0 muvena-mode.com # 2026-08-20
+0.0.0.0 orthonex.de # 2026-08-20
+0.0.0.0 somiy.com # 2026-08-20
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34436,6 +34480,7 @@
 0.0.0.0 gabor.in # 2026-08-06
 0.0.0.0 klimabonus-antrag.co # 2026-08-10
 0.0.0.0 finzanzonline.com # 2026-08-16
+0.0.0.0 finanzamt-familienbeihilfe-at.com # 2026-08-20
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34715,6 +34760,7 @@
 0.0.0.0 pressdown.co # 2026-08-11
 0.0.0.0 novasparkling.com # 2026-08-13
 0.0.0.0 mentalabs.org # 2026-08-19
+0.0.0.0 bongochat.me # 2026-08-20
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35079,6 +35125,7 @@
 0.0.0.0 webora-agentur.de # 2026-08-12
 0.0.0.0 karger-agentur.de # 2026-08-17
 0.0.0.0 pergus-data.de # 2026-08-17
+0.0.0.0 diermann-marketing.net # 2026-08-20
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -35850,4 +35897,6 @@
 0.0.0.0 hotels-inform4281.com # 2026-06-11
 0.0.0.0 traum-ferienwohnungen.de # 2026-07-20
 0.0.0.0 feytour.de # 2026-08-12
+0.0.0.0 arrivaldaresprocedure.com # 2026-08-20
+0.0.0.0 opotrips.com # 2026-08-20
 
