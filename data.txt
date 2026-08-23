@@ -1846,6 +1846,7 @@
 0.0.0.0 verde-wallet.com # 2026-08-19
 0.0.0.0 air-profits.com # 2026-08-20
 0.0.0.0 newappc.cc # 2026-08-20
+0.0.0.0 capitalequity-markets.com # 2026-08-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26608,6 +26609,40 @@
 0.0.0.0 wertanker.com # 2026-08-20
 0.0.0.0 xmadramen.club # 2026-08-20
 0.0.0.0 yachtausstattung.com # 2026-08-20
+0.0.0.0 autoprobedarf.com # 2026-08-21
+0.0.0.0 autoteileworks.com # 2026-08-21
+0.0.0.0 berlinmotoworks.com # 2026-08-21
+0.0.0.0 bodenundmotor.com # 2026-08-21
+0.0.0.0 bybiesje.com # 2026-08-21
+0.0.0.0 coreburgg.shop # 2026-08-21
+0.0.0.0 coretechprodirect.com # 2026-08-21
+0.0.0.0 deutschautosupply.com # 2026-08-21
+0.0.0.0 drivescontrolmarket.com # 2026-08-21
+0.0.0.0 e-fahrrader.de # 2026-08-21
+0.0.0.0 einrichtkueche.com # 2026-08-21
+0.0.0.0 eisenkomplett.com # 2026-08-21
+0.0.0.0 elektrosystemmarkt.com # 2026-08-21
+0.0.0.0 hausprofisystem.com # 2026-08-21
+0.0.0.0 hobbykreativhub.com # 2026-08-21
+0.0.0.0 jcvfepbr.shop # 2026-08-21
+0.0.0.0 lagertechnikpro.com # 2026-08-21
+0.0.0.0 lockoutsafetyshop.com # 2026-08-21
+0.0.0.0 neststa.com # 2026-08-21
+0.0.0.0 pelletwerk.eu # 2026-08-21
+0.0.0.0 precisionteconline.com # 2026-08-21
+0.0.0.0 profiwerkstattshop.com # 2026-08-21
+0.0.0.0 promotionkoenig.com # 2026-08-21
+0.0.0.0 proworkkleidung.com # 2026-08-21
+0.0.0.0 rotweibwein.com # 2026-08-21
+0.0.0.0 sackundpack-de.com # 2026-08-21
+0.0.0.0 schneidundsaeubert.com # 2026-08-21
+0.0.0.0 schutzworkwear.com # 2026-08-21
+0.0.0.0 segleralles.com # 2026-08-21
+0.0.0.0 vputest.online # 2026-08-21
+0.0.0.0 weinlieferdienstschweiz.com # 2026-08-21
+0.0.0.0 werbeartikelpro.com # 2026-08-21
+0.0.0.0 werkstattzentrum.com # 2026-08-21
+0.0.0.0 werktech24.com # 2026-08-21
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34264,6 +34299,7 @@
 0.0.0.0 muvena-mode.com # 2026-08-20
 0.0.0.0 orthonex.de # 2026-08-20
 0.0.0.0 somiy.com # 2026-08-20
+0.0.0.0 klarawien.at # 2026-08-21
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34761,6 +34797,7 @@
 0.0.0.0 novasparkling.com # 2026-08-13
 0.0.0.0 mentalabs.org # 2026-08-19
 0.0.0.0 bongochat.me # 2026-08-20
+0.0.0.0 persolabs.org # 2026-08-21
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35299,6 +35336,7 @@
 0.0.0.0 elektriker-rudolf.at # 2026-08-17
 0.0.0.0 installateur-rudolf.at # 2026-08-17
 0.0.0.0 schluesseldienst-rudolf.at # 2026-08-17
+0.0.0.0 notgas-installationen.at # 2026-08-21
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
