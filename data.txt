@@ -1847,6 +1847,9 @@
 0.0.0.0 air-profits.com # 2026-08-20
 0.0.0.0 newappc.cc # 2026-08-20
 0.0.0.0 capitalequity-markets.com # 2026-08-21
+0.0.0.0 baif.co.uk # 2026-08-24
+0.0.0.0 expertlitefcap.com # 2026-08-24
+0.0.0.0 limzaicore.com # 2026-08-24
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26643,6 +26646,35 @@
 0.0.0.0 werbeartikelpro.com # 2026-08-21
 0.0.0.0 werkstattzentrum.com # 2026-08-21
 0.0.0.0 werktech24.com # 2026-08-21
+0.0.0.0 alumodus.com # 2026-08-24
+0.0.0.0 berklan.myshopify.com # 2026-08-24
+0.0.0.0 beschermers.com # 2026-08-24
+0.0.0.0 borde-brennholz.com # 2026-08-24
+0.0.0.0 cozyuphut.com # 2026-08-24
+0.0.0.0 dachsonne.com # 2026-08-24
+0.0.0.0 ebikeprofi24.de # 2026-08-24
+0.0.0.0 endressmotorgerate.de # 2026-08-24
+0.0.0.0 gartenkerl.de # 2026-08-24
+0.0.0.0 globalmat-maschinen.com # 2026-08-24
+0.0.0.0 happyfoodjourney.com # 2026-08-24
+0.0.0.0 hornwald.de # 2026-08-24
+0.0.0.0 hubertkotschnig.at # 2026-08-24
+0.0.0.0 keblpqec.shop # 2026-08-24
+0.0.0.0 kinderanhaengerwelt.de # 2026-08-24
+0.0.0.0 kolski-klimawelts.com # 2026-08-24
+0.0.0.0 lascanamode.com # 2026-08-24
+0.0.0.0 mataoriginkids.shop # 2026-08-24
+0.0.0.0 mhrftnmh.shop # 2026-08-24
+0.0.0.0 novestas.de # 2026-08-24
+0.0.0.0 philippsthomas.com # 2026-08-24
+0.0.0.0 smythstoyssales.com # 2026-08-24
+0.0.0.0 trakfreesm.click # 2026-08-24
+0.0.0.0 twerlab.shop # 2026-08-24
+0.0.0.0 uxkvjfer.shop # 2026-08-24
+0.0.0.0 vitalogen.de # 2026-08-24
+0.0.0.0 vpu-vorbereitung.online # 2026-08-24
+0.0.0.0 vpufuchs.com # 2026-08-24
+0.0.0.0 xbfxsrqx.shop # 2026-08-24
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34300,6 +34332,20 @@
 0.0.0.0 orthonex.de # 2026-08-20
 0.0.0.0 somiy.com # 2026-08-20
 0.0.0.0 klarawien.at # 2026-08-21
+0.0.0.0 bergandlind.com # 2026-08-24
+0.0.0.0 berlynmode.de # 2026-08-24
+0.0.0.0 d18vlm84xom7v8.cloudfront.net # 2026-08-24
+0.0.0.0 doyoo.shop # 2026-08-24
+0.0.0.0 hanna-health.shop # 2026-08-24
+0.0.0.0 helgasstube.de # 2026-08-24
+0.0.0.0 helvetus.at # 2026-08-24
+0.0.0.0 helvetus.ch # 2026-08-24
+0.0.0.0 helvetus.com # 2026-08-24
+0.0.0.0 helvetus.de # 2026-08-24
+0.0.0.0 middo.de # 2026-08-24
+0.0.0.0 modesytlebay.com # 2026-08-24
+0.0.0.0 salzmode.com # 2026-08-24
+0.0.0.0 treuquell.de # 2026-08-24
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34798,6 +34844,8 @@
 0.0.0.0 mentalabs.org # 2026-08-19
 0.0.0.0 bongochat.me # 2026-08-20
 0.0.0.0 persolabs.org # 2026-08-21
+0.0.0.0 schwiha.ai # 2026-08-24
+0.0.0.0 simple.life # 2026-08-24
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35937,4 +35985,5 @@
 0.0.0.0 feytour.de # 2026-08-12
 0.0.0.0 arrivaldaresprocedure.com # 2026-08-20
 0.0.0.0 opotrips.com # 2026-08-20
+0.0.0.0 babymio-tirol.com # 2026-08-24
 
