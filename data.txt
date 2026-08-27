@@ -1850,6 +1850,9 @@
 0.0.0.0 baif.co.uk # 2026-08-24
 0.0.0.0 expertlitefcap.com # 2026-08-24
 0.0.0.0 limzaicore.com # 2026-08-24
+0.0.0.0 crypto-boerse.com # 2026-08-25
+0.0.0.0 gutmann-strategies.at # 2026-08-25
+0.0.0.0 primary-markets.com # 2026-08-25
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -24641,7 +24644,6 @@
 0.0.0.0 singlespeedde.com # 2026-03-17
 0.0.0.0 topmachinestore.com # 2026-03-17
 0.0.0.0 yournaturalathlettrading.shop # 2026-03-17
-0.0.0.0 alfakherstore.de # 2026-03-18
 0.0.0.0 cibomatt.com # 2026-03-18
 0.0.0.0 cubeosterreich.at # 2026-03-18
 0.0.0.0 fritz-container-gmbh.de # 2026-03-18
@@ -26675,6 +26677,19 @@
 0.0.0.0 vpu-vorbereitung.online # 2026-08-24
 0.0.0.0 vpufuchs.com # 2026-08-24
 0.0.0.0 xbfxsrqx.shop # 2026-08-24
+0.0.0.0 bikeboxstore.com # 2026-08-25
+0.0.0.0 bvbfussballtrikots.de # 2026-08-25
+0.0.0.0 celio.com.de # 2026-08-25
+0.0.0.0 chantierest.com # 2026-08-25
+0.0.0.0 fahrradlenker.com # 2026-08-25
+0.0.0.0 gartenwerkzeugeprofi.com # 2026-08-25
+0.0.0.0 genussfein.com # 2026-08-25
+0.0.0.0 maulkorbkauf.com # 2026-08-25
+0.0.0.0 sonnensparo.com # 2026-08-25
+0.0.0.0 topcyclebike.com # 2026-08-25
+0.0.0.0 trailerfrance.com # 2026-08-25
+0.0.0.0 ufheimwerker-de.com # 2026-08-25
+0.0.0.0 werkzeugeprofi.com # 2026-08-25
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34346,6 +34361,10 @@
 0.0.0.0 modesytlebay.com # 2026-08-24
 0.0.0.0 salzmode.com # 2026-08-24
 0.0.0.0 treuquell.de # 2026-08-24
+0.0.0.0 alfakherstore.de # 2026-08-25
+0.0.0.0 modeweiss.com # 2026-08-25
+0.0.0.0 navisdkarten.de # 2026-08-25
+0.0.0.0 shop.wellaray.com # 2026-08-25
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34563,6 +34582,7 @@
 0.0.0.0 klimabonus-antrag.co # 2026-08-10
 0.0.0.0 finzanzonline.com # 2026-08-16
 0.0.0.0 finanzamt-familienbeihilfe-at.com # 2026-08-20
+0.0.0.0 meineogk.at # 2026-08-25
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -34846,6 +34866,7 @@
 0.0.0.0 persolabs.org # 2026-08-21
 0.0.0.0 schwiha.ai # 2026-08-24
 0.0.0.0 simple.life # 2026-08-24
+0.0.0.0 contacthunt.io # 2026-08-25
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35527,6 +35548,7 @@
 0.0.0.0 rusin-recht.de # 2026-08-11
 0.0.0.0 ra-owl.de # 2026-08-19
 0.0.0.0 weidemann-kanzlei.de # 2026-08-19
+0.0.0.0 kanzleitreuhand.com # 2026-08-25
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
