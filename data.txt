@@ -1853,6 +1853,8 @@
 0.0.0.0 crypto-boerse.com # 2026-08-25
 0.0.0.0 gutmann-strategies.at # 2026-08-25
 0.0.0.0 primary-markets.com # 2026-08-25
+0.0.0.0 presshubrixel.com # 2026-08-26
+0.0.0.0 reelgazeki.com # 2026-08-26
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26690,6 +26692,29 @@
 0.0.0.0 trailerfrance.com # 2026-08-25
 0.0.0.0 ufheimwerker-de.com # 2026-08-25
 0.0.0.0 werkzeugeprofi.com # 2026-08-25
+0.0.0.0 cfbl-premiumholz.de # 2026-08-26
+0.0.0.0 creatinmarkt.com # 2026-08-26
+0.0.0.0 dicha-bike.com # 2026-08-26
+0.0.0.0 dynamorad.com # 2026-08-26
+0.0.0.0 hannibalcorp.com # 2026-08-26
+0.0.0.0 iris-von-arnim.com # 2026-08-26
+0.0.0.0 jgkittrx.shop # 2026-08-26
+0.0.0.0 kinddeshoprstadt.com # 2026-08-26
+0.0.0.0 klassealltagsport.com # 2026-08-26
+0.0.0.0 ktontools.com # 2026-08-26
+0.0.0.0 longchamp-at.at # 2026-08-26
+0.0.0.0 marcant.store # 2026-08-26
+0.0.0.0 oinpmrtk.shop # 2026-08-26
+0.0.0.0 on-at.myshoplaza.com # 2026-08-26
+0.0.0.0 onlinetoolsale.com # 2026-08-26
+0.0.0.0 pekira.de # 2026-08-26
+0.0.0.0 schadensboerse.at # 2026-08-26
+0.0.0.0 skysupp.com # 2026-08-26
+0.0.0.0 sun-seller.com # 2026-08-26
+0.0.0.0 uffpeeet.shop # 2026-08-26
+0.0.0.0 wsbrennholzoberberg-gmbh-de.com # 2026-08-26
+0.0.0.0 xgkyqpwa.shop # 2026-08-26
+0.0.0.0 zonetrove.com # 2026-08-26
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35549,6 +35574,7 @@
 0.0.0.0 ra-owl.de # 2026-08-19
 0.0.0.0 weidemann-kanzlei.de # 2026-08-19
 0.0.0.0 kanzleitreuhand.com # 2026-08-25
+0.0.0.0 kronbergpartner.com # 2026-08-26
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
