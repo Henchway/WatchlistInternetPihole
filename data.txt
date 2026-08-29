@@ -26715,6 +26715,14 @@
 0.0.0.0 wsbrennholzoberberg-gmbh-de.com # 2026-08-26
 0.0.0.0 xgkyqpwa.shop # 2026-08-26
 0.0.0.0 zonetrove.com # 2026-08-26
+0.0.0.0 gkbmydjg.shop # 2026-08-27
+0.0.0.0 huelosterreich.vip # 2026-08-27
+0.0.0.0 kddsxymb.shop # 2026-08-27
+0.0.0.0 kinderanhanger.com # 2026-08-27
+0.0.0.0 myulcgga.shop # 2026-08-27
+0.0.0.0 profiersatzteile.com # 2026-08-27
+0.0.0.0 speditionspellets.com # 2026-08-27
+0.0.0.0 sssezkli.shop # 2026-08-27
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34390,6 +34398,9 @@
 0.0.0.0 modeweiss.com # 2026-08-25
 0.0.0.0 navisdkarten.de # 2026-08-25
 0.0.0.0 shop.wellaray.com # 2026-08-25
+0.0.0.0 hannes-mariajuwelier.at # 2026-08-27
+0.0.0.0 modekomfort.com # 2026-08-27
+0.0.0.0 movina-shop.com # 2026-08-27
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
