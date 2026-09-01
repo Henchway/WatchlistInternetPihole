@@ -1855,6 +1855,14 @@
 0.0.0.0 primary-markets.com # 2026-08-25
 0.0.0.0 presshubrixel.com # 2026-08-26
 0.0.0.0 reelgazeki.com # 2026-08-26
+0.0.0.0 bagwa-kredit.de # 2026-08-31
+0.0.0.0 globaldispatch.info # 2026-08-31
+0.0.0.0 market.novaris-capitallimited.ltd # 2026-08-31
+0.0.0.0 novaris-capitallimited.cfd # 2026-08-31
+0.0.0.0 power-efficiency.info # 2026-08-31
+0.0.0.0 sedatasgo.com # 2026-08-31
+0.0.0.0 swissclaim-ag.ch # 2026-08-31
+0.0.0.0 terminal.novaris-capitallimited.cfd # 2026-08-31
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26729,10 +26737,37 @@
 0.0.0.0 luxelivingzone.com # 2026-08-28
 0.0.0.0 mobel-wahls.shop # 2026-08-28
 0.0.0.0 pmbrioox.shop # 2026-08-28
-0.0.0.0 schadensboerse.at # 2026-08-28
 0.0.0.0 schutzhals.com # 2026-08-28
 0.0.0.0 sparhaustechnik.de # 2026-08-28
 0.0.0.0 viallecontainer.com # 2026-08-28
+0.0.0.0 51-sports.com # 2026-08-31
+0.0.0.0 arf-van-sales-ltd.de # 2026-08-31
+0.0.0.0 brennholz-emil.de # 2026-08-31
+0.0.0.0 cirtadistribution.com # 2026-08-31
+0.0.0.0 ecohubfast.com # 2026-08-31
+0.0.0.0 excite-anhaenger.de # 2026-08-31
+0.0.0.0 fahrradkern.de # 2026-08-31
+0.0.0.0 garden-of-excellence.com # 2026-08-31
+0.0.0.0 glsiwod.shop # 2026-08-31
+0.0.0.0 handpanira.com # 2026-08-31
+0.0.0.0 ninjakitchenllc.com # 2026-08-31
+0.0.0.0 otto-retouren.de # 2026-08-31
+0.0.0.0 pacevora.shop # 2026-08-31
+0.0.0.0 padelschlag.com # 2026-08-31
+0.0.0.0 playvenix.de # 2026-08-31
+0.0.0.0 schmahl-gartengeraete.com # 2026-08-31
+0.0.0.0 shop.asfinag.ltd # 2026-08-31
+0.0.0.0 sohlenlos.com # 2026-08-31
+0.0.0.0 steampunk-xix.de # 2026-08-31
+0.0.0.0 tom-trailer.com # 2026-08-31
+0.0.0.0 ventalaurashop.com # 2026-08-31
+0.0.0.0 vgtwlrlx.shop # 2026-08-31
+0.0.0.0 viraldefi.com # 2026-08-31
+0.0.0.0 werkstattmaschinen.com # 2026-08-31
+0.0.0.0 wqnwpxdj.shop # 2026-08-31
+0.0.0.0 yadjmjrx.shop # 2026-08-31
+0.0.0.0 ygnooddg.shop # 2026-08-31
+0.0.0.0 ykwkgndw.shop # 2026-08-31
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -33944,7 +33979,6 @@
 0.0.0.0 funluluu.com # 2026-02-11
 0.0.0.0 vinnciwear.com # 2026-02-11
 0.0.0.0 airvaxde.com # 2026-02-12
-0.0.0.0 fellnasenstube.de # 2026-02-12
 0.0.0.0 goldenpump.de # 2026-02-12
 0.0.0.0 providenceerc.com # 2026-02-12
 0.0.0.0 talkbuds.de # 2026-02-12
@@ -34414,6 +34448,11 @@
 0.0.0.0 de.try-lumive.com # 2026-08-28
 0.0.0.0 hiporashop.com # 2026-08-28
 0.0.0.0 kleinfeld-modehaus.de # 2026-08-28
+0.0.0.0 bronoir.de # 2026-08-31
+0.0.0.0 eleganzwohnen.de # 2026-08-31
+0.0.0.0 feldmann-munchen.com # 2026-08-31
+0.0.0.0 flofrei.com # 2026-08-31
+0.0.0.0 wohlseinmarkt.de # 2026-08-31
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34916,6 +34955,7 @@
 0.0.0.0 simple.life # 2026-08-24
 0.0.0.0 contacthunt.io # 2026-08-25
 0.0.0.0 novasparkling.com # 2026-08-28
+0.0.0.0 novavitalia.io # 2026-08-31
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35281,6 +35321,8 @@
 0.0.0.0 karger-agentur.de # 2026-08-17
 0.0.0.0 pergus-data.de # 2026-08-17
 0.0.0.0 diermann-marketing.net # 2026-08-20
+0.0.0.0 limex-solutions.gmbh # 2026-08-31
+0.0.0.0 limex.solutions # 2026-08-31
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -35600,7 +35642,7 @@
 0.0.0.0 weidemann-kanzlei.de # 2026-08-19
 0.0.0.0 kanzleitreuhand.com # 2026-08-25
 0.0.0.0 kronbergpartner.com # 2026-08-26
-0.0.0.0 schwartz-kollegen.com # 2026-08-28
+0.0.0.0 schwartz-kollegen.com # 2026-08-31
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -36060,4 +36102,5 @@
 0.0.0.0 arrivaldaresprocedure.com # 2026-08-20
 0.0.0.0 opotrips.com # 2026-08-20
 0.0.0.0 babymio-tirol.com # 2026-08-24
+0.0.0.0 salzburgerhof-dienten.com # 2026-08-31
 
