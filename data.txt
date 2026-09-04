@@ -26250,7 +26250,6 @@
 0.0.0.0 weinundgenusswelt.com # 2026-08-05
 0.0.0.0 autodriverama.com # 2026-08-06
 0.0.0.0 autoscentral.eu # 2026-08-06
-0.0.0.0 fotostudi.de # 2026-08-06
 0.0.0.0 gefrints.com # 2026-08-06
 0.0.0.0 landwirtschaftshop.com # 2026-08-06
 0.0.0.0 market.cedarbourne.com # 2026-08-06
@@ -26785,6 +26784,19 @@
 0.0.0.0 viraldefi.com # 2026-09-01
 0.0.0.0 weissbt.com # 2026-09-01
 0.0.0.0 wollhatbitatco.shop # 2026-09-01
+0.0.0.0 anhängerglück.de # 2026-09-02
+0.0.0.0 campingplatzede.com # 2026-09-02
+0.0.0.0 cookieland.live # 2026-09-02
+0.0.0.0 csdoki.shop # 2026-09-02
+0.0.0.0 gartnereivlasi.myshopify.com # 2026-09-02
+0.0.0.0 gastrobedarfmarkt.com # 2026-09-02
+0.0.0.0 greenandcoavenue.shop # 2026-09-02
+0.0.0.0 heydudeonline.top # 2026-09-02
+0.0.0.0 market.glenleigha.com # 2026-09-02
+0.0.0.0 militaerbedarf.com # 2026-09-02
+0.0.0.0 pelletwerk.com # 2026-09-02
+0.0.0.0 poolfrisch.com # 2026-09-02
+0.0.0.0 vpu-vorbereitung.com # 2026-09-02
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34471,6 +34483,16 @@
 0.0.0.0 wohlseinmarkt.de # 2026-08-31
 0.0.0.0 modehaushartmann.de # 2026-09-01
 0.0.0.0 veratechshop.de # 2026-09-01
+0.0.0.0 amsterdamluxe.com # 2026-09-02
+0.0.0.0 berlinlabel.com # 2026-09-02
+0.0.0.0 claraluzern.ch # 2026-09-02
+0.0.0.0 emma-frankfurt.com # 2026-09-02
+0.0.0.0 fotostudi.de # 2026-09-02
+0.0.0.0 katharinaberlin.de # 2026-09-02
+0.0.0.0 lucyclara.com # 2026-09-02
+0.0.0.0 nyccharm.com # 2026-09-02
+0.0.0.0 speechfaith.com # 2026-09-02
+0.0.0.0 sylvie-jacques.com # 2026-09-02
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
