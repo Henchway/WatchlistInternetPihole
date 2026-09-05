@@ -1864,6 +1864,8 @@
 0.0.0.0 swissclaim-ag.ch # 2026-08-31
 0.0.0.0 terminal.novaris-capitallimited.cfd # 2026-08-31
 0.0.0.0 at.whitetip.gr # 2026-09-01
+0.0.0.0 capitalus-clients.com # 2026-09-03
+0.0.0.0 zeolid.com # 2026-09-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26797,6 +26799,25 @@
 0.0.0.0 pelletwerk.com # 2026-09-02
 0.0.0.0 poolfrisch.com # 2026-09-02
 0.0.0.0 vpu-vorbereitung.com # 2026-09-02
+0.0.0.0 boxtrail.de # 2026-09-03
+0.0.0.0 brennholzvidos.at # 2026-09-03
+0.0.0.0 canyonoutlet.de # 2026-09-03
+0.0.0.0 dannerosterreich.at # 2026-09-03
+0.0.0.0 devalife.eu # 2026-09-03
+0.0.0.0 garten-forstgerate.de # 2026-09-03
+0.0.0.0 heizholz-express.com # 2026-09-03
+0.0.0.0 hopfenpur.com # 2026-09-03
+0.0.0.0 jalousienservice.at # 2026-09-03
+0.0.0.0 koenigzeit.co # 2026-09-03
+0.0.0.0 novintraa.myshopify.com # 2026-09-03
+0.0.0.0 renier-box.com # 2026-09-03
+0.0.0.0 rony-services.com # 2026-09-03
+0.0.0.0 schnellenberger-haus.de # 2026-09-03
+0.0.0.0 suedwest-motorgeraete.com # 2026-09-03
+0.0.0.0 taotdzhi.shop # 2026-09-03
+0.0.0.0 tinarasen.com # 2026-09-03
+0.0.0.0 vncsok.shop # 2026-09-03
+0.0.0.0 zigarreshop.de # 2026-09-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34493,6 +34514,11 @@
 0.0.0.0 nyccharm.com # 2026-09-02
 0.0.0.0 speechfaith.com # 2026-09-02
 0.0.0.0 sylvie-jacques.com # 2026-09-02
+0.0.0.0 gurdarao.com # 2026-09-03
+0.0.0.0 lasportiva-at.com # 2026-09-03
+0.0.0.0 mur-shop.com # 2026-09-03
+0.0.0.0 nahenwebshop.de # 2026-09-03
+0.0.0.0 toydoria.de # 2026-09-03
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34711,6 +34737,8 @@
 0.0.0.0 finzanzonline.com # 2026-08-16
 0.0.0.0 finanzamt-familienbeihilfe-at.com # 2026-08-20
 0.0.0.0 meineogk.at # 2026-08-25
+0.0.0.0 klima.bonus-gutschrift.cc # 2026-09-03
+0.0.0.0 tuneely.com # 2026-09-03
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35363,6 +35391,8 @@
 0.0.0.0 diermann-marketing.net # 2026-08-20
 0.0.0.0 limex-solutions.gmbh # 2026-08-31
 0.0.0.0 limex.solutions # 2026-08-31
+0.0.0.0 kargeragentur.de # 2026-09-03
+0.0.0.0 romy-frieder.de # 2026-09-03
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -35879,6 +35909,7 @@
 0.0.0.0 frethix.com # 2026-08-05
 0.0.0.0 transport51.de # 2026-08-07
 0.0.0.0 alpenroute36.com # 2026-08-19
+0.0.0.0 slth-transport.de # 2026-09-03
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
