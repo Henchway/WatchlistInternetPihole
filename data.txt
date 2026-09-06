@@ -1866,6 +1866,7 @@
 0.0.0.0 at.whitetip.gr # 2026-09-01
 0.0.0.0 capitalus-clients.com # 2026-09-03
 0.0.0.0 zeolid.com # 2026-09-03
+0.0.0.0 spacexfy.ai # 2026-09-04
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -2974,7 +2975,6 @@
 0.0.0.0 musicalinstrumentsmall.com # 2021-09-20
 0.0.0.0 paritainp.top # 2021-09-20
 0.0.0.0 shopmusicalinstruments.com # 2021-09-20
-0.0.0.0 thebrooklyn.net # 2021-09-20
 0.0.0.0 upainmetre.com # 2021-09-20
 0.0.0.0 webtragyk.com # 2021-09-20
 0.0.0.0 drberg.eu # 2021-09-21
@@ -26818,6 +26818,14 @@
 0.0.0.0 tinarasen.com # 2026-09-03
 0.0.0.0 vncsok.shop # 2026-09-03
 0.0.0.0 zigarreshop.de # 2026-09-03
+0.0.0.0 bauwerkhaus.com # 2026-09-04
+0.0.0.0 brennholzbredemeier.com # 2026-09-04
+0.0.0.0 fuggler.at # 2026-09-04
+0.0.0.0 harmonyalmbienteoutlet.shop # 2026-09-04
+0.0.0.0 hjz-handel.de # 2026-09-04
+0.0.0.0 paulusbrennholz.com # 2026-09-04
+0.0.0.0 schiffbox.com # 2026-09-04
+0.0.0.0 vapekiste.com # 2026-09-04
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34519,6 +34527,7 @@
 0.0.0.0 mur-shop.com # 2026-09-03
 0.0.0.0 nahenwebshop.de # 2026-09-03
 0.0.0.0 toydoria.de # 2026-09-03
+0.0.0.0 steinermode.at # 2026-09-04
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34739,6 +34748,9 @@
 0.0.0.0 meineogk.at # 2026-08-25
 0.0.0.0 klima.bonus-gutschrift.cc # 2026-09-03
 0.0.0.0 tuneely.com # 2026-09-03
+0.0.0.0 gfjnp.com # 2026-09-04
+0.0.0.0 online-finanz.com # 2026-09-04
+0.0.0.0 onlinefinanz-bmf.com # 2026-09-04
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
