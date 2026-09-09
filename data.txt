@@ -26788,7 +26788,6 @@
 0.0.0.0 wollhatbitatco.shop # 2026-09-01
 0.0.0.0 anhängerglück.de # 2026-09-02
 0.0.0.0 campingplatzede.com # 2026-09-02
-0.0.0.0 cookieland.live # 2026-09-02
 0.0.0.0 csdoki.shop # 2026-09-02
 0.0.0.0 gartnereivlasi.myshopify.com # 2026-09-02
 0.0.0.0 gastrobedarfmarkt.com # 2026-09-02
@@ -26826,6 +26825,36 @@
 0.0.0.0 paulusbrennholz.com # 2026-09-04
 0.0.0.0 schiffbox.com # 2026-09-04
 0.0.0.0 vapekiste.com # 2026-09-04
+0.0.0.0 anhaengerneue.com # 2026-09-07
+0.0.0.0 biergenusswel.com # 2026-09-07
+0.0.0.0 bkmusicstore-de.com # 2026-09-07
+0.0.0.0 bms-promaschinen.com # 2026-09-07
+0.0.0.0 brennholz-widmanngmbh.com # 2026-09-07
+0.0.0.0 ddgqxkiv.shop # 2026-09-07
+0.0.0.0 de.novintra.shop # 2026-09-07
+0.0.0.0 dreoosterreich.com # 2026-09-07
+0.0.0.0 duwaylconcept.com # 2026-09-07
+0.0.0.0 frankefahrrad.de # 2026-09-07
+0.0.0.0 frankencamping.de # 2026-09-07
+0.0.0.0 gesundundklar.com # 2026-09-07
+0.0.0.0 gqaltq.shop # 2026-09-07
+0.0.0.0 heiztechnik-shop.com # 2026-09-07
+0.0.0.0 lunaseacoffees.com # 2026-09-07
+0.0.0.0 mnsnyavp.shop # 2026-09-07
+0.0.0.0 motelamiio-online.com # 2026-09-07
+0.0.0.0 novintra.shop # 2026-09-07
+0.0.0.0 pelzspielzeug.com # 2026-09-07
+0.0.0.0 radelhelden.com # 2026-09-07
+0.0.0.0 reinpeptid.de # 2026-09-07
+0.0.0.0 ruqrsmji.shop # 2026-09-07
+0.0.0.0 scooterboardwelt.com # 2026-09-07
+0.0.0.0 shop.cosmictower.ch # 2026-09-07
+0.0.0.0 sodimatpro.com # 2026-09-07
+0.0.0.0 steinschleifmachino.shop # 2026-09-07
+0.0.0.0 tktxde.de # 2026-09-07
+0.0.0.0 tutin-ebike.com # 2026-09-07
+0.0.0.0 viktilabslabs.shop # 2026-09-07
+0.0.0.0 westeamerican.com # 2026-09-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34528,6 +34557,9 @@
 0.0.0.0 nahenwebshop.de # 2026-09-03
 0.0.0.0 toydoria.de # 2026-09-03
 0.0.0.0 steinermode.at # 2026-09-04
+0.0.0.0 luscherhaus.de # 2026-09-07
+0.0.0.0 velpe-outdoor.com # 2026-09-07
+0.0.0.0 wellaray.com # 2026-09-07
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35405,6 +35437,7 @@
 0.0.0.0 limex.solutions # 2026-08-31
 0.0.0.0 kargeragentur.de # 2026-09-03
 0.0.0.0 romy-frieder.de # 2026-09-03
+0.0.0.0 har6lowr7idge6.com # 2026-09-07
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
