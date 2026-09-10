@@ -1867,6 +1867,8 @@
 0.0.0.0 capitalus-clients.com # 2026-09-03
 0.0.0.0 zeolid.com # 2026-09-03
 0.0.0.0 spacexfy.ai # 2026-09-04
+0.0.0.0 eurofion-group.com # 2026-09-08
+0.0.0.0 evolveasialtd.co # 2026-09-08
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26855,6 +26857,21 @@
 0.0.0.0 tutin-ebike.com # 2026-09-07
 0.0.0.0 viktilabslabs.shop # 2026-09-07
 0.0.0.0 westeamerican.com # 2026-09-07
+0.0.0.0 bienenimker.com # 2026-09-08
+0.0.0.0 esoqoklb.shop # 2026-09-08
+0.0.0.0 fonckmichel-industrie.com # 2026-09-08
+0.0.0.0 fussballstube.com # 2026-09-08
+0.0.0.0 gartenplaza.com # 2026-09-08
+0.0.0.0 handgeblaese.com # 2026-09-08
+0.0.0.0 johdorbrennholz.com # 2026-09-08
+0.0.0.0 kochtech.shop # 2026-09-08
+0.0.0.0 maillauto-industrie.com # 2026-09-08
+0.0.0.0 mbh-container.de # 2026-09-08
+0.0.0.0 reittrendstore.com # 2026-09-08
+0.0.0.0 vaunace-industrie.com # 2026-09-08
+0.0.0.0 wahlalltagkueche.com # 2026-09-08
+0.0.0.0 zanfliu.shop # 2026-09-08
+0.0.0.0 zeugma-industrie.com # 2026-09-08
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34560,6 +34577,7 @@
 0.0.0.0 luscherhaus.de # 2026-09-07
 0.0.0.0 velpe-outdoor.com # 2026-09-07
 0.0.0.0 wellaray.com # 2026-09-07
+0.0.0.0 mathilde-munchen.de # 2026-09-08
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34783,6 +34801,7 @@
 0.0.0.0 gfjnp.com # 2026-09-04
 0.0.0.0 online-finanz.com # 2026-09-04
 0.0.0.0 onlinefinanz-bmf.com # 2026-09-04
+0.0.0.0 service-gesundheitskasse.at # 2026-09-08
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35438,6 +35457,8 @@
 0.0.0.0 kargeragentur.de # 2026-09-03
 0.0.0.0 romy-frieder.de # 2026-09-03
 0.0.0.0 har6lowr7idge6.com # 2026-09-07
+0.0.0.0 arandi-tech.com # 2026-09-08
+0.0.0.0 voeller-it.solutions # 2026-09-08
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
