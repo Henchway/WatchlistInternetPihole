@@ -1869,6 +1869,12 @@
 0.0.0.0 spacexfy.ai # 2026-09-04
 0.0.0.0 eurofion-group.com # 2026-09-08
 0.0.0.0 evolveasialtd.co # 2026-09-08
+0.0.0.0 at.alpine-point.com # 2026-09-09
+0.0.0.0 dailywireix.info # 2026-09-09
+0.0.0.0 equiconstructions.com # 2026-09-09
+0.0.0.0 fels-wertburg.com # 2026-09-09
+0.0.0.0 felswertburgat.com # 2026-09-09
+0.0.0.0 go.kryptofokus.co # 2026-09-09
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -10194,7 +10200,6 @@
 0.0.0.0 shopperworldx.com # 2023-06-02
 0.0.0.0 synthesizemergechic.com # 2023-06-02
 0.0.0.0 toolsbuyit.com # 2023-06-02
-0.0.0.0 toolsholic.com # 2023-06-02
 0.0.0.0 toolsinthemaking.com # 2023-06-02
 0.0.0.0 voguehemline.com # 2023-06-02
 0.0.0.0 bigdealkicks.com # 2023-06-03
@@ -26872,6 +26877,18 @@
 0.0.0.0 wahlalltagkueche.com # 2026-09-08
 0.0.0.0 zanfliu.shop # 2026-09-08
 0.0.0.0 zeugma-industrie.com # 2026-09-08
+0.0.0.0 att.hqvrm.shop # 2026-09-09
+0.0.0.0 bio-stefano.shop # 2026-09-09
+0.0.0.0 blumen365.at # 2026-09-09
+0.0.0.0 eaqrxrpx.shop # 2026-09-09
+0.0.0.0 frankfurter-baumaschinen-anhaenger-gmbh.de # 2026-09-09
+0.0.0.0 himmonyambiente.com # 2026-09-09
+0.0.0.0 hydroflaskaustria.com # 2026-09-09
+0.0.0.0 megaelektronik.de # 2026-09-09
+0.0.0.0 peptid24.de # 2026-09-09
+0.0.0.0 rotweinbar.com # 2026-09-09
+0.0.0.0 schuhwelten.com # 2026-09-09
+0.0.0.0 standycrome.com # 2026-09-09
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34578,6 +34595,9 @@
 0.0.0.0 velpe-outdoor.com # 2026-09-07
 0.0.0.0 wellaray.com # 2026-09-07
 0.0.0.0 mathilde-munchen.de # 2026-09-08
+0.0.0.0 glumentrol.com # 2026-09-09
+0.0.0.0 glutadrops.com # 2026-09-09
+0.0.0.0 totovape.de # 2026-09-09
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34802,6 +34822,7 @@
 0.0.0.0 online-finanz.com # 2026-09-04
 0.0.0.0 onlinefinanz-bmf.com # 2026-09-04
 0.0.0.0 service-gesundheitskasse.at # 2026-09-08
+0.0.0.0 sofort-antrag.net # 2026-09-09
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35087,6 +35108,7 @@
 0.0.0.0 contacthunt.io # 2026-08-25
 0.0.0.0 novasparkling.com # 2026-08-28
 0.0.0.0 novavitalia.io # 2026-08-31
+0.0.0.0 air.diet # 2026-09-09
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35459,6 +35481,7 @@
 0.0.0.0 har6lowr7idge6.com # 2026-09-07
 0.0.0.0 arandi-tech.com # 2026-09-08
 0.0.0.0 voeller-it.solutions # 2026-09-08
+0.0.0.0 gfn-north.de # 2026-09-09
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
