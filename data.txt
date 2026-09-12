@@ -1875,6 +1875,7 @@
 0.0.0.0 fels-wertburg.com # 2026-09-09
 0.0.0.0 felswertburgat.com # 2026-09-09
 0.0.0.0 go.kryptofokus.co # 2026-09-09
+0.0.0.0 newsfluxvpo.info # 2026-09-10
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26889,6 +26890,20 @@
 0.0.0.0 rotweinbar.com # 2026-09-09
 0.0.0.0 schuhwelten.com # 2026-09-09
 0.0.0.0 standycrome.com # 2026-09-09
+0.0.0.0 autoverlauf.de # 2026-09-10
+0.0.0.0 brastsales.com # 2026-09-10
+0.0.0.0 brennholz-direkt-de.com # 2026-09-10
+0.0.0.0 diedrich-handel.myshopify.com # 2026-09-10
+0.0.0.0 haushaltsgeraete-profis.de # 2026-09-10
+0.0.0.0 ithardwareprofi24.com # 2026-09-10
+0.0.0.0 korff-agrarbau.de # 2026-09-10
+0.0.0.0 market.ashfielden.com # 2026-09-10
+0.0.0.0 pcoemgerm.com # 2026-09-10
+0.0.0.0 radmarkt-schaeler.de # 2026-09-10
+0.0.0.0 seewinklermaeher.at # 2026-09-10
+0.0.0.0 store.rosebournea.com # 2026-09-10
+0.0.0.0 wahlkinderalltag.com # 2026-09-10
+0.0.0.0 xsltkprx.shop # 2026-09-10
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34598,6 +34613,10 @@
 0.0.0.0 glumentrol.com # 2026-09-09
 0.0.0.0 glutadrops.com # 2026-09-09
 0.0.0.0 totovape.de # 2026-09-09
+0.0.0.0 alvara-zurich.ch # 2026-09-10
+0.0.0.0 premiummatten.shop # 2026-09-10
+0.0.0.0 propermen.de # 2026-09-10
+0.0.0.0 tryfivemore.com # 2026-09-10
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34823,6 +34842,9 @@
 0.0.0.0 onlinefinanz-bmf.com # 2026-09-04
 0.0.0.0 service-gesundheitskasse.at # 2026-09-08
 0.0.0.0 sofort-antrag.net # 2026-09-09
+0.0.0.0 finanzen.075756.net # 2026-09-10
+0.0.0.0 kundenservice-flatex.at # 2026-09-10
+0.0.0.0 novambients.de # 2026-09-10
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -36262,4 +36284,5 @@
 0.0.0.0 opotrips.com # 2026-08-20
 0.0.0.0 babymio-tirol.com # 2026-08-24
 0.0.0.0 salzburgerhof-dienten.com # 2026-08-31
+0.0.0.0 regsvsemptbr-upadttody.com # 2026-09-10
 
