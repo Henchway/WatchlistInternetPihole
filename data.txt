@@ -1876,6 +1876,9 @@
 0.0.0.0 felswertburgat.com # 2026-09-09
 0.0.0.0 go.kryptofokus.co # 2026-09-09
 0.0.0.0 newsfluxvpo.info # 2026-09-10
+0.0.0.0 aureliustrust.uk # 2026-09-11
+0.0.0.0 bcls-assets.com # 2026-09-11
+0.0.0.0 clearmarket-europe.com # 2026-09-11
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26904,6 +26907,15 @@
 0.0.0.0 store.rosebournea.com # 2026-09-10
 0.0.0.0 wahlkinderalltag.com # 2026-09-10
 0.0.0.0 xsltkprx.shop # 2026-09-10
+0.0.0.0 decovividly.com # 2026-09-11
+0.0.0.0 germangusto.com # 2026-09-11
+0.0.0.0 hanfmeister.at # 2026-09-11
+0.0.0.0 kabelbund.com # 2026-09-11
+0.0.0.0 oranix-de.myshopify.com # 2026-09-11
+0.0.0.0 qmdhueo.shop # 2026-09-11
+0.0.0.0 radhafen.com # 2026-09-11
+0.0.0.0 vitalheldenhub.com # 2026-09-11
+0.0.0.0 xsxpswau.shop # 2026-09-11
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34617,6 +34629,9 @@
 0.0.0.0 premiummatten.shop # 2026-09-10
 0.0.0.0 propermen.de # 2026-09-10
 0.0.0.0 tryfivemore.com # 2026-09-10
+0.0.0.0 airzuma.com # 2026-09-11
+0.0.0.0 diploms.de # 2026-09-11
+0.0.0.0 pilotentest-vorbereitung.com # 2026-09-11
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34845,6 +34860,7 @@
 0.0.0.0 finanzen.075756.net # 2026-09-10
 0.0.0.0 kundenservice-flatex.at # 2026-09-10
 0.0.0.0 novambients.de # 2026-09-10
+0.0.0.0 bmfflnanzonline.net # 2026-09-11
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35679,6 +35695,7 @@
 0.0.0.0 schluesseldienst-rudolf.at # 2026-08-17
 0.0.0.0 notgas-installationen.at # 2026-08-21
 0.0.0.0 mr-schluessel24.at # 2026-08-28
+0.0.0.0 rolladen-rudolf.at # 2026-09-11
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
