@@ -26697,7 +26697,6 @@
 0.0.0.0 twerlab.shop # 2026-08-24
 0.0.0.0 uxkvjfer.shop # 2026-08-24
 0.0.0.0 vitalogen.de # 2026-08-24
-0.0.0.0 vpu-vorbereitung.online # 2026-08-24
 0.0.0.0 vpufuchs.com # 2026-08-24
 0.0.0.0 xbfxsrqx.shop # 2026-08-24
 0.0.0.0 bikeboxstore.com # 2026-08-25
@@ -26808,7 +26807,6 @@
 0.0.0.0 militaerbedarf.com # 2026-09-02
 0.0.0.0 pelletwerk.com # 2026-09-02
 0.0.0.0 poolfrisch.com # 2026-09-02
-0.0.0.0 vpu-vorbereitung.com # 2026-09-02
 0.0.0.0 boxtrail.de # 2026-09-03
 0.0.0.0 brennholzvidos.at # 2026-09-03
 0.0.0.0 canyonoutlet.de # 2026-09-03
@@ -26916,6 +26914,52 @@
 0.0.0.0 radhafen.com # 2026-09-11
 0.0.0.0 vitalheldenhub.com # 2026-09-11
 0.0.0.0 xsxpswau.shop # 2026-09-11
+0.0.0.0 berghotel-marlstein.de # 2026-09-14
+0.0.0.0 besteanhangershop.de # 2026-09-14
+0.0.0.0 blackyakrabatt.com # 2026-09-14
+0.0.0.0 breberck-brennholz.myshopify.com # 2026-09-14
+0.0.0.0 brennholz-hans.de # 2026-09-14
+0.0.0.0 camaropartsdepot.com # 2026-09-14
+0.0.0.0 cosmictower.ch # 2026-09-14
+0.0.0.0 de.xn--schnppchenportal-ynb.de # 2026-09-14
+0.0.0.0 degrillfuerst.com # 2026-09-14
+0.0.0.0 duftenderkaffee.com # 2026-09-14
+0.0.0.0 duftendkaffee.com # 2026-09-14
+0.0.0.0 ebm-heimwerk.com # 2026-09-14
+0.0.0.0 forstbetrieb-hildebrand.de # 2026-09-14
+0.0.0.0 freslona.shop # 2026-09-14
+0.0.0.0 futterfurtauben.com # 2026-09-14
+0.0.0.0 gardenhandel.com # 2026-09-14
+0.0.0.0 global-kaufhaus.com # 2026-09-14
+0.0.0.0 glowera.at # 2026-09-14
+0.0.0.0 gruenliva.de # 2026-09-14
+0.0.0.0 hotel-seetal.de # 2026-09-14
+0.0.0.0 kaktusgarten24.de # 2026-09-14
+0.0.0.0 katzenweltde.com # 2026-09-14
+0.0.0.0 kindderstedt.com # 2026-09-14
+0.0.0.0 klimmzugstangeportal.com # 2026-09-14
+0.0.0.0 market.silverbournea.com # 2026-09-14
+0.0.0.0 market.westfieldon.com # 2026-09-14
+0.0.0.0 moserwiesn.de # 2026-09-14
+0.0.0.0 nataschawelpen.de # 2026-09-14
+0.0.0.0 nestglobalx.com # 2026-09-14
+0.0.0.0 nsjuef.shop # 2026-09-14
+0.0.0.0 owalasaustria.at # 2026-09-14
+0.0.0.0 owernox.myshopify.com # 2026-09-14
+0.0.0.0 pferdkompass.com # 2026-09-14
+0.0.0.0 pumadeutschland.com # 2026-09-14
+0.0.0.0 pumashoesus.com # 2026-09-14
+0.0.0.0 redbullosterreich.at # 2026-09-14
+0.0.0.0 roborockdeutschland.de # 2026-09-14
+0.0.0.0 saathoff-brennstoffe.com # 2026-09-14
+0.0.0.0 sattelstutzen.com # 2026-09-14
+0.0.0.0 scandiwarm.com # 2026-09-14
+0.0.0.0 shop.mugmugs.shop # 2026-09-14
+0.0.0.0 spuelerparts.com # 2026-09-14
+0.0.0.0 steinweltgmbh.com # 2026-09-14
+0.0.0.0 waffenhandeldepot.com # 2026-09-14
+0.0.0.0 warenkurator.com # 2026-09-14
+0.0.0.0 wpwelt-pelletsgmbh.de # 2026-09-14
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34632,6 +34676,10 @@
 0.0.0.0 airzuma.com # 2026-09-11
 0.0.0.0 diploms.de # 2026-09-11
 0.0.0.0 pilotentest-vorbereitung.com # 2026-09-11
+0.0.0.0 berggrat.com # 2026-09-14
+0.0.0.0 norenze.com # 2026-09-14
+0.0.0.0 vpu-vorbereitung.com # 2026-09-14
+0.0.0.0 vpu-vorbereitung.online # 2026-09-14
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34860,7 +34908,9 @@
 0.0.0.0 finanzen.075756.net # 2026-09-10
 0.0.0.0 kundenservice-flatex.at # 2026-09-10
 0.0.0.0 novambients.de # 2026-09-10
-0.0.0.0 bmfflnanzonline.net # 2026-09-11
+0.0.0.0 bmfflnanzonline.net # 2026-09-14
+0.0.0.0 bmfflnanzonlinegv.net # 2026-09-14
+0.0.0.0 f.075756.net # 2026-09-14
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35147,6 +35197,7 @@
 0.0.0.0 novasparkling.com # 2026-08-28
 0.0.0.0 novavitalia.io # 2026-08-31
 0.0.0.0 air.diet # 2026-09-09
+0.0.0.0 mietsofort.de # 2026-09-14
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35520,6 +35571,7 @@
 0.0.0.0 arandi-tech.com # 2026-09-08
 0.0.0.0 voeller-it.solutions # 2026-09-08
 0.0.0.0 gfn-north.de # 2026-09-09
+0.0.0.0 kadenzwerk.de # 2026-09-14
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -35841,6 +35893,7 @@
 0.0.0.0 kanzleitreuhand.com # 2026-08-25
 0.0.0.0 kronbergpartner.com # 2026-08-26
 0.0.0.0 schwartz-kollegen.com # 2026-08-31
+0.0.0.0 benzing-kollegen.de # 2026-09-14
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -36302,4 +36355,6 @@
 0.0.0.0 babymio-tirol.com # 2026-08-24
 0.0.0.0 salzburgerhof-dienten.com # 2026-08-31
 0.0.0.0 regsvsemptbr-upadttody.com # 2026-09-10
+0.0.0.0 dresdnerhuette.de # 2026-09-14
+0.0.0.0 landhotel-wachau.de # 2026-09-14
 
