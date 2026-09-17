@@ -1879,6 +1879,7 @@
 0.0.0.0 aureliustrust.uk # 2026-09-11
 0.0.0.0 bcls-assets.com # 2026-09-11
 0.0.0.0 clearmarket-europe.com # 2026-09-11
+0.0.0.0 aqrde.com # 2026-09-15
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26960,6 +26961,22 @@
 0.0.0.0 waffenhandeldepot.com # 2026-09-14
 0.0.0.0 warenkurator.com # 2026-09-14
 0.0.0.0 wpwelt-pelletsgmbh.de # 2026-09-14
+0.0.0.0 at.mur-shop.com # 2026-09-15
+0.0.0.0 brennholz-de.com # 2026-09-15
+0.0.0.0 dichzeltstore.com # 2026-09-15
+0.0.0.0 eichemarkt.de # 2026-09-15
+0.0.0.0 forstbedarf-blessing.de # 2026-09-15
+0.0.0.0 gblkaufen.net # 2026-09-15
+0.0.0.0 gentlemanmagazin.de # 2026-09-15
+0.0.0.0 hshndxdi.shop # 2026-09-15
+0.0.0.0 kaminholzdirekt.ch # 2026-09-15
+0.0.0.0 recognitioy.com # 2026-09-15
+0.0.0.0 saatundblatt.com # 2026-09-15
+0.0.0.0 schaltstellecontainer.at # 2026-09-15
+0.0.0.0 snjdueu.shop # 2026-09-15
+0.0.0.0 stockerwiesen.de # 2026-09-15
+0.0.0.0 sunseller-shop.de # 2026-09-15
+0.0.0.0 wohnwerkos.de # 2026-09-15
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34680,6 +34697,9 @@
 0.0.0.0 norenze.com # 2026-09-14
 0.0.0.0 vpu-vorbereitung.com # 2026-09-14
 0.0.0.0 vpu-vorbereitung.online # 2026-09-14
+0.0.0.0 drohnenklar.com # 2026-09-15
+0.0.0.0 getkaveo.com # 2026-09-15
+0.0.0.0 haus-lorenz.com # 2026-09-15
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35198,6 +35218,7 @@
 0.0.0.0 novavitalia.io # 2026-08-31
 0.0.0.0 air.diet # 2026-09-09
 0.0.0.0 mietsofort.de # 2026-09-14
+0.0.0.0 fitness-walk.com # 2026-09-15
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
