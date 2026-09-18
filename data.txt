@@ -1880,6 +1880,7 @@
 0.0.0.0 bcls-assets.com # 2026-09-11
 0.0.0.0 clearmarket-europe.com # 2026-09-11
 0.0.0.0 aqrde.com # 2026-09-15
+0.0.0.0 nobilis-kredit.com # 2026-09-16
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26977,6 +26978,26 @@
 0.0.0.0 stockerwiesen.de # 2026-09-15
 0.0.0.0 sunseller-shop.de # 2026-09-15
 0.0.0.0 wohnwerkos.de # 2026-09-15
+0.0.0.0 abschminken.com # 2026-09-16
+0.0.0.0 aromaticoshop.com # 2026-09-16
+0.0.0.0 astbrennholz.com # 2026-09-16
+0.0.0.0 audioalltagsmart.com # 2026-09-16
+0.0.0.0 dankers-containers.de # 2026-09-16
+0.0.0.0 familiealltagkinder.com # 2026-09-16
+0.0.0.0 fvldglnd.shop # 2026-09-16
+0.0.0.0 gartenexperte24.com # 2026-09-16
+0.0.0.0 globetrotterde.com # 2026-09-16
+0.0.0.0 haussteueru.com # 2026-09-16
+0.0.0.0 horntools.shop # 2026-09-16
+0.0.0.0 materialbearbeitung.com # 2026-09-16
+0.0.0.0 merrellschuhe.com # 2026-09-16
+0.0.0.0 motorradwelt24.com # 2026-09-16
+0.0.0.0 qqyxygag.shop # 2026-09-16
+0.0.0.0 riccardorricci.com # 2026-09-16
+0.0.0.0 schraubenschlussel.com # 2026-09-16
+0.0.0.0 singers.co.at # 2026-09-16
+0.0.0.0 tamsolar.de # 2026-09-16
+0.0.0.0 xkolzxhs.shop # 2026-09-16
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34700,6 +34721,11 @@
 0.0.0.0 drohnenklar.com # 2026-09-15
 0.0.0.0 getkaveo.com # 2026-09-15
 0.0.0.0 haus-lorenz.com # 2026-09-15
+0.0.0.0 hausofmode.de # 2026-09-16
+0.0.0.0 hundcalm.store # 2026-09-16
+0.0.0.0 sleepmoon.de # 2026-09-16
+0.0.0.0 vertacura.com # 2026-09-16
+0.0.0.0 vpu-hilfe.at # 2026-09-16
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34931,6 +34957,7 @@
 0.0.0.0 bmfflnanzonline.net # 2026-09-14
 0.0.0.0 bmfflnanzonlinegv.net # 2026-09-14
 0.0.0.0 f.075756.net # 2026-09-14
+0.0.0.0 bmf-gv-finanzonline.titanschrauben.info # 2026-09-16
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35593,6 +35620,7 @@
 0.0.0.0 voeller-it.solutions # 2026-09-08
 0.0.0.0 gfn-north.de # 2026-09-09
 0.0.0.0 kadenzwerk.de # 2026-09-14
+0.0.0.0 egasoft-digital.com # 2026-09-16
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
