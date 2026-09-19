@@ -1881,6 +1881,8 @@
 0.0.0.0 clearmarket-europe.com # 2026-09-11
 0.0.0.0 aqrde.com # 2026-09-15
 0.0.0.0 nobilis-kredit.com # 2026-09-16
+0.0.0.0 p-ep.com # 2026-09-17
+0.0.0.0 snelkreditet.com # 2026-09-17
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26998,6 +27000,21 @@
 0.0.0.0 singers.co.at # 2026-09-16
 0.0.0.0 tamsolar.de # 2026-09-16
 0.0.0.0 xkolzxhs.shop # 2026-09-16
+0.0.0.0 apotheke-zaversko.shop # 2026-09-17
+0.0.0.0 bucinator.shop # 2026-09-17
+0.0.0.0 gbkirchwerder.com # 2026-09-17
+0.0.0.0 golderstarbeer.com # 2026-09-17
+0.0.0.0 haushalts-fuchs.de # 2026-09-17
+0.0.0.0 lkntransport.com # 2026-09-17
+0.0.0.0 medizinversand24.com # 2026-09-17
+0.0.0.0 montagereparaturbohren.com # 2026-09-17
+0.0.0.0 shop.hochocl.shop # 2026-09-17
+0.0.0.0 shop.rzerzed.shop # 2026-09-17
+0.0.0.0 smangeln.de # 2026-09-17
+0.0.0.0 swabytec24.de # 2026-09-17
+0.0.0.0 tee-shopo.shop # 2026-09-17
+0.0.0.0 tpmgbike.com # 2026-09-17
+0.0.0.0 wfk-klimatechnik.com # 2026-09-17
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34726,6 +34743,10 @@
 0.0.0.0 sleepmoon.de # 2026-09-16
 0.0.0.0 vertacura.com # 2026-09-16
 0.0.0.0 vpu-hilfe.at # 2026-09-16
+0.0.0.0 annett-mode.com # 2026-09-17
+0.0.0.0 aureliawien.com # 2026-09-17
+0.0.0.0 johannawien.com # 2026-09-17
+0.0.0.0 kleefmode.nl # 2026-09-17
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34958,6 +34979,7 @@
 0.0.0.0 bmfflnanzonlinegv.net # 2026-09-14
 0.0.0.0 f.075756.net # 2026-09-14
 0.0.0.0 bmf-gv-finanzonline.titanschrauben.info # 2026-09-16
+0.0.0.0 ww2-gv.bmf-at.com # 2026-09-17
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
