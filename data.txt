@@ -1887,6 +1887,9 @@
 0.0.0.0 ouces.heuristicreview.company # 2026-09-18
 0.0.0.0 p-ep.org # 2026-09-18
 0.0.0.0 trusty-eu.com # 2026-09-18
+0.0.0.0 bitmart.com # 2026-09-21
+0.0.0.0 poiago.com # 2026-09-21
+0.0.0.0 truof.com # 2026-09-21
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -26705,7 +26708,6 @@
 0.0.0.0 twerlab.shop # 2026-08-24
 0.0.0.0 uxkvjfer.shop # 2026-08-24
 0.0.0.0 vitalogen.de # 2026-08-24
-0.0.0.0 vpufuchs.com # 2026-08-24
 0.0.0.0 xbfxsrqx.shop # 2026-08-24
 0.0.0.0 bikeboxstore.com # 2026-08-25
 0.0.0.0 bvbfussballtrikots.de # 2026-08-25
@@ -27031,6 +27033,32 @@
 0.0.0.0 rascassesas.com # 2026-09-18
 0.0.0.0 the-culinology.com # 2026-09-18
 0.0.0.0 wenndennpelletsgmbh.de # 2026-09-18
+0.0.0.0 atv-gartengerate.de # 2026-09-21
+0.0.0.0 aurapurezza.com # 2026-09-21
+0.0.0.0 austria-alpine-chalets.com # 2026-09-21
+0.0.0.0 componentsantrieb.com # 2026-09-21
+0.0.0.0 depot-official.com # 2026-09-21
+0.0.0.0 e-fahrrader.store # 2026-09-21
+0.0.0.0 gepackrad.com # 2026-09-21
+0.0.0.0 hallosolarfreund.com # 2026-09-21
+0.0.0.0 hardwarecables.com # 2026-09-21
+0.0.0.0 heaism.com # 2026-09-21
+0.0.0.0 hygienecareshop.com # 2026-09-21
+0.0.0.0 kkholz.at # 2026-09-21
+0.0.0.0 laneiges.at # 2026-09-21
+0.0.0.0 mall.gresholm.com # 2026-09-21
+0.0.0.0 market.stonebournea.com # 2026-09-21
+0.0.0.0 sanitaetshausshop.com # 2026-09-21
+0.0.0.0 sanitatsbedarf24.com # 2026-09-21
+0.0.0.0 sarasohaus.com # 2026-09-21
+0.0.0.0 scarpa-de.myshopify.com # 2026-09-21
+0.0.0.0 stiefelvia.com # 2026-09-21
+0.0.0.0 store.kingslora.com # 2026-09-21
+0.0.0.0 trendartikelwelt.de # 2026-09-21
+0.0.0.0 vxjskiy.shop # 2026-09-21
+0.0.0.0 wbdhyer.shop # 2026-09-21
+0.0.0.0 willms-forsttechnik.de # 2026-09-21
+0.0.0.0 wxvhdvud.shop # 2026-09-21
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -29349,7 +29377,6 @@
 0.0.0.0 rayfulcrystal.com # 2023-02-15
 0.0.0.0 recreatione.com # 2023-02-15
 0.0.0.0 reflectionu.com # 2023-02-15
-0.0.0.0 registerp.com # 2023-02-15
 0.0.0.0 relevantf.com # 2023-02-15
 0.0.0.0 resemblancey.com # 2023-02-15
 0.0.0.0 simplicityt.com # 2023-02-15
@@ -34764,6 +34791,10 @@
 0.0.0.0 johannawien.com # 2026-09-17
 0.0.0.0 kleefmode.nl # 2026-09-17
 0.0.0.0 vpudoktor.com # 2026-09-18
+0.0.0.0 de.shopmaxxs.com # 2026-09-21
+0.0.0.0 kletternberg.com # 2026-09-21
+0.0.0.0 louvana.de # 2026-09-21
+0.0.0.0 vpufuchs.com # 2026-09-21
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -34997,6 +35028,7 @@
 0.0.0.0 f.075756.net # 2026-09-14
 0.0.0.0 bmf-gv-finanzonline.titanschrauben.info # 2026-09-16
 0.0.0.0 ww2-gv.bmf-at.com # 2026-09-17
+0.0.0.0 flnanzonlinebmfgv.net # 2026-09-21
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35285,6 +35317,7 @@
 0.0.0.0 air.diet # 2026-09-09
 0.0.0.0 mietsofort.de # 2026-09-14
 0.0.0.0 fitness-walk.com # 2026-09-15
+0.0.0.0 todayhealthmatters.com # 2026-09-21
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35660,6 +35693,7 @@
 0.0.0.0 gfn-north.de # 2026-09-09
 0.0.0.0 kadenzwerk.de # 2026-09-14
 0.0.0.0 egasoft-digital.com # 2026-09-16
+0.0.0.0 rh3e2v9ia.com # 2026-09-21
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -35836,6 +35870,8 @@
 0.0.0.0 notgas-installationen.at # 2026-08-21
 0.0.0.0 mr-schluessel24.at # 2026-08-28
 0.0.0.0 rolladen-rudolf.at # 2026-09-11
+0.0.0.0 herbertsrundumhausservice.at # 2026-09-21
+0.0.0.0 installateur-meister-plus-notdienst-24h-linz-plus.jimdosite.com # 2026-09-21
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -35982,6 +36018,9 @@
 0.0.0.0 kronbergpartner.com # 2026-08-26
 0.0.0.0 schwartz-kollegen.com # 2026-08-31
 0.0.0.0 benzing-kollegen.de # 2026-09-14
+0.0.0.0 fait-recht.de # 2026-09-21
+0.0.0.0 hamburg-treuhand.com # 2026-09-21
+0.0.0.0 kanzlei-focken.de # 2026-09-21
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -36445,4 +36484,5 @@
 0.0.0.0 regsvsemptbr-upadttody.com # 2026-09-10
 0.0.0.0 dresdnerhuette.de # 2026-09-14
 0.0.0.0 landhotel-wachau.de # 2026-09-14
+0.0.0.0 zuchalets.com # 2026-09-21
 
