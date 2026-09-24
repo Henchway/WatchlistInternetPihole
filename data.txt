@@ -27059,6 +27059,21 @@
 0.0.0.0 wbdhyer.shop # 2026-09-21
 0.0.0.0 willms-forsttechnik.de # 2026-09-21
 0.0.0.0 wxvhdvud.shop # 2026-09-21
+0.0.0.0 agroelementgmbh.de # 2026-09-22
+0.0.0.0 bauer-brennstoffe.com # 2026-09-22
+0.0.0.0 brennholzorgler.at # 2026-09-22
+0.0.0.0 daikigreenmart.com # 2026-09-22
+0.0.0.0 electrodinc.com # 2026-09-22
+0.0.0.0 fixardo.de # 2026-09-22
+0.0.0.0 hugrarqf.shop # 2026-09-22
+0.0.0.0 iavkqjlv.shop # 2026-09-22
+0.0.0.0 kindderstidt.com # 2026-09-22
+0.0.0.0 laboutiqueherbal.store # 2026-09-22
+0.0.0.0 lwf-energy.com # 2026-09-22
+0.0.0.0 mkkrcwss.shop # 2026-09-22
+0.0.0.0 pelletpoint77gmbh.de # 2026-09-22
+0.0.0.0 walkingmats.com # 2026-09-22
+0.0.0.0 yznjrzaw.shop # 2026-09-22
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34795,6 +34810,7 @@
 0.0.0.0 kletternberg.com # 2026-09-21
 0.0.0.0 louvana.de # 2026-09-21
 0.0.0.0 vpufuchs.com # 2026-09-21
+0.0.0.0 layer-care.com # 2026-09-22
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35318,6 +35334,8 @@
 0.0.0.0 mietsofort.de # 2026-09-14
 0.0.0.0 fitness-walk.com # 2026-09-15
 0.0.0.0 todayhealthmatters.com # 2026-09-21
+0.0.0.0 besseregesundheitbp-at.com # 2026-09-22
+0.0.0.0 mensorium.com # 2026-09-22
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -36021,6 +36039,8 @@
 0.0.0.0 fait-recht.de # 2026-09-21
 0.0.0.0 hamburg-treuhand.com # 2026-09-21
 0.0.0.0 kanzlei-focken.de # 2026-09-21
+0.0.0.0 amtsgerichtfussen.de # 2026-09-22
+0.0.0.0 suhrer-law.de # 2026-09-22
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
