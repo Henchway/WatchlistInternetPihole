@@ -16402,7 +16402,6 @@
 0.0.0.0 gartengreifer.de # 2024-12-12
 0.0.0.0 weekdeals.store # 2024-12-12
 0.0.0.0 wolf-zart.com # 2024-12-12
-0.0.0.0 e-bib.horse # 2024-12-13
 0.0.0.0 finalsales.shop # 2024-12-13
 0.0.0.0 jardensofficial.com # 2024-12-13
 0.0.0.0 mightyufnderground.shop # 2024-12-13
@@ -23406,7 +23405,6 @@
 0.0.0.0 esell55.shop # 2025-11-19
 0.0.0.0 giessweinsneaker.com # 2025-11-19
 0.0.0.0 kicksdunk.com # 2025-11-19
-0.0.0.0 nestkraft.de # 2025-11-19
 0.0.0.0 novatrustmarket.com # 2025-11-19
 0.0.0.0 nyhead.bookfocus.surf # 2025-11-19
 0.0.0.0 shopnavali.com # 2025-11-19
@@ -26737,7 +26735,6 @@
 0.0.0.0 on-at.myshoplaza.com # 2026-08-26
 0.0.0.0 onlinetoolsale.com # 2026-08-26
 0.0.0.0 pekira.de # 2026-08-26
-0.0.0.0 skysupp.com # 2026-08-26
 0.0.0.0 sun-seller.com # 2026-08-26
 0.0.0.0 uffpeeet.shop # 2026-08-26
 0.0.0.0 wsbrennholzoberberg-gmbh-de.com # 2026-08-26
@@ -27082,6 +27079,23 @@
 0.0.0.0 mini-modellerstellung.com # 2026-09-23
 0.0.0.0 pgmgcved.shop # 2026-09-23
 0.0.0.0 shupnatuvisan.com # 2026-09-23
+0.0.0.0 airobotsupplier.com # 2026-09-24
+0.0.0.0 aplamzelte.de # 2026-09-24
+0.0.0.0 bakuchiol.online # 2026-09-24
+0.0.0.0 blacktridents.shop # 2026-09-24
+0.0.0.0 currentbodyaustria.com # 2026-09-24
+0.0.0.0 ds24-handel.de # 2026-09-24
+0.0.0.0 eu-segway.com # 2026-09-24
+0.0.0.0 fineweine.com # 2026-09-24
+0.0.0.0 heizoel-genial.com # 2026-09-24
+0.0.0.0 kaminholz-erzgebirge.com # 2026-09-24
+0.0.0.0 maschinenbau-stripegmbh.de # 2026-09-24
+0.0.0.0 onlineeinkaufswelt.com # 2026-09-24
+0.0.0.0 rsholzgmbh.de # 2026-09-24
+0.0.0.0 schuhkomfort.shop # 2026-09-24
+0.0.0.0 stubenlatschen.com # 2026-09-24
+0.0.0.0 vsgdew.shop # 2026-09-24
+0.0.0.0 weimar-maschine.de # 2026-09-24
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34822,6 +34836,7 @@
 0.0.0.0 drpengermany.com # 2026-09-23
 0.0.0.0 halcyonlabel.com # 2026-09-23
 0.0.0.0 mooro.co # 2026-09-23
+0.0.0.0 skysupp.com # 2026-09-24
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35349,6 +35364,7 @@
 0.0.0.0 besseregesundheitbp-at.com # 2026-09-22
 0.0.0.0 mensorium.com # 2026-09-22
 0.0.0.0 iqcenter.com # 2026-09-23
+0.0.0.0 evinjeta-slovenia.listocar.com # 2026-09-24
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -36055,6 +36071,7 @@
 0.0.0.0 amtsgerichtfussen.de # 2026-09-22
 0.0.0.0 suhrer-law.de # 2026-09-22
 0.0.0.0 anwaltskanzlei-ganzer.de # 2026-09-23
+0.0.0.0 seidel-kanzlei.de # 2026-09-24
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
