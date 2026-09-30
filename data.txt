@@ -1589,7 +1589,6 @@
 0.0.0.0 naspersworldsmarket.com # 2026-01-29
 0.0.0.0 client.vertorise.com # 2026-01-30
 0.0.0.0 herokred.com # 2026-01-30
-0.0.0.0 melvaria.shop # 2026-01-30
 0.0.0.0 kredygo.ch # 2026-01-31
 0.0.0.0 erviagas.sbs # 2026-02-04
 0.0.0.0 tradetoinvest.com # 2026-02-04
@@ -1889,6 +1888,8 @@
 0.0.0.0 bitmart.com # 2026-09-21
 0.0.0.0 poiago.com # 2026-09-21
 0.0.0.0 truof.com # 2026-09-21
+0.0.0.0 behappy.exchange # 2026-09-28
+0.0.0.0 themayerbrown.com # 2026-09-28
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -25873,7 +25874,6 @@
 0.0.0.0 maatfusion.com # 2026-06-24
 0.0.0.0 mnsjmwyt.shop # 2026-06-24
 0.0.0.0 skisurfsports.com # 2026-06-24
-0.0.0.0 berg-fit.de # 2026-06-25
 0.0.0.0 bxhdui.shop # 2026-06-25
 0.0.0.0 edelkakao.com # 2026-06-25
 0.0.0.0 grlavfta.shop # 2026-06-25
@@ -27100,6 +27100,37 @@
 0.0.0.0 volturexa.de # 2026-09-25
 0.0.0.0 weinvielfalt.shop # 2026-09-25
 0.0.0.0 xlorventa.shop # 2026-09-25
+0.0.0.0 3ddruckwerk.shop # 2026-09-28
+0.0.0.0 alpentrailschuhe.myshoplaza.com # 2026-09-28
+0.0.0.0 at.habgm.shop # 2026-09-28
+0.0.0.0 borde-brennholzpaulusgmbh.com # 2026-09-28
+0.0.0.0 brennholzauswahl.at # 2026-09-28
+0.0.0.0 coisne-industrie.com # 2026-09-28
+0.0.0.0 crasser-maschinen.com # 2026-09-28
+0.0.0.0 defriluftsimfreien.com # 2026-09-28
+0.0.0.0 dewskdt.shop # 2026-09-28
+0.0.0.0 driveeliteparts.com # 2026-09-28
+0.0.0.0 eshop.dealmarketzeny.com # 2026-09-28
+0.0.0.0 eshop.stonebournea.com # 2026-09-28
+0.0.0.0 eshop.stonebournea.com. # 2026-09-28
+0.0.0.0 garten-pool-bedarf.com # 2026-09-28
+0.0.0.0 gmpdgagv.shop # 2026-09-28
+0.0.0.0 haushaltwelt.com # 2026-09-28
+0.0.0.0 helvaron.shop # 2026-09-28
+0.0.0.0 holzgluck.de # 2026-09-28
+0.0.0.0 kaffeemacher.shop # 2026-09-28
+0.0.0.0 kdnf.shop # 2026-09-28
+0.0.0.0 kryostore.store # 2026-09-28
+0.0.0.0 massagestimulus.com # 2026-09-28
+0.0.0.0 meistersort.com # 2026-09-28
+0.0.0.0 mylovecosmetic.de # 2026-09-28
+0.0.0.0 nordseefrisch.de # 2026-09-28
+0.0.0.0 profiwerkbedarf.com # 2026-09-28
+0.0.0.0 skefxfuv.shop # 2026-09-28
+0.0.0.0 st-anhanger.com # 2026-09-28
+0.0.0.0 stormer-anhanger.com # 2026-09-28
+0.0.0.0 techspray-electrolube.com # 2026-09-28
+0.0.0.0 xydsowyz.shop # 2026-09-28
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34848,6 +34879,12 @@
 0.0.0.0 kovali.de # 2026-09-25
 0.0.0.0 madelinemunchen.com # 2026-09-25
 0.0.0.0 primeoffer.de # 2026-09-25
+0.0.0.0 berg-blum.de # 2026-09-28
+0.0.0.0 berg-fit.de # 2026-09-28
+0.0.0.0 glorella.de # 2026-09-28
+0.0.0.0 heilbronnmodehaus.de # 2026-09-28
+0.0.0.0 jogccres.com # 2026-09-28
+0.0.0.0 melvaria.shop # 2026-09-28
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35753,6 +35790,8 @@
 0.0.0.0 kadenzwerk.de # 2026-09-14
 0.0.0.0 egasoft-digital.com # 2026-09-16
 0.0.0.0 rh3e2v9ia.com # 2026-09-21
+0.0.0.0 ber-beratung.de # 2026-09-28
+0.0.0.0 fitneed.top # 2026-09-28
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
