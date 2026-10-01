@@ -27131,6 +27131,22 @@
 0.0.0.0 stormer-anhanger.com # 2026-09-28
 0.0.0.0 techspray-electrolube.com # 2026-09-28
 0.0.0.0 xydsowyz.shop # 2026-09-28
+0.0.0.0 anhanger-shopsey.com # 2026-09-29
+0.0.0.0 anhangermarkt.com # 2026-09-29
+0.0.0.0 containersolutionscs.de # 2026-09-29
+0.0.0.0 drehmoment-shop.com # 2026-09-29
+0.0.0.0 ebikezeit-fahrrad.de # 2026-09-29
+0.0.0.0 harmtonyambientehot.com # 2026-09-29
+0.0.0.0 mb-trailer-shop.com # 2026-09-29
+0.0.0.0 nefrevbz.shop # 2026-09-29
+0.0.0.0 polaroids.at # 2026-09-29
+0.0.0.0 prikoqueron.com # 2026-09-29
+0.0.0.0 rasengereate.com # 2026-09-29
+0.0.0.0 redas-prikolica.com # 2026-09-29
+0.0.0.0 sonnwerkshop.de # 2026-09-29
+0.0.0.0 toniesrabattde.com # 2026-09-29
+0.0.0.0 tophomeonlineshop.com # 2026-09-29
+0.0.0.0 yanitransport.com # 2026-09-29
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35121,6 +35137,9 @@
 0.0.0.0 flnanzonlinebmfgv.net # 2026-09-21
 0.0.0.0 finanzonline.bmf-gvat.com # 2026-09-23
 0.0.0.0 jetzt-beantragen.com # 2026-09-25
+0.0.0.0 barnkingvolksbank-at.org # 2026-09-29
+0.0.0.0 finanzonline-portal4.net # 2026-09-29
+0.0.0.0 kry.fewxc.com # 2026-09-29
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35792,6 +35811,7 @@
 0.0.0.0 rh3e2v9ia.com # 2026-09-21
 0.0.0.0 ber-beratung.de # 2026-09-28
 0.0.0.0 fitneed.top # 2026-09-28
+0.0.0.0 aduno-agentur.de # 2026-09-29
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
