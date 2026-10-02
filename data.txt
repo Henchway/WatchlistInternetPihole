@@ -1890,6 +1890,7 @@
 0.0.0.0 truof.com # 2026-09-21
 0.0.0.0 behappy.exchange # 2026-09-28
 0.0.0.0 themayerbrown.com # 2026-09-28
+0.0.0.0 cgptsystem.com # 2026-09-30
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27147,6 +27148,17 @@
 0.0.0.0 toniesrabattde.com # 2026-09-29
 0.0.0.0 tophomeonlineshop.com # 2026-09-29
 0.0.0.0 yanitransport.com # 2026-09-29
+0.0.0.0 cxwauxbw.shop # 2026-09-30
+0.0.0.0 datenfin.de # 2026-09-30
+0.0.0.0 deebikespares.com # 2026-09-30
+0.0.0.0 fxyoexem.shop # 2026-09-30
+0.0.0.0 jet2trips.com # 2026-09-30
+0.0.0.0 lipvogue.com # 2026-09-30
+0.0.0.0 obolapvw.shop # 2026-09-30
+0.0.0.0 rememberdeshop.com # 2026-09-30
+0.0.0.0 streetwearmode.shop # 2026-09-30
+0.0.0.0 tchibomode.com # 2026-09-30
+0.0.0.0 xjyehli.shop # 2026-09-30
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34901,6 +34913,8 @@
 0.0.0.0 heilbronnmodehaus.de # 2026-09-28
 0.0.0.0 jogccres.com # 2026-09-28
 0.0.0.0 melvaria.shop # 2026-09-28
+0.0.0.0 koalaknirpse.de # 2026-09-30
+0.0.0.0 roseonsix.com # 2026-09-30
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36607,4 +36621,5 @@
 0.0.0.0 dresdnerhuette.de # 2026-09-14
 0.0.0.0 landhotel-wachau.de # 2026-09-14
 0.0.0.0 zuchalets.com # 2026-09-21
+0.0.0.0 berghuetten-traum.de # 2026-09-30
 
