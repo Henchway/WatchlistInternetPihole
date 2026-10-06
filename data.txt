@@ -35179,6 +35179,7 @@
 0.0.0.0 ooniuk.shop # 2026-10-01
 0.0.0.0 adc0219647979.page.link # 2026-10-02
 0.0.0.0 practical-ptolemy.165-154-212-39.plesk.page # 2026-10-02
+0.0.0.0 klima-zuschuss-2026.cc # 2026-10-04
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
