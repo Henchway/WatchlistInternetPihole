@@ -1891,12 +1891,13 @@
 0.0.0.0 themayerbrown.com # 2026-09-28
 0.0.0.0 cgptsystem.com # 2026-09-30
 0.0.0.0 clearmarket-europe.com # 2026-10-01
-0.0.0.0 stig-international.com # 2026-10-01
 0.0.0.0 iron-bridgemarkets.com # 2026-10-02
 0.0.0.0 trader.iron-bridgemarkets.com # 2026-10-02
 0.0.0.0 coin-base.coinbasefxo.com # 2026-10-05
 0.0.0.0 primemt5.de # 2026-10-05
 0.0.0.0 stellio.limited # 2026-10-05
+0.0.0.0 coinmindz.com # 2026-10-06
+0.0.0.0 stig-international.com # 2026-10-06
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27222,6 +27223,26 @@
 0.0.0.0 willmsshop.com # 2026-10-05
 0.0.0.0 wlybpt.com # 2026-10-05
 0.0.0.0 zelioius.com # 2026-10-05
+0.0.0.0 bestcoiffureshop.com # 2026-10-06
+0.0.0.0 bikeanbauteile.com # 2026-10-06
+0.0.0.0 digimotive.store # 2026-10-06
+0.0.0.0 fastgerm.com # 2026-10-06
+0.0.0.0 gartenfee.shop # 2026-10-06
+0.0.0.0 kaffeeaktionen.com # 2026-10-06
+0.0.0.0 klangmosaik.com # 2026-10-06
+0.0.0.0 klassereparaturmontage.com # 2026-10-06
+0.0.0.0 lessismoro.shop # 2026-10-06
+0.0.0.0 musikinstrumentes.com # 2026-10-06
+0.0.0.0 my-garden-store.com # 2026-10-06
+0.0.0.0 paulgreensale.com # 2026-10-06
+0.0.0.0 paulgreenshoes.com # 2026-10-06
+0.0.0.0 profiswerkzeuge.com # 2026-10-06
+0.0.0.0 protektorenprofi.shop # 2026-10-06
+0.0.0.0 rullendiscount.com # 2026-10-06
+0.0.0.0 silberthil.com # 2026-10-06
+0.0.0.0 silmerthal.com # 2026-10-06
+0.0.0.0 tischprofi.com # 2026-10-06
+0.0.0.0 xkmtmsgm.shop # 2026-10-06
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34993,6 +35014,8 @@
 0.0.0.0 veluna-skin.com # 2026-10-05
 0.0.0.0 vilmaro.de # 2026-10-05
 0.0.0.0 wittenwald.de # 2026-10-05
+0.0.0.0 celluweg.de # 2026-10-06
+0.0.0.0 wakudelou.com # 2026-10-06
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35237,6 +35260,8 @@
 0.0.0.0 adc0219647979.page.link # 2026-10-02
 0.0.0.0 practical-ptolemy.165-154-212-39.plesk.page # 2026-10-02
 0.0.0.0 klima-zuschuss-2026.cc # 2026-10-04
+0.0.0.0 umrechnung.mdhsh.com # 2026-10-06
+0.0.0.0 wko.com # 2026-10-06
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -36248,6 +36273,9 @@
 0.0.0.0 gerloff-partner.com # 2026-10-02
 0.0.0.0 osterhagen-partner.com # 2026-10-02
 0.0.0.0 westphal-partner.com # 2026-10-02
+0.0.0.0 bandlundpartner.de # 2026-10-06
+0.0.0.0 koppe-collegen.de # 2026-10-06
+0.0.0.0 re-hartmann.de # 2026-10-06
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
