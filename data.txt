@@ -1897,7 +1897,9 @@
 0.0.0.0 primemt5.de # 2026-10-05
 0.0.0.0 stellio.limited # 2026-10-05
 0.0.0.0 coinmindz.com # 2026-10-06
-0.0.0.0 stig-international.com # 2026-10-06
+0.0.0.0 efcanews.de # 2026-10-07
+0.0.0.0 stig-international.com # 2026-10-07
+0.0.0.0 teslacoininc.org # 2026-10-07
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -7053,7 +7055,6 @@
 0.0.0.0 thuer-gmbh.at # 2022-10-17
 0.0.0.0 toertchen.at # 2022-10-17
 0.0.0.0 tomickg.at # 2022-10-17
-0.0.0.0 tremel.at # 2022-10-17
 0.0.0.0 truckerclub.at # 2022-10-17
 0.0.0.0 uhren-beweger.at # 2022-10-17
 0.0.0.0 uhrsprung-bar.at # 2022-10-17
@@ -27243,6 +27244,20 @@
 0.0.0.0 silmerthal.com # 2026-10-06
 0.0.0.0 tischprofi.com # 2026-10-06
 0.0.0.0 xkmtmsgm.shop # 2026-10-06
+0.0.0.0 annaijofficial.shop # 2026-10-07
+0.0.0.0 bikehelfer.com # 2026-10-07
+0.0.0.0 bio-apode.com # 2026-10-07
+0.0.0.0 coreglp.com # 2026-10-07
+0.0.0.0 goodrumnhits.shop # 2026-10-07
+0.0.0.0 holzbrenn-stoffe.com # 2026-10-07
+0.0.0.0 iveldrano.com # 2026-10-07
+0.0.0.0 lamp-laboratory.com # 2026-10-07
+0.0.0.0 morenutritionde.store # 2026-10-07
+0.0.0.0 schuhelueke.com # 2026-10-07
+0.0.0.0 store.mavelimira.com # 2026-10-07
+0.0.0.0 wasserruderangebote.com # 2026-10-07
+0.0.0.0 werkstatt-teile.com # 2026-10-07
+0.0.0.0 zoogwshu.shop # 2026-10-07
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35016,6 +35031,7 @@
 0.0.0.0 wittenwald.de # 2026-10-05
 0.0.0.0 celluweg.de # 2026-10-06
 0.0.0.0 wakudelou.com # 2026-10-06
+0.0.0.0 lea-frankfurt.com # 2026-10-07
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36276,6 +36292,7 @@
 0.0.0.0 bandlundpartner.de # 2026-10-06
 0.0.0.0 koppe-collegen.de # 2026-10-06
 0.0.0.0 re-hartmann.de # 2026-10-06
+0.0.0.0 niemann-kollegen.com # 2026-10-07
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
