@@ -1898,8 +1898,8 @@
 0.0.0.0 stellio.limited # 2026-10-05
 0.0.0.0 coinmindz.com # 2026-10-06
 0.0.0.0 efcanews.de # 2026-10-07
-0.0.0.0 stig-international.com # 2026-10-07
 0.0.0.0 teslacoininc.org # 2026-10-07
+0.0.0.0 vantex-bank.com # 2026-10-09
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27275,6 +27275,23 @@
 0.0.0.0 steadyhandtooling.com # 2026-10-08
 0.0.0.0 vcdlsports.com # 2026-10-08
 0.0.0.0 yjrrkocn.shop # 2026-10-08
+0.0.0.0 armine.live # 2026-10-09
+0.0.0.0 boatswassersport.com # 2026-10-09
+0.0.0.0 doglas.store # 2026-10-09
+0.0.0.0 gsb-grosshandel.com # 2026-10-09
+0.0.0.0 lasportiva-at.com # 2026-10-09
+0.0.0.0 leefaibazaar.shop # 2026-10-09
+0.0.0.0 lovemoglichinderlade.shop # 2026-10-09
+0.0.0.0 madegsly.com # 2026-10-09
+0.0.0.0 mecaneb.com # 2026-10-09
+0.0.0.0 moglichinderlademarket.shop # 2026-10-09
+0.0.0.0 nyvorahome.com # 2026-10-09
+0.0.0.0 picnicstoragebasket.com # 2026-10-09
+0.0.0.0 reynamobel.shop # 2026-10-09
+0.0.0.0 seidenblumen-ross.com # 2026-10-09
+0.0.0.0 store.elmleigha.com # 2026-10-09
+0.0.0.0 vitaminedirekt.com # 2026-10-09
+0.0.0.0 warenmarkt24.com # 2026-10-09
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34969,7 +34986,6 @@
 0.0.0.0 speechfaith.com # 2026-09-02
 0.0.0.0 sylvie-jacques.com # 2026-09-02
 0.0.0.0 gurdarao.com # 2026-09-03
-0.0.0.0 lasportiva-at.com # 2026-09-03
 0.0.0.0 mur-shop.com # 2026-09-03
 0.0.0.0 nahenwebshop.de # 2026-09-03
 0.0.0.0 toydoria.de # 2026-09-03
@@ -35052,6 +35068,9 @@
 0.0.0.0 brunnerversand.at # 2026-10-08
 0.0.0.0 miravago.com # 2026-10-08
 0.0.0.0 shopvivar.ch # 2026-10-08
+0.0.0.0 kaioticket.de # 2026-10-09
+0.0.0.0 knitla.com # 2026-10-09
+0.0.0.0 leonboutique.com # 2026-10-09
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35605,6 +35624,7 @@
 0.0.0.0 evinjeta-slovenia.listocar.com # 2026-09-24
 0.0.0.0 de.wwiqtest.com # 2026-10-08
 0.0.0.0 inspoy.com # 2026-10-08
+0.0.0.0 quitivo.com # 2026-10-09
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -35987,6 +36007,7 @@
 0.0.0.0 moeller-immobilien.net # 2026-10-02
 0.0.0.0 ddtenu.com # 2026-10-05
 0.0.0.0 vw-insights.de # 2026-10-08
+0.0.0.0 virenixtalentsearchs.com # 2026-10-09
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
