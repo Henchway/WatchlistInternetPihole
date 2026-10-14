@@ -1900,6 +1900,8 @@
 0.0.0.0 efcanews.de # 2026-10-07
 0.0.0.0 teslacoininc.org # 2026-10-07
 0.0.0.0 vantex-bank.com # 2026-10-09
+0.0.0.0 bulltrade24.com # 2026-10-12
+0.0.0.0 foundmallhub.com # 2026-10-12
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27292,6 +27294,31 @@
 0.0.0.0 store.elmleigha.com # 2026-10-09
 0.0.0.0 vitaminedirekt.com # 2026-10-09
 0.0.0.0 warenmarkt24.com # 2026-10-09
+0.0.0.0 a.mizuthread.com # 2026-10-12
+0.0.0.0 absjdte.shop # 2026-10-12
+0.0.0.0 adl.rqgbos.shop # 2026-10-12
+0.0.0.0 aplamzelte.com # 2026-10-12
+0.0.0.0 blautone.com # 2026-10-12
+0.0.0.0 branneramaoutlet.shop # 2026-10-12
+0.0.0.0 campinglagea.com # 2026-10-12
+0.0.0.0 cf-handelsshop.com # 2026-10-12
+0.0.0.0 fatooball.com # 2026-10-12
+0.0.0.0 fynyipnc.shop # 2026-10-12
+0.0.0.0 grillsetshop.com # 2026-10-12
+0.0.0.0 hifi-experten.com # 2026-10-12
+0.0.0.0 hirecker.com # 2026-10-12
+0.0.0.0 holzfurzuhause.de # 2026-10-12
+0.0.0.0 innsbruckapotheke24.com # 2026-10-12
+0.0.0.0 kerzendose.com # 2026-10-12
+0.0.0.0 kickpure.com # 2026-10-12
+0.0.0.0 kleinepassagiere.de # 2026-10-12
+0.0.0.0 lochs-oustria.shop # 2026-10-12
+0.0.0.0 motelamiio-sale.com # 2026-10-12
+0.0.0.0 nicoudo.com # 2026-10-12
+0.0.0.0 philoro.online # 2026-10-12
+0.0.0.0 qkblzvnk.shop # 2026-10-12
+0.0.0.0 ugytxzel.shop # 2026-10-12
+0.0.0.0 wuselhof.pro # 2026-10-12
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -34839,7 +34866,6 @@
 0.0.0.0 richterorthopadie.com # 2026-07-02
 0.0.0.0 criel.de # 2026-07-03
 0.0.0.0 handcrafted-magazine.com # 2026-07-06
-0.0.0.0 heim-trend.de # 2026-07-06
 0.0.0.0 hilifeshop.com # 2026-07-06
 0.0.0.0 leadbrass.com # 2026-07-06
 0.0.0.0 randaoma.com # 2026-07-06
@@ -35071,6 +35097,16 @@
 0.0.0.0 kaioticket.de # 2026-10-09
 0.0.0.0 knitla.com # 2026-10-09
 0.0.0.0 leonboutique.com # 2026-10-09
+0.0.0.0 dasspielderlust.de # 2026-10-12
+0.0.0.0 diespielwelt.de # 2026-10-12
+0.0.0.0 freudewing.de # 2026-10-12
+0.0.0.0 karnz.de # 2026-10-12
+0.0.0.0 lafirkin.com # 2026-10-12
+0.0.0.0 linden-atelier.com # 2026-10-12
+0.0.0.0 raumnote.de # 2026-10-12
+0.0.0.0 shopwecro.com # 2026-10-12
+0.0.0.0 vogel-lifestyle.com # 2026-10-12
+0.0.0.0 wiener-liebe.com # 2026-10-12
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35329,6 +35365,8 @@
 0.0.0.0 metrapsa.com # 2026-10-08
 0.0.0.0 servicejardina.com # 2026-10-08
 0.0.0.0 warmeholze.de # 2026-10-08
+0.0.0.0 klima-bonusat.com # 2026-10-12
+0.0.0.0 service-register.wonneproppen.at # 2026-10-12
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -36008,6 +36046,8 @@
 0.0.0.0 ddtenu.com # 2026-10-05
 0.0.0.0 vw-insights.de # 2026-10-08
 0.0.0.0 virenixtalentsearchs.com # 2026-10-09
+0.0.0.0 online-wissen.info # 2026-10-12
+0.0.0.0 vendis-solutions.net # 2026-10-12
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -36349,6 +36389,7 @@
 0.0.0.0 koppe-collegen.de # 2026-10-06
 0.0.0.0 re-hartmann.de # 2026-10-06
 0.0.0.0 niemann-kollegen.com # 2026-10-07
+0.0.0.0 vetter-law.de # 2026-10-12
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -36546,6 +36587,7 @@
 0.0.0.0 transport51.de # 2026-08-07
 0.0.0.0 alpenroute36.com # 2026-08-19
 0.0.0.0 slth-transport.de # 2026-09-03
+0.0.0.0 expresspaw.eu # 2026-10-12
 
 # Immobilienagenturen
 0.0.0.0 avalonbay-assets.com # 2021-01-05
@@ -36698,6 +36740,7 @@
 0.0.0.0 wohnliebe-berlin.de # 2025-12-26
 0.0.0.0 austrian-alps-chalets.com # 2026-02-04
 0.0.0.0 nestwohn.com # 2026-06-26
+0.0.0.0 fzwh.at # 2026-10-12
 
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
