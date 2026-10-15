@@ -1902,6 +1902,8 @@
 0.0.0.0 vantex-bank.com # 2026-10-09
 0.0.0.0 bulltrade24.com # 2026-10-12
 0.0.0.0 foundmallhub.com # 2026-10-12
+0.0.0.0 agifinanz.com # 2026-10-13
+0.0.0.0 alpenhoch.com # 2026-10-13
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27319,6 +27321,44 @@
 0.0.0.0 qkblzvnk.shop # 2026-10-12
 0.0.0.0 ugytxzel.shop # 2026-10-12
 0.0.0.0 wuselhof.pro # 2026-10-12
+0.0.0.0 aquariumzubehor24.com # 2026-10-13
+0.0.0.0 beaniieathub.shop # 2026-10-13
+0.0.0.0 birnerlandtechnik.com # 2026-10-13
+0.0.0.0 blackcatstore.de # 2026-10-13
+0.0.0.0 buyateaseonline.shop # 2026-10-13
+0.0.0.0 darfhundefutter.de # 2026-10-13
+0.0.0.0 diekleinehundeschule.de # 2026-10-13
+0.0.0.0 dreihundertdreizehn.de # 2026-10-13
+0.0.0.0 dreihundertpunkt.de # 2026-10-13
+0.0.0.0 dreodeutschland-de.com # 2026-10-13
+0.0.0.0 ehrmannliving.com # 2026-10-13
+0.0.0.0 fanoshop.de # 2026-10-13
+0.0.0.0 ggfrremg.shop # 2026-10-13
+0.0.0.0 gigabaseshop.de # 2026-10-13
+0.0.0.0 gosupps.com # 2026-10-13
+0.0.0.0 hananshop.de # 2026-10-13
+0.0.0.0 holzscheitenatur.com # 2026-10-13
+0.0.0.0 hundkatzefutter.com # 2026-10-13
+0.0.0.0 kaltesholz.com # 2026-10-13
+0.0.0.0 kamagrakaufenstore.de # 2026-10-13
+0.0.0.0 kukirins.co.at # 2026-10-13
+0.0.0.0 mallezeit.de # 2026-10-13
+0.0.0.0 meinehundekekse.de # 2026-10-13
+0.0.0.0 minicatwalk-de.com # 2026-10-13
+0.0.0.0 mobel-lenk.store # 2026-10-13
+0.0.0.0 morgenquelle.info # 2026-10-13
+0.0.0.0 onlineshopman.de # 2026-10-13
+0.0.0.0 pinliebe.shop # 2026-10-13
+0.0.0.0 reiterrabatt.de # 2026-10-13
+0.0.0.0 schenkwerk.shop # 2026-10-13
+0.0.0.0 schwarzkuem.com # 2026-10-13
+0.0.0.0 sevillafanshop.de # 2026-10-13
+0.0.0.0 shoppely.de # 2026-10-13
+0.0.0.0 shoppingsonate.de # 2026-10-13
+0.0.0.0 sortyniva.com # 2026-10-13
+0.0.0.0 taschenfan.com # 2026-10-13
+0.0.0.0 treibhausshop.de # 2026-10-13
+0.0.0.0 webshoplease.de # 2026-10-13
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35107,6 +35147,9 @@
 0.0.0.0 shopwecro.com # 2026-10-12
 0.0.0.0 vogel-lifestyle.com # 2026-10-12
 0.0.0.0 wiener-liebe.com # 2026-10-12
+0.0.0.0 byluminas.com # 2026-10-13
+0.0.0.0 leichtkraut.de # 2026-10-13
+0.0.0.0 rosenbergbasel.com # 2026-10-13
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
