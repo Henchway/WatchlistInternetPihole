@@ -27359,6 +27359,16 @@
 0.0.0.0 taschenfan.com # 2026-10-13
 0.0.0.0 treibhausshop.de # 2026-10-13
 0.0.0.0 webshoplease.de # 2026-10-13
+0.0.0.0 cqdawfor.shop # 2026-10-14
+0.0.0.0 eonfx.shop # 2026-10-14
+0.0.0.0 ewuyvw.shop # 2026-10-14
+0.0.0.0 goods.nnrfeecocen.shop # 2026-10-14
+0.0.0.0 kinokapture.myshopify.com # 2026-10-14
+0.0.0.0 mobile-nautik.com # 2026-10-14
+0.0.0.0 mysolis.shop # 2026-10-14
+0.0.0.0 solisliving.shop # 2026-10-14
+0.0.0.0 solisofswitzerland.shop # 2026-10-14
+0.0.0.0 solisway.shop # 2026-10-14
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35150,6 +35160,9 @@
 0.0.0.0 byluminas.com # 2026-10-13
 0.0.0.0 leichtkraut.de # 2026-10-13
 0.0.0.0 rosenbergbasel.com # 2026-10-13
+0.0.0.0 carmine-studio.com # 2026-10-14
+0.0.0.0 malennachzahlen-experte.de # 2026-10-14
+0.0.0.0 meistermarkus.de # 2026-10-14
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35410,6 +35423,8 @@
 0.0.0.0 warmeholze.de # 2026-10-08
 0.0.0.0 klima-bonusat.com # 2026-10-12
 0.0.0.0 service-register.wonneproppen.at # 2026-10-12
+0.0.0.0 finanz.on-aktualisierung.cc # 2026-10-14
+0.0.0.0 finanzonline-3.cc # 2026-10-14
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
