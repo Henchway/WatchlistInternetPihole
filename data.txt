@@ -1904,6 +1904,7 @@
 0.0.0.0 foundmallhub.com # 2026-10-12
 0.0.0.0 agifinanz.com # 2026-10-13
 0.0.0.0 alpenhoch.com # 2026-10-13
+0.0.0.0 the.capitalsurge.net # 2026-10-15
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -9727,7 +9728,6 @@
 0.0.0.0 gubeteches.com # 2023-05-25
 0.0.0.0 gutehauswelpen.com # 2023-05-25
 0.0.0.0 hagomann.com # 2023-05-25
-0.0.0.0 hampel.shop # 2023-05-25
 0.0.0.0 hansen-reifenversand.com # 2023-05-25
 0.0.0.0 harmanli-gmbh.store # 2023-05-25
 0.0.0.0 hati-onlineshop.de # 2023-05-25
@@ -9793,7 +9793,6 @@
 0.0.0.0 modoli.de # 2023-05-25
 0.0.0.0 moms-artikel.com # 2023-05-25
 0.0.0.0 monark-energy.com # 2023-05-25
-0.0.0.0 mondenix.com # 2023-05-25
 0.0.0.0 morenius.de # 2023-05-25
 0.0.0.0 mrdecooo.de # 2023-05-25
 0.0.0.0 murindo.de # 2023-05-25
@@ -27061,7 +27060,6 @@
 0.0.0.0 wbdhyer.shop # 2026-09-21
 0.0.0.0 willms-forsttechnik.de # 2026-09-21
 0.0.0.0 wxvhdvud.shop # 2026-09-21
-0.0.0.0 agroelementgmbh.de # 2026-09-22
 0.0.0.0 brennholzorgler.at # 2026-09-22
 0.0.0.0 daikigreenmart.com # 2026-09-22
 0.0.0.0 electrodinc.com # 2026-09-22
@@ -27265,7 +27263,6 @@
 0.0.0.0 cyrus-nyc.eu.cc # 2026-10-08
 0.0.0.0 denbypotteryuk.com # 2026-10-08
 0.0.0.0 fragonard.co.at # 2026-10-08
-0.0.0.0 freiluftdeck.de # 2026-10-08
 0.0.0.0 kastneroehlerde.com # 2026-10-08
 0.0.0.0 kinderschatz.com # 2026-10-08
 0.0.0.0 lkwpetru-shop.com # 2026-10-08
@@ -27369,6 +27366,23 @@
 0.0.0.0 solisliving.shop # 2026-10-14
 0.0.0.0 solisofswitzerland.shop # 2026-10-14
 0.0.0.0 solisway.shop # 2026-10-14
+0.0.0.0 adl.raodd.shop # 2026-10-15
+0.0.0.0 agroelementgmbh.de # 2026-10-15
+0.0.0.0 allesschneider.shop # 2026-10-15
+0.0.0.0 celsiorde.de # 2026-10-15
+0.0.0.0 fellstube.com # 2026-10-15
+0.0.0.0 freiluftdeck.de # 2026-10-15
+0.0.0.0 glowyft.co # 2026-10-15
+0.0.0.0 gsjnwrec.shop # 2026-10-15
+0.0.0.0 hampel.shop # 2026-10-15
+0.0.0.0 heneka-garten.de # 2026-10-15
+0.0.0.0 mondenix.com # 2026-10-15
+0.0.0.0 paddelbootqualitaet.com # 2026-10-15
+0.0.0.0 seashepherdstore.shop # 2026-10-15
+0.0.0.0 trunepaki.com # 2026-10-15
+0.0.0.0 vitrado.global # 2026-10-15
+0.0.0.0 zhggpqst.shop # 2026-10-15
+0.0.0.0 zisoliaabode.com # 2026-10-15
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35163,6 +35177,9 @@
 0.0.0.0 carmine-studio.com # 2026-10-14
 0.0.0.0 malennachzahlen-experte.de # 2026-10-14
 0.0.0.0 meistermarkus.de # 2026-10-14
+0.0.0.0 hautglenz-de.com # 2026-10-15
+0.0.0.0 medi-komfort.de # 2026-10-15
+0.0.0.0 specialitg.com # 2026-10-15
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35425,6 +35442,17 @@
 0.0.0.0 service-register.wonneproppen.at # 2026-10-12
 0.0.0.0 finanz.on-aktualisierung.cc # 2026-10-14
 0.0.0.0 finanzonline-3.cc # 2026-10-14
+0.0.0.0 ascherslebener-holzhandel.de # 2026-10-15
+0.0.0.0 bio-epelletgmbh.de # 2026-10-15
+0.0.0.0 brennholzangebot.com # 2026-10-15
+0.0.0.0 brennholzgigant.de # 2026-10-15
+0.0.0.0 brennholzwidmann.de # 2026-10-15
+0.0.0.0 brennstoffemokstat.shop # 2026-10-15
+0.0.0.0 monirahouse.com # 2026-10-15
+0.0.0.0 mtbrennholz.com # 2026-10-15
+0.0.0.0 revitaskincare.com # 2026-10-15
+0.0.0.0 steinbrennholz.de # 2026-10-15
+0.0.0.0 wloka-brennholz.de # 2026-10-15
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -36106,6 +36134,7 @@
 0.0.0.0 virenixtalentsearchs.com # 2026-10-09
 0.0.0.0 online-wissen.info # 2026-10-12
 0.0.0.0 vendis-solutions.net # 2026-10-12
+0.0.0.0 vendis-solutions.de # 2026-10-15
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -36916,4 +36945,5 @@
 0.0.0.0 zuchalets.com # 2026-09-21
 0.0.0.0 berghuetten-traum.de # 2026-09-30
 0.0.0.0 umrechnung.sszhiliji.com # 2026-10-08
+0.0.0.0 flyeurojet.com # 2026-10-15
 
