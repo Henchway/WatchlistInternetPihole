@@ -1905,6 +1905,9 @@
 0.0.0.0 agifinanz.com # 2026-10-13
 0.0.0.0 alpenhoch.com # 2026-10-13
 0.0.0.0 the.capitalsurge.net # 2026-10-15
+0.0.0.0 blankertragschaft.net # 2026-10-16
+0.0.0.0 finzy0-dolores99.sbs # 2026-10-16
+0.0.0.0 geldfex.com # 2026-10-16
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -12481,7 +12484,6 @@
 0.0.0.0 dopsnowwear.com # 2023-11-21
 0.0.0.0 fahrradskiwebsite.com # 2023-11-21
 0.0.0.0 freienrabatt.com # 2023-11-21
-0.0.0.0 gabor.com.se # 2023-11-21
 0.0.0.0 gaborosterreich.com # 2023-11-21
 0.0.0.0 guess-sverige.com.se # 2023-11-21
 0.0.0.0 hunter-osterreich.com # 2023-11-21
@@ -26224,7 +26226,6 @@
 0.0.0.0 avtmcugf.shop # 2026-07-31
 0.0.0.0 bike2bikes.com # 2026-07-31
 0.0.0.0 containerdhggmbh.de # 2026-07-31
-0.0.0.0 amouravienna.com # 2026-08-03
 0.0.0.0 aquaschuheshop.com # 2026-08-03
 0.0.0.0 baumaterialstore.com # 2026-08-03
 0.0.0.0 beckludwig.com # 2026-08-03
@@ -27383,6 +27384,22 @@
 0.0.0.0 vitrado.global # 2026-10-15
 0.0.0.0 zhggpqst.shop # 2026-10-15
 0.0.0.0 zisoliaabode.com # 2026-10-15
+0.0.0.0 adl.uhsdj.shop # 2026-10-16
+0.0.0.0 allesklars.de # 2026-10-16
+0.0.0.0 asfcrnuqpu.lol # 2026-10-16
+0.0.0.0 at.otemtau.shop # 2026-10-16
+0.0.0.0 bauelektroshop.com # 2026-10-16
+0.0.0.0 chef-et-food.com # 2026-10-16
+0.0.0.0 citypetexpress.com # 2026-10-16
+0.0.0.0 coachtaschen.co.at # 2026-10-16
+0.0.0.0 fahrzeugpflegeshop.com # 2026-10-16
+0.0.0.0 filmkorn.shop # 2026-10-16
+0.0.0.0 hwcdkmzh.shop # 2026-10-16
+0.0.0.0 philoro-de.to # 2026-10-16
+0.0.0.0 rasenritzel.com # 2026-10-16
+0.0.0.0 raumbauteile.com # 2026-10-16
+0.0.0.0 saia-maschinen.com # 2026-10-16
+0.0.0.0 werkzeugarena.com # 2026-10-16
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35180,6 +35197,10 @@
 0.0.0.0 hautglenz-de.com # 2026-10-15
 0.0.0.0 medi-komfort.de # 2026-10-15
 0.0.0.0 specialitg.com # 2026-10-15
+0.0.0.0 de.soera-store.com # 2026-10-16
+0.0.0.0 soera-store.com # 2026-10-16
+0.0.0.0 tizonaa.com # 2026-10-16
+0.0.0.0 wittmode.com # 2026-10-16
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35453,6 +35474,7 @@
 0.0.0.0 revitaskincare.com # 2026-10-15
 0.0.0.0 steinbrennholz.de # 2026-10-15
 0.0.0.0 wloka-brennholz.de # 2026-10-15
+0.0.0.0 finanzonline-bmfgv.cc # 2026-10-16
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -36477,6 +36499,7 @@
 0.0.0.0 re-hartmann.de # 2026-10-06
 0.0.0.0 niemann-kollegen.com # 2026-10-07
 0.0.0.0 vetter-law.de # 2026-10-12
+0.0.0.0 inso-gmbh.com # 2026-10-16
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -36946,4 +36969,5 @@
 0.0.0.0 berghuetten-traum.de # 2026-09-30
 0.0.0.0 umrechnung.sszhiliji.com # 2026-10-08
 0.0.0.0 flyeurojet.com # 2026-10-15
+0.0.0.0 mateenenterprise.com # 2026-10-16
 
