@@ -1911,6 +1911,7 @@
 0.0.0.0 bulltrade24.com # 2026-10-19
 0.0.0.0 m3mars.io # 2026-10-19
 0.0.0.0 strikemira.digital # 2026-10-19
+0.0.0.0 area.allistonwstbry.org # 2026-10-20
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27448,6 +27449,20 @@
 0.0.0.0 warenweltpro.com # 2026-10-19
 0.0.0.0 wetterjack.com # 2026-10-19
 0.0.0.0 wohnwagenzubehor.com # 2026-10-19
+0.0.0.0 aken-mode-de.com # 2026-10-20
+0.0.0.0 deko-traum.shop # 2026-10-20
+0.0.0.0 dolomite-shop.myshopify.com # 2026-10-20
+0.0.0.0 fahrrad-handel.com # 2026-10-20
+0.0.0.0 kuk-kaffee.de # 2026-10-20
+0.0.0.0 loberon-official.com # 2026-10-20
+0.0.0.0 machinery-technologyeuropeltd.de # 2026-10-20
+0.0.0.0 messenwahlwerkstatt.com # 2026-10-20
+0.0.0.0 sauberrein.com # 2026-10-20
+0.0.0.0 scontainer-logististikgmbh.de # 2026-10-20
+0.0.0.0 tierbedarf-express.com # 2026-10-20
+0.0.0.0 tiffanybeleuchtung.at # 2026-10-20
+0.0.0.0 vorkeli.shop # 2026-10-20
+0.0.0.0 zweiradzentrum.com # 2026-10-20
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35258,6 +35273,7 @@
 0.0.0.0 maatil.com # 2026-10-19
 0.0.0.0 persoliebe.com # 2026-10-19
 0.0.0.0 wictive.de # 2026-10-19
+0.0.0.0 heathoody.de # 2026-10-20
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36215,6 +36231,17 @@
 0.0.0.0 vendis-solutions.de # 2026-10-15
 0.0.0.0 klm-personal.net # 2026-10-19
 0.0.0.0 marta-gmbh.com # 2026-10-19
+0.0.0.0 heimarbeit.top # 2026-10-20
+0.0.0.0 kbg-beratung.de # 2026-10-20
+0.0.0.0 pd-personal.net # 2026-10-20
+0.0.0.0 projektkonnekt.com # 2026-10-20
+0.0.0.0 rk-beratungsgesellschaft.de # 2026-10-20
+0.0.0.0 sps-personal.net # 2026-10-20
+0.0.0.0 str-beratung.de # 2026-10-20
+0.0.0.0 top-personal.net # 2026-10-20
+0.0.0.0 upie.buzz # 2026-10-20
+0.0.0.0 wewin-consulting.de # 2026-10-20
+0.0.0.0 work-co.net # 2026-10-20
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
