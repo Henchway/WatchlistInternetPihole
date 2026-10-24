@@ -1912,6 +1912,8 @@
 0.0.0.0 m3mars.io # 2026-10-19
 0.0.0.0 strikemira.digital # 2026-10-19
 0.0.0.0 area.allistonwstbry.org # 2026-10-20
+0.0.0.0 cube-network.net # 2026-10-22
+0.0.0.0 gatefundbank.com # 2026-10-22
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -15492,7 +15494,6 @@
 0.0.0.0 marmeladecat.shop # 2024-08-21
 0.0.0.0 masuperpeluche.shop # 2024-08-21
 0.0.0.0 mattenweltde.shop # 2024-08-21
-0.0.0.0 mbkauf.shop # 2024-08-21
 0.0.0.0 meinefototassen.shop # 2024-08-21
 0.0.0.0 meinefototassende.shop # 2024-08-21
 0.0.0.0 meistergroup.shop # 2024-08-21
@@ -27470,6 +27471,28 @@
 0.0.0.0 wohnwagenzubehor.com # 2026-10-21
 0.0.0.0 zvelonium.de # 2026-10-21
 0.0.0.0 zweiradzentrum.com # 2026-10-21
+0.0.0.0 dalmorique.com # 2026-10-22
+0.0.0.0 hauspellets.de # 2026-10-22
+0.0.0.0 helmerbrennholzgbr.de # 2026-10-22
+0.0.0.0 joya--schuhe.com # 2026-10-22
+0.0.0.0 koerbchen-wieno.shop # 2026-10-22
+0.0.0.0 lernbeutel.com # 2026-10-22
+0.0.0.0 motelamiiosales.shop # 2026-10-22
+0.0.0.0 musikfunke.com # 2026-10-22
+0.0.0.0 myvitaminversand.shop # 2026-10-22
+0.0.0.0 orologicasa.shop # 2026-10-22
+0.0.0.0 outdoorvoriax.com # 2026-10-22
+0.0.0.0 schmeckenkaufen.de # 2026-10-22
+0.0.0.0 sdjqepyr.shop # 2026-10-22
+0.0.0.0 solarviiat.com # 2026-10-22
+0.0.0.0 ugg-online.com # 2026-10-22
+0.0.0.0 uhqxisqi.shop # 2026-10-22
+0.0.0.0 vataminversand24.com # 2026-10-22
+0.0.0.0 vitaminversandonline.shop # 2026-10-22
+0.0.0.0 vitlane.shop # 2026-10-22
+0.0.0.0 vitsend.com # 2026-10-22
+0.0.0.0 wellmedshop.com # 2026-10-22
+0.0.0.0 xdoutsto.shop # 2026-10-22
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35281,6 +35304,12 @@
 0.0.0.0 brigitte-wien.at # 2026-10-21
 0.0.0.0 egvja.shop # 2026-10-21
 0.0.0.0 needohs.at # 2026-10-21
+0.0.0.0 deutsche-technologie.com # 2026-10-22
+0.0.0.0 gnoce.de # 2026-10-22
+0.0.0.0 homebasestore.shop # 2026-10-22
+0.0.0.0 katzenliebling.com # 2026-10-22
+0.0.0.0 maeandrose.de # 2026-10-22
+0.0.0.0 modautlet.com # 2026-10-22
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36249,6 +36278,7 @@
 0.0.0.0 str-beratung.de # 2026-10-21
 0.0.0.0 top-personal.net # 2026-10-21
 0.0.0.0 work-co.net # 2026-10-21
+0.0.0.0 zuosex.com # 2026-10-22
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -36943,6 +36973,7 @@
 0.0.0.0 austrian-alps-chalets.com # 2026-02-04
 0.0.0.0 nestwohn.com # 2026-06-26
 0.0.0.0 fzwh.at # 2026-10-12
+0.0.0.0 lumieretravels.com # 2026-10-22
 
 # Urlaubsbuchung
 0.0.0.0 reiseweltat6.wixsite.com # 2021-03-05
