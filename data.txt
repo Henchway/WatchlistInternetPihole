@@ -1914,6 +1914,9 @@
 0.0.0.0 area.allistonwstbry.org # 2026-10-20
 0.0.0.0 cube-network.net # 2026-10-22
 0.0.0.0 gatefundbank.com # 2026-10-22
+0.0.0.0 alpen-vest.com # 2026-10-23
+0.0.0.0 live.alpen-vest.com # 2026-10-23
+0.0.0.0 platform.ap-capital-lim.com # 2026-10-23
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27064,7 +27067,6 @@
 0.0.0.0 trendartikelwelt.de # 2026-09-21
 0.0.0.0 vxjskiy.shop # 2026-09-21
 0.0.0.0 wbdhyer.shop # 2026-09-21
-0.0.0.0 willms-forsttechnik.de # 2026-09-21
 0.0.0.0 wxvhdvud.shop # 2026-09-21
 0.0.0.0 brennholzorgler.at # 2026-09-22
 0.0.0.0 daikigreenmart.com # 2026-09-22
@@ -27493,6 +27495,40 @@
 0.0.0.0 vitsend.com # 2026-10-22
 0.0.0.0 wellmedshop.com # 2026-10-22
 0.0.0.0 xdoutsto.shop # 2026-10-22
+0.0.0.0 aanhangwagen-dispack.com # 2026-10-23
+0.0.0.0 aklassport.de # 2026-10-23
+0.0.0.0 anhangerkreuter.com # 2026-10-23
+0.0.0.0 baustoffekaufen.com # 2026-10-23
+0.0.0.0 berka-ausstattung.com # 2026-10-23
+0.0.0.0 boldsports.de # 2026-10-23
+0.0.0.0 centraltradingshop.com # 2026-10-23
+0.0.0.0 doallerer.com # 2026-10-23
+0.0.0.0 duellerer.com # 2026-10-23
+0.0.0.0 euro-container.com # 2026-10-23
+0.0.0.0 feinkostkontor.de # 2026-10-23
+0.0.0.0 hausboot4you.de # 2026-10-23
+0.0.0.0 hollzhausenug.de # 2026-10-23
+0.0.0.0 ietcpktb.shop # 2026-10-23
+0.0.0.0 ipicosports.de # 2026-10-23
+0.0.0.0 kaffeeexperte.com # 2026-10-23
+0.0.0.0 kaminofenhandel.com # 2026-10-23
+0.0.0.0 kshmzyey.shop # 2026-10-23
+0.0.0.0 mall.galeridora.com # 2026-10-23
+0.0.0.0 maxx-prijevoz.com # 2026-10-23
+0.0.0.0 medicubes.at # 2026-10-23
+0.0.0.0 medymarkt.live # 2026-10-23
+0.0.0.0 merovelia.com # 2026-10-23
+0.0.0.0 moebellagerhaus.com # 2026-10-23
+0.0.0.0 musikbuch-noten.com # 2026-10-23
+0.0.0.0 mycosmeticshop.de # 2026-10-23
+0.0.0.0 naturaflame.com # 2026-10-23
+0.0.0.0 oplfer.com # 2026-10-23
+0.0.0.0 rigebnqe.shop # 2026-10-23
+0.0.0.0 schwimmbadwelt.com # 2026-10-23
+0.0.0.0 shop.gertab.de # 2026-10-23
+0.0.0.0 sidetableheim.com # 2026-10-23
+0.0.0.0 stylezerano.com # 2026-10-23
+0.0.0.0 ugurlutreyler.com # 2026-10-23
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35310,6 +35346,13 @@
 0.0.0.0 katzenliebling.com # 2026-10-22
 0.0.0.0 maeandrose.de # 2026-10-22
 0.0.0.0 modautlet.com # 2026-10-22
+0.0.0.0 drivenol.com # 2026-10-23
+0.0.0.0 fokjvg.shop # 2026-10-23
+0.0.0.0 heineoutlet.com # 2026-10-23
+0.0.0.0 lovellaa.com # 2026-10-23
+0.0.0.0 luner-boutique.com # 2026-10-23
+0.0.0.0 odins-hall.de # 2026-10-23
+0.0.0.0 vivelan.de # 2026-10-23
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36622,6 +36665,8 @@
 0.0.0.0 vetter-law.de # 2026-10-12
 0.0.0.0 inso-gmbh.com # 2026-10-16
 0.0.0.0 insolvenzverwalter-frenzel.de # 2026-10-19
+0.0.0.0 altkoenig-recht.de # 2026-10-23
+0.0.0.0 diehl-lagerbestand.net # 2026-10-23
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
@@ -37095,4 +37140,5 @@
 0.0.0.0 mateenenterprise.com # 2026-10-16
 0.0.0.0 fewo-berghuetten.de # 2026-10-19
 0.0.0.0 prearrlvalsupguststay.com # 2026-10-21
+0.0.0.0 ferienhaus-check.com # 2026-10-23
 
