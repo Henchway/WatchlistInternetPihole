@@ -1917,6 +1917,7 @@
 0.0.0.0 alpen-vest.com # 2026-10-23
 0.0.0.0 live.alpen-vest.com # 2026-10-23
 0.0.0.0 platform.ap-capital-lim.com # 2026-10-23
+0.0.0.0 musgex.com # 2026-10-27
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27529,6 +27530,56 @@
 0.0.0.0 sidetableheim.com # 2026-10-23
 0.0.0.0 stylezerano.com # 2026-10-23
 0.0.0.0 ugurlutreyler.com # 2026-10-23
+0.0.0.0 adl.jjkrn.shop # 2026-10-27
+0.0.0.0 asforstwirtschaft.at # 2026-10-27
+0.0.0.0 at.vbrcw.shop # 2026-10-27
+0.0.0.0 bestboxcontainer.de # 2026-10-27
+0.0.0.0 bjsrecnd.shop # 2026-10-27
+0.0.0.0 bmrbhf.shop # 2026-10-27
+0.0.0.0 ccmccontainermanagementgmbh.de # 2026-10-27
+0.0.0.0 ctmfahrradwerkstatt.at # 2026-10-27
+0.0.0.0 danksportstore.shop # 2026-10-27
+0.0.0.0 decadays.store # 2026-10-27
+0.0.0.0 discounntde.com # 2026-10-27
+0.0.0.0 ecoworthytech.shop # 2026-10-27
+0.0.0.0 egbertplakolm.at # 2026-10-27
+0.0.0.0 eradobox.com # 2026-10-27
+0.0.0.0 faszienfit.com # 2026-10-27
+0.0.0.0 findssmogallery.shop # 2026-10-27
+0.0.0.0 gartenluxus.com # 2026-10-27
+0.0.0.0 gasflaschensale.com # 2026-10-27
+0.0.0.0 giessweinhouse.shop # 2026-10-27
+0.0.0.0 globalsmokehub.com # 2026-10-27
+0.0.0.0 grondberg.de # 2026-10-27
+0.0.0.0 halmheld.com # 2026-10-27
+0.0.0.0 hanseatischercontainerservicegmbh.de # 2026-10-27
+0.0.0.0 holzhandel-bauer.com # 2026-10-27
+0.0.0.0 joykaff-espresso.de # 2026-10-27
+0.0.0.0 kaffeesieb.com # 2026-10-27
+0.0.0.0 kettenschein.com # 2026-10-27
+0.0.0.0 kuksawiar.com # 2026-10-27
+0.0.0.0 kuskwer.shop # 2026-10-27
+0.0.0.0 mainecoonkatzenzucht.de # 2026-10-27
+0.0.0.0 meintechmarkt.com # 2026-10-27
+0.0.0.0 modu-luxe-gmbh.de # 2026-10-27
+0.0.0.0 moebelpfad.com # 2026-10-27
+0.0.0.0 pflanzenwelt24.com # 2026-10-27
+0.0.0.0 pfotendepot.com # 2026-10-27
+0.0.0.0 poleneat.cc # 2026-10-27
+0.0.0.0 rimenheaven.com # 2026-10-27
+0.0.0.0 rohrerfahrrad.at # 2026-10-27
+0.0.0.0 salin-home.com # 2026-10-27
+0.0.0.0 seikouhr.co.at # 2026-10-27
+0.0.0.0 soprogi.com # 2026-10-27
+0.0.0.0 stabilosanitar.com # 2026-10-27
+0.0.0.0 stangelinz.com # 2026-10-27
+0.0.0.0 starcontainergmbh.de # 2026-10-27
+0.0.0.0 store.selvariveta.com # 2026-10-27
+0.0.0.0 tchibooutlet.com # 2026-10-27
+0.0.0.0 trailrunne.com # 2026-10-27
+0.0.0.0 unserstil.com # 2026-10-27
+0.0.0.0 vintageaffordablejbl.shop # 2026-10-27
+0.0.0.0 wasserfestwandplatte.com # 2026-10-27
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35353,6 +35404,15 @@
 0.0.0.0 luner-boutique.com # 2026-10-23
 0.0.0.0 odins-hall.de # 2026-10-23
 0.0.0.0 vivelan.de # 2026-10-23
+0.0.0.0 hardmeierversand.ch # 2026-10-27
+0.0.0.0 juwelier-keller.com # 2026-10-27
+0.0.0.0 meistermix.de # 2026-10-27
+0.0.0.0 modehaus-behrens.de # 2026-10-27
+0.0.0.0 sneakerly.de # 2026-10-27
+0.0.0.0 takorikitchen.de # 2026-10-27
+0.0.0.0 trekkinghaus.com # 2026-10-27
+0.0.0.0 tyyclu.com # 2026-10-27
+0.0.0.0 vusilia.de # 2026-10-27
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35626,6 +35686,7 @@
 0.0.0.0 steinbrennholz.de # 2026-10-15
 0.0.0.0 wloka-brennholz.de # 2026-10-15
 0.0.0.0 finanzonline-bmfgv.cc # 2026-10-16
+0.0.0.0 docs.docvaults.site # 2026-10-27
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -35922,6 +35983,7 @@
 0.0.0.0 de.wwiqtest.com # 2026-10-08
 0.0.0.0 inspoy.com # 2026-10-08
 0.0.0.0 quitivo.com # 2026-10-09
+0.0.0.0 carsdetective.com # 2026-10-27
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -36322,6 +36384,7 @@
 0.0.0.0 top-personal.net # 2026-10-21
 0.0.0.0 work-co.net # 2026-10-21
 0.0.0.0 zuosex.com # 2026-10-22
+0.0.0.0 envisu-gmbh.com # 2026-10-27
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -36667,6 +36730,8 @@
 0.0.0.0 insolvenzverwalter-frenzel.de # 2026-10-19
 0.0.0.0 altkoenig-recht.de # 2026-10-23
 0.0.0.0 diehl-lagerbestand.net # 2026-10-23
+0.0.0.0 harrass-kollegen.de # 2026-10-27
+0.0.0.0 rechtsanwaltkramer.de # 2026-10-27
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
