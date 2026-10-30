@@ -1918,6 +1918,7 @@
 0.0.0.0 live.alpen-vest.com # 2026-10-23
 0.0.0.0 platform.ap-capital-lim.com # 2026-10-23
 0.0.0.0 musgex.com # 2026-10-27
+0.0.0.0 novavestra.com # 2026-10-28
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27580,6 +27581,33 @@
 0.0.0.0 unserstil.com # 2026-10-27
 0.0.0.0 vintageaffordablejbl.shop # 2026-10-27
 0.0.0.0 wasserfestwandplatte.com # 2026-10-27
+0.0.0.0 a2c-domotique.com # 2026-10-28
+0.0.0.0 alpen-schlaf.com # 2026-10-28
+0.0.0.0 bmaholzhandel.at # 2026-10-28
+0.0.0.0 confirmation-advanced-reserv426178.com # 2026-10-28
+0.0.0.0 elektronikdesigner.de # 2026-10-28
+0.0.0.0 ethanolofen.com # 2026-10-28
+0.0.0.0 falkenstahl.de # 2026-10-28
+0.0.0.0 genussfrei.com # 2026-10-28
+0.0.0.0 germanlightartistry.com # 2026-10-28
+0.0.0.0 goldkauf-web.de # 2026-10-28
+0.0.0.0 holzkerngear.com # 2026-10-28
+0.0.0.0 intersport-sport.myshoplaza.com # 2026-10-28
+0.0.0.0 kaffeebrauer.com # 2026-10-28
+0.0.0.0 lignatok.shop # 2026-10-28
+0.0.0.0 market.galeririva.com # 2026-10-28
+0.0.0.0 motronixparts.com # 2026-10-28
+0.0.0.0 papeteriewerkstatt.com # 2026-10-28
+0.0.0.0 pawmony.shop # 2026-10-28
+0.0.0.0 qualitaetart.com # 2026-10-28
+0.0.0.0 reitsport-online.com # 2026-10-28
+0.0.0.0 ridersdeals.com # 2026-10-28
+0.0.0.0 sandaphie.com # 2026-10-28
+0.0.0.0 stadtharmonie.com # 2026-10-28
+0.0.0.0 swabytec24.com # 2026-10-28
+0.0.0.0 taubenbedarfoutlet.com # 2026-10-28
+0.0.0.0 vorratshaus.com # 2026-10-28
+0.0.0.0 zyybqsof.shop # 2026-10-28
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35413,6 +35441,9 @@
 0.0.0.0 trekkinghaus.com # 2026-10-27
 0.0.0.0 tyyclu.com # 2026-10-27
 0.0.0.0 vusilia.de # 2026-10-27
+0.0.0.0 kalohia.de # 2026-10-28
+0.0.0.0 komfera.com # 2026-10-28
+0.0.0.0 polarsupply.de # 2026-10-28
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
