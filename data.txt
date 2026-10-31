@@ -1919,6 +1919,9 @@
 0.0.0.0 platform.ap-capital-lim.com # 2026-10-23
 0.0.0.0 musgex.com # 2026-10-27
 0.0.0.0 novavestra.com # 2026-10-28
+0.0.0.0 freibuchwertnis.net # 2026-10-29
+0.0.0.0 hashnet.ai # 2026-10-29
+0.0.0.0 z-kreditmakler.at # 2026-10-29
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -11009,7 +11012,6 @@
 0.0.0.0 apunktnovum.de # 2023-08-07
 0.0.0.0 bootsschuheshop.com # 2023-08-07
 0.0.0.0 drmarter.com # 2023-08-07
-0.0.0.0 gruenstark.de # 2023-08-07
 0.0.0.0 rcspielzeug.de # 2023-08-07
 0.0.0.0 schlagschrauberfive.com # 2023-08-07
 0.0.0.0 shiloo.net # 2023-08-07
@@ -27608,6 +27610,46 @@
 0.0.0.0 taubenbedarfoutlet.com # 2026-10-28
 0.0.0.0 vorratshaus.com # 2026-10-28
 0.0.0.0 zyybqsof.shop # 2026-10-28
+0.0.0.0 alpkauf.de # 2026-10-29
+0.0.0.0 at.imypy.shop # 2026-10-29
+0.0.0.0 audiokissen.de # 2026-10-29
+0.0.0.0 dailygoodies.shop # 2026-10-29
+0.0.0.0 discount-cigarettes-store.net # 2026-10-29
+0.0.0.0 elveant.com # 2026-10-29
+0.0.0.0 feuerholz24.shop # 2026-10-29
+0.0.0.0 gligantco.shop # 2026-10-29
+0.0.0.0 gruenstark.de # 2026-10-29
+0.0.0.0 gyvozkfv.shop # 2026-10-29
+0.0.0.0 heizungazug.de # 2026-10-29
+0.0.0.0 heizungug.de # 2026-10-29
+0.0.0.0 hochzeitsdekorationen.shop # 2026-10-29
+0.0.0.0 jekadeshop.com # 2026-10-29
+0.0.0.0 kfzdaten24.de # 2026-10-29
+0.0.0.0 kinderanhaengerfahrrad.com # 2026-10-29
+0.0.0.0 mall.elvaritaro.com # 2026-10-29
+0.0.0.0 messtool.com # 2026-10-29
+0.0.0.0 microduck.shop # 2026-10-29
+0.0.0.0 miimio.com # 2026-10-29
+0.0.0.0 mikiscardshopo.shop # 2026-10-29
+0.0.0.0 missmodaberlin.de # 2026-10-29
+0.0.0.0 mk-kueche.de # 2026-10-29
+0.0.0.0 msihandelgmbh.de # 2026-10-29
+0.0.0.0 official-depot.com # 2026-10-29
+0.0.0.0 pureshoerack.com # 2026-10-29
+0.0.0.0 quicklifeshop.shop # 2026-10-29
+0.0.0.0 rimowa-store.de # 2026-10-29
+0.0.0.0 schmodts.shop # 2026-10-29
+0.0.0.0 sechee.com # 2026-10-29
+0.0.0.0 simpleselectshop.shop # 2026-10-29
+0.0.0.0 skiingdiscount-onlineshop.com # 2026-10-29
+0.0.0.0 thehochzeitsdekorationen.shop # 2026-10-29
+0.0.0.0 tirolosh.shop # 2026-10-29
+0.0.0.0 trailsupplypro.com # 2026-10-29
+0.0.0.0 uqsjmnnr.shop # 2026-10-29
+0.0.0.0 warenhauswelt.com # 2026-10-29
+0.0.0.0 werkaro.com # 2026-10-29
+0.0.0.0 werksraeder-24.de # 2026-10-29
+0.0.0.0 wuerfelbedarf.com # 2026-10-29
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35444,6 +35486,8 @@
 0.0.0.0 kalohia.de # 2026-10-28
 0.0.0.0 komfera.com # 2026-10-28
 0.0.0.0 polarsupply.de # 2026-10-28
+0.0.0.0 schal-welt.de # 2026-10-29
+0.0.0.0 tesup.com # 2026-10-29
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -35718,6 +35762,8 @@
 0.0.0.0 wloka-brennholz.de # 2026-10-15
 0.0.0.0 finanzonline-bmfgv.cc # 2026-10-16
 0.0.0.0 docs.docvaults.site # 2026-10-27
+0.0.0.0 calivoraestock.com # 2026-10-29
+0.0.0.0 megashopmarkt.com # 2026-10-29
 
 # Abo-Fallen
 0.0.0.0 gamecityz.com # 2022-01-02
@@ -36416,6 +36462,9 @@
 0.0.0.0 work-co.net # 2026-10-21
 0.0.0.0 zuosex.com # 2026-10-22
 0.0.0.0 envisu-gmbh.com # 2026-10-27
+0.0.0.0 tebla.de # 2026-10-29
+0.0.0.0 weooco.com # 2026-10-29
+0.0.0.0 weoocw.com # 2026-10-29
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -36594,6 +36643,7 @@
 0.0.0.0 rolladen-rudolf.at # 2026-09-11
 0.0.0.0 herbertsrundumhausservice.at # 2026-09-21
 0.0.0.0 installateur-meister-plus-notdienst-24h-linz-plus.jimdosite.com # 2026-09-21
+0.0.0.0 elektriker-daig.at # 2026-10-29
 
 # Anwaltskanzleien
 0.0.0.0 folger-kollegen.com # 2025-11-04
@@ -37237,4 +37287,5 @@
 0.0.0.0 fewo-berghuetten.de # 2026-10-19
 0.0.0.0 prearrlvalsupguststay.com # 2026-10-21
 0.0.0.0 ferienhaus-check.com # 2026-10-23
+0.0.0.0 ferienhaus-chalets.com # 2026-10-29
 
