@@ -27650,6 +27650,31 @@
 0.0.0.0 werkaro.com # 2026-10-29
 0.0.0.0 werksraeder-24.de # 2026-10-29
 0.0.0.0 wuerfelbedarf.com # 2026-10-29
+0.0.0.0 anhangerholz.de # 2026-10-30
+0.0.0.0 anhangerkloock-de.com # 2026-10-30
+0.0.0.0 autokaelte.com # 2026-10-30
+0.0.0.0 campingoutdoorstore.com # 2026-10-30
+0.0.0.0 drmartens-official.myshoplaza.com # 2026-10-30
+0.0.0.0 e-bikezubehorrabatt.com # 2026-10-30
+0.0.0.0 ecneywmr.shop # 2026-10-30
+0.0.0.0 emelies-worlo.shop # 2026-10-30
+0.0.0.0 emyeliesworldgoods.shop # 2026-10-30
+0.0.0.0 eshop.promomesh.com # 2026-10-30
+0.0.0.0 everts-handel.shop # 2026-10-30
+0.0.0.0 feuerholzadler.de # 2026-10-30
+0.0.0.0 goodron.shop # 2026-10-30
+0.0.0.0 holz-warme.de # 2026-10-30
+0.0.0.0 houtnl.com # 2026-10-30
+0.0.0.0 krovian.shop # 2026-10-30
+0.0.0.0 lampista.store # 2026-10-30
+0.0.0.0 leevitox.shop # 2026-10-30
+0.0.0.0 meindlboots.myshoplaza.com # 2026-10-30
+0.0.0.0 oelmuehlo-sailer.shop # 2026-10-30
+0.0.0.0 ogppxssz.shop # 2026-10-30
+0.0.0.0 petfutter.com # 2026-10-30
+0.0.0.0 rimuco.com # 2026-10-30
+0.0.0.0 solarloesungen-shop-de.com # 2026-10-30
+0.0.0.0 teesayit.com # 2026-10-30
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -35488,6 +35513,9 @@
 0.0.0.0 polarsupply.de # 2026-10-28
 0.0.0.0 schal-welt.de # 2026-10-29
 0.0.0.0 tesup.com # 2026-10-29
+0.0.0.0 chanteluxe.com # 2026-10-30
+0.0.0.0 fioriella.com # 2026-10-30
+0.0.0.0 lohmann-mode.de # 2026-10-30
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36465,6 +36493,7 @@
 0.0.0.0 tebla.de # 2026-10-29
 0.0.0.0 weooco.com # 2026-10-29
 0.0.0.0 weoocw.com # 2026-10-29
+0.0.0.0 tilmes-consulting.de # 2026-10-30
 
 # Handwerker
 0.0.0.0 installateurzentrale.at # 2021-02-10
@@ -36813,6 +36842,7 @@
 0.0.0.0 diehl-lagerbestand.net # 2026-10-23
 0.0.0.0 harrass-kollegen.de # 2026-10-27
 0.0.0.0 rechtsanwaltkramer.de # 2026-10-27
+0.0.0.0 kirchner-kollegen.com # 2026-10-30
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
