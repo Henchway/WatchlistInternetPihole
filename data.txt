@@ -1923,6 +1923,9 @@
 0.0.0.0 hashnet.ai # 2026-10-29
 0.0.0.0 z-kreditmakler.at # 2026-10-29
 0.0.0.0 kriqs.de # 2026-11-02
+0.0.0.0 at.orchard-spark.com # 2026-11-03
+0.0.0.0 force-stake.com # 2026-11-03
+0.0.0.0 swissfxcapital.com # 2026-11-03
 
 # Betrügerische Shops
 0.0.0.0 valepina.de # 2021-01-12
@@ -27589,7 +27592,6 @@
 0.0.0.0 confirmation-advanced-reserv426178.com # 2026-10-28
 0.0.0.0 elektronikdesigner.de # 2026-10-28
 0.0.0.0 ethanolofen.com # 2026-10-28
-0.0.0.0 falkenstahl.de # 2026-10-28
 0.0.0.0 genussfrei.com # 2026-10-28
 0.0.0.0 germanlightartistry.com # 2026-10-28
 0.0.0.0 goldkauf-web.de # 2026-10-28
@@ -27718,6 +27720,21 @@
 0.0.0.0 vorratswerk.shop # 2026-11-02
 0.0.0.0 waagepur.com # 2026-11-02
 0.0.0.0 wisdom-heimbedarf.com # 2026-11-02
+0.0.0.0 bullmoosecontainer.com # 2026-11-03
+0.0.0.0 disanade.com # 2026-11-03
+0.0.0.0 fellowproductshome.com # 2026-11-03
+0.0.0.0 gartenhandel-poltermann.de # 2026-11-03
+0.0.0.0 gentlestock.co.uk # 2026-11-03
+0.0.0.0 glcksstore.shop # 2026-11-03
+0.0.0.0 hotwelt.com # 2026-11-03
+0.0.0.0 knobarro.myshopify.com # 2026-11-03
+0.0.0.0 rasurkult.shop # 2026-11-03
+0.0.0.0 selvarino.com # 2026-11-03
+0.0.0.0 theschmidtsliving.shop # 2026-11-03
+0.0.0.0 warm-und-holz.com # 2026-11-03
+0.0.0.0 weinviertelwein.com # 2026-11-03
+0.0.0.0 whndiisb.shop # 2026-11-03
+0.0.0.0 woodbrezany.com # 2026-11-03
 
 # Problematische Shops
 0.0.0.0 floryday.com # 2019-09-10
@@ -31171,7 +31188,6 @@
 0.0.0.0 articblast.at # 2023-07-24
 0.0.0.0 aurocie.com # 2023-07-24
 0.0.0.0 cateser.com # 2023-07-24
-0.0.0.0 dailyjoy.shop # 2023-07-24
 0.0.0.0 fesoernt.shop # 2023-07-24
 0.0.0.0 givenprada.com # 2023-07-24
 0.0.0.0 schoenerwohnentipps.com # 2023-07-24
@@ -35566,6 +35582,13 @@
 0.0.0.0 saviorheat.de # 2026-11-02
 0.0.0.0 wagner-familie-graz.at # 2026-11-02
 0.0.0.0 xodyrz.com # 2026-11-02
+0.0.0.0 dk-jordstrom.com # 2026-11-03
+0.0.0.0 gulybausteine.de # 2026-11-03
+0.0.0.0 kleiderglanz.com # 2026-11-03
+0.0.0.0 ocularixin24.net # 2026-11-03
+0.0.0.0 pfotegws.com # 2026-11-03
+0.0.0.0 spendora.de # 2026-11-03
+0.0.0.0 visiovance.de # 2026-11-03
 
 # Automatisierte Warnungen
 0.0.0.0 advancedsolutionsdisplay.com # 2025-10-30
@@ -36140,6 +36163,7 @@
 0.0.0.0 inspoy.com # 2026-10-08
 0.0.0.0 quitivo.com # 2026-10-09
 0.0.0.0 carsdetective.com # 2026-10-27
+0.0.0.0 papersender.com # 2026-11-03
 
 # Betrügerische Jobangebote
 0.0.0.0 sugex.at # 2021-01-04
@@ -36898,6 +36922,7 @@
 0.0.0.0 kirchner-kollegen.com # 2026-11-01
 0.0.0.0 horbach-legal.de # 2026-11-02
 0.0.0.0 it-recht-ffm.de # 2026-11-02
+0.0.0.0 vermoegenstreuhand-stuttgart.de # 2026-11-03
 
 # Speditionen
 0.0.0.0 daniadirectlogs.com # 2021-01-11
